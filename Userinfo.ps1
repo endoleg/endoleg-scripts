@@ -36,7 +36,7 @@ $ClientversionSession=$Clientversion.ClientVersion
 write-verbose -message "---------- Workspace App ClientVersion: $ClientversionSession ----------" -verbose
 $PublishedName=(Get-ItemProperty "Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\Ica\Session\$CitrixSessionID\Connection" -name PublishedName)
 $PublishedNameSession=$PublishedName.PublishedName
-write-verbose -message "---------- Gestarteter Desktop/App: $PublishedNameSession ----------" -verbose
+write-verbose -message "---------- Started Desktop/App: $PublishedNameSession ----------" -verbose
 $HRES=(Get-ItemProperty "Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\Ica\Session\$CitrixSessionID\Connection" -name HRES)
 $HRES=$HRES.HRES
 write-verbose -message "---------- HRES: $HRES ----------" -verbose
@@ -61,7 +61,7 @@ write-verbose -message @"
 "@ -verbose
 write-verbose -message "----------------------------------------------------------------" -verbose
 $ProfileSize = "{0:N2} GB" -f ((Get-ChildItem $ENV:USERPROFILE -Force -Recurse -EA SilentlyContinue | measure Length -s).Sum /1GB)
-write-verbose -message "---------- Profile local $ENV:USERPROFILE - Size - (fuer FSLogix spaeter mal interessant): $ProfileSize ----------" -verbose
+write-verbose -message "---------- Profile local $ENV:USERPROFILE - Size: $ProfileSize ----------" -verbose
 $Zaehler1= Get-ChildItem $ENV:USERPROFILE -Force -Recurse -EA SilentlyContinue; $Zaehler2=$Zaehler1.count 
 write-verbose -message "---------- Profil local $ENV:USERPROFILE - Anzahl Dateien: $Zaehler2 ----------" -verbose
 
@@ -132,17 +132,16 @@ $DOMAIN = "XYZ"
 $USERNAME = $env:UserName
 $objUser = New-Object System.Security.Principal.NTAccount($DOMAIN, $USERNAME)
 $strSID = $objUser.Translate([System.Security.Principal.SecurityIdentifier])
-write-verbose -message "---------- Benutzername $DOMAIN\$env:UserName has SID ----------" -verbose
+write-verbose -message "---------- Username $DOMAIN\$env:UserName has SID ----------" -verbose
 $strSID.Value
 Write-verbose -message "" -verbose
 write-verbose -message "----------  Write UserSID $strSID to HKCU ------------" -verbose
 REG ADD "HKCU" /v "UserSID"  /d "$strSID" /t REG_SZ /f
 
 Write-verbose -message "" -verbose
-write-verbose -message "----------  Write Name to HKCU ------------" -verbose
 $Vollername = (Get-ADUser -Identity $env:UserName -Properties DisplayName).DisplayName
+write-verbose -message "----------  Write Name $Vollername to HKCU ------------" -verbose
 REG ADD "HKCU" /v "Name"  /d "$Vollername" /t REG_SZ /f
-write-verbose -message "----------  Wrote $Vollername to HKCU  ------------" -verbose
 
 Write-verbose -message "" -verbose
 write-verbose -message "----------------------------------------------------------------" -verbose
