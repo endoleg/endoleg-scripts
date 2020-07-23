@@ -6,7 +6,7 @@ $CitrixSessionID = Get-ChildItem -Path "HKCU:\Volatile Environment" -Name
 write-verbose -message "---------- CitrixSessionID: $CitrixSessionID ----------" -verbose
 
 $CitrixClientName = Get-WmiObject -Namespace root\citrix\hdx -Class Citrix_Client_Enum | Where-Object {$_.SessionID -eq $CitrixSessionID} | Select-Object -ExpandProperty Name
-write-verbose -message "---------- User Clientname: $CitrixClientName - Citrix-HDX/ICA-Connections - not for RDP! ----------" -verbose
+write-verbose -message "--------- User Clientname: $CitrixClientName - Citrix-HDX/ICA-Connections - not for RDP! ----------" -verbose
 
 $CitrixClientIP = Get-WmiObject -Namespace root\citrix\hdx -Class Citrix_Client_Enum | Where-Object {$_.SessionID -eq $CitrixSessionID} | Select-Object -ExpandProperty Address
 write-verbose -message "---------- CitrixClientIP: $CitrixClientIP ----------" -verbose
@@ -65,7 +65,12 @@ write-verbose -message "---------- Profile local $ENV:USERPROFILE - Size: $Profi
 $Zaehler1= Get-ChildItem $ENV:USERPROFILE -Force -Recurse -EA SilentlyContinue; $Zaehler2=$Zaehler1.count 
 write-verbose -message "---------- Profil local $ENV:USERPROFILE - Anzahl Dateien: $Zaehler2 ----------" -verbose
 
-$Profilepath=\\bg10\private\ProfileXD
+##########################################
+#   Variables $DOMAIN and $Profilepath   #
+##########################################
+$DOMAIN="XYZ"
+$Profilepath="\\$DOMAIN\share\ProfileXD"
+
 $ProfileSizeServer = "{0:N2} GB" -f ((Get-ChildItem $Profilepath\$env:USERNAME -Force -Recurse -EA SilentlyContinue | measure Length -s).Sum /1GB)
 write-verbose -message "---------- Profile Server $Profilepath\$env:USERNAME - size - $ProfileSizeServer----------" -verbose
 $Zaehler1= Get-ChildItem $Profilepath\$env:USERNAME -Force -Recurse -EA SilentlyContinue; $Zaehler2=$Zaehler1.count 
@@ -128,7 +133,6 @@ REG ADD "HKCU" /v "Username"  /d "$env:username" /t REG_SZ /f
 
 Write-verbose -message "" -verbose
 write-verbose -message "---------- Username to SID umwandeln ----------" -verbose
-$DOMAIN = "XYZ"
 $USERNAME = $env:UserName
 $objUser = New-Object System.Security.Principal.NTAccount($DOMAIN, $USERNAME)
 $strSID = $objUser.Translate([System.Security.Principal.SecurityIdentifier])
