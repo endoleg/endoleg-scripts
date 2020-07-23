@@ -65,8 +65,6 @@ write-verbose -message "---------- Profile local $ENV:USERPROFILE - Size - (fuer
 $Zaehler1= Get-ChildItem $ENV:USERPROFILE -Force -Recurse -EA SilentlyContinue; $Zaehler2=$Zaehler1.count 
 write-verbose -message "---------- Profil local $ENV:USERPROFILE - Anzahl Dateien: $Zaehler2 ----------" -verbose
 
-#New-ItemProperty -Path $RegistryPath -Name "Profile Size" -Value $ProfileSize -Force
-
 $Profilepath=\\bg10\private\ProfileXD
 $ProfileSizeServer = "{0:N2} GB" -f ((Get-ChildItem $Profilepath\$env:USERNAME -Force -Recurse -EA SilentlyContinue | measure Length -s).Sum /1GB)
 write-verbose -message "---------- Profile Server $Profilepath\$env:USERNAME - size - $ProfileSizeServer----------" -verbose
@@ -121,7 +119,6 @@ foreach($item in $drives){
     }
 }
 
-
 write-verbose -message "----------------------------------------------------------------" -verbose
 write-verbose -message "----------------------------------------------------------------" -verbose
 
@@ -153,7 +150,7 @@ write-verbose -message "--------------------------------------------------------
 
 write-verbose -message "----------------------------------------------------------------" -verbose
 write-verbose -message "----------------------------------------------------------------" -verbose
-write-verbose -message "---------- Ordnerumleitungen ----------" -verbose
+write-verbose -message "---------- redirections ----------" -verbose
 
 Function Get-RegistryKeyPropertiesAndValues
 {
@@ -192,69 +189,19 @@ if ($RedirectedFolders -eq $null) {
 write-verbose -message "----------------------------------------------------------------" -verbose
 write-verbose -message "----------------------------------------------------------------" -verbose
 
-
-""
-Write-Verbose -Message  "-------------------Reg Eintrag für Fehleranlyse Outlook-------------------" -Verbose
-""
-
-
-#write-verbose -message "----------------------------------------------------------------" -verbose
-#write-verbose -message "------ Auslesen Reg Eintrag für Fehleranlyse Outlook------------" -verbose
-if(test-path "HKCU:\Software\Microsoft\Office\16.0\Outlook\AutoDiscover\RedirectServers\"){
-    $Propertys= Get-Item "HKCU:\Software\Microsoft\Office\16.0\Outlook\AutoDiscover\RedirectServers\" | Select-Object -ExpandProperty Property
-    $Propertys
-}
-
-#write-verbose -message "----------------------------------------------------------------" -verbose
-#write-verbose -message "----------------------------------------------------------------" -verbose
-#write-verbose -message "---------- Gruppenmitgliedschaften usw. ----------" -verbose
-#whoami /groups
-#net user endethor /domain
-
 write-verbose -message "----------------------------------------------------------------" -verbose
 write-verbose -message "----------------------------------------------------------------" -verbose
-write-verbose -message "---------- GPresult /v - Angewendete GPOs, Gruppenmitgliedschaften usw. ----------" -verbose
+write-verbose -message "---------- GPresult /v -----------" -verbose
 GPRESULT.exe /v
 
 start-sleep 1
 
 write-verbose -message "---------- Citrix SessionID ----------" -verbose
-# Citrix SessionID
 $CitrixSessionID = Get-ChildItem -Path "HKCU:\Volatile Environment" –Name
 $CitrixSessionID
 #New-ItemProperty -Path $RegistryPath -Name "Citrix SessionID" -Value $CitrixSessionID -Force
 
-write-verbose -message "---------- $env:USERPROFILE\add-ins.log wird erstellt ----------" -verbose
-&"c:\program files (x86)\bootinstallationXD76\OfficeIns.exe" /stext $env:USERPROFILE\add-ins.log
-#&"c:\windows\system32\OfficeIns.exe" /stext C:\Users\$env:UserName\add-ins.log
-write-verbose -message "----------------------------------------------------------------" -verbose
-
-write-verbose -message "---------- Addins HKCU\SOFTWARE\Microsoft\Office\Outlook\Addins auflisten (u.a. MailToPeo (alt) vs BG.MailToPEo (neu)) ----------" -verbose
-write-verbose -message "------------- Einige User haben Probleme mit dem alten MailToPeo-Addin - das muss dann hier geloescht werden  ----------" -verbose
-#Get-ChildItem -Path "HKCU:\SOFTWARE\Microsoft\Office\Outlook\Addins\" | Select-Object Name
-$ABGEFRAGTERKEY="HKCU:\SOFTWARE\Microsoft\Office\Outlook\Addins\MailToPeo\"
-IF ((Test-Path -Path $ABGEFRAGTERKEY))
-{
-        write-verbose "------------- Veralteter Key $ABGEFRAGTERKEY ist da und koennte Probleme verursachen" -Verbose
-        Send-MailMessage -from "noreply@bgetem.de" -to "Enderlein.Thorsten@bgetem.de" -Subject "Alter Key $ABGEFRAGTERKEY Benutzer $env:username auf $env:COMPUTERNAME" -Body "$env:username - $usersid - $env:COMPUTERNAME - \\$env:COMPUTERNAME\c$\users\$env:username\" -SmtpServer "smtp.bg10.bgfe.local"
-        #write-verbose "Key $ABGEFRAGTERKEY wird geloescht" -Verbose
-        #remove-Item -Path $ABGEFRAGTERKEY -Force
-}
-IF (-not (Test-Path -Path $ABGEFRAGTERKEY))
-{
-        write-verbose "------------- Key $ABGEFRAGTERKEY ist NICHT DA" -Verbose
-        #write-verbose "Key $ABGEFRAGTERKEY wird geloescht" -Verbose
-        #remove-Item -Path $ABGEFRAGTERKEY -Force
-}
-
-
 start-sleep 2
-
-write-verbose -message "----------------------------------------------------------------" -verbose
-write-verbose -message "---------- App-V-Gruppen - Analyse über http://appv.bg10.bgfe.local:8991/ ----------" -verbose
-write-verbose -message "---------- Pakete liegen unter $ENV:USERPROFILE\AppData\Roaming\Microsoft\AppV\Client\VFS ----------" -verbose
-Get-ADPrincipalGroupMembership $env:USERNAME|Where-Object -FilterScript  {$_.name -match 'CTX-PApps-App-V'} | Sort-Object -Property Name| Format-table Name, distinguishedName
-write-verbose -message "----------------------------------------------------------------" -verbose
 
 write-verbose -message "---------- Logon phase timings --------------------------------" -verbose
 $Sessionkey=gcim -Namespace root/citrix/hdx -ClassName Citrix_Sessions -Filter "SessionId = $CitrixSessionID " | select -ExpandProperty Sessionkey
@@ -265,65 +212,11 @@ start-sleep 3
 $gcimstart = $gcim.UPMStart
 $gcimend = $gcim.DesktopReady
 $timespan= New-TimeSpan -Start $gcimstart -End $gcimend
-write-verbose -message "---------------- Sekunden zwischen UPMStart und DesktopReady: $($timespan.Seconds) ------------------------------------------------" -verbose 
+write-verbose -message "---------------- Seconds between UPMStart and DesktopReady: $($timespan.Seconds) ------------------------------------------------" -verbose 
 
 write-verbose -message "---------- Citrix-Policies ----------" -verbose
 start-sleep 3
 Get-ItemProperty HKLM:\SOFTWARE\Policies\Citrix\$CitrixSessionID\User\*
 
-write-verbose -message "----------------------------------------------------------------" -verbose
-write-verbose -message "---------- directory-treesize.ps1 ----------" -verbose
-####powershell.exe -executionpolicy bypass \\bg10\netlogon\Citrix\WEM\Profilgroesse\directory-treesize.ps1 -directory \\bg10\private\ProfileXD\$env:USERNAME #-notree #-detail
-powershell.exe -executionpolicy bypass \\bg10\netlogon\Citrix\WEM\Profilgroesse\directory-treesize.ps1 -directory \\bg10\private\ProfileXD\$env:USERNAME -showPercent
-
 Stop-Transcript
 
-
-
-
-
-
-
-
-
-
-
-<#
-$Query = "*[EventData[Data[@Name='PrincipalSamName'] and (Data='bg10\$env:username')]]"
-[array]$Events = Get-WinEvent -ProviderName Microsoft-Windows-GroupPolicy -FilterXPath "$Query"
-
-$message = Get-WinEvent -ProviderName Microsoft-Windows-GroupPolicy -FilterXPath "*[System[(EventID='5312')]]" #| Where-Object{$_.ActivityId -eq $ActivityId}
-#Displays the 'Message Property'
-Write-Host $message.Message
-#>
-
-<#
-write-verbose -message "---------- Microsoft-Windows-GroupPolicy/Operational log muss groß genug sein! ----------" -verbose
-write-verbose -message "---------- User-GPOs auflisten ----------" -verbose
-$ErrorActionPreference = "Stop"     #   another way to try to stop the script in case of errors. Important for Try/Catch usage.</p>
-$username = $args[0]
-#Defines to filter by Event Id '4001' and by an positional argument which 'ControlUp' provide based on context
-$Query = "*[EventData[Data[@Name='PrincipalSamName'] and (Data='$username')]] and *[System[(EventID='4001')]]"
-try {
-   # Gets all the events matching the criteria by $Query<br />
-    [array]$Events = Get-WinEvent -ProviderName Microsoft-Windows-GroupPolicy -FilterXPath "$Query"
-    $ActivityId = $Events[0].ActivityId.Guid
-}
-catch {
-    Write-Host "Could not find relevant events in the Microsoft-Windows-GroupPolicy/Operational log. `nThe default log size (4MB) only supports user sessions that logged on a few hours ago. Please increase the log size to support older sessions."
-    Exit 1
-} 
-$message = Get-WinEvent -ProviderName Microsoft-Windows-GroupPolicy -FilterXPath "*[System[(EventID='5312')]]" | Where-Object{$_.ActivityId -eq $ActivityId}
-#Displays the 'Message Property'
-Write-Host $message.Message
-#>
-
-#write-verbose -message "---------- Drucker auflisten ----------" -verbose
-#$RedirectedFolders = Get-WmiObject -Class Win32_Printer | select -Property Name,Sharename
-#if ($RedirectedFolders -eq $null) {
-#write-verbose -message "---------- Keine Drucker ----------" -verbose
-#} else {
-#    $RedirectedFolders | Format-Table -Autosize
-#write-verbose -message "---------- Standard-Drucker ist ----------" -verbose
-#   (Get-WmiObject -Class Win32_Printer -Filter "Default = $true").Name
-#}
