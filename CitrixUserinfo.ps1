@@ -1,3 +1,17 @@
+<#
+    Collecting and logging some information about the user and his session...
+    
+    Many parts of the script are stolen/learned from some great powershell guys:
+    https://twitter.com/mohrpheus78 
+    https://twitter.com/NickInformation
+    https://twitter.com/guyrleech
+    and many, many more...
+    Thanks!
+    
+    Author: Thorsten Enderlein
+    https://github.com/endoleg and https://twitter.com/endi24
+#>
+
 Start-Transcript -Path "$env:USERPROFILE\Userinfo.log"
 
 write-verbose -message "----------------------------------------------------------------" -verbose
@@ -69,7 +83,7 @@ write-verbose -message "---------- Profil local $ENV:USERPROFILE - Anzahl Dateie
 #   Variables $DOMAIN and $Profilepath   #
 ##########################################
 $DOMAIN="XYZ"
-$Profilepath="\\$DOMAIN\share\ProfileXD"
+$Profilepath="\\$DOMAIN\share\ProfileCVAD"
 
 $ProfileSizeServer = "{0:N2} GB" -f ((Get-ChildItem $Profilepath\$env:USERNAME -Force -Recurse -EA SilentlyContinue | measure Length -s).Sum /1GB)
 write-verbose -message "---------- Profile Server $Profilepath\$env:USERNAME - size - $ProfileSizeServer----------" -verbose
