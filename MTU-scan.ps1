@@ -1,3 +1,16 @@
+<#
+    Collecting MTU-Information about Citrix Sessions with ctxsession.exe
+
+    Author: Thorsten Enderlein
+    https://github.com/endoleg and https://twitter.com/endi24
+
+    script layout is not the best, i know
+    
+    Many parts of the script are given/learned/stolen from some great powershell guys:
+    Thanks, Andreas Nick, https://twitter.com/NickInformation
+    Thanks, Pascal Röker        
+#>
+
 $StartDTM = (Get-Date)
 $date = get-date -Format dd.MM.yyyy
 
@@ -41,8 +54,6 @@ Add-PSSnapin Citrix*
              ExpansionRatio = ""
              IcaBufferLength = ""
              LocalAddress = ""
-             #ProfileServerCount = ""
-             #ProfileSizeServer = ""
         }
         
         if($Result  -match 'Local\s+Address:\s+(?<IP>\d+\.\d+\.\d+\.\d+:\d+)') {$pso.LocalAddress =  $matches.IP; $matches = $null}
@@ -94,6 +105,7 @@ Add-PSSnapin Citrix*
          $pso.AverageLatency = $pso.AverageLatency -ireplace (" =  ",":")         
          $pso.AverageLatency = $pso.AverageLatency -ireplace ("AverageLatency     :","")
 
+#TransportType
          $m = [REGEX]::Match($Result, 'UDP'); if($m.Success){$pso.TransportType = "UDP";} else {$pso.TransportType = "TCP"}
 
 #Workspace App Version
@@ -107,8 +119,8 @@ Add-PSSnapin Citrix*
          $CitrixClientName=$Clientversion2.ClientName
          write-verbose -message "---------- CitrixClientName: $CitrixClientName ----------" -verbose
          $pso.CitrixClientName = $CitrixClientName   
-         
-        
+
+#EDTBandwidth
         $pattern =  'Bandwidth\s+(?<EDTBandwidth>\d+\.\d+)\s+(?<Mbps>\w+),.*RTT\s+(?<RTT>\d+\.\d+)\s+(?<ms>\w+)' #57.995 Mbps,  Send Rate 0 bps,  Recv Rate 0 bps,  RTT 48.949 ms'
         $m = [REGEX]::Match($Result,$pattern); if($m.Success) {  
             $pso.EDTBandwidth = [float] $m.Groups['EDTBandwidth'].Value;  
@@ -142,8 +154,7 @@ Add-PSSnapin Citrix*
         }
     }
 
-
-    $Sessions | Foreach-Object -process {Get-CtxSession -SessionInfo $_}
+ $Sessions | Foreach-Object -process {Get-CtxSession -SessionInfo $_}
 
  } -ErrorAction SilentlyContinue
  }
