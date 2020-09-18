@@ -6,24 +6,18 @@ Start-Transcript -Path "C:\Windows\Temp\MTU-$date.log" -IncludeInvocationHeader
 Add-PSSnapin Citrix*
 
  $UID = Get-BrokerCatalog -Name "Win2016" -AdminAddress svacxdlcp3 | Select-Object -Property UID
+ $Machines = (Get-BrokerMachine -CatalogUid  $UID.Uid).DNSName 
 
- #$BGETEMMachines = (Get-BrokerMachine -CatalogUid  $UID.Uid).DNSName #| Select-Object -first 10
- $BGETEMMachines = (Get-BrokerMachine -CatalogUid  $UID.Uid).DNSName 
-
- $Results = Foreach( $cmp in $BGETEMMachines){
- 
+ $Results = Foreach( $cmp in $Machines){
  Invoke-Command -ComputerName $cmp -ScriptBlock {
-        
     param
     (
-
     )
 
-    write-host "Pruefe $env:COMPUTERNAME"
+    write-host "Check $env:COMPUTERNAME"
 
     function Get-CtxSession{
         Param([pscustomobject] $SessionInfo)
-
 
         $Result = $(& CtxSession.exe  -v -s $SessionInfo.SessionID) | Out-String
 
@@ -35,13 +29,10 @@ Add-PSSnapin Citrix*
              TransportType = ""
              WorkspaceVer  = ""
              EDTBandwidth = 0
-             #Mbps = ''
              MTU = 0
              RTT = 0
              LastLatency = ""
              AverageLatency = ""
-             #ms = ''
-             #SentBandwidth = ""             
              SentPreCompression = ""
              SentPostCompression = ""
              CompressionRatio = ""
@@ -57,7 +48,6 @@ Add-PSSnapin Citrix*
         if($Result  -match 'Local\s+Address:\s+(?<IP>\d+\.\d+\.\d+\.\d+:\d+)') {$pso.LocalAddress =  $matches.IP; $matches = $null}
          $m = [REGEX]::Match($Result, 'Remote\s+Address:\s+(?<IP2>\d+\.\d+\.\d+\.\d+:\d+)'); if($m.Success) {$pso.RemoteAddress =  $m.Groups['IP2'].Value }
          $m = [REGEX]::Match($Result, 'EDT\s+MTU:\s+(?<MTU>\d+)'); if($m.Success) {$pso.MTU = [int] $m.Groups['MTU'].Value }     
-        # Write-Host "$($pso.MTU)" -ForegroundColor Green
 
 #SentPreCompression 
          $m = [REGEX]::Match($Result, 'SentPreCompression\s+=\s+\d+'); if($m.Success) { $pso.SentPreCompression = $m.Groups.Value }
@@ -118,24 +108,11 @@ Add-PSSnapin Citrix*
          write-verbose -message "---------- CitrixClientName: $CitrixClientName ----------" -verbose
          $pso.CitrixClientName = $CitrixClientName   
          
-<#
-        $UName=($SessionInfo.Username)
-         $ProfileSizeServer = "{0:N2} GB" -f ((Get-ChildItem "\\bg10\citrix\Profile\$UName" -Force -Recurse -EA SilentlyContinue | measure Length -s).Sum /1GB)
-         write-verbose -message "---------- Profil Server \\bg10\citrix\Profile\$UName - Groesse - $ProfileSizeServer----------" -verbose
-         $pso.ProfileSizeServer = $ProfileSizeServer
-
-         $Zaehler1= Get-ChildItem \\bg10\citrix\Profile\$UName -Force -Recurse -EA SilentlyContinue; $Zaehler2=$Zaehler1.count 
-         write-verbose -message "---------- Profil Server \\bg10\citrix\Profile\$UName - Anzahl Dateien: $Zaehler2 ----------" -verbose
-         $pso.ProfileServerCount = $Zaehler2
-#>         
-         
+        
         $pattern =  'Bandwidth\s+(?<EDTBandwidth>\d+\.\d+)\s+(?<Mbps>\w+),.*RTT\s+(?<RTT>\d+\.\d+)\s+(?<ms>\w+)' #57.995 Mbps,  Send Rate 0 bps,  Recv Rate 0 bps,  RTT 48.949 ms'
         $m = [REGEX]::Match($Result,$pattern); if($m.Success) {  
             $pso.EDTBandwidth = [float] $m.Groups['EDTBandwidth'].Value;  
-            #$pso.Mbps = $m.Groups['Mbps'].Value;  
             $pso.RTT =  [float] $m.Groups['RTT'].Value;  
-            #$pso.ms = $m.Groups['ms'].Value;  
-            #$pso.SentBandwidth = [float] $m.Groups['SentBandwidth (bps)'].Value;
             
         }
         return $pso
@@ -167,69 +144,22 @@ Add-PSSnapin Citrix*
 
 
     $Sessions | Foreach-Object -process {Get-CtxSession -SessionInfo $_}
-    
 
-
- 
  } -ErrorAction SilentlyContinue
  }
  
- 
  $Results | Out-GridView
- $Results | Out-HtmlView -FilePath "c:\Script\Logs\MTU-$date.html"
-  
  
-    Write-Verbose -Message "------------------------ c:\Script\Logs anlegen---------------  " -Verbose
+    Write-Verbose -Message "------------------------ c:\Script\Logs add---------------  " -Verbose
     if(-not(Test-Path "c:\Script\Logs")){
     mkdir "c:\Script\Logs"
-    }else{Write-Verbose -Message "------------------------ c:\Script\Logs anlegen nicht notwendig - schon vorhanden---------------  " -Verbose}
+    }else{Write-Verbose -Message "------------------------ c:\Script\Logs exists ---------------  " -Verbose}
 
-
-#Because I am going to open the output in Microsoft Excel, the one thing I need to do is to remember to use the –NoTypeInformation switched parameter. 
-#This will keep the Type information from being written to the first line of the file. If the Type information is written, it will mess up the column display in Excel.
  $Results | Export-Csv -Path c:\Script\Logs\MTU-$date.csv -NoTypeInformation -UseCulture
-Write-Verbose "c:\Script\Logs\MTU-$date.csv" -Verbose
+Write-Verbose "Log: c:\Script\Logs\MTU-$date.csv" -Verbose
 
 $EndDTM = (Get-Date)
 Write-Verbose "Elapsed Time: $(($EndDTM-$StartDTM).TotalSeconds) Seconds" -Verbose
 Write-Verbose "Elapsed Time: $(($EndDTM-$StartDTM).TotalMinutes) Minutes" -Verbose
 
 Stop-Transcript
-
-
-
- #$Results.GetType()
- 
- 
- #Invoke-Command -ComputerName svacxxd602 -ScriptBlock {(& quser.exe) }#| % { $_ -match '\s+(?<sessionid>\d+)\s+'} | % {$matches.sessionid} | Select-Object -Unique; $Sessionid | % {CtxSession -v -s $_}}
-
-<#
- $Citrix_Euem_RoundTrip = Get-WmiObject -Namespace root\Citrix\euem -Class Citrix_Euem_RoundTrip
-$CurrentSessionID = [System.Diagnostics.Process]::GetCurrentProcess().SessionId
-
-foreach ($Session in $Citrix_Euem_RoundTrip)
-{
-         $Username=(Get-ItemProperty "Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\Ica\Session\$($Session.SessionID)\Connection" -name Username)
-         $UsernameDisplay=$Username.UserName
-         Write-verbose -message "Username: $UsernameDisplay" -Verbose
-         Write-verbose -message "SessionID: $($Session.SessionID)" -Verbose
-         Write-Verbose -message "RoundtripTime: $($Session.RoundtripTime)" -Verbose
-         Write-verbose -message "OutputBandwidthAvailable: $($Session.OutputBandwidthAvailable)" -Verbose
-         Write-verbose -message "OutputBandwidthUsed: $($Session.OutputBandwidthUsed)" -Verbose
-         Write-verbose -message "InputBandwidthUsed: $($Session.InputBandwidthUsed)" -Verbose
-         Write-verbose -message "NetworkLatency: $($Session.NetworkLatency)" -Verbose
-         Write-verbose -message "PSComputerName: $($Session.PSComputerName)" -Verbose
-         Write-verbose -message "OutputBandwidthUsed: $($Session.OutputBandwidthUsed)" -Verbose
-         Write-verbose -message "----------------------------------------------------" -Verbose
-}
-#>
-
-
-# https://evotec.pl/out-htmlview-html-alternative-to-out-gridview/
-#Get-Module PSWriteHTML
-#Register-PSRepository -Name "PSGallery" –SourceLocation "https://www.powershellgallery.com/api/v2/" -InstallationPolicy Trusted
-#Register-PSRepository -Default
-[Net.ServicePointManager]::SecurityProtocol = "tls12"
-Get-PSRepository
-Install-Module -name PSWriteHTML -Force
-
