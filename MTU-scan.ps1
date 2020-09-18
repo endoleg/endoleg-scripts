@@ -13,6 +13,8 @@
     https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/technical-overview/hdx/adaptive-transport.html#edt-mtu-discovery
     https://support.citrix.com/article/CTX231821
     https://blog.sachathomet.ch/2020/06/04/citrix-cvad-und-mtu-discovery/
+    https://www.citrix.com/blogs/2017/11/17/hdx-adaptive-transport-and-edt-icas-new-default-transport-protocol-part-i/
+    https://www.citrix.com/blogs/2017/11/20/hdx-adaptive-transport-and-edt-icas-new-default-transport-protocol-part-ii/
 #>
 
 $StartDTM = (Get-Date)
