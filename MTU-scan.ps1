@@ -6,9 +6,10 @@
 
     script layout is not the best, i know
     
-    Many parts of the script are given/learned/stolen from some great powershell guys:
-    Thanks, Andreas Nick, https://twitter.com/NickInformation
-    Thanks, Pascal Röker        
+    Many parts of the script are given/learned/stolen from some great guys:
+    Thanks, Andreas Nick, https://twitter.com/NickInformation and to Pascal Röker for help with powershell scripting         
+    Thanks https://twitter.com/sacha81 and https://twitter.com/R_Kossen for your know how
+    https://blog.sachathomet.ch/2020/06/04/citrix-cvad-und-mtu-discovery/
 #>
 
 $StartDTM = (Get-Date)
