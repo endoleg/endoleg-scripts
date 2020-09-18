@@ -1,5 +1,6 @@
 <#
     Collecting MTU-Information about Citrix Sessions with ctxsession.exe
+    Nice for HDX Adaptive Transport and EDT analytics
 
     Author: Thorsten Enderlein - https://github.com/endoleg and https://twitter.com/endi24
 
