@@ -8,27 +8,30 @@ $Name = 'Application'
 $LogInstance = [System.Diagnostics.EventLog]$Name
 
 # Do what?
-$Aktion = {
+$Action = {
   # get Event
-  $eintrag = $event.SourceEventArgs.Entry
+  $entry = $event.SourceEventArgs.Entry
 
   # Filter incoming Events 
-  if ($eintrag.EventId -eq 0 -and $eintrag.Source -eq 'DockerService') {
-    Write-Host "Event occurred! Do something !"
+  if ($entry.EventId -eq 999 -and $entry.Source -eq 'Userinfo') {
+    Write-verbose -message "Event occurred! Do something !" -Verbose
+    Start-Process notepad.exe
   }
 }
 
 #InputObject = What Log ?
 #EventName = Which Event to abo ?
 #SourceIdentifier = Abo-name ?
-#Aktion = Do what?
+#Action = Do what?
 
 # Abo Events with type "EntryWritten"
 # For different Events safe in different variables / und SourceIdentifiers
-$job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MeinEventHandler' -Action $Aktion
+$job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MeinEventHandler4' -Action $Action
 
+<#
 # Stop Abo
-# Unregister-Event -SourceIdentifier 'MeinEventHandler'
+Unregister-Event -SourceIdentifier 'MeinEventHandler4'
+#>
 
 # Test Eventlog-Entry
-write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'LOGXY' -Category 0 -Message "Test"
+write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'Userinfo' -Category 0 -Message "Test"
