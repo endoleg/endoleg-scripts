@@ -13,7 +13,7 @@ $Action = {
   $entry = $event.SourceEventArgs.Entry
 
   # Filter incoming Events 
-  if ($entry.EventId -eq 999 -and $entry.Source -eq 'Userinfo') {
+  if ($entry.EventId -eq 999 -and $entry.Source -eq 'MyLog') {
     Write-verbose -message "Event occurred! Do something !" -Verbose
     Start-Process notepad.exe
   }
@@ -34,4 +34,5 @@ Unregister-Event -SourceIdentifier 'MeinEventHandler4'
 #>
 
 # Test Eventlog-Entry
-write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'Userinfo' -Category 0 -Message "Test"
+New-EventLog -LogName Application -Source ‘MyLog’
+write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'MyLog' -Category 0 -Message "Test"
