@@ -1,4 +1,5 @@
-#https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-objectevent?view=powershell-5.1
+# https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-objectevent?view=powershell-5.1
+# ObjectEvent, WMIEvent, EngineEvent
 
 # Name des EventLogs
 $Name = 'Application'
@@ -8,15 +9,13 @@ $LogInstance = [System.Diagnostics.EventLog]$Name
 
 # Was soll getan werden?
 $Aktion = {
-# Event aus der Historie holen
-$eintrag = $event.SourceEventArgs.Entry
+  # Event aus der Historie holen
+  $eintrag = $event.SourceEventArgs.Entry
 
-# eingehende Einträge filtern
-if ($eintrag.EventId -eq 0 -and $eintrag.Source -eq 'DockerService') 
-{
-Write-Host "Achtung! Event hat stattgefunden. Es ist an der Zeit DINGE zu tun"
-}
-
+  # eingehende Einträge filtern
+  if ($eintrag.EventId -eq 0 -and $eintrag.Source -eq 'DockerService') {
+    Write-Host "Achtung! Event hat stattgefunden. Es ist an der Zeit DINGE zu tun"
+  }
 }
 
 #InputObject = Was/welches Log soll ich überwachen?
@@ -28,9 +27,8 @@ Write-Host "Achtung! Event hat stattgefunden. Es ist an der Zeit DINGE zu tun"
 # Willst du verschiedene Events abonnieren speichere einfach in verschiedenen Variablen und verschiedenen SourceIdentifier
 $job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MeinEventHandler' -Action $Aktion
 
-#Und einmal Abo beenden
-#Unregister-Event -SourceIdentifier 'MeinEventHandler'
+# Um Abo zu beenden
+# Unregister-Event -SourceIdentifier 'MeinEventHandler'
 
-#ObjectEvent
-#WMIEvent
-#EngineEvent
+# Test Eventlog-Eintrag
+write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'BGETEM-LOG' -Category 0 -Message "Test"
