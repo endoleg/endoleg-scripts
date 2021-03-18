@@ -14,25 +14,28 @@ $Action = {
 
   # Filter incoming Events 
   if ($entry.EventId -eq 999 -and $entry.Source -eq 'MyLog') {
+    
     Write-verbose -message "Event occurred! Do something !" -Verbose
     Start-Process notepad.exe
+  
   }
 }
 
-#InputObject = What Log ?
-#EventName = Which Event to abo ?
-#SourceIdentifier = Abo-name ?
-#Action = Do what?
-
 # Abo Events with type "EntryWritten"
 # For different Events safe in different variables / und SourceIdentifiers
-$job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MeinEventHandler4' -Action $Action
+# Help: InputObject => What Log - EventName => Which Event to abo - SourceIdentifier => Abo-name - Action => Do what?
+
+$job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MyEventHandler' -Action $Action
 
 <#
-# Stop Abo
-Unregister-Event -SourceIdentifier 'MeinEventHandler4'
+# To stop Abo use this line
+Unregister-Event -SourceIdentifier 'MeinEventHandler'
 #>
 
-# Test Eventlog-Entry
+<#
+# To register new Eventlog (only needed once) use this
 New-EventLog -LogName Application -Source ‘MyLog’
+#>
+
+# Write new Eventlog to test Eventlog trigger
 write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'MyLog' -Category 0 -Message "Test"
