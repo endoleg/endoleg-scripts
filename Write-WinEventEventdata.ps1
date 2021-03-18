@@ -1,4 +1,4 @@
-function Write-WinEvent2 {
+function Write-WinEventEventdata {
     [CmdLetBinding()]
     param(
         [string]$LogName,
