@@ -24,11 +24,11 @@ $Aktion = {
 #Aktion = Do what?
 
 # Abo Events with type "EntryWritten"
-# Willst du verschiedene Events abonnieren speichere einfach in verschiedenen Variablen und verschiedenen SourceIdentifier
+# For different Events safe in different variables / und SourceIdentifiers
 $job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MeinEventHandler' -Action $Aktion
 
-# Um Abo zu beenden
+# Stop Abo
 # Unregister-Event -SourceIdentifier 'MeinEventHandler'
 
-# Test Eventlog-Eintrag
-write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'BGETEM-LOG' -Category 0 -Message "Test"
+# Test Eventlog-Entry
+write-eventlog -entrytype "Warning" -logname "application" -eventID 999 -Source 'LOGXY' -Category 0 -Message "Test"
