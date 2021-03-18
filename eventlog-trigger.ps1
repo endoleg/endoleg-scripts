@@ -1,11 +1,11 @@
-# This Script registers a new Objectevent 
-# When a special Event Log entry occures, a action is started
+# This Script registers a new Objectevent. When a special Event Log entry occures, a action is started
 # Source: https://community.idera.com/database-tools/powershell/powertips/b/tips/posts/responding-to-new-event-log-entries-part-2
 
 # Register-Objectevent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-objectevent?view=powershell-5.1
 # Register-WMIEvent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/register-wmievent?view=powershell-5.1
 # Register-EngineEvent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-engineevent?view=powershell-5.1
 # Wait-Event: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/wait-event?view=powershell-5.1
+# https://livebook.manning.com/book/windows-powershell-in-action-second-edition/chapter-20/
 
 ##########################################################################################################################################
 
