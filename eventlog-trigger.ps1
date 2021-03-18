@@ -1,29 +1,29 @@
 # https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-objectevent?view=powershell-5.1
 # ObjectEvent, WMIEvent, EngineEvent
 
-# Name des EventLogs
+# EventLog Name
 $Name = 'Application'
 
-# Eventlog Instanz holen anhand von Name
+# get Eventlog by Name
 $LogInstance = [System.Diagnostics.EventLog]$Name
 
-# Was soll getan werden?
+# Do what?
 $Aktion = {
-  # Event aus der Historie holen
+  # get Event
   $eintrag = $event.SourceEventArgs.Entry
 
-  # eingehende Einträge filtern
+  # Filter incoming Events 
   if ($eintrag.EventId -eq 0 -and $eintrag.Source -eq 'DockerService') {
-    Write-Host "Achtung! Event hat stattgefunden. Es ist an der Zeit DINGE zu tun"
+    Write-Host "Event occurred! Do something !"
   }
 }
 
-#InputObject = Was/welches Log soll ich überwachen?
-#EventName = Welche Art von Event will ich Abonieren?
-#SourceIdentifier = Wie soll dein 'Abo' heißen?
-#Aktion = Selbsterklärend
+#InputObject = What Log ?
+#EventName = Which Event to abo ?
+#SourceIdentifier = Abo-name ?
+#Aktion = Do what?
 
-# Events vom typ "EntryWritten" abonnieren
+# Abo Events with type "EntryWritten"
 # Willst du verschiedene Events abonnieren speichere einfach in verschiedenen Variablen und verschiedenen SourceIdentifier
 $job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -SourceIdentifier 'MeinEventHandler' -Action $Aktion
 
