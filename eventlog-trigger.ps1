@@ -38,13 +38,14 @@ $job1 = Register-ObjectEvent -InputObject $LogInstance -EventName EntryWritten -
 ##########################################################################################################################################
 
 <#
-# To stop Abo use this line
-Unregister-Event -SourceIdentifier 'MeinEventHandler'
+  # To stop Abo use this line
+  Unregister-Event -SourceIdentifier 'MyEventHandler'
+  Remove-Job -Name 'MyEventHandler' -force
 #>
 
 <#
-# To register new Eventlog (only needed once) use this
-New-EventLog -LogName Application -Source ‘MyLog’
+  # To register new Eventlog (only needed once) use this
+  New-EventLog -LogName Application -Source ‘MyLog’
 #>
 
 ##########################################################################################################################################
