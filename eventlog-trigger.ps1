@@ -1,10 +1,9 @@
-# Documentation register-objectevent
-# https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-objectevent?view=powershell-5.1
-# WMIEvent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/register-wmievent?view=powershell-5.1
-# EngineEvent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-engineevent?view=powershell-5.1
-
 # This Script registers a new Objectevent 
 # When a special Event Log entry occures, a action is started
+
+# Register-Objectevent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-objectevent?view=powershell-5.1
+# Register-WMIEvent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/register-wmievent?view=powershell-5.1
+# Register-EngineEvent: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/register-engineevent?view=powershell-5.1
 
 ##########################################################################################################################################
 
@@ -15,7 +14,7 @@ $Name = 'Application'
 # get Eventlog by Name
 $LogInstance = [System.Diagnostics.EventLog]$Name
 
-# Do what?
+# Action to do
 $Action = {
   # get Event
   $entry = $event.SourceEventArgs.Entry
