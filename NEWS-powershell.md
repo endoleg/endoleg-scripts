@@ -17,3 +17,12 @@ https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_faves%3A10&sr
 
 Idera Powertips:
 https://community.idera.com/database-tools/powershell/powertips/b/tips
+
+Reddit top posts today:
+https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=day
+
+https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=week
+
+https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=month
+
+https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=year
