@@ -1,4 +1,6 @@
-  Write-Verbose -Message "netsh.exe command to get wirelss profile info" -Verbose
+function GetWLANINFO
+{
+  Write-Verbose -Message "-- netsh.exe command to get wirelss profile info --" -Verbose
   $output = netsh.exe wlan show interfaces
 
   $Name_line = $output | Select-String -Pattern 'Name'
@@ -16,13 +18,6 @@
   $GUID_line = $output | Select-String -Pattern 'GUID'
   $GUID = ($GUID_line -split ":")[-1].Trim()
   Write-Verbose -Message "GUID: $GUID" -Verbose 
-
-<#
-  Write-Verbose -Message "# State" -Verbose
-  $State_line = $output | Select-String -Pattern 'Status'
-  $State = ($State_line -split ":")[-1].Trim()
-  $State
-#>
 
     Write-Verbose -Message "SSID: $SSIDText" -Verbose
     $SSID_line = $output | Select-String 'SSID'| select -First 1
@@ -70,3 +65,5 @@
 	Write-Verbose -Message "Signal (dBm): $dBmSig" -Verbose
 	
     
+}
+GetWLANINFO
