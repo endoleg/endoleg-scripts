@@ -26,3 +26,6 @@ https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=week
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=month
 
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=year
+
+Advanced search:
+https://mobile.twitter.com/search-advanced
