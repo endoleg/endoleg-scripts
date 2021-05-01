@@ -15,6 +15,8 @@ https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_retweets%3A10
 
 https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_faves%3A10&src=typed_query
 
+https://mobile.twitter.com/search?q=PSADT+since%3A2021-04-02+min_faves%3A10
+
 Idera Powertips:
 https://community.idera.com/database-tools/powershell/powertips/b/tips
 
