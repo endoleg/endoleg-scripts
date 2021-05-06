@@ -31,7 +31,8 @@
 	Requires  : PowerShell v3 and up
 	            NetScaler 11.x and up
 	            Run As Administrator
-	            WinSCP		    
+	            Make sure to install WinSCP (msi) to use the default values or specify the location to the “WinSCPnet.dll” .Net assembly. 
+		    You can download it here: https://winscp.net/eng/download.php
 	Source    : Stolen from https://twitter.com/johnbillekens (John Billekens) and customized for my requirements
 		  : Original source: https://blog.j81.nl/2017/04/06/create-offline-backups-of-the-netscaler-config/
 	
