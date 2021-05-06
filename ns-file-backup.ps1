@@ -1,8 +1,9 @@
+
 <#
 .SYNOPSIS
-	Create a backup from the NetScaler and download a copy
+	Create a backup from the NetScaler and download a copy and copy some more files
 .DESCRIPTION
-	Create a backup from the NetScaler and download a copy
+	Create a backup from the NetScaler and download a copy and copy some more files
 .PARAMETER NSManagementURL
 	Management URL, used to connect to the NetScaler
 .PARAMETER NSUserName
@@ -27,12 +28,13 @@
 	Create and download a backup from netscaler `"192.168.100.1`" and store it in `"C:\Backup`". And generate verbose output.
 .NOTES
 	File Name : BackupNS.ps1
-	Version   : v0.3
-	Author	  : John Billekens
 	Requires  : PowerShell v3 and up
 	            NetScaler 11.x and up
 	            Run As Administrator
-	            WinSCP
+	            WinSCP		    
+	Source    : Stolen from https://twitter.com/johnbillekens (John Billekens) and customized for my requirements
+		  : Original source: https://blog.j81.nl/2017/04/06/create-offline-backups-of-the-netscaler-config/
+	
 .LINK
 	https://blog.j81.nl
 #>
