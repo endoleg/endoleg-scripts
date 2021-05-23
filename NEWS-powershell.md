@@ -19,6 +19,10 @@ https://mobile.twitter.com/search?q=PSADT+since%3A2021-04-02+min_faves%3A10
 
 https://mobile.twitter.com/search?q=list%3Aendi24%2FElite%20min_retweets%3A10
 
+https://mobile.twitter.com/search?q=list%3Aendi24%2FPros%20min_retweets%3A10
+
+https://mobile.twitter.com/search?q=list%3Aendi24%2FViro%20min_retweets%3A10
+
 Idera Powertips:
 https://community.idera.com/database-tools/powershell/powertips/b/tips
 
