@@ -25,6 +25,8 @@ https://mobile.twitter.com/search?q=list%3Aendi24%2FViro%20min_retweets%3A10
 
 https://mobile.twitter.com/search?q=list%3Aendi24%2FSecurityDE%20min_retweets%3A10
 
+https://mobile.twitter.com/search?q=list%3Aendi24%2FPowerShellMVP%20min_retweets%3A10
+
 Idera Powertips:
 https://community.idera.com/database-tools/powershell/powertips/b/tips
 
