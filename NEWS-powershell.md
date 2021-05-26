@@ -39,5 +39,7 @@ https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=month
 
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=year
 
+https://www.reddit.com/r/SCCM/search?q=Powershell%20&sort=top&t=week
+
 Advanced search:
 https://mobile.twitter.com/search-advanced
