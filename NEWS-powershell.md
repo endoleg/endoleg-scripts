@@ -60,3 +60,7 @@ https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceID
 
 Webex Teams
 https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=210403&prodType=Cisco&prodRID=210403
+
+CERT-EU
+https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
+
