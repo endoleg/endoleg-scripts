@@ -50,3 +50,6 @@ https://www.cert-bund.de/overview/AdvisoryShort
 https://cert.at/de/meldungen/tagesberichte/
 
 https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=228295&prodType=Cisco&prodRID=228295
+
+https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=192127&prodType=Cisco&prodRID=192127
+
