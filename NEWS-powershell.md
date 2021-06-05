@@ -51,9 +51,12 @@ https://cert.at/de/meldungen/tagesberichte/
 
 Cisco Security Advanced Search for 
 Cisco Webex, Jabber and Teams 
-Webex
+
+Webex Meetings
 https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=228295&prodType=Cisco&prodRID=228295
+
 Jabber
 https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=192127&prodType=Cisco&prodRID=192127
-Teams:
+
+Webex Teams
 https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=210403&prodType=Cisco&prodRID=210403
