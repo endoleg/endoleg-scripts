@@ -43,3 +43,10 @@ https://www.reddit.com/r/SCCM/search?q=Powershell%20&sort=top&t=week
 
 Advanced search:
 https://mobile.twitter.com/search-advanced
+
+Advisory 
+https://www.cert-bund.de/overview/AdvisoryShort
+
+https://cert.at/de/meldungen/tagesberichte/
+
+https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=228295&prodType=Cisco&prodRID=228295
