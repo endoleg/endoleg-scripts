@@ -1,7 +1,4 @@
 
-$gesAnzahl = 0
-$memmory = 0
-
 $Logfile = "C:\Windows\Temp\$processname-" + (Get-Date).Tostring("yyyy-MMMM-dd_HH-mm") + ".log" 
 Start-Transcript -Path $logfile #-Append
 
