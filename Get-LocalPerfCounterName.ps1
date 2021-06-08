@@ -1,4 +1,6 @@
 # source: https://www.msxfaq.de/code/powershell/psperfcounter.htm
+# https://www.ip-insider.de/leistungs-monitoring-mit-dem-windows-admin-center-a-921043/
+# https://www.channelpartner.de/a/know-how-windows-performance-counter,633709
 
 function Get-LocalPerfCounterName {
 
