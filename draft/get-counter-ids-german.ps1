@@ -1,4 +1,4 @@
-<#
+
 function Get-PerformanceCounterID
 {
     param
@@ -25,7 +25,8 @@ function Get-PerformanceCounterID
     $script:perfHash.$Name
 }
 $counters 
-#>
+
+<#
 
 1
 1847
@@ -9089,4 +9090,4 @@ Nicht erfolgreiche Authentifizierungen
 Von getrennten Clients empfangene Bytes
 4786
 Von getrennten Clients übertragene Bytes
-
+#>
