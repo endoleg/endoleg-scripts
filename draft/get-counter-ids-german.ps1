@@ -26,6 +26,20 @@ function Get-PerformanceCounterID
 }
 $counters 
 
+    write-verbose "Counters 009 (en/us)" -Verbose
+    $key009 = 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Perflib\009'
+    $counters009 = (Get-ItemProperty -Path $key009 -Name Counter).Counter.tolower()
+    $counters009 | out-file C:\windows\Temp\counter-en.txt
+
+    write-verbose "----" -Verbose
+    write-verbose "----" -Verbose
+    write-verbose "----" -Verbose
+
+    write-verbose "Counters CurrentLanguage" -Verbose
+    $keylocal = 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Perflib\CurrentLanguage'
+    $counterslocal = (Get-ItemProperty -Path $keylocal -Name Counter).Counter
+    $counterslocal | out-file C:\windows\Temp\counter-currentlanguage.txt
+
 <#
 
 1
