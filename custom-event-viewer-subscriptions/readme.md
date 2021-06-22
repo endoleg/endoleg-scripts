@@ -5,6 +5,7 @@ To insert some great custom event views in the windows event log viewer
 copy the xml files from
 
 https://github.com/palantir/windows-event-forwarding/tree/master/wef-subscriptions
+(Download URL for full repository in a zip-file: https://codeload.github.com/palantir/windows-event-forwarding/zip/master )
 
 and 
 
