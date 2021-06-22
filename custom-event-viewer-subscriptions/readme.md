@@ -28,6 +28,11 @@ and the custom views will appear.
 To jump directly to a custom view, 
 you need to use the eventvwr.msc command-line with the /v parameter. And, you need to mention the XML file name of that particular custom view item.
 
+-----------------
+
+Advanced security audit policy settings:
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/advanced-security-audit-policy-settings
+
 ------------------------------------
 
 Bonus:
