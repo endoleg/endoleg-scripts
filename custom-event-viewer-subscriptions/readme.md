@@ -11,6 +11,8 @@ and
 
 https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Subscriptions/samples
 
+(Download URL for full repository in a zip-file: https://codeload.github.com/nsacyber/Event-Forwarding-Guidance/zip/master )
+
 to
 
 %ProgramData%\Microsoft\Event Viewer\Views
