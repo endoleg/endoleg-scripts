@@ -10,4 +10,8 @@ https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Subscriptions/
 
 to
 
-C:\ProgramData\Microsoft\Event Viewer\Views\
+%ProgramData%\Microsoft\Event Viewer\Views
+
+%LocalAppData%\Microsoft\Event Viewer\Views
+
+(Each custom view is linked to an XML file located in one of the folders)
