@@ -42,9 +42,9 @@ $d | Export-Clixml "c:\users\$env:username\Regbackup-Outlook-16-Combi.xml" -Forc
 # Export and join V2
 ########################################################################################
 $combi5 = @{
-OfficeOutlook = (Export-RegTree1 'HKCU:\Software\Microsoft\Office\Outlook') ;
-WefProviders = (Export-RegTree3 'HKCU:\Software\Microsoft\Office\16.0\Wef\Providers') ;
-Outlook160 = (Export-RegTree3 'HKCU:\Software\Microsoft\Office\16.0\Outlook')
+OfficeOutlook = (Export-RegTree 'HKCU:\Software\Microsoft\Office\Outlook') ;
+WefProviders = (Export-RegTree 'HKCU:\Software\Microsoft\Office\16.0\Wef\Providers') ;
+Outlook160 = (Export-RegTree 'HKCU:\Software\Microsoft\Office\16.0\Outlook')
 }
 $combi5 | Export-Clixml "c:\users\$env:username\Regbackup-Outlook-16-Combi-array.xml" -Force
 
