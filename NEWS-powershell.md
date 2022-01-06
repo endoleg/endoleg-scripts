@@ -14,6 +14,7 @@ Tweets with word Powershell since 2021-02-13 minimum 10 retweets (Powershell sin
 https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_retweets%3A10&src=typed_query
 
 Tweets with word Powershell since 2021-02-13 minimum 10 faves (Powershell since:2021-02-13 min_faves:20)
+
 https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_faves%3A10&src=typed_query
 
 PSADT mit faves:
