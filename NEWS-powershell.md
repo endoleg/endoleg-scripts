@@ -13,9 +13,11 @@ https://www.youtube.com/results?search_query=Powershell&sp=CAISCAgDEAEYAlgD
 Tweets with word Powershell since 2021-02-13 minimum 10 retweets (Powershell since:2021-02-13 min_retweets:10)
 https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_retweets%3A10&src=typed_query
 
-Tweets with word Powershell since 2021-02-13 minimum 10 faves (Powershell since:2021-02-13 min_faves:20)
+Tweets with word Powershell since 2021-12-13 minimum 10 faves (Powershell since:2021-12-13 min_faves:10)
+https://twitter.com/search?q=Powershell%20since%3A2021-12-02%20min_faves%3A10&src=typed_query&f=top
 
-https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_faves%3A10&src=typed_query
+Tweets with words github.com script since 2021-12-13 minimum 10 faves (Powershell since:2021-12-13 min_faves:10)
+https://twitter.com/search?q=github.com%20script%20since%3A2021-12-02%20min_faves%3A10&src=typed_query&f=live
 
 PSADT mit faves:
 https://mobile.twitter.com/search?q=PSADT%20since%3A2021-04-02%20min_faves%3A2&src=typed_query&f=live
