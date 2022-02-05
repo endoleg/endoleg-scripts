@@ -28,6 +28,12 @@ https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powers
 Timeline2:
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 
+Timeline2 min retweets10
+https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_retweets%3A10&src=typed_query&f=live
+
+Timeline2 min favs10
+
+
 Listensuche:
 https://mobile.twitter.com/search?q=list%3Aendi24%2FElite%20min_retweets%3A10
 
