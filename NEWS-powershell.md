@@ -22,8 +22,11 @@ https://twitter.com/search?q=github.com%20script%20since%3A2021-12-02%20min_fave
 PSADT mit faves:
 https://mobile.twitter.com/search?q=PSADT%20since%3A2021-04-02%20min_faves%3A2&src=typed_query&f=live
 
-Timeline:
+Timeline1:
 https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powershell&src=typed_query&f=live
+
+Timeline2:
+https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 
 Listensuche:
 https://mobile.twitter.com/search?q=list%3Aendi24%2FElite%20min_retweets%3A10
