@@ -1,0 +1,37 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000005
+"IoPriority"=dword:00000000
+"WorkingSetLimitInKB"=dword:00002800
+"PagePriority"=dword:00000004
+
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\<Exe-Name>]
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\<Exe-Name>\PerfOptions]
+
+;"CpuPriorityClass"=dword:00000002
+;00000001 = Idle
+;00000002 = Normal (default)
+;00000003 = High
+;00000004 = RealTime or normal (n.a.)
+;00000005 = Below Normal
+;00000006 = Above Normal
+;Other values set it to normal.
+
+;"IoPriority"=dword:00000002
+;00000000 = Very Low
+;00000001 = Low
+;00000002 = Normal (default)
+;00000003 = High
+;00000004 = Critical (only for memory io)
+
+;"PagePriority"=dword:00000005
+;00000000 = Idle
+;00000001 = Very Low
+;00000002 = Low
+;00000003 = Background
+;00000004 = Background
+;00000005 = Normal (default)
+
+;"WorkingSetLimitInKB"=dword:00001382
+;00001382 is default
