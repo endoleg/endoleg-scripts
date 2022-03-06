@@ -1,4 +1,5 @@
 rem https://www.computerbild.de/download/COMPUTER-BILD-WLAN-Booster-24522189.html
+rem https://www.windowsphoneinfo.com/threads/change-power-saving-mode-of-wireless-adapters-in-windows-10.9562/
 
 rem Der „COMPUTER BILD-WLAN-Booster“ sorgt dafür, dass Sie mit Ihrem Notebook schneller im Internet surfen. 
 rem Aus Stromspargründen nutzt Windows den Energiesparmodus „Ausbalanciert“, worin das Tempo des WLAN-Chips im 
@@ -44,7 +45,7 @@ for /f "tokens=8" %%a in ('powercfg -GETACTIVESCHEME') do (set "n4=%%a")
 for /f "tokens=5" %%a in ('powercfg -q %guid% 19cbb8fa-5279-450e-9fac-8a3d5fedd0c1 ^| findstr "Gleichstromeinstellung: 0x00000000"') do set suche=%%a
 
 echo HINWEIS: Setzen Sie dieses Tool bitte nur auf einem Notebook ein, an einem Desktop-PC ergibt eine Optimierung keinen Sinn.
-timeout /t 3 >NUL
+timeout /t 5 >NUL
 cls
 
 ver | findstr /il "10." > nul
