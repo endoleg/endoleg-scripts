@@ -1,4 +1,12 @@
-rem 
+rem https://www.computerbild.de/download/COMPUTER-BILD-WLAN-Booster-24522189.html
+
+rem Der „COMPUTER BILD-WLAN-Booster“ sorgt dafür, dass Sie mit Ihrem Notebook schneller im Internet surfen. 
+rem Aus Stromspargründen nutzt Windows den Energiesparmodus „Ausbalanciert“, worin das Tempo des WLAN-Chips im 
+rem Laptop-Akkubetrieb auf Tempo-Stufe 2 von 4 gebremst ist. Der „WLAN-Booster“ aktiviert das Performance-Level 4 
+rem („Höchstleistung“) und hebt so die Beschränkung auf. Zunächst ermittelt das Batch-Skript, welcher Energiesparplan aktiv ist, 
+rem und fragt die aktuelle Tempostufe ab. Das Tool nennt Ihnen beide Informationen und bietet bei aktivierter Stufe 1, 2 oder 3 an, 
+rem die vierte Stufe einzuschalten. Ist bereits die Höchstleistung aktiviert, haben Sie die Möglichkeit, zur stromsparenden Standardeinstellung zurückzukehren.
+
 @echo off
 mode con lines=75 cols=155
 title COMPUTER BILD-WLAN-Booster
