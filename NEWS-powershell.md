@@ -10,53 +10,59 @@ https://www.youtube.com/results?search_query=Powershell&sp=CAISCAgDEAEYAlgD
 
 --------------------------------------------------------------------------------------------------------------------
 
-Tweets with word Powershell since 2021-02-13 minimum 10 retweets (Powershell since:2021-02-13 min_retweets:10)
-https://twitter.com/search?q=Powershell%20since%3A2021-02-02%20min_retweets%3A10&src=typed_query
+Tweets with word Powershell minimum 10 retweets (Powershell min_retweets:10)
+https://twitter.com/search?q=Powershell%20min_retweets%3A10&src=typed_query&f=top
 
-Tweets with word Powershell since 2021-12-13 minimum 10 faves (Powershell since:2021-12-13 min_faves:10)
-https://twitter.com/search?q=Powershell%20since%3A2021-12-02%20min_faves%3A10&src=typed_query&f=top
+Tweets with word Powershell and minimum 10 faves (Powershell min_faves:10)
+https://twitter.com/search?q=Powershell%20min_faves%3A10&src=typed_query&f=top
 
-Tweets with words github.com script since 2021-12-13 minimum 10 faves (Powershell since:2021-12-13 min_faves:10)
-https://twitter.com/search?q=github.com%20script%20since%3A2021-12-02%20min_faves%3A10&src=typed_query&f=live
+Tweets with words github.com script minimum 10 faves (Powershell min_faves:10)
+https://twitter.com/search?q=github.com%20script%20min_faves%3A10&src=typed_query&f=live
 
 PSADT mit faves:
-https://mobile.twitter.com/search?q=PSADT%20since%3A2021-04-02%20min_faves%3A2&src=typed_query&f=live
+https://mobile.twitter.com/search?q=PSADT%20min_faves%3A2&src=typed_query&f=live
 
-Timeline1:
+Timeline1 - filter:follows filter:nativeretweets powershell
 https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powershell&src=typed_query&f=live
 
-Timeline2:
+Timeline2 - filter:follows -filter:replies
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 
-Timeline2 min retweets10
+Timeline - filter:follows -filter:replies min_retweets:10
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_retweets%3A10&src=typed_query&f=live
 
-Timeline2 min favs10
+Timeline - filter:follows -filter:replies min_faves:10
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A10&src=typed_query&f=live
 
-Timeline2
+Timeline - filter:follows -filter:replies min_faves:10 include:nativeretweets
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A10%20include%3Anativeretweets&src=typed_query&f=live
 
-Listensuche:
+Listensuche Elite min_retweets:10
 https://mobile.twitter.com/search?q=list%3Aendi24%2FElite%20min_retweets%3A10
 
+Listensuche Pros min_retweets:10
 https://mobile.twitter.com/search?q=list%3Aendi24%2FPros%20min_retweets%3A10
 
+Listensuche Viro min_retweets:10
 https://mobile.twitter.com/search?q=list%3Aendi24%2FViro%20min_retweets%3A10
 
+Listensuche list:alexandair/PowerShellMVP min_retweets:10
 https://mobile.twitter.com/search?q=list%3Aalexandair%2FPowerShellMVP%20min_retweets%3A10
 
-Reddit top posts today:
+Reddit Powershell top posts today:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=day
 
+Reddit Powershell top posts week:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=week
 
+Reddit Powershell top posts month:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=month
 
+Reddit Powershell top posts year:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=year
 
+Reddit SCCM top posts week:
 https://www.reddit.com/r/SCCM/search?q=Powershell%20&sort=top&t=week
-
 
 Trending GitHub Powershell developers this week:
 https://github.com/trending/developers/powershell?since=weekly
@@ -91,4 +97,3 @@ https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceID
 
 CERT-EU
 https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
-
