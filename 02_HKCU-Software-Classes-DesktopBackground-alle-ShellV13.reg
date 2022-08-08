@@ -1,0 +1,343 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue]
+"MUIVerb"="Sondermenue"
+"SubCommands"=""
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\color]
+@="Change Window Color and Appearance"
+"icon"="desk.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\color\command]
+@="explorer shell:::{26EE0668-A00A-44D7-9371-BEB064C98683}\\1\\::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}\\pageColorization"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\cursor]
+@="Change Mouse Pointers"
+"icon"="main.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\cursor\command]
+@="control main.cpl,,1"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\desktopicons]
+@="Change Desktop Icons Settings"
+"icon"="desk.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\desktopicons\command]
+@="control desk.cpl,,0"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\DPI]
+@="Change DPI Scaling"
+"icon"="desk.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\DPI\command]
+@="dpiscaling"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\scrnsavr]
+@="Change Screen Saver"
+"icon"="desk.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\scrnsavr\command]
+@="control desk.cpl,,1"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\sound]
+@="Change Sound Scheme"
+"icon"="mmsys.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\sound\command]
+@="control mmsys.cpl,,2"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\theme]
+@="Change Theme"
+"icon"="imageres.dll,145"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\theme\command]
+@="control desk.cpl,,@themes"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\VersteckteDateienAN]
+"Icon"="imageres.dll,-5412"
+"MUIVerb"="VersteckteDateienAN"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\VersteckteDateienAN\command]
+@="Reg Add HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced /v Hidden /t REG_DWORD /d 1 /f"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\VersteckteDateienAUS]
+"Icon"="imageres.dll,-5412"
+"MUIVerb"="VersteckteDateienAUS"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\VersteckteDateienAUS\command]
+@="Reg Add HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced /v Hidden /t REG_DWORD /d 0 /f"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\wallpaper]
+@="Change Wallpaper"
+"icon"="desk.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Sondermenue\shell\wallpaper\command]
+@="control desk.cpl,,@desktop"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222]
+"MUIVerb"="System222"
+"icon"="sysdm.cpl"
+"Position"="Bottom"
+"SubCommands"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\appwiz]
+@="Programs and Features"
+"icon"="appwiz.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\appwiz\command]
+@="control appwiz.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\flip3d]
+@="Window Switcher"
+"icon"="imageres.dll,0"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\flip3d\command]
+@="explorer shell:::{3080F90E-D7AD-11D9-BD98-0000947B0257}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\folderoptions]
+@="Folder Options"
+"icon"="explorer.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\folderoptions\command]
+@="control folders"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\gmode]
+@="God Mode"
+"icon"="control.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\gmode\command]
+@="explorer shell:::{ED7BA470-8E54-465E-825C-99712043E01C}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\internetoptions]
+@="Internet Options"
+"icon"="inetcpl.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\internetoptions\command]
+@="control inetcpl.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\psr]
+@="ProblemStepRecorder"
+"icon"="filemgmt.dll"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\psr\command]
+@=hex(2):25,00,77,00,69,00,6e,00,64,00,69,00,72,00,25,00,5c,00,73,00,79,00,73,\
+  00,74,00,65,00,6d,00,33,00,32,00,5c,00,70,00,73,00,72,00,2e,00,65,00,78,00,\
+  65,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\rbin]
+@="Recycle Bin"
+"icon"="imageres.dll,50"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\rbin\command]
+@="explorer shell:::{645FF040-5081-101B-9F08-00AA002F954E}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\run]
+@="Run"
+"icon"="shell32.dll,24"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\run\command]
+@="explorer shell:::{2559A1F3-21D7-11D4-BDAF-00C04F60B9F0}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\search]
+@="Search"
+"icon"="shell32.dll,22"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\search\command]
+@="explorer shell:::{2559A1F0-21D7-11D4-BDAF-00C04F60B9F0}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\sysdm]
+@="System Properties"
+"icon"="sysdm.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\System222\shell\sysdm\command]
+@="control sysdm.cpl"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS1]
+"MUIVerb"="TestPS1"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS1\command]
+@="powershell.exe -windowstyle hidden -Command \"Start-Process cmd.exe -ArgumentList 'cmd.exe' -Verb RunAs\""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS2]
+"MUIVerb"="TestPS2"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS2\command]
+@="PowerShell [console]::windowwidth=60; [console]::windowheight=12; [console]::Bufferwidth=[console]::windowWidth; Get-command get-h* | format-list; [Console]::Readkey() | Out-Null; exit"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS3]
+"MUIVerb"="TestPS3"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS3\command]
+@="powershell.exe -noexit -command get-command get-hotf*"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode]
+"Icon"="themecpl.dll,-1"
+"MUIVerb"="Dark-or-Light-Mode"
+"Position"="Bottom"
+"SubCommands"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\001flyout]
+"MUIVerb"="Light theme"
+"Icon"="imageres.dll,-5411"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\001flyout\command]
+@="Reg Add HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize /v SystemUsesLightTheme /t REG_DWORD /d 1 /f"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\002flyout]
+"Icon"="imageres.dll,-5412"
+"MUIVerb"="Dark theme"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\002flyout\command]
+@="Reg Add HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize /v SystemUsesLightTheme /t REG_DWORD /d 0 /f"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dateizuordnungen]
+"MUIVerb"="Dateizuordnungen"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dateizuordnungen\command]
+@="control /name Microsoft.DefaultPrograms /page pageFileAssoc"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Einstellungen]
+"Icon"="SystemSettingsBroker.exe"
+"MUIVerb"="Einstellungen"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Einstellungen\command]
+@="explorer ms-settings:"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpresult_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="gpresult"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpresult_Versteckt\command]
+@=hex(2):67,00,70,00,72,00,65,00,73,00,75,00,6c,00,74,00,20,00,2f,00,68,00,20,\
+  00,25,00,75,00,73,00,65,00,72,00,70,00,72,00,6f,00,66,00,69,00,6c,00,65,00,\
+  25,00,5c,00,67,00,70,00,72,00,65,00,73,00,75,00,6c,00,74,00,2e,00,68,00,74,\
+  00,6d,00,6c,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpupdate_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="gpupdate"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpupdate_Versteckt\command]
+@=hex(2):67,00,70,00,75,00,70,00,64,00,61,00,74,00,65,00,20,00,2f,00,66,00,6f,\
+  00,72,00,63,00,65,00,20,00,2f,00,74,00,61,00,72,00,67,00,65,00,74,00,3a,00,\
+  75,00,73,00,65,00,72,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msconfig_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="msconfig"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msconfig_Versteckt\command]
+@=hex(2):6d,00,73,00,63,00,6f,00,6e,00,66,00,69,00,67,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msinfo32_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="msinfo32"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msinfo32_Versteckt\command]
+@=hex(2):6d,00,73,00,69,00,6e,00,66,00,6f,00,33,00,32,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Nicht-reagierende-Programme-beenden]
+"Icon"="imageres.dll,73"
+"MUIVerb"="Nicht-reagierende-Programme-beenden"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Nicht-reagierende-Programme-beenden\command]
+@="taskkill /F /FI \"STATUS eq NOT RESPONDING\""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_SnippingTool]
+"icon"="%windir%\\system32\\SnippingTool.exe"
+"MUIVerb"="SnippingTool"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_SnippingTool\command]
+@=hex(2):73,00,6e,00,69,00,70,00,70,00,69,00,6e,00,67,00,74,00,6f,00,6f,00,6c,\
+  00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner]
+@=""
+"MUIVerb"="Spezialordner"
+"Icon"="shell32.dll,19"
+"Position"="Bottom"
+"SubCommands"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell\User_Ordner_Appdata]
+"icon"="shell32.dll,19"
+"MUIVerb"="Ordner_Appdata"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell\User_Ordner_Appdata\command]
+@=hex(2):65,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,\
+  00,20,00,25,00,61,00,70,00,70,00,64,00,61,00,74,00,61,00,25,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell\User_Ordner_Startmenue-AllUsers]
+"icon"="shell32.dll,19"
+"MUIVerb"="Ordner_Startmenue-AllUsers"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell\User_Ordner_Startmenue-AllUsers\command]
+@=hex(2):65,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,\
+  00,20,00,25,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,44,00,61,00,74,00,\
+  61,00,25,00,5c,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5c,\
+  00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,53,00,74,00,61,00,72,00,\
+  74,00,20,00,4d,00,65,00,6e,00,75,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,\
+  00,6d,00,73,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell\User_Ordner_Userprofile]
+"MUIVerb"="Ordner_Userprofile"
+"Icon"="shell32.dll,19"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Spezialordner\shell\User_Ordner_Userprofile\command]
+@=hex(2):65,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,\
+  00,20,00,25,00,55,00,73,00,65,00,72,00,70,00,72,00,6f,00,66,00,69,00,6c,00,\
+  65,00,25,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_StartMenue-Korrektur]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="StartMenue-Korrektur"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_StartMenue-Korrektur\command]
+@=hex(2):63,00,6d,00,64,00,2e,00,65,00,78,00,65,00,20,00,2f,00,63,00,20,00,74,\
+  00,61,00,73,00,6b,00,6b,00,69,00,6c,00,6c,00,20,00,2f,00,66,00,20,00,2f,00,\
+  69,00,6d,00,20,00,53,00,74,00,61,00,72,00,74,00,4d,00,65,00,6e,00,75,00,45,\
+  00,78,00,70,00,65,00,72,00,69,00,65,00,6e,00,63,00,65,00,48,00,6f,00,73,00,\
+  74,00,2e,00,65,00,78,00,65,00,20,00,20,00,26,00,20,00,73,00,74,00,61,00,72,\
+  00,74,00,20,00,43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,\
+  5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,41,00,70,00,70,00,73,00,5c,00,4d,\
+  00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,2e,00,57,00,69,00,6e,00,\
+  64,00,6f,00,77,00,73,00,2e,00,53,00,74,00,61,00,72,00,74,00,4d,00,65,00,6e,\
+  00,75,00,45,00,78,00,70,00,65,00,72,00,69,00,65,00,6e,00,63,00,65,00,48,00,\
+  6f,00,73,00,74,00,5f,00,63,00,77,00,35,00,6e,00,31,00,68,00,32,00,74,00,78,\
+  00,79,00,65,00,77,00,79,00,5c,00,53,00,74,00,61,00,72,00,74,00,4d,00,65,00,\
+  6e,00,75,00,45,00,78,00,70,00,65,00,72,00,69,00,65,00,6e,00,63,00,65,00,48,\
+  00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,00,00
+
