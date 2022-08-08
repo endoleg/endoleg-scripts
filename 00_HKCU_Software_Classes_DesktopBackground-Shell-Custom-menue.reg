@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+;How to add Settings to the Desktop context menu
+;https://www.thewindowsclub.com/how-to-add-settings-to-the-desktop-context-menu-in-windows
 [HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\Settings]
 "Position"="Middle"
 "Icon"="SystemSettingsBroker.exe"
