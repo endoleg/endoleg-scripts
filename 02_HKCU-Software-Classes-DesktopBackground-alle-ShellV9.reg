@@ -1,0 +1,207 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS1]
+"MUIVerb"="TestPS1"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS1\command]
+@="powershell.exe -windowstyle hidden -Command \"Start-Process cmd.exe -ArgumentList 'cmd.exe' -Verb RunAs\""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS2]
+"MUIVerb"="TestPS2"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS2\command]
+@="PowerShell [console]::windowwidth=60; [console]::windowheight=12; [console]::Bufferwidth=[console]::windowWidth; Get-command get-h* | format-list; [Console]::Readkey() | Out-Null; exit"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS3]
+"MUIVerb"="TestPS3"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\TestPS3\command]
+@="powershell.exe -noexit -command get-command get-hotf*"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_AppdataOrdner]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="%Appdata%"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_AppdataOrdner\command]
+@=hex(2):65,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,\
+  00,20,00,25,00,61,00,70,00,70,00,64,00,61,00,74,00,61,00,25,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode]
+"Icon"="themecpl.dll,-1"
+"MUIVerb"="Dark-or-Light-Mode"
+"Position"="Bottom"
+"SubCommands"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\001flyout]
+"MUIVerb"="Light theme"
+"Icon"="imageres.dll,-5411"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\001flyout\command]
+@="Reg Add HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize /v SystemUsesLightTheme /t REG_DWORD /d 1 /f"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\002flyout]
+"Icon"="imageres.dll,-5412"
+"MUIVerb"="Dark theme"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dark-or-Light-Mode\shell\002flyout\command]
+@="Reg Add HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize /v SystemUsesLightTheme /t REG_DWORD /d 0 /f"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dateizuordnungen]
+"MUIVerb"="Dateizuordnungen"
+"Position"="Bottom"
+"Icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Dateizuordnungen\command]
+@="control /name Microsoft.DefaultPrograms /page pageFileAssoc"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Einstellungen]
+"Icon"="SystemSettingsBroker.exe"
+"MUIVerb"="Einstellungen"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Einstellungen\command]
+@="explorer ms-settings:"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpresult_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="gpresult"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpresult_Versteckt\command]
+@=hex(2):67,00,70,00,72,00,65,00,73,00,75,00,6c,00,74,00,20,00,2f,00,68,00,20,\
+  00,25,00,75,00,73,00,65,00,72,00,70,00,72,00,6f,00,66,00,69,00,6c,00,65,00,\
+  25,00,5c,00,67,00,70,00,72,00,65,00,73,00,75,00,6c,00,74,00,2e,00,68,00,74,\
+  00,6d,00,6c,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpupdate_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="gpupdate"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_gpupdate_Versteckt\command]
+@=hex(2):67,00,70,00,75,00,70,00,64,00,61,00,74,00,65,00,20,00,2f,00,66,00,6f,\
+  00,72,00,63,00,65,00,20,00,2f,00,74,00,61,00,72,00,67,00,65,00,74,00,3a,00,\
+  75,00,73,00,65,00,72,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msconfig_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="msconfig"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msconfig_Versteckt\command]
+@=hex(2):6d,00,73,00,63,00,6f,00,6e,00,66,00,69,00,67,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msinfo32_Versteckt]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="msinfo32"
+"Position"="Bottom"
+"Extended"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_msinfo32_Versteckt\command]
+@=hex(2):6d,00,73,00,69,00,6e,00,66,00,6f,00,33,00,32,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme]
+@=""
+"MUIVerb"="Programme"
+"Icon"="shell32.dll,19"
+"Position"="Bottom"
+"SubCommands"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell\Aufgabenplanung]
+"MUIVerb"="Aufgabenplanung"
+"Icon"="regedit.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell\Aufgabenplanung\command]
+@="%windir%\\system32\\taskschd.msc /s"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell\Notepad]
+"MUIVerb"="Notepad"
+"Icon"="notepad.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell\Notepad\command]
+@="notepad.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell\Regedit]
+"MUIVerb"="Regedit"
+"Icon"="regedit.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Programme\shell\Regedit\command]
+@="regedit.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Restart-StartMenu]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="Restart-StartMenu"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Restart-StartMenu\command]
+@=hex(2):63,00,6d,00,64,00,2e,00,65,00,78,00,65,00,20,00,2f,00,63,00,20,00,74,\
+  00,61,00,73,00,6b,00,6b,00,69,00,6c,00,6c,00,20,00,2f,00,66,00,20,00,2f,00,\
+  69,00,6d,00,20,00,53,00,74,00,61,00,72,00,74,00,4d,00,65,00,6e,00,75,00,45,\
+  00,78,00,70,00,65,00,72,00,69,00,65,00,6e,00,63,00,65,00,48,00,6f,00,73,00,\
+  74,00,2e,00,65,00,78,00,65,00,20,00,20,00,26,00,20,00,73,00,74,00,61,00,72,\
+  00,74,00,20,00,43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,\
+  5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,41,00,70,00,70,00,73,00,5c,00,4d,\
+  00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,2e,00,57,00,69,00,6e,00,\
+  64,00,6f,00,77,00,73,00,2e,00,53,00,74,00,61,00,72,00,74,00,4d,00,65,00,6e,\
+  00,75,00,45,00,78,00,70,00,65,00,72,00,69,00,65,00,6e,00,63,00,65,00,48,00,\
+  6f,00,73,00,74,00,5f,00,63,00,77,00,35,00,6e,00,31,00,68,00,32,00,74,00,78,\
+  00,79,00,65,00,77,00,79,00,5c,00,53,00,74,00,61,00,72,00,74,00,4d,00,65,00,\
+  6e,00,75,00,45,00,78,00,70,00,65,00,72,00,69,00,65,00,6e,00,63,00,65,00,48,\
+  00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_SnippingTool]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="SnippingTool"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_SnippingTool\command]
+@=hex(2):73,00,6e,00,69,00,70,00,70,00,69,00,6e,00,67,00,74,00,6f,00,6f,00,6c,\
+  00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Startmenue-AllUsers]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"Position"="Bottom"
+"MUIVerb"="Startmenue-AllUsers"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Startmenue-AllUsers\command]
+@=hex(2):65,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,\
+  00,20,00,25,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,44,00,61,00,74,00,\
+  61,00,25,00,5c,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,5c,\
+  00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,53,00,74,00,61,00,72,00,\
+  74,00,20,00,4d,00,65,00,6e,00,75,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,\
+  00,6d,00,73,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Taskkill_not_responding]
+"Icon"="imageres.dll,73"
+"MUIVerb"="Taskkill_not_responding"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Taskkill_not_responding\command]
+@="taskkill /F /FI \"STATUS eq NOT RESPONDING\""
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Userprofile-Ordner]
+"icon"="C:\\Windows\\System32\\UNP\\UNPUX.dll,-101"
+"MUIVerb"="%Userprofile%"
+"Position"="Bottom"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\Shell\User_Userprofile-Ordner\command]
+@=hex(2):65,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,\
+  00,20,00,25,00,55,00,73,00,65,00,72,00,70,00,72,00,6f,00,66,00,69,00,6c,00,\
+  65,00,25,00,00,00
+
