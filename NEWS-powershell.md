@@ -25,13 +25,13 @@ https://mobile.twitter.com/search?q=PSADT%20min_faves%3A2&src=typed_query&f=live
 Timeline1 - filter:follows filter:nativeretweets powershell
 https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powershell&src=typed_query&f=live
 
-Timeline2 - filter:follows -filter:replies
+Timeline2 - filter:follows -filter:replies --> nur replies von Followern
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 
-Timeline - filter:follows -filter:replies min_retweets:10
+Timeline - filter:follows -filter:replies min_retweets:10 ---> nur replies von Followern mit retweets
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_retweets%3A10&src=typed_query&f=live
 
-Timeline - filter:follows -filter:replies min_faves:10
+Timeline - filter:follows -filter:replies min_faves:10 ---> nur replies von Followern mit Favs
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A10&src=typed_query&f=live
 
 Timeline - filter:follows -filter:replies min_faves:10 include:nativeretweets
