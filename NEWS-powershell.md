@@ -75,8 +75,9 @@ https://github.com/trending/powershell?since=weekly
 
 Advanced search:
 https://mobile.twitter.com/search-advanced
-http://www.followthehashtag.com/help/hidden-twitter-search-operators-extra-power-followthehashtag/
 https://www.labnol.org/internet/twitter-search-tricks/13693/
+
+filter:nativeretweets shows retweets from users who have hit the retweet button. filter:retweets shows old style retweets ("RT") + quoted tweets.
 
 Advisory 
 https://www.cert-bund.de/overview/AdvisoryShort
