@@ -1,4 +1,4 @@
-Start-Transcript -Path "c:\Windows\Temp\PSWindowsUpdate-V2.log"
+Start-Transcript -Path "c:\Windows\Temp\PSWindowsUpdate-V2.log" -Force
 
 # stolen and modified from https://raw.githubusercontent.com/microsoft/MSLab/4862e185f9b1d63380f6f195fd9d1340df11ddd9/Tools/DownloadLatestCUs.ps1
 $winver=$(Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion' | Select-Object -Property ReleaseId, DisplayVersion).DisplayVersion
@@ -228,49 +228,10 @@ start $folder
 
 #########################################################################################
 
-Write-verbose -message "Job finished" -verbose
+Write-verbose -message "Finished" -verbose
 #Write-verbose -message "Press enter to continue" -verbose
 #Read-Host
 
 Stop-Transcript
 
 
-
-
-
-#########################################################################################
-#########################################################################################
-#########################################################################################
-#########################################################################################
-
-
-<#
-#region download products
-Foreach($SelectedProduct in $SelectedProducts){
-    $item=$Products | Where-Object product -eq $SelectedProduct
-    #Download CU
-        If ($preview){
-            $update=Get-MSCatalogUpdate -Search $item.searchstring | Where-Object Products -eq $item.ID | Select-Object -First 1
-        }else{
-            $update=Get-MSCatalogUpdate -Search $item.searchstring | Where-Object Products -eq $item.ID | Where-Object Title -like "*$($item.SearchString)*" | Select-Object -First 1
-        }
-    Write-verbose -message "Downloading $($update.title) to $destinationFolder" -verbose
-    $update | Save-MSCatalogUpdate -Destination "$DestinationFolder" #-UseBits
-
-    #Download SSU
-    $update=Get-MSCatalogUpdate -Search $item.SSUSearchString | Where-Object Products -eq $item.ID | Select-Object -First 1
-    Write-verbose -message "Downloading $($update.title) to $destinationFolder"  -verbose
-    $update | Save-MSCatalogUpdate -Destination $DestinationFolder #-UseBits
-}
-#endregion
-#>
-
-<#
-#do you want preview?
-$preview=Read-Host -Prompt "Do you want to download preview updates? y/n, default n"
-if($preview -eq "y"){
-    $preview = $true
-}else{
-    $preview=$false
-}
-#>
