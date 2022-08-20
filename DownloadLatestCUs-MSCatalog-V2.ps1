@@ -17,8 +17,8 @@ $Products+=@{Product="Windows Server 2016" ;SearchString="Cumulative Update for 
 $Products+=@{Product="Windows 10 21H2"     ;SearchString="Cumulative Update for Windows 10 Version 1909 for x64-based Systems";SSUSearchString="Servicing Stack Update for Windows 10 Version 21H2 for x64-based Systems"       ; ID="Windows 10, version 1903 and later"}
 
 #grab folder to download to
-$folder=Read-Host -Prompt "Please type path to download. For example `"c:\windows\temp`" (if nothing specified, c:\windows\temp is used)"
-if(!$folder){$folder='c:\windows\temp'}
+$folder=Read-Host -Prompt "Please type path to download. For example `"c:\windows\temp`" (if nothing specified, c:\windows\temp\_Updates_ is used)"
+if(!$folder){$folder='c:\windows\temp\_Updates_'}
 
 <#
 #do you want preview?
@@ -101,7 +101,8 @@ Get-MsrcCvrfDocument -ID "$((get-date).Year)-$(($culture).DateTimeFormat.GetAbbr
 #Build-CVEReport
 
 #Folder
-    $DestinationFolder="$folder\$SelectedProduct\$($update.title.Substring(0,7))"
+    $DestinationFolder="$folder\$SelectedProduct\'$(Get-Date -Format 'yyyy-MM')'"
+    New-Item -Path $folder -ItemType Directory -ErrorAction Ignore | Out-Null
     New-Item -Path $DestinationFolder -ItemType Directory -ErrorAction Ignore | Out-Null
 
 <#
@@ -134,7 +135,7 @@ function Find-CumulativMicrosoftUpdateLatest2016
   )
  
   #$OSNAME="2016"
-  Write-Verbose "Query for $OSVersion" -Verbose
+  #Write-Verbose "Query for $OSVersion" -Verbose
   #$request = Invoke-WebRequest -Uri 'https://www.catalog.update.microsoft.com/Search.aspx?q=2021-01%20Cumulative%20Update%20Windows%20Server%20x64-based%20Systems%202016' 
  
 #ok   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
@@ -161,7 +162,7 @@ function Find-CumulativMicrosoftUpdateLatest2019
   )
  
   #$OSNAME="2016"
-  Write-Verbose "Query for $OSVersion" -Verbose
+  #Write-Verbose "Query for $OSVersion" -Verbose
  
 #ok   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20for%20Windows%20Server%202019%20for%20x64-based%20-Datacenter%20-Preview%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
@@ -178,19 +179,54 @@ function Find-CumulativMicrosoftUpdateLatest2019
   )
 }
 
+function Find-CumulativMicrosoftUpdateLatest2022
+{
+  Param(
+    [String] $Month,# = $(Get-Date -Format "yyyy-MM"),
+    [ValidateSet("Microsoft server operating system version 21H2 for x64-based Systems","Windows Server x64-based Systems 2016","Windows Server x64-based Systems 2019")]
+    $OSVersion
+  )
+ 
+  #$OSNAME="2016"
+  #Write-Verbose "Query for $OSVersion" -Verbose
+ 
+#ok   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
+  $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20cumulative%20Server%20Operating%20System%20Version%2021H2%20x64%20-preview%20-framework%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
+  $Result = @($request.Links.outerText -match "Cumulative\sUpdate\sfor")
+  
+  Return @($Result | ForEach-Object { 
+      #'2020-12 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4592440)' -match 'KB[0-9]*'
+      $null = $_ -match 'KB[0-9]*'
+      [PSCustomObject]@{
+        HotFixID = $Matches[0]
+        Description = $_
+      }
+     }
+  )
+}
+
 Write-Verbose -Message "---- KBList_2016 ----" -Verbose
-$KBList2016 = (Find-CumulativMicrosoftUpdateLatest2016 -Month '2022-08' | Select-Object -First 1).HotFixID
+#$KBList2016 = (Find-CumulativMicrosoftUpdateLatest2016 -Month '2022-08' | Select-Object -First 1).HotFixID
+$KBList2016 = (Find-CumulativMicrosoftUpdateLatest2016 -Month "$(Get-Date -Format 'yyyy-MM')" | Select-Object -First 1).HotFixID
 $KBList2016 
 Write-Verbose -Message "---- Latest Cumulative Update KB-Number: $KBList2016 ----" -Verbose
 #Save-KbUpdate -Name $KBList2016 -FilePath $destinationFolder\$KBList2016.msu
 
 Write-Verbose -Message "---- KBList_2019 ----" -Verbose
-$KBList2019 = (Find-CumulativMicrosoftUpdateLatest2019 -Month '2022-08' | Select-Object -First 1).HotFixID
+$KBList2019 = (Find-CumulativMicrosoftUpdateLatest2019 -Month "$(Get-Date -Format 'yyyy-MM')" | Select-Object -First 1).HotFixID
 $KBList2019 
 Write-Verbose -Message "---- Latest Cumulative Update KB-Number: $KBList2019 ----" -Verbose
 #Save-KbUpdate -Name $KBList2019 -FilePath $destinationFolder\$KBList2019.msu
 
-start $destinationFolder
+Write-Verbose -Message "---- KBList_2022 ----" -Verbose
+$KBList2022 = (Find-CumulativMicrosoftUpdateLatest2022 -Month "$(Get-Date -Format 'yyyy-MM')" | Select-Object -First 1).HotFixID
+$KBList2022 
+Write-Verbose -Message "---- Latest Cumulative Update KB-Number: $KBList2022 ----" -Verbose
+Save-KbUpdate -Name $KBList2022 -FilePath $destinationFolder+$($KBList2022).msu
+#Save-KbUpdate -Name $KBList2022 -FilePath $destinationFolder
+
+#start $destinationFolder
+start $folder
 
 Write-verbose -message "Job finished" -verbose
 #Write-verbose -message "Press enter to continue" -verbose
