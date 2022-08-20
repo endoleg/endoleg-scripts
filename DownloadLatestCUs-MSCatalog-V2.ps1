@@ -7,28 +7,6 @@ Write-verbose -message "Windows Version $env:computername : $winver" -verbose
 
 #########################################################################################
 
-<#
-#out-grid
-$Products=@()
-$Products+=@{Product="Windows Server 2022" ;SearchString="Cumulative Update for Windows Server 2022 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2022 for x64-based Systems"           ; ID="Windows Server 2022"}
-$Products+=@{Product="Windows Server 2019" ;SearchString="Cumulative Update for Windows Server 2019 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2019 for x64-based Systems"           ; ID="Windows Server 2019"}
-$Products+=@{Product="Windows Server 2016" ;SearchString="Cumulative Update for Windows Server 2016 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2016 for x64-based Systems"           ; ID="Windows Server 2016"}
-$Products+=@{Product="Windows 10 21H2"     ;SearchString="Cumulative Update for Windows 10 Version 1909 for x64-based Systems";SSUSearchString="Servicing Stack Update for Windows 10 Version 21H2 for x64-based Systems"       ; ID="Windows 10, version 1903 and later"}
-#>
-
-#grab folder to download to
-$folder=Read-Host -Prompt "Please type path to download. For example `"c:\windows\temp`" (if nothing specified, c:\windows\temp\_Updates_ is used)"
-if(!$folder){$folder='c:\windows\temp\_Updates_'; cd $folder}
-
-#########################################################################################
-
-<#
-#let user choose products
-$SelectedProducts=$Products.Product | Out-GridView -OutputMode Multiple -Title "Please select products to download Cumulative Updates and Servicing Stack Updates"
-#>
-
-#########################################################################################
-
 #region check/download MSCatalog module
 Write-verbose -message "Checking if MSCatalog PS Module is installed" -verbose
     if (!(Get-InstalledModule -Name MSCatalog -ErrorAction Ignore)){
@@ -82,28 +60,51 @@ Write-verbose -message "Checking if kbupdate PS Module is installed" -verbose
 
 #########################################################################################
 
-#Build-CVEReport - stolen by Brandon Stevens
-Function Build-CVEReport {
-### Install the module from the PowerShell Gallery (must be run as Admin)
-#Install-Module -Name msrcsecurityupdates -force
-#Import-module msrcsecurityupdates
-Set-MSRCApiKey -ApiKey "1bd79db501ce49a5ae1a117a2de252c8" -Verbose
+<#
+#out-grid
+$Products=@()
+$Products+=@{Product="Windows Server 2022" ;SearchString="Cumulative Update for Windows Server 2022 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2022 for x64-based Systems"           ; ID="Windows Server 2022"}
+$Products+=@{Product="Windows Server 2019" ;SearchString="Cumulative Update for Windows Server 2019 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2019 for x64-based Systems"           ; ID="Windows Server 2019"}
+$Products+=@{Product="Windows Server 2016" ;SearchString="Cumulative Update for Windows Server 2016 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2016 for x64-based Systems"           ; ID="Windows Server 2016"}
+$Products+=@{Product="Windows 10 21H2"     ;SearchString="Cumulative Update for Windows 10 Version 1909 for x64-based Systems";SSUSearchString="Servicing Stack Update for Windows 10 Version 21H2 for x64-based Systems"       ; ID="Windows 10, version 1903 and later"}
+#>
 
-$culture = New-Object system.globalization.cultureinfo(“en-US”)
-Get-MsrcCvrfDocument -ID "$((get-date).Year)-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month)))" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month))).html -Force
-#Get-MsrcCvrfDocument -ID "$((get-date).Year)-Jun" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates.html
+#grab folder to download to
+$folder=Read-Host -Prompt "Please type path to download. For example `"c:\windows\temp`" (if nothing specified, c:\windows\temp\_Updates_\$(Get-Date -Format 'yyyy-MM') is used)"
+if(!$folder){$folder="c:\windows\temp\_Updates_\$(Get-Date -Format 'yyyy-MM')"}
 
-}
-#Build-CVEReport
+#########################################################################################
+
+<#
+#let user choose products
+$SelectedProducts=$Products.Product | Out-GridView -OutputMode Multiple -Title "Please select products to download Cumulative Updates and Servicing Stack Updates"
+#>
+
 
 #########################################################################################
 
 #Folder
-    $DestinationFolder="$folder\$(Get-Date -Format 'yyyy-MM')"
+    #$DestinationFolder="$folder\$(Get-Date -Format 'yyyy-MM')"
     New-Item -Path $folder -ItemType Directory -ErrorAction Ignore | Out-Null
-    New-Item -Path $DestinationFolder -ItemType Directory -ErrorAction Ignore | Out-Null
+    #New-Item -Path $DestinationFolder -ItemType Directory -ErrorAction Ignore | Out-Null
+    cd $folder
 
 #########################################################################################
+
+#Build-CVEReport - stolen by Brandon Stevens
+Function Build-CVEReport {
+    ### Install the module from the PowerShell Gallery (must be run as Admin)
+    #Install-Module -Name msrcsecurityupdates -force
+    #Import-module msrcsecurityupdates
+    Set-MSRCApiKey -ApiKey "1bd79db501ce49a5ae1a117a2de252c8" -Verbose
+
+    $culture = New-Object system.globalization.cultureinfo(“en-US”)
+    Get-MsrcCvrfDocument -ID "$((get-date).Year)-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month)))" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month))).html -Force
+    #Get-MsrcCvrfDocument -ID "$((get-date).Year)-Jun" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates.html
+} #end of function Build-CVEReport
+
+#########################################################################################
+
 
 function Find-CumulativMicrosoftUpdateLatest2016
 {
