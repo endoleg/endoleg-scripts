@@ -91,21 +91,6 @@ $SelectedProducts=$Products.Product | Out-GridView -OutputMode Multiple -Title "
 
 #########################################################################################
 
-#Build-CVEReport - stolen by Brandon Stevens
-Function Build-CVEReport {
-    ### Install the module from the PowerShell Gallery (must be run as Admin)
-    #Install-Module -Name msrcsecurityupdates -force
-    #Import-module msrcsecurityupdates
-    Set-MSRCApiKey -ApiKey "1bd79db501ce49a5ae1a117a2de252c8" -Verbose
-
-    $culture = New-Object system.globalization.cultureinfo(“en-US”)
-    Get-MsrcCvrfDocument -ID "$((get-date).Year)-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month)))" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month))).html -Force
-    #Get-MsrcCvrfDocument -ID "$((get-date).Year)-Jun" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates.html
-} #end of function Build-CVEReport
-
-#########################################################################################
-
-
 function Find-CumulativMicrosoftUpdateLatest2016
 {
   Param(
@@ -222,13 +207,49 @@ Save-KbUpdate -Name $KBList2022
 
 #########################################################################################
 
+
+#Build-CVEReport - stolen by Brandon Stevens
+Function Build-CVEReport {
+    Write-Verbose -Message "--> MsrcSecurityBulletinHtml" -Verbose
+    ### Install the module from the PowerShell Gallery (must be run as Admin)
+    #Install-Module -Name msrcsecurityupdates -force
+    #Import-module msrcsecurityupdates
+    Set-MSRCApiKey -ApiKey "1bd79db501ce49a5ae1a117a2de252c8" -Verbose
+
+    $culture = New-Object system.globalization.cultureinfo(“en-US”)
+    Get-MsrcCvrfDocument -ID "$((get-date).Year)-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month)))" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File $folder\MSRCSecurityUpdates-$(($culture).DateTimeFormat.GetAbbreviatedMonthName(((get-date).Month))).html -Force
+    #Get-MsrcCvrfDocument -ID "$((get-date).Year)-Jun" | Get-MsrcSecurityBulletinHtml -Verbose | Out-File C:\Windows\Temp\MSRCSecurityUpdates.html
+
+} #end of function Build-CVEReport
+Build-CVEReport
+
+#########################################################################################
+
+Write-Verbose -Message "--> Shortcuts" -Verbose
+
+$WshShell = New-Object -comObject WScript.Shell
+$Shortcut = $WshShell.CreateShortcut("$folder\AskWoody.url")
+$Shortcut.TargetPath = "http://www.askwoody.com"
+$Shortcut.Save()
+
+$WshShell = New-Object -comObject WScript.Shell
+$Shortcut = $WshShell.CreateShortcut("$folder\Automox-Patch-Tuesday.url")
+$Shortcut.TargetPath = "https://patch.automox.com/patch-tuesday-central"
+$Shortcut.Save()
+
+$WshShell = New-Object -comObject WScript.Shell
+$Shortcut = $WshShell.CreateShortcut("$folder\PatchTuesdayDashboard.url")
+$Shortcut.TargetPath = "https://patchtuesdaydashboard.com"
+$Shortcut.Save()
+
+#########################################################################################
+
 #start $destinationFolder
 start $folder
 #start c:\windows\system32
 
 
 #########################################################################################
-
 Write-verbose -message "Finished" -verbose
 #Write-verbose -message "Press enter to continue" -verbose
 #Read-Host
