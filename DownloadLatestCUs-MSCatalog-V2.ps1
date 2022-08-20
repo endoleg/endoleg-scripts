@@ -3,30 +3,34 @@ Start-Transcript -Path "c:\Windows\Temp\PSWindowsUpdate-V2.log"
 # stolen and modified from https://raw.githubusercontent.com/microsoft/MSLab/4862e185f9b1d63380f6f195fd9d1340df11ddd9/Tools/DownloadLatestCUs.ps1
 $winver=$(Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion' | Select-Object -Property ReleaseId, DisplayVersion).DisplayVersion
 $winver=(Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion').DisplayVersion
-Write-verbose -message "Windows Version: $winver" -verbose
+Write-verbose -message "Windows Version $env:computername : $winver" -verbose
 
 #########################################################################################
 
+<#
 #out-grid
 $Products=@()
 $Products+=@{Product="Windows Server 2022" ;SearchString="Cumulative Update for Windows Server 2022 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2022 for x64-based Systems"           ; ID="Windows Server 2022"}
 $Products+=@{Product="Windows Server 2019" ;SearchString="Cumulative Update for Windows Server 2019 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2019 for x64-based Systems"           ; ID="Windows Server 2019"}
 $Products+=@{Product="Windows Server 2016" ;SearchString="Cumulative Update for Windows Server 2016 for x64-based Systems"    ;SSUSearchString="Servicing Stack Update for Windows Server 2016 for x64-based Systems"           ; ID="Windows Server 2016"}
 $Products+=@{Product="Windows 10 21H2"     ;SearchString="Cumulative Update for Windows 10 Version 1909 for x64-based Systems";SSUSearchString="Servicing Stack Update for Windows 10 Version 21H2 for x64-based Systems"       ; ID="Windows 10, version 1903 and later"}
+#>
 
 #grab folder to download to
 $folder=Read-Host -Prompt "Please type path to download. For example `"c:\windows\temp`" (if nothing specified, c:\windows\temp\_Updates_ is used)"
-if(!$folder){$folder='c:\windows\temp\_Updates_'}
+if(!$folder){$folder='c:\windows\temp\_Updates_'; cd $folder}
 
 #########################################################################################
 
+<#
 #let user choose products
 $SelectedProducts=$Products.Product | Out-GridView -OutputMode Multiple -Title "Please select products to download Cumulative Updates and Servicing Stack Updates"
+#>
 
 #########################################################################################
 
 #region check/download MSCatalog module
-Write-verbose -message "Checking if MSCatalog PS Module is Installed" -verbose
+Write-verbose -message "Checking if MSCatalog PS Module is installed" -verbose
     if (!(Get-InstalledModule -Name MSCatalog -ErrorAction Ignore)){
         # Verify Running as Admin
         $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")
@@ -38,11 +42,11 @@ Write-verbose -message "Checking if MSCatalog PS Module is Installed" -verbose
         Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force
         Install-Module -Name MSCatalog -Force
         }else {
-        Write-verbose -message "--> MSCatalog PS Module is Installed" -verbose
+        Write-verbose -message "--> MSCatalog PS Module is installed" -verbose
     }
 #endregion
 #region check/download msrcsecurityupdates module
-Write-verbose -message "Checking if msrcsecurityupdates PS Module is Installed" -verbose
+Write-verbose -message "Checking if msrcsecurityupdates PS Module is installed" -verbose
     if (!(Get-InstalledModule -Name msrcsecurityupdates -ErrorAction Ignore)){
         # Verify Running as Admin
         $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")
@@ -55,12 +59,12 @@ Write-verbose -message "Checking if msrcsecurityupdates PS Module is Installed" 
         Install-Module -Name msrcsecurityupdates -Force
         Import-module msrcsecurityupdates
         }else {
-        Write-verbose -message "--> msrcsecurityupdates PS Module is Installed" -verbose
+        Write-verbose -message "--> msrcsecurityupdates PS Module is installed" -verbose
         Import-module msrcsecurityupdates
     }
 #endregion
 #region check/download kbupdate module
-Write-verbose -message "Checking if kbupdate PS Module is Installed" -verbose
+Write-verbose -message "Checking if kbupdate PS Module is installed" -verbose
     if (!(Get-InstalledModule -Name kbupdate -ErrorAction Ignore)){
         # Verify Running as Admin
         $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")
@@ -72,7 +76,7 @@ Write-verbose -message "Checking if kbupdate PS Module is Installed" -verbose
         Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force
         Install-Module -Name kbupdate -Force
         }else {
-        Write-verbose -message "--> kbupdate PS Module is Installed" -verbose
+        Write-verbose -message "--> kbupdate PS Module is installed" -verbose
     }
 #endregion
 
@@ -115,6 +119,7 @@ function Find-CumulativMicrosoftUpdateLatest2016
  
 #ok   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Windows%20Server%202016%20x64%20for%20x64-based%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
+#  $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Windows%20Server%202016%20x64%20for%20x64-based%20{1}' -f $Month  )
   $Result = @($request.Links.outerText -match "Cumulative\sUpdate\sfor")
   
   Return @($Result | ForEach-Object { 
@@ -138,10 +143,8 @@ function Find-CumulativMicrosoftUpdateLatest2019
     $OSVersion
   )
  
-  #$OSNAME="2016"
-  #Write-Verbose "Query for $OSVersion" -Verbose
- 
 #ok   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
+#  $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20for%20Windows%20Server%202019%20for%20x64-based%20-Datacenter%20-Preview%20{1}' -f $Month  )
   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20for%20Windows%20Server%202019%20for%20x64-based%20-Datacenter%20-Preview%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
   $Result = @($request.Links.outerText -match "Cumulative\sUpdate\sfor")
   
@@ -171,6 +174,7 @@ function Find-CumulativMicrosoftUpdateLatest2022
  
 #ok   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20Cumulative%20Update%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
   $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20cumulative%20Server%20Operating%20System%20Version%2021H2%20x64%20-preview%20-framework%20{1}' -f $Month,[uri]::EscapeUriString($OSVersion)  )
+#  $request = Invoke-WebRequest -Uri ('https://www.catalog.update.microsoft.com/Search.aspx?q={0}%20cumulative%20Server%20Operating%20System%20Version%2021H2%20x64%20-preview%20-framework%20{1}' -f $Month  )
   $Result = @($request.Links.outerText -match "Cumulative\sUpdate\sfor")
   
   Return @($Result | ForEach-Object { 
@@ -186,13 +190,14 @@ function Find-CumulativMicrosoftUpdateLatest2022
 
 #########################################################################################
 
-# Download
+
+Write-Verbose -Message "Downloads" -Verbose
 
 #Write-Verbose -Message "---- KBList_2016 ----" -Verbose
 #$KBList2016 = (Find-CumulativMicrosoftUpdateLatest2016 -Month '2022-08' | Select-Object -First 1).HotFixID
 $KBList2016 = (Find-CumulativMicrosoftUpdateLatest2016 -Month "$(Get-Date -Format 'yyyy-MM')" | Select-Object -First 1).HotFixID
 #$KBList2016 
-Write-Verbose -Message "---> Download latest Cumulative Update KB-Number: $KBList2016 ----" -Verbose
+Write-Verbose -Message "--> Download latest 2016 Cumulative Update KB-Number: $KBList2016" -Verbose
 #Save-KbUpdate -Name $KBList2016 -FilePath $destinationFolder\$KBList2016.msu
 Save-KbUpdate -Name $KBList2016 
 
@@ -201,8 +206,8 @@ Save-KbUpdate -Name $KBList2016
 #Write-Verbose -Message "---- KBList_2019 ----" -Verbose
 $KBList2019 = (Find-CumulativMicrosoftUpdateLatest2019 -Month "$(Get-Date -Format 'yyyy-MM')" | Select-Object -First 1).HotFixID
 #$KBList2019 
-Write-Verbose -Message "---> Download latest Cumulative Update KB-Number: $KBList2019 ----" -Verbose
-Save-KbUpdate -Name $KBList2019 -FilePath $destinationFolder\$KBList2019.msu
+Write-Verbose -Message "--> Download latest 2019 Cumulative Update KB-Number: $KBList2019" -Verbose
+#Save-KbUpdate -Name $KBList2019 -FilePath $destinationFolder\$KBList2019.msu
 Save-KbUpdate -Name $KBList2019 #-FilePath $destinationFolder\$KBList2019.msu
 
 #########################################################################################
@@ -210,7 +215,7 @@ Save-KbUpdate -Name $KBList2019 #-FilePath $destinationFolder\$KBList2019.msu
 #Write-Verbose -Message "---- KBList_2022 ----" -Verbose
 $KBList2022 = (Find-CumulativMicrosoftUpdateLatest2022 -Month "$(Get-Date -Format 'yyyy-MM')" | Select-Object -First 1).HotFixID
 #$KBList2022 
-Write-Verbose -Message "---> Download latest Cumulative Update KB-Number: $KBList2022 ----" -Verbose
+Write-Verbose -Message "--> Download latest 2022 Cumulative Update KB-Number: $KBList2022" -Verbose
 #Save-KbUpdate -Name $KBList2022 -FilePath c:\Windows\temp\KBList2022.msu
 Save-KbUpdate -Name $KBList2022
 
@@ -218,6 +223,8 @@ Save-KbUpdate -Name $KBList2022
 
 #start $destinationFolder
 start $folder
+#start c:\windows\system32
+
 
 #########################################################################################
 
