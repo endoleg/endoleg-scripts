@@ -35,3 +35,23 @@ https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
 
 6-Tage-Plan
 https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
+
+Einreise in die USA 
+Für die Einreise in die USA ist eine elektronische Einreiseerlaubnis (ESTA) zu beantragen. Ohne gültiges ESTA ist eine Einreise in die USA nicht möglich. Falls Ihr das ESTA über TR Germany buchen möchtet, dann bitte bei der Reisebuchung als Zusatzleistung auswählen. Ansonsten könnt Ihr dies auch online selbst über folgenden Link beantragen: https://esta.cbp.dhs.gov/disclaimer
+Ebenfalls wird ein gültiger Reisepass benötigt, der bis zum Tag der Ausreise Gültikeit besitzt.
+
+Covid-19 Bedingungen
+
+Bestimmungen zur Einreise ändern sich mit der Pandemielage häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen auf der Webseite der zuständigen Vertretung der USA in Deutschland.
+Vollständig geimpfte Flugreisende können in die USA einreisen. Ausnahmen von der Impfpflicht gibt es in wenigen Fällen. Eine Testpflicht vor Abreise besteht nicht mehr.
+Vor Abreise muss der Fluggesellschaft ein aktueller und gültiger Impfausweis vorgelegt werden.
+Vollständig geimpfte Personen, die innerhalb von 90 Tagen vor Reisebeginn von COVID-19 genesen sind, müssen zusätzlich zu ihrem positiven COVID-19-Test auch eine ärztliche Bescheinigung über die vollständige Genesung vorlegen.
+Ausführliche Hinweise zu Einreise und Aufenthalt (auch zu Kreuzimpfungen) veröffentlich das Center of Disease Control – CDC.
+Vor dem Abflug in die USA muss ein Gesundheitsformular ausgefüllt werden.
+
+
+
+
+
+
+
