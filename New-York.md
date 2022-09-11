@@ -30,8 +30,9 @@ Wir möchten schon jetzt darauf hinweisen, dass für den Besuch der Spiele ein S
 Es ist auch möglich mehrere Tickets, z.B. von Mitreisenden, auf einem Mobiltelefon mitzuführen. Tickets können dann auch offline (ohne Internetzugang in Kanada/USA) in die Apple Wallet (bei iphone) oder in Google pay (bei Android) geladen werden. 
 In den USA haben aber auch alle Arenen einen kostenfreien Zugang zum WLAN.
 
-Dre Ausflug:
+Organisierte NBA-Reisen:
 https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
+https://www.fairflight.de/reisearten/sportreisen/nba-reisen/nba-reisen-new-york-knicks
 
 6-Tage-Plan
 https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
