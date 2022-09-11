@@ -16,6 +16,7 @@ https://www.google.de/travel/flights/booking?tfs=CBwQAhpKagwIAhIIL20vMDJ6MGoSCjI
 NBA-Karten:
 https://www.newyorkcity.de/brooklyn-nets-tickets/
 https://www.newyorkcity.de/new-york-knicks-tickets/
+http://ticketmaster.com/
 
 Letzter Spieltag: Sonntag, 09.04.2023
 Danach Playofss
@@ -33,6 +34,10 @@ In den USA haben aber auch alle Arenen einen kostenfreien Zugang zum WLAN.
 Organisierte NBA-Reisen:
 https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
 https://www.fairflight.de/reisearten/sportreisen/nba-reisen/nba-reisen-new-york-knicks
+https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
+
+
+
 
 6-Tage-Plan
 https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
