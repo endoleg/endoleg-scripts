@@ -39,6 +39,10 @@ NBA-Spielplan:
 https://www.sport1.de/daten/us-sport/nba/spielplan
 Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
 
+Übersicht Madison Square Garden:
+
+https://www.fairflight.de/images/reisearten/sportreisen/nba-new-york-knicks/madison-square-garden_620x.webp
+
 Hinweis zu den Eintrittskarten:
 
 In allen Arenen gibt es mittlerweile nur noch elekronische Tickets. Papiertickets (Versand oder Ausdruck zu Hause) gibt es nicht mehr. Die Eintrittskarten zu den Spielen erhält man als E-Ticket zum Download auf sein Mobiltelefon. 
