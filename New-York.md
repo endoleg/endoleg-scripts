@@ -1,3 +1,20 @@
+Eingeschlossene Leistungen sollten sein:
+
+- Linienflug ab dem 01.03.2023 nach New York ab Frankfurt
+- Linienflug spätestens am 08.04.2023 nach Frankfurt ab New York 
+- 7 Nächte Hotel - 3 Sterne
+- Flughafentransfers in New York
+- 1 Ticket pro Person für 1 oder 2 Heimspiele der New York Knicks / Brooklyn Nets (Bitte sowohl Kategorie 300er Section als auch Kategorie 200 und 100 anbieten, damit wir danach noch entscheiden können)
+- Stadtrundfahrt in New York - 72 Stunden Hop-on Hop-off Tour (deutschsprachiger Audioguide/Headset)
+- Eintrittskarte zur einzigartigen "Top of the Rock" Aussichtsplattform
+- Bootstour New York (ca. 70 Min)
+- Reiseführer inkl. Straßenkarte
+- Rabattkarte für New Yorks größtes Kaufhaus
+- Reisepreissicherungsschein
+- Flughafengebühren
+- alle lokalen und staatlichen Steuern
+
+
 Flugsuche:
 https://www.google.de/flights
 https://www.swoodoo.com
@@ -26,6 +43,7 @@ NBA-Spielplan:
 https://www.sport1.de/daten/us-sport/nba/spielplan
 
 Hinweis zu den Eintrittskarten:
+
 In allen Arenen gibt es mittlerweile nur noch elekronische Tickets. Papiertickets (Versand oder Ausdruck zu Hause) gibt es nicht mehr. Die Eintrittskarten zu den Spielen erhält man als E-Ticket zum Download auf sein Mobiltelefon. 
 Wir möchten schon jetzt darauf hinweisen, dass für den Besuch der Spiele ein Smartphone (iphone oder Android) zur Verfügung stehen muss. Darauf müssen dann die jeweiligen Apps der Clubs geladen werden, in diesen sind dann die Tickets sichtbar. 
 Es ist auch möglich mehrere Tickets, z.B. von Mitreisenden, auf einem Mobiltelefon mitzuführen. Tickets können dann auch offline (ohne Internetzugang in Kanada/USA) in die Apple Wallet (bei iphone) oder in Google pay (bei Android) geladen werden. 
@@ -43,6 +61,7 @@ https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
 https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
 
 Einreise in die USA 
+
 Für die Einreise in die USA ist eine elektronische Einreiseerlaubnis (ESTA) zu beantragen. Ohne gültiges ESTA ist eine Einreise in die USA nicht möglich. Falls Ihr das ESTA über TR Germany buchen möchtet, dann bitte bei der Reisebuchung als Zusatzleistung auswählen. Ansonsten könnt Ihr dies auch online selbst über folgenden Link beantragen: https://esta.cbp.dhs.gov/disclaimer
 Ebenfalls wird ein gültiger Reisepass benötigt, der bis zum Tag der Ausreise Gültikeit besitzt.
 
