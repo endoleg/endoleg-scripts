@@ -1,4 +1,4 @@
-Eingeschlossene Leistungen sollten sein:
+Wir bitten um ein unverbindliches Angebot. Eingeschlossene Leistungen sollten sein:
 
 - Linienflug ab dem 01.03.2023 nach New York ab Frankfurt
 - Linienflug spätestens am 08.04.2023 nach Frankfurt ab New York 
