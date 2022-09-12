@@ -15,6 +15,12 @@ Eingeschlossene Leistungen sollten sein:
 - alle lokalen und staatlichen Steuern
 
 
+Was kostet New York?:
+https://viel-unterwegs.de/kosten-new-york-reise/
+
+Klima in New York:
+https://www.newyork-reise.de/wetterin.htm
+
 Flugsuche:
 https://www.google.de/flights
 https://www.swoodoo.com
