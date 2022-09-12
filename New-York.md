@@ -6,7 +6,7 @@ Eingeschlossene Leistungen sollten sein:
 - Flughafentransfers in New York
 - 1 Ticket pro Person für 1 oder 2 Heimspiele der New York Knicks / Brooklyn Nets (Bitte sowohl Kategorie 300er Section als auch Kategorie 200 und 100 anbieten, damit wir danach noch entscheiden können)
 - Stadtrundfahrt in New York - 72 Stunden Hop-on Hop-off Tour (deutschsprachiger Audioguide/Headset)
-- Eintrittskarte zur einzigartigen "Top of the Rock" Aussichtsplattform
+- Eintrittskarte  "Top of the Rock" Aussichtsplattform
 - Bootstour New York (ca. 70 Min)
 - Reiseführer inkl. Straßenkarte
 - Rabattkarte für New Yorks größtes Kaufhaus
