@@ -35,12 +35,9 @@ https://www.newyorkcity.de/brooklyn-nets-tickets/
 https://www.newyorkcity.de/new-york-knicks-tickets/
 http://ticketmaster.com/
 
-Letzter Spieltag: Sonntag, 09.04.2023
-Danach Playofss
-New York Knicks oder Brooklyn Nets
-
 NBA-Spielplan:
 https://www.sport1.de/daten/us-sport/nba/spielplan
+Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
 
 Hinweis zu den Eintrittskarten:
 
