@@ -2,6 +2,8 @@ Idera Powertips:
 
 https://blog.idera.com/database-tools/powershell/powertips/
 
+https://blog.idera.com/database-tools/powershell/
+
 
 Youtube:
 
