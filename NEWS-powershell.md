@@ -8,6 +8,12 @@ Youtube:
 #Powershell Youtube videos - longer than 20 Min. - this week - sort by date
 https://www.youtube.com/results?search_query=Powershell&sp=CAISCAgDEAEYAlgD
 
+
+
+https://github.com/mdowst/PowerShell-Mastodon-Report/blob/main/Reports/RecentPosts.md
+
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 Tweets with word Powershell minimum 10 retweets (Powershell min_retweets:10)
