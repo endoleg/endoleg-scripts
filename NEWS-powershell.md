@@ -14,6 +14,11 @@ Recent PowerShell Topics Mastodon:
 https://github.com/mdowst/PowerShell-Mastodon-Report/blob/main/Reports/RecentPosts.md
 
 
+MastoPosh.CSV:
+
+https://github.com/doctordns/MastoPosh/blob/main/MastoPosh.CSV
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 Tweets with word Powershell minimum 10 retweets (Powershell min_retweets:10)
