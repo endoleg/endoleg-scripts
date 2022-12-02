@@ -1,6 +1,6 @@
 Idera Powertips:
 
-https://community.idera.com/database-tools/powershell/powertips/b/tips
+https://blog.idera.com/database-tools/powershell/powertips/
 
 
 Youtube:
