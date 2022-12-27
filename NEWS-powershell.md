@@ -20,6 +20,10 @@ MastoPosh.CSV:
 
 https://github.com/doctordns/MastoPosh/blob/main/MastoPosh.CSV
 
+--------------------------------------------------------------------------------------------------------------------
+
+Tweets with word archive.vn and minimum 10 faves (archive.vn min_faves:10)
+https://twitter.com/search?q=archive.vn%20min_faves%3A10&src=typed_query&f=top
 
 --------------------------------------------------------------------------------------------------------------------
 
