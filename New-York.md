@@ -1,3 +1,22 @@
+- https://viel-unterwegs.de/packliste-urlaub/
+- https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
+
+New York Public Theatre
+- https://publictheater.org/productions/season/2021/sitp/merry-wives/
+- https://publictheater.org/your-2223-programming/
+- https://publictheater.org/
+
+
+Internet und Telefon
+Für New York bietet sich an, eine lokale SIM-Karte zu kaufen. Du benötigst Datenvolumen für UBER, Lyft oder Open Table, um einen Tisch fürs Abendessen zu reservieren.
+
+Manchmal kauft man spontan Tickets vor Ort, um die Warteschlange zu umgehen. Für tägliche Verlosungen für Musical Tickets per App lohnt sich der Datenpass ebenfalls.
+
+Wir nutzen in den USA gerne die Tourisim, da wir diese vor der Reise bestellen können und viel Datenvolumen benötigen (30 GB). Reist du beruftlich und benötigst mehr Daten? Dann solltest du eine eSIM bei Telekom in den USA kaufen. Eine Anleitung findest du hier (funktioniert, haben wir getestet):
+- https://www.t-mobile.com/support/plans-features/t-mobile-esim-app
+
+
+
 Metro:
 7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
 Neu: Metro Card als App dank OMNY
@@ -6,19 +25,31 @@ https://new.mta.info/fares
 
 
 DKB
+
 Ich steige aus dem Flieger, hole mein Gepäck, um dann direkt zum Bankautomaten zu gehen. 
 Dank meiner Kreditkarte der DKB Bank kann ich US-Dollar abheben, ohne Gebühren bezahlen zu müssen. Nirgendwo auf der Welt. Ist das nicht toll?
 Erstbesucher in New York: Suche dir ein Hotel in Midtown (Times Square - Herald Square)
 Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen
 
 
+Essen:
+Aber als weiteres typische Essen in New York würde ich dir empfehlen:
+
+Shake Shack für Burger (Alternativ: Spotted Pig, Dure Smaakoder Bareburger)
+Ess-A-Bagel - die Institution überhaupt für einen Bagel zum Frühstück (oder ein französisches Frühstück bei Maison Kaiser - okay für dich vielleicht nicht die Offenbarung, da es das auch in Deutschland gibt)
+Pizza bei Roberta's Pizza, Two Boots Pizza oder 99 Cent Pizza (gibt es überall, ist günsig aber keine Offenbarung)
+Essen an Food Trucks wie Halal Guys, Big Gay Ice Cream, Wafels&Dinges oder den typischen Hotdog Wagen.
+Und ein Pastrami Sandwich natürlich bei Katz's Delicatessen
+Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
+
+- https://viel-unterwegs.de/new-york-essen-restaurant-tipps/
+
+
 Bargeld
 
 Wieviel Bargeld muss ich mit nach New York nehmen?
 In New York gibt es viele ATM's (Bankautomaten). Ihr braucht nur sehr selten Bargeld. Bei der ersten Reise hatte ich etwa $ 150 Bargeld abgehoben. Das reichte ein paar Tage. Ihr könnt wirklich überall mit Kreditkarte bezahlen.
-
 Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direkt am Flughafen in New York bei Ankunft ab.
-
 Beim Wechseln vor der Reise in der Bank musst du Gebühren bezahle. Außerdem bekommst du oft einen schlechteren Wechselkurs. Wenn du eine gute Reisekreditkarte besitzt, kannst du Geld am Automaten (ATM) abheben, ohne Gebühren bezahlen zu müssen.
 
 Gute Seiten:
@@ -30,7 +61,10 @@ Was kostet New York?:
 - https://viel-unterwegs.de/kosten-new-york-reise/
 
 Apps:
-Für die Suche nach Restaurants schaue ich immer bei Tripadvisor oder Yelp nach. Hier findest du aktuelle Tipps und Empfehlungen für gute Restaurants in deiner Nähe.
+- Für die Suche nach Restaurants schaue ich immer bei Tripadvisor oder Yelp nach. Hier findest du aktuelle Tipps und Empfehlungen für gute Restaurants in deiner Nähe.
+-Nutzt für die Suche in der Umgebung die App YELP. Diese ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants.
+Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
+
 
 Klima in New York:
 - https://www.newyork-reise.de/wetterin.htm
@@ -194,6 +228,11 @@ Sonst:
 - http://nyccabfare.com/
 - https://gettransfer.com/
 - https://viel-unterwegs.de/wie-vom-flughafen-new-york-nach-manhattan/
+
+Taxi, UBER und Lyft
+Taxi fahren funktioniert in New York wie bei uns. Fahrer heranwinken, Adresse nennen und später bezahlen. Du kannst in Taxen auch mit Kreditkarte bezahlen. Allerdings haben wir beim letzten Besuch erneut die Erfahrung gemacht, dass Taxifahrer einfach viel zu viel verlangen.
+
+Günstiger sind Fahrten mit UBER und Lyft. Die Fahrer sind darüber hinaus freundlicher. Prüft vor jeder Fahrt mit beiden Apps, wo der Preis gerade günstiger ist. Dieser richtet sich nach Stoßzeiten und Verfügbarkeit an Autos. Vergleichen lohnt sich!
 
 Supershuttle
 
