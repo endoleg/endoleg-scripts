@@ -122,3 +122,13 @@ Eric’s New York App
 Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York.
  Eric’s New York App für iOS https://apps.apple.com/de/app/erics-new-york/id1129643452 
 
+
+Kosten für Transportmittel in New York
+In New York gibt es diverse Möglichkeiten um von A nach B zu kommen. Ich nutze immer die Metro aber auch manchmal ein Taxi. Auch wenn ich die Innenstadt Mannhattans komplett zu Fuß durchquert habe: Manchmal nimmt man doch die Metro oder ein Taxi.
+Kosten für den Flughafentransfer JFK - Manhattan: 55 $
+→ Meine Tipps, wie du bei Ankunft vom Flughafen in New York ins Zentrum kommst. 
+Metro Card New York: 5,50 $ einfache Fahrt | 7-Tage unlimited Pass: 32 $
+(dazu kommt ein Pfand von 1 $ für eine MetroCard)
+Ein Fahrt mit dem Yellow Cab Taxi kostet eine Grundpauschale von 2.50 $, dazu eine Steuer von 0,50 $. Je Meile kommen Kosten von 1 $ dazu.
+Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor der Reise die UBER App aufs Handy laden und dann die Preise vergleichen.
+Kostenlos mit der Fähre fahren? Dank der Staten Island Ferry ist das möglich. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
