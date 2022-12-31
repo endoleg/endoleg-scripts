@@ -38,12 +38,18 @@ NBA-Spielplan:
 - https://www.sport1.de/daten/us-sport/nba/spielplan
 - Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
 
-Brooklyn Nets und WNBA
+Brooklyn Nets
 https://www.newyorkcity.de/brooklyn-nets-tickets/
 https://www.newyorkcity.de/new-york-knicks-tickets/
 Letzter Spieltag: Sonntag, 09.04.2023, Danach Playoffs
 New York Knicks 
 https://www.basketball-reference.com/friv/playoff_prob.html
+
+WNBA-Spiel
+- https://liberty.wnba.com/schedule/#?season=2023&seasontype=02
+- https://www.newyorkcity.de/new-york-liberty-basketball-tickets/
+Sunday, May 21, 2:00 PM ET Commissioner's cup
+Saturday, May 27, 7:00 PM ET Commissioner's cup
 
 Übersicht Madison Square Garden:
 - https://le-cdn.website-editor.net/s/c63051bc3da44aa3a17ea224d92d15f0/dms3rep/multi/opt/MadisonSquareGarden_Basketball_2021-02-22_2021-02-22_1200_02222021_130342_SVGC_tn-1920w.png?Expires=1664818160&Signature=LrdvBs9vp9J9kkjMskiMCjp6Jm-96SsvZDr9eWRrSvU4y9JiJBxYEbUOZGIDQsiGWRnPPM-mKsxKKfToL4MJQqrosvlZqgek0NDK8~PMztx5-ojSsrgPqisa~CbmeQZuY9dFka1GsL5OKTaRCyokOhBsZMCmDnSdOT01trTS~RPJmoQcVSDGgEDty23p04Fszhl0iF2moQ8UJKcw9UO1odpjyaBoKbKBQYESxcso-nVt9LbTBm1y0ciMk4r5OOlXoTGLEnJV~jCtHVPMpGs9cfCVaUNrkiFec5IKnloAHdKLRmQle78fct9udUa1em4~bQsRShLxJmUXdTzFiZ5Z0A__&Key-Pair-Id=K2NXBXLF010TJW
@@ -71,9 +77,27 @@ Organisierte NBA-Reisen:
 - https://weltreisender.net/7-tage-new-york-city-eine-woche-die-es-in-sich-hatte-47678/
 - https://jointhesunnyside.de/5-tage-new-york/
 
-Einreise in die USA 
-- Für die Einreise in die USA ist eine elektronische Einreiseerlaubnis (ESTA) zu beantragen. Ohne gültiges ESTA ist eine Einreise in die USA nicht möglich. Falls Ihr das ESTA über TR Germany buchen möchtet, dann bitte bei der Reisebuchung als Zusatzleistung auswählen. Ansonsten könnt Ihr dies auch online selbst über folgenden Link beantragen: https://esta.cbp.dhs.gov/disclaimer
-- Ebenfalls wird ein gültiger Reisepass benötigt, der bis zum Tag der Ausreise Gültikeit besitzt.
+Einreise
+- https://travel-details.eu/de?tid=VZJZ-74JQ-VEBA
+- https://travel-details.eu/de/pdf/VZJZ-74JQ-VEBA?expires=1672153227&signature=58707484d1b34c639d9183688803fbb0ca1b5173504e7ce2ba75bb0da5e8d341
+
+Einreisebestimmung für die USA
+Lesen Sie bitte sehr aufmerksam die Einreisebedingungen und Visa Waiver Vorschriften für die USA durch. Informationen dazu finden Sie auf unserer Homepage und der Website von ESTA .
+Sie sind verpflichtet, mindestens 72 Stunden vor Ihrer Abreise einen so genannten „Visa waiver“ auszufüllen. Falls Sie das nicht tun, wird Ihnen die Einreise in die USA verweigert.
+Zwingend erforderlich für die Einreise ist die ESTA Registrierung. Diese muss spätestens bis 72 Stunden vor Abflug Online getätigt werden. Die Kosten hierfür liegen bei derzeit 14 Dollar pro Person.                              
+Beantragung unter:  
+- https://esta.cbp.dhs.gov/esta/
+- https://esta.cbp.dhs.gov/disclaimer
+
+
+Deutsche Staatsbürger benötigen einen eigenen maschinenlesbaren (bordeauxfarbenen) Reisepass, der für die Dauer des Aufenthaltes gültig sein muss. Ältere, nicht maschinenlesbare Pässe sowie vorläufige Reisepässe werden zur visumfreien Einreise in die USA nicht akzeptiert.
+Reisepässe, die am oder nach dem 26.10.2006 ausgestellt wurden, müssen 'e-Reisepässe' sein, d.h. sie müssen einen integrierten
+Computerchip enthalten, der in der Lage ist, biografische Informationen der Personaldatenseite und das digitale Foto zu speichern.
+Bitte erkundigen Sie sich immer auf der Homepage vom Auswärtigem Amt über aktuelle Einreisebestimmungen: http://www.auswaertiges-amt.de
+Bürger anderer Nationen erfragen die für sie gültigen Einreisebestimmungen bei der Einreise- und Visa-Hotline der US Botschaft in Berlin: +49 30 830 50. Düsseldorf: +49 211 788 89 27. Frankfurt: +49 69 753 50.
+Außerdem werden alle Einreisenden bei der Ankunft in den USA fotografiert und sie müssen digitale Fingerabdrücke abgeben.
+https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
+
 
 Richtlinie (EU) 2015/2302 (Pauschalreiserichtlinie)
 - https://de.wikipedia.org/wiki/Richtlinie_(EU)_2015%2F2302_(Pauschalreiserichtlinie)
@@ -82,12 +106,19 @@ Daher können Sie alle EU-Rechte in Anspruch nehmen, die für Pauschalreisen gel
 seiner Insolvenz.
 - https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
 
-
 Lebenshaltungskosten-Vergleich New York - Wiesbaden:
 - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
-
 
 Transfer nach New York
 - https://www.newyorkcity.de/transfer-nach-new-york/
 
+eSIM-Karten-Datentarif für New York
+-----------------------
+https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
+
+
+Eric’s New York App 
+
+Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York.
+ Eric’s New York App für iOS https://apps.apple.com/de/app/erics-new-york/id1129643452 
 
