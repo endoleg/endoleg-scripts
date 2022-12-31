@@ -1,3 +1,6 @@
+Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen
+
+
 Was kostet New York?:
 - https://viel-unterwegs.de/kosten-new-york-reise/
 
@@ -29,12 +32,18 @@ NBA-Karten:
 - http://ticketmaster.com/
 - https://www.hellotickets.de/vereinigte-staaten/new-york/nba-tickets-new-york/sc-1-1580
 - Wer die Tickets bereits hier von zuhause aus in Deutschland kaufen möchte, der kann auf Hellotickets.de sein Glück versuchen. Hier finden sich oft günstige Preise, und die Kaufabwicklung ist sicher und komfortabel. Auf dieser Website siehst du alle Bereiche der Arena und die genaue Ansicht aller verfügbaren Sitzplätze. Die Tickets kommen in digitaler Form bei dir an, sodass du dir keine Sorgen machen musst, wenn du keine Adresse in den USA angeben kannst, um die Papiertickets dorthin zu erhalten. Bei Fragen hilft der Support in europäischer bzw. in deutscher Zeit. Das hat den Vorteil, dass Hilfe verfügbar ist, wenn sie hierzulande benötigt wird und nicht Tage vergehen durch Kommunikation über unterschiedliche Zeitzonen hinweg.
-
 - Die Plätze mit dem besten Preis Leistungsverhältnis befinden sich in den 200 Blöcken. Hier empfehle ich euch aber an der Längsseite des Spielfeldes zu sitzen und nicht hinter den Körben. Die Blöcke 209, 210, 211, 212, 213, 221, 222, 223, 224, 225 und 226 sind die richtige Wahl für einen Besuch.
 
 NBA-Spielplan:
 - https://www.sport1.de/daten/us-sport/nba/spielplan
 - Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
+
+Brooklyn Nets und WNBA
+https://www.newyorkcity.de/brooklyn-nets-tickets/
+https://www.newyorkcity.de/new-york-knicks-tickets/
+Letzter Spieltag: Sonntag, 09.04.2023, Danach Playoffs
+New York Knicks 
+https://www.basketball-reference.com/friv/playoff_prob.html
 
 Übersicht Madison Square Garden:
 - https://le-cdn.website-editor.net/s/c63051bc3da44aa3a17ea224d92d15f0/dms3rep/multi/opt/MadisonSquareGarden_Basketball_2021-02-22_2021-02-22_1200_02222021_130342_SVGC_tn-1920w.png?Expires=1664818160&Signature=LrdvBs9vp9J9kkjMskiMCjp6Jm-96SsvZDr9eWRrSvU4y9JiJBxYEbUOZGIDQsiGWRnPPM-mKsxKKfToL4MJQqrosvlZqgek0NDK8~PMztx5-ojSsrgPqisa~CbmeQZuY9dFka1GsL5OKTaRCyokOhBsZMCmDnSdOT01trTS~RPJmoQcVSDGgEDty23p04Fszhl0iF2moQ8UJKcw9UO1odpjyaBoKbKBQYESxcso-nVt9LbTBm1y0ciMk4r5OOlXoTGLEnJV~jCtHVPMpGs9cfCVaUNrkiFec5IKnloAHdKLRmQle78fct9udUa1em4~bQsRShLxJmUXdTzFiZ5Z0A__&Key-Pair-Id=K2NXBXLF010TJW
@@ -66,15 +75,19 @@ Einreise in die USA
 - Für die Einreise in die USA ist eine elektronische Einreiseerlaubnis (ESTA) zu beantragen. Ohne gültiges ESTA ist eine Einreise in die USA nicht möglich. Falls Ihr das ESTA über TR Germany buchen möchtet, dann bitte bei der Reisebuchung als Zusatzleistung auswählen. Ansonsten könnt Ihr dies auch online selbst über folgenden Link beantragen: https://esta.cbp.dhs.gov/disclaimer
 - Ebenfalls wird ein gültiger Reisepass benötigt, der bis zum Tag der Ausreise Gültikeit besitzt.
 
-Covid-19 Bedingungen
-- Bestimmungen zur Einreise ändern sich mit der Pandemielage häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen auf der Webseite der zuständigen Vertretung der USA in Deutschland.
-- Vollständig geimpfte Flugreisende können in die USA einreisen. Ausnahmen von der Impfpflicht gibt es in wenigen Fällen. Eine Testpflicht vor Abreise besteht nicht mehr.
-- Vor Abreise muss der Fluggesellschaft ein aktueller und gültiger Impfausweis vorgelegt werden.
-- Vollständig geimpfte Personen, die innerhalb von 90 Tagen vor Reisebeginn von COVID-19 genesen sind, müssen zusätzlich zu ihrem positiven COVID-19-Test auch eine ärztliche Bescheinigung über die vollständige Genesung vorlegen.
-- Ausführliche Hinweise zu Einreise und Aufenthalt (auch zu Kreuzimpfungen) veröffentlich das Center of Disease Control – CDC.
-- Vor dem Abflug in die USA muss ein Gesundheitsformular ausgefüllt werden.
+Richtlinie (EU) 2015/2302 (Pauschalreiserichtlinie)
+- https://de.wikipedia.org/wiki/Richtlinie_(EU)_2015%2F2302_(Pauschalreiserichtlinie)
+Bei Pauschalreisen haftet der Reiseveranstalter gemäß Reisevertrag verschuldensunabhängig für Reisemängel (§ 651i BGB), geregelt sind die beidseitigen Kündigungs- und Rücktrittsrechte vor Reiseantritt und während der Reise, die Ansprüche des Reisenden aus Minderung des Reisepreises, Schadensersatz, Aufwendungsersatz oder Abhilfe.
+Daher können Sie alle EU-Rechte in Anspruch nehmen, die für Pauschalreisen gelten. Das Unternehmen trägt die volle Verantwortung für die ordnungsgemäße Durchführung der gesamten Pauschalreise.Zudem verfügt das Unternehmen über die gesetzlich vorgeschriebene Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung Ihrer Rückbeförderung im Fall
+seiner Insolvenz.
+- https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
 
 
+Lebenshaltungskosten-Vergleich New York - Wiesbaden:
+- https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
 
+
+Transfer nach New York
+- https://www.newyorkcity.de/transfer-nach-new-york/
 
 
