@@ -1,20 +1,3 @@
-Wir bitten um ein unverbindliches Angebot. Eingeschlossene Leistungen sollten sein:
-
-- Linienflug ab dem 01.03.2023 nach New York ab Frankfurt
-- Linienflug spätestens am 08.04.2023 nach Frankfurt ab New York 
-- 7 Nächte Hotel - 3 Sterne
-- Flughafentransfers in New York
-- 1 Ticket pro Person für 1 oder 2 Heimspiele der New York Knicks / Brooklyn Nets (Bitte sowohl Kategorie 300er Section als auch Kategorie 200 und 100 anbieten, damit wir danach noch entscheiden können)
-- Stadtrundfahrt in New York - 72 Stunden Hop-on Hop-off Tour (deutschsprachiger Audioguide/Headset)
-- Eintrittskarte  "Top of the Rock" Aussichtsplattform
-- Bootstour New York (ca. 70 Min)
-- Reiseführer inkl. Straßenkarte
-- Rabattkarte für New Yorks größtes Kaufhaus
-- Reisepreissicherungsschein
-- Flughafengebühren
-- alle lokalen und staatlichen Steuern
-
-
 Was kostet New York?:
 - https://viel-unterwegs.de/kosten-new-york-reise/
 
@@ -23,20 +6,20 @@ Klima in New York:
 
 Pass-Berater:
 - https://lovingnewyork.de/new-york-pass-berater/
+- https://www.newyorkcity.de/new-york-pass/
 
-Reisezeitraum bzgl. Prewise am besten von Mittwoch bis Dienstag
+Reisezeitraum bzgl. Preisen am besten von Mittwoch bis Dienstag
 
 Flugsuche:
 - https://www.google.de/flights
 - https://www.swoodoo.com
 - https://www.expedia.de/?pwaLob=wizard-flight-pwa
+- idealo flights
 
 Flugpreise:
-- Der Flug kostet ca. 400 - 450 Euro insgesamt, also anscheinend Hin- und zurück zusammen inkl. Steuern.
+- Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
 
 Beispiel: 
-- Hinflug: Fr., 10. März11:05 – 13:55, Rückflug: Fr., 17. März16:55 – 05:15
-- 332 € plus ca. 30-40 Euro Steuern
 - https://www.google.de/travel/flights/booking?tfs=CBwQAhpKagwIAhIIL20vMDJ6MGoSCjIwMjMtMDMtMTByDQgDEgkvbS8wMl8yODYiHwoDRlJBEgoyMDIzLTAzLTEwGgNKRksqAkxIMgM0MDAaSmoNCAMSCS9tLzAyXzI4NhIKMjAyMy0wMy0xN3IMCAISCC9tLzAyejBqIh8KA0pGSxIKMjAyMy0wMy0xNxoDRlJBKgJMSDIDNDAxcAGCAQsI____________AUABSAGYAQE&tfu=CmxDalJJWldGclMyMWFiMU5OVWsxQmJXOXpNbWRDUnkwdExTMHRMUzB0TFhkemEzVXhOVUZCUVVGQlIwMWxVRlpGVG1kVFdFRkJFZ1ZNU0RRd01Sb0xDTGlhQWhBQ0dnTkZWVkk0SEhEa25nST0SAggB
 
 
