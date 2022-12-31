@@ -1,8 +1,36 @@
+Metro:
+7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
+Neu: Metro Card als App dank OMNY
+Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
+https://new.mta.info/fares
+
+
+DKB
+Ich steige aus dem Flieger, hole mein Gepäck, um dann direkt zum Bankautomaten zu gehen. 
+Dank meiner Kreditkarte der DKB Bank kann ich US-Dollar abheben, ohne Gebühren bezahlen zu müssen. Nirgendwo auf der Welt. Ist das nicht toll?
+Erstbesucher in New York: Suche dir ein Hotel in Midtown (Times Square - Herald Square)
 Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen
 
 
+Bargeld
+
+Wieviel Bargeld muss ich mit nach New York nehmen?
+In New York gibt es viele ATM's (Bankautomaten). Ihr braucht nur sehr selten Bargeld. Bei der ersten Reise hatte ich etwa $ 150 Bargeld abgehoben. Das reichte ein paar Tage. Ihr könnt wirklich überall mit Kreditkarte bezahlen.
+
+Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direkt am Flughafen in New York bei Ankunft ab.
+
+Beim Wechseln vor der Reise in der Bank musst du Gebühren bezahle. Außerdem bekommst du oft einen schlechteren Wechselkurs. Wenn du eine gute Reisekreditkarte besitzt, kannst du Geld am Automaten (ATM) abheben, ohne Gebühren bezahlen zu müssen.
+
+Gute Seiten:
+- https://www.newyork-reise.de/
+- https://lovingnewyork.de
+- https://www.newyorkcity.de
+
 Was kostet New York?:
 - https://viel-unterwegs.de/kosten-new-york-reise/
+
+Apps:
+Für die Suche nach Restaurants schaue ich immer bei Tripadvisor oder Yelp nach. Hier findest du aktuelle Tipps und Empfehlungen für gute Restaurants in deiner Nähe.
 
 Klima in New York:
 - https://www.newyork-reise.de/wetterin.htm
@@ -10,6 +38,13 @@ Klima in New York:
 Pass-Berater:
 - https://lovingnewyork.de/new-york-pass-berater/
 - https://www.newyorkcity.de/new-york-pass/
+- https://viel-unterwegs.de/new-york-pass-vergleich/
+
+Reiseführer:
+Marco Polo Reiseführer New York mit App
+Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten, wobei die meisten heutzutage hierfür ihr Smartphone benutzen.
+- https://viel-unterwegs.de/new-york-reisefuehrer-empfehlung-vergleich/
+
 
 Reisezeitraum bzgl. Preisen am besten von Mittwoch bis Dienstag
 
@@ -67,7 +102,8 @@ Organisierte NBA-Reisen:
 - https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
 
 
-6-Tage-Plan
+Reiseplanung-Tage-Plan
+- https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 - https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 - https://www.22places.de/1-woche-new-york-programm/
@@ -88,6 +124,7 @@ Zwingend erforderlich für die Einreise ist die ESTA Registrierung. Diese muss s
 Beantragung unter:  
 - https://esta.cbp.dhs.gov/esta/
 - https://esta.cbp.dhs.gov/disclaimer
+- https://viel-unterwegs.de/esta-usa/
 
 
 Deutsche Staatsbürger benötigen einen eigenen maschinenlesbaren (bordeauxfarbenen) Reisepass, der für die Dauer des Aufenthaltes gültig sein muss. Ältere, nicht maschinenlesbare Pässe sowie vorläufige Reisepässe werden zur visumfreien Einreise in die USA nicht akzeptiert.
@@ -132,3 +169,44 @@ Metro Card New York: 5,50 $ einfache Fahrt | 7-Tage unlimited Pass: 32 $
 Ein Fahrt mit dem Yellow Cab Taxi kostet eine Grundpauschale von 2.50 $, dazu eine Steuer von 0,50 $. Je Meile kommen Kosten von 1 $ dazu.
 Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor der Reise die UBER App aufs Handy laden und dann die Preise vergleichen.
 Kostenlos mit der Fähre fahren? Dank der Staten Island Ferry ist das möglich. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
+
+Mit der U-Bahn
+
+Direkt am Flughafen steigen Sie in die Air Train ( siehe Bild rechts ), mit der Sie direkt bis zur Station Jamaica fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in 
+ 
+Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-bahnlinie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$,
+2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+ 
+ 
+Mit dem Zug
+
+Eine weitere Alternative ist die LIRR (Long Island Rail Road). Die Fahrt geht mit dem "Air Train" bis zur Jamaica Station, dort steigen Sie in die Long Island Rail Road. Mit dieser Bahn können direkt bis nach Manhattan zur Pennstation fahren. Die Fahrzeit von der Jamaica Station mit dem Expresszug bis zur Pennstation in Manhattan beträgt ca. 35 Minuten.
+Ticketpreis: 5 US$ Air Train + 5,75 US$ Off-Peak bzw. 7 US$ Peak für den LIRR Expresszug
+Peak= werktags von 6-10 Uhr und von 16-20 Uhr
+Off Peak= 20-6 Uhr und von 10-16 Uhr - samstags und sonntags 24 Stunden
+- http://web.mta.info/lirr/about/TicketInfo/
+
+Sonst:
+- https://www.taxifarefinder.com/main.php?city=NY
+- https://www.nyc.gov/site/tlc/passengers/taxi-fare.page
+- https://www.taxi-rechner.de/taxitarif-new-york-city/259
+- https://www.taxi-rechner.de/taxikosten-new-york-city/259
+- http://nyccabfare.com/
+- https://gettransfer.com/
+- https://viel-unterwegs.de/wie-vom-flughafen-new-york-nach-manhattan/
+
+Supershuttle
+
+Super Shuttle JFK Airport nach Manhattan - Entspannt mit einem privaten Transfer (18,50 €)
+Wenn du einen günstigeren Weg suchst, nach Manhattan zu kommen, empfehle ich dir einen privaten Transfer mit dem Sammeltaxi. Für nur 18,50 € wirst du in die Stadt direkt zu deiner Unterkunft (egal ob Hotel oder Privatunterkunft) gefahren.
+
+Dieser Transfer kann im ungünstigen Fall länger dauern, da ein Sammeltaxi immer 6-8 Personen aufnimmt und nacheinander zur Unterkunft fährt. Wenn dein Ziel das letzte der Route ist, kann das bis zu 1,5 Stunden dauern.
+
+Du kannst den Shuttle hier buchen. Den Rest übernimmt der Veranstalter für dich.
+ 
+Der Airport Express-Bus
+fährt direkt zum Port Authority Bus Terminal ( Anbindung U-Bahn Linien 1, 2, 3, 7, 9, A, C, E, N, R und S ) oder zur Grand Central Station ( Anbindung U-Bahn Linien 4, 5, 6, 7 und S ), der Fahrpreis beträgt 16 US$.
+
+ 
+Mit dem New York Airport Shuttle Service gelangen Sie für 16 USD pro Person onway nach Manhattan. Haltestellen sind unter anderem die Grand Central und die Penn Station in Manhattan. Des Weiteren werden Hotels in Midtown Manhattan angefahren die zwischen der 31th und 60th Strasse liegen.
+
