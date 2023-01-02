@@ -296,6 +296,7 @@ Es gibt viele kostenlose Dinge, die man als Tourist in New York machen kann. Hie
 
 -   Central Park: Dieser berühmte Park im Herzen von Manhattan bietet zahlreiche kostenlose Aktivitäten, darunter Spaziergänge, Jogging, Picknick und Vogelbeobachtung. Du kannst auch einen der vielen kostenlosen Konzertveranstaltungen besuchen, die im Park stattfinden, oder einfach nur die Aussicht genießen.
 -   High Line: Dieser ehemalige Güterzug-Wanderweg wurde in einen Park umgewandelt und bietet eine wunderschöne Aussicht auf die Stadt. Du kannst den High Line von der Gansevoort Street im Meatpacking District bis zur 34th Street entlang spazieren und dabei die Kunstinstallationen und Aussichtspunkte entlang des Weges genießen.
+Lust auf einen außergewöhnlichen Spaziergang? Die auf einer ehemaligen Hochbahnstrecke errichtete Grünfläche High Line Park. Am Ende der High Line ist „ The Vessel“ und „The Edge“ Perfekt zu kombinieren mit einem Besuch im Meatpacking District.
 -   Museen: Es gibt viele Museen in New York, die kostenlosen Eintritt oder zumindest kostenlose Tage anbieten. Zum Beispiel bietet das Metropolitan Museum of Art kostenlosen Eintritt, solange du den empfohlenen Eintrittspreis bezahlst, und das Museum of Modern Art (MoMA) hat jeden Freitagabend von 16 Uhr bis 20 Uhr kostenlosen Eintritt.
 -   Times Square: Ein Besuch von Times Square gehört zu den beliebtesten kostenlosen Aktivitäten in New York. Du kannst die leuchtenden Werbetafeln und das Treiben auf dem Platz beobachten oder einfach nur das berühmte New Yorker Flair genießen.
 
@@ -305,3 +306,6 @@ Es gibt viele kostenlose Dinge, die man als Tourist in New York machen kann. Hie
 - https://publictheater.org/your-2223-programming/
 - https://publictheater.org/
 
+
+
+Diese Seite wurde ertsellt mit https://stackedit.io/
