@@ -70,6 +70,13 @@ Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zol
 -   T-Mobile: Das "Magenta"-Angebot von T-Mobile kostet $70 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.   
 -   AT&T: Das "AT&T Unlimited Extra"-Angebot kostet $75 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
 
+Wenn Du nur Daten brauchst, kann ich Airalo empfehlen. Da bekommst Du ne E-SIM, kannst Du auch vorher kaufen. Da gibts10 GB für 26$
+Der Service hier listet die lokalen Anbieter (je nach Land), die eine eSIM anbieten und man kann sie direkt dann auch dort kaufen:
+airalo.com/
+Mal als Preisbeispiel:
+USA - AT&T Netz
+5GB Daten - 16$
+10GB Daten - 26$
 https://www.usa-reisetipps.net/leben-in-den-usa/handytarife#3
 
 -------------------------------------------------------------------------------------------------------------
