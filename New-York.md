@@ -20,6 +20,14 @@
 
 -------------------------------------------------------------------------------------------------------------
 
+## **Zollbestimmungen**
+https://www.usa-reisetipps.net/einreise-usa/zollbestimmungen-usa
+Freigrenzwert 430 Euro
+Die Beweislast, dass eine Ware nicht in den USA gekauft worden ist, liegt beim Reisenden!
+Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zollbeamten bei der Einreise zu zeigen.
+
+-------------------------------------------------------------------------------------------------------------
+
 ## **Apps für das Iphone**
 
  Eric’s New York App: Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York: https://apps.apple.com/de/app/erics-new-york/id1129643452 
@@ -35,6 +43,7 @@
 - Lyft
 - Transit Maps
 - Marco Polo Touren App
+- Zoll und Reise
 
 -------------------------------------------------------------------------------------------------------------
 
