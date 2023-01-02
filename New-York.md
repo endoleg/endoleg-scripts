@@ -1,10 +1,16 @@
 **New York Reise-Tipps**
-Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Asm besten also Midtown (Times Square - Herald Square).
+Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Am besten also Midtown (Times Square - Herald Square).
 
 -------------------------------------------------------------------------------------------------------------
 
-- https://viel-unterwegs.de/packliste-urlaub/
-- https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
+**Flugsuche**
+- https://www.google.de/flights
+- https://www.swoodoo.com
+- https://www.expedia.de/?pwaLob=wizard-flight-pwa
+- idealo flights
+
+**Flugpreise**
+- Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -19,6 +25,11 @@ Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise
 - Für New York bietet sich an, eine lokale SIM-Karte zu kaufen. Du benötigst Datenvolumen für UBER, Lyft oder Open Table, um einen Tisch fürs Abendessen zu reservieren. Manchmal kauft man spontan Tickets vor Ort, um die Warteschlange zu umgehen. Für tägliche Verlosungen für Musical Tickets per App lohnt sich der Datenpass ebenfalls. Wir nutzen in den USA gerne die Tourisim, da wir diese vor der Reise bestellen können und viel Datenvolumen benötigen (30 GB). Reist du beruftlich und benötigst mehr Daten? Dann solltest du eine eSIM bei Telekom in den USA kaufen. Eine Anleitung findest du hier (funktioniert, haben wir getestet):
 - https://www.t-mobile.com/support/plans-features/t-mobile-esim-app
 - eSIM-Karten-Datentarif für New York: https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
+- Einige beliebte E-SIM-Anbieter, die in New York verfügbar sind, sind zum Beispiel Google Fi, T-Mobile und AT&T.
+- Hier sind ein paar Beispiele für Preise für E-SIM-Angebote mit 30 GB Datenvolumen in New York City:
+-   Google Fi: Der Preis für das "Flexible Plan"-Angebot von Google Fi beträgt $70 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
+-   T-Mobile: Das "Magenta"-Angebot von T-Mobile kostet $70 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.   
+-   AT&T: Das "AT&T Unlimited Extra"-Angebot kostet $75 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -97,17 +108,30 @@ Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, I
 **Reiseführer**
 - Marco Polo Reiseführer New York mit App: Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten, wobei die meisten heutzutage hierfür ihr Smartphone benutzen.
 - https://viel-unterwegs.de/new-york-reisefuehrer-empfehlung-vergleich/
+- https://www.sightseeingpass.com/images/downloads/new-york/sightseeing-pass-guide-new-york.pdf
 
--------------------------------------------------------------------------------------------------------------
 
-**Flugsuche**
-- https://www.google.de/flights
-- https://www.swoodoo.com
-- https://www.expedia.de/?pwaLob=wizard-flight-pwa
-- idealo flights
+Karten:
+https://www.nyc.gov/nyc-resources/nyc-maps.page
+https://www.google.com/maps/place/New+York,+NY/
 
-**Flugpreise**
-- Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
+**Ideen**
+1.  Besuche das Empire State Building und genieße die atemberaubende Aussicht über die Stadt von der Aussichtsplattform.
+ 
+2.  Spaziere durch den Central Park und schaue dir einige der berühmten Landmarks an, wie die Bethesda Fontäne und die Strawberry Fields.
+    
+3.  Erkunde das Metropolitan Museum of Art und verbringe etwas Zeit damit, die umfangreiche Sammlung von Kunstwerken und Artefakten aus der ganzen Welt zu bewundern.
+    
+4.  Mach Shopping in einigen der berühmten Kaufhäuser der Stadt, wie Macy's und Bloomingdale's.
+    
+5.  Besuche die Freiheitsstatue und Ellis Island, um mehr über die Geschichte der Einwanderung in die USA zu erfahren.
+    
+6.  Mache eine Tour zum 9/11 Memorial und Museum, um den Opfern der Terroranschläge zu gedenken.
+    
+7.  Sieh dir eine Show auf Broadway an oder besuche eines der vielen Musikvenues der Stadt, um Teil der lebendigen Kunstszene zu werden.
+    
+8.  Genieße einige der weltberühmten Gerichte der Stadt, indem du zum Beispiel eine Pizza oder einen Bagel mit Lachs in einer Delikatessenbude probierst.
+
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -136,6 +160,7 @@ https://www.basketball-reference.com/friv/playoff_prob.html
 - https://www.newyorkcity.de/new-york-liberty-basketball-tickets/
 Sunday, May 21, 2:00 PM ET Commissioner's cup
 Saturday, May 27, 7:00 PM ET Commissioner's cup
+Es ist möglich, dass es für die WNBA-Spiele im Mai in New York noch Tickets gibt. Um sicherzustellen, dass du ein Ticket bekommst, empfehle ich dir, die Webseite der WNBA zu besuchen und dort nach verfügbaren Tickets zu suchen: https://www.wnba.com/tickets/. Du kannst auch versuchen, Tickets über andere Ticketplattformen wie zum Beispiel StubHub (https://www.stubhub.com/) oder SeatGeek (https://www.seatgeek.com/) zu kaufen. Es lohnt sich auch, den Ticketverkauf der New York Liberty (https://www.wnba.com/liberty/) zu überprüfen, da sie möglicherweise direkt Tickets verkaufen.
 
 **Übersicht Madison Square Garden**
 - https://le-cdn.website-editor.net/s/c63051bc3da44aa3a17ea224d92d15f0/dms3rep/multi/opt/MadisonSquareGarden_Basketball_2021-02-22_2021-02-22_1200_02222021_130342_SVGC_tn-1920w.png?Expires=1664818160&Signature=LrdvBs9vp9J9kkjMskiMCjp6Jm-96SsvZDr9eWRrSvU4y9JiJBxYEbUOZGIDQsiGWRnPPM-mKsxKKfToL4MJQqrosvlZqgek0NDK8~PMztx5-ojSsrgPqisa~CbmeQZuY9dFka1GsL5OKTaRCyokOhBsZMCmDnSdOT01trTS~RPJmoQcVSDGgEDty23p04Fszhl0iF2moQ8UJKcw9UO1odpjyaBoKbKBQYESxcso-nVt9LbTBm1y0ciMk4r5OOlXoTGLEnJV~jCtHVPMpGs9cfCVaUNrkiFec5IKnloAHdKLRmQle78fct9udUa1em4~bQsRShLxJmUXdTzFiZ5Z0A__&Key-Pair-Id=K2NXBXLF010TJW
@@ -214,6 +239,7 @@ Direkt am Flughafen steigen Sie in die Air Train ( siehe Bild rechts ), mit der 
 
 **Transfer nach New York**
 - https://www.newyorkcity.de/transfer-nach-new-york/
+- Die Kosten für eine Taxifahrt vom JFK Flughafen nach Manhattan hängen von verschiedenen Faktoren ab, wie der Tageszeit, dem Verkehrsaufkommen und dem genauen Fahrtziel in Manhattan. Laut dem New York City Taxi and Limousine Commission betragen die Grundgebühren für Taxifahrten vom JFK Flughafen nach Manhattan derzeit $52, plus eine Pauschalgebühr von $0,50 für jede 1/5 Meile oder jede Minute, die der Fahrt dauert. Es gibt auch eine Zuschlag von $17,50 für Fahrten zum JFK Flughafen, die zu den normalen Gebühren hinzugerechnet werden. Beachte, dass diese Gebühren sich ändern können und dass es möglicherweise zusätzliche Gebühren für Gepäck oder andere Dienstleistungen gibt. Es ist immer ratsam, den Fahrer vor der Fahrt über die genauen Kosten zu informieren und sicherzustellen, dass du einen fairen Preis bezahlst
  
 **Mit dem Zug**
 Eine weitere Alternative ist die LIRR (Long Island Rail Road). Die Fahrt geht mit dem "Air Train" bis zur Jamaica Station, dort steigen Sie in die Long Island Rail Road. Mit dieser Bahn können direkt bis nach Manhattan zur Pennstation fahren. Die Fahrzeit von der Jamaica Station mit dem Expresszug bis zur Pennstation in Manhattan beträgt ca. 35 Minuten.
@@ -253,3 +279,7 @@ https://new.mta.info/fares
 - http://nyccabfare.com/
 - https://gettransfer.com/
 - https://viel-unterwegs.de/wie-vom-flughafen-new-york-nach-manhattan/
+- https://viel-unterwegs.de/packliste-urlaub/
+- https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
+
+-------------------------------------------------------------------------------------------------------------
