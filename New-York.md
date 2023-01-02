@@ -1,31 +1,24 @@
+
 - https://viel-unterwegs.de/packliste-urlaub/
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 
-New York Public Theatre
+**New York Public Theatre**
 - https://publictheater.org/productions/season/2021/sitp/merry-wives/
 - https://publictheater.org/your-2223-programming/
 - https://publictheater.org/
 
 
-Internet und Telefon
-Für New York bietet sich an, eine lokale SIM-Karte zu kaufen. Du benötigst Datenvolumen für UBER, Lyft oder Open Table, um einen Tisch fürs Abendessen zu reservieren.
-
-Manchmal kauft man spontan Tickets vor Ort, um die Warteschlange zu umgehen. Für tägliche Verlosungen für Musical Tickets per App lohnt sich der Datenpass ebenfalls.
-
-Wir nutzen in den USA gerne die Tourisim, da wir diese vor der Reise bestellen können und viel Datenvolumen benötigen (30 GB). Reist du beruftlich und benötigst mehr Daten? Dann solltest du eine eSIM bei Telekom in den USA kaufen. Eine Anleitung findest du hier (funktioniert, haben wir getestet):
+**Internet und Telefon**
+Für New York bietet sich an, eine lokale SIM-Karte zu kaufen. Du benötigst Datenvolumen für UBER, Lyft oder Open Table, um einen Tisch fürs Abendessen zu reservieren. Manchmal kauft man spontan Tickets vor Ort, um die Warteschlange zu umgehen. Für tägliche Verlosungen für Musical Tickets per App lohnt sich der Datenpass ebenfalls. Wir nutzen in den USA gerne die Tourisim, da wir diese vor der Reise bestellen können und viel Datenvolumen benötigen (30 GB). Reist du beruftlich und benötigst mehr Daten? Dann solltest du eine eSIM bei Telekom in den USA kaufen. Eine Anleitung findest du hier (funktioniert, haben wir getestet):
 - https://www.t-mobile.com/support/plans-features/t-mobile-esim-app
 
-
-
-Metro:
+**Metro**
 7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
 Neu: Metro Card als App dank OMNY
 Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
 https://new.mta.info/fares
 
-
-DKB
-
+**DKB**
 Ich steige aus dem Flieger, hole mein Gepäck, um dann direkt zum Bankautomaten zu gehen. 
 Dank meiner Kreditkarte der DKB Bank kann ich US-Dollar abheben, ohne Gebühren bezahlen zu müssen. Nirgendwo auf der Welt. Ist das nicht toll?
 Erstbesucher in New York: Suche dir ein Hotel in Midtown (Times Square - Herald Square)
@@ -45,36 +38,45 @@ Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
 - https://viel-unterwegs.de/new-york-essen-restaurant-tipps/
 
 
-Bargeld
-
+**Bargeld**
 Wieviel Bargeld muss ich mit nach New York nehmen?
 In New York gibt es viele ATM's (Bankautomaten). Ihr braucht nur sehr selten Bargeld. Bei der ersten Reise hatte ich etwa $ 150 Bargeld abgehoben. Das reichte ein paar Tage. Ihr könnt wirklich überall mit Kreditkarte bezahlen.
 Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direkt am Flughafen in New York bei Ankunft ab.
 Beim Wechseln vor der Reise in der Bank musst du Gebühren bezahle. Außerdem bekommst du oft einen schlechteren Wechselkurs. Wenn du eine gute Reisekreditkarte besitzt, kannst du Geld am Automaten (ATM) abheben, ohne Gebühren bezahlen zu müssen.
 
-Gute Seiten:
+**Gute Seiten**
 - https://www.newyork-reise.de/
 - https://lovingnewyork.de
 - https://www.newyorkcity.de
+- https://www.newyorkpass.com/de/new-york-city-travel-guide/
+- https://www.timeout.com/newyork/things-to-do/new-york-city-travel-guide
+- https://www.tripadvisor.de/Tourism-g60763-New_York_City_New_York-Vacations.html
+- https://www.nycgo.com/de
+- https://www.lonelyplanet.com/usa/new-york-city
+- https://www.newyork-tipps.de/
+- https://www.visitnewyork.de/
+- https://www.newyorker.de/reise/
+- https://www.reisebine.com/reisetipps/new-york/
+- https://www.meine-reise-nach-new-york.de/
 
-Was kostet New York?:
+**Was kostet New York?**
 - https://viel-unterwegs.de/kosten-new-york-reise/
 
-Apps:
+**Apps**
 - Für die Suche nach Restaurants schaue ich immer bei Tripadvisor oder Yelp nach. Hier findest du aktuelle Tipps und Empfehlungen für gute Restaurants in deiner Nähe.
 -Nutzt für die Suche in der Umgebung die App YELP. Diese ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants.
 Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
 
 
-Klima in New York:
+**Klima in New York**
 - https://www.newyork-reise.de/wetterin.htm
 
-Pass-Berater:
+**New-York-Pass-Berater**
 - https://lovingnewyork.de/new-york-pass-berater/
 - https://www.newyorkcity.de/new-york-pass/
 - https://viel-unterwegs.de/new-york-pass-vergleich/
 
-Reiseführer:
+**Reiseführer**
 Marco Polo Reiseführer New York mit App
 Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten, wobei die meisten heutzutage hierfür ihr Smartphone benutzen.
 - https://viel-unterwegs.de/new-york-reisefuehrer-empfehlung-vergleich/
@@ -82,20 +84,16 @@ Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wich
 
 Reisezeitraum bzgl. Preisen am besten von Mittwoch bis Dienstag
 
-Flugsuche:
+**Flugsuche**
 - https://www.google.de/flights
 - https://www.swoodoo.com
 - https://www.expedia.de/?pwaLob=wizard-flight-pwa
 - idealo flights
 
-Flugpreise:
+**Flugpreise**
 - Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
 
-Beispiel: 
-- https://www.google.de/travel/flights/booking?tfs=CBwQAhpKagwIAhIIL20vMDJ6MGoSCjIwMjMtMDMtMTByDQgDEgkvbS8wMl8yODYiHwoDRlJBEgoyMDIzLTAzLTEwGgNKRksqAkxIMgM0MDAaSmoNCAMSCS9tLzAyXzI4NhIKMjAyMy0wMy0xN3IMCAISCC9tLzAyejBqIh8KA0pGSxIKMjAyMy0wMy0xNxoDRlJBKgJMSDIDNDAxcAGCAQsI____________AUABSAGYAQE&tfu=CmxDalJJWldGclMyMWFiMU5OVWsxQmJXOXpNbWRDUnkwdExTMHRMUzB0TFhkemEzVXhOVUZCUVVGQlIwMWxVRlpGVG1kVFdFRkJFZ1ZNU0RRd01Sb0xDTGlhQWhBQ0dnTkZWVkk0SEhEa25nST0SAggB
-
-
-NBA-Karten:
+**NBA-Karten**
 - https://www.newyorkcity.de/brooklyn-nets-tickets/
 - https://www.newyorkcity.de/new-york-knicks-tickets/
 - http://ticketmaster.com/
@@ -103,40 +101,41 @@ NBA-Karten:
 - Wer die Tickets bereits hier von zuhause aus in Deutschland kaufen möchte, der kann auf Hellotickets.de sein Glück versuchen. Hier finden sich oft günstige Preise, und die Kaufabwicklung ist sicher und komfortabel. Auf dieser Website siehst du alle Bereiche der Arena und die genaue Ansicht aller verfügbaren Sitzplätze. Die Tickets kommen in digitaler Form bei dir an, sodass du dir keine Sorgen machen musst, wenn du keine Adresse in den USA angeben kannst, um die Papiertickets dorthin zu erhalten. Bei Fragen hilft der Support in europäischer bzw. in deutscher Zeit. Das hat den Vorteil, dass Hilfe verfügbar ist, wenn sie hierzulande benötigt wird und nicht Tage vergehen durch Kommunikation über unterschiedliche Zeitzonen hinweg.
 - Die Plätze mit dem besten Preis Leistungsverhältnis befinden sich in den 200 Blöcken. Hier empfehle ich euch aber an der Längsseite des Spielfeldes zu sitzen und nicht hinter den Körben. Die Blöcke 209, 210, 211, 212, 213, 221, 222, 223, 224, 225 und 226 sind die richtige Wahl für einen Besuch.
 
-NBA-Spielplan:
+**NBA-Spielplan**
 - https://www.sport1.de/daten/us-sport/nba/spielplan
 - Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
 
-Brooklyn Nets
+**Brooklyn Nets**
 https://www.newyorkcity.de/brooklyn-nets-tickets/
 https://www.newyorkcity.de/new-york-knicks-tickets/
 Letzter Spieltag: Sonntag, 09.04.2023, Danach Playoffs
-New York Knicks 
+
+**New York Knicks** 
 https://www.basketball-reference.com/friv/playoff_prob.html
 
-WNBA-Spiel
+**WNBA-Spiel**
 - https://liberty.wnba.com/schedule/#?season=2023&seasontype=02
 - https://www.newyorkcity.de/new-york-liberty-basketball-tickets/
 Sunday, May 21, 2:00 PM ET Commissioner's cup
 Saturday, May 27, 7:00 PM ET Commissioner's cup
 
-Übersicht Madison Square Garden:
+**Übersicht Madison Square Garden**
 - https://le-cdn.website-editor.net/s/c63051bc3da44aa3a17ea224d92d15f0/dms3rep/multi/opt/MadisonSquareGarden_Basketball_2021-02-22_2021-02-22_1200_02222021_130342_SVGC_tn-1920w.png?Expires=1664818160&Signature=LrdvBs9vp9J9kkjMskiMCjp6Jm-96SsvZDr9eWRrSvU4y9JiJBxYEbUOZGIDQsiGWRnPPM-mKsxKKfToL4MJQqrosvlZqgek0NDK8~PMztx5-ojSsrgPqisa~CbmeQZuY9dFka1GsL5OKTaRCyokOhBsZMCmDnSdOT01trTS~RPJmoQcVSDGgEDty23p04Fszhl0iF2moQ8UJKcw9UO1odpjyaBoKbKBQYESxcso-nVt9LbTBm1y0ciMk4r5OOlXoTGLEnJV~jCtHVPMpGs9cfCVaUNrkiFec5IKnloAHdKLRmQle78fct9udUa1em4~bQsRShLxJmUXdTzFiZ5Z0A__&Key-Pair-Id=K2NXBXLF010TJW
 - https://www.fairflight.de/images/reisearten/sportreisen/nba-new-york-knicks/madison-square-garden_620x.webp
 
-Hinweis zu den Eintrittskarten:
+**Hinweis zu den Eintrittskarten**
 - In allen Arenen gibt es mittlerweile nur noch elekronische Tickets. Papiertickets (Versand oder Ausdruck zu Hause) gibt es nicht mehr. Die Eintrittskarten zu den Spielen erhält man als E-Ticket zum Download auf sein Mobiltelefon. 
 - Wir möchten schon jetzt darauf hinweisen, dass für den Besuch der Spiele ein Smartphone (iphone oder Android) zur Verfügung stehen muss. Darauf müssen dann die jeweiligen Apps der Clubs geladen werden, in diesen sind dann die Tickets sichtbar. 
 - Es ist auch möglich mehrere Tickets, z.B. von Mitreisenden, auf einem Mobiltelefon mitzuführen. Tickets können dann auch offline (ohne Internetzugang in Kanada/USA) in die Apple Wallet (bei iphone) oder in Google pay (bei Android) geladen werden. 
 - In den USA haben aber auch alle Arenen einen kostenfreien Zugang zum WLAN.
 
-Organisierte NBA-Reisen:
+**Organisierte NBA-Reisen**
 - https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
 - https://www.fairflight.de/reisearten/sportreisen/nba-reisen/nba-reisen-new-york-knicks
 - https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
 
 
-Reiseplanung-Tage-Plan
+**Reiseplanung-Tages-Plan**
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 - https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
@@ -147,11 +146,11 @@ Reiseplanung-Tage-Plan
 - https://weltreisender.net/7-tage-new-york-city-eine-woche-die-es-in-sich-hatte-47678/
 - https://jointhesunnyside.de/5-tage-new-york/
 
-Einreise
+**Einreise**
 - https://travel-details.eu/de?tid=VZJZ-74JQ-VEBA
 - https://travel-details.eu/de/pdf/VZJZ-74JQ-VEBA?expires=1672153227&signature=58707484d1b34c639d9183688803fbb0ca1b5173504e7ce2ba75bb0da5e8d341
 
-Einreisebestimmung für die USA
+**Einreisebestimmung für die USA**
 Lesen Sie bitte sehr aufmerksam die Einreisebedingungen und Visa Waiver Vorschriften für die USA durch. Informationen dazu finden Sie auf unserer Homepage und der Website von ESTA .
 Sie sind verpflichtet, mindestens 72 Stunden vor Ihrer Abreise einen so genannten „Visa waiver“ auszufüllen. Falls Sie das nicht tun, wird Ihnen die Einreise in die USA verweigert.
 Zwingend erforderlich für die Einreise ist die ESTA Registrierung. Diese muss spätestens bis 72 Stunden vor Abflug Online getätigt werden. Die Kosten hierfür liegen bei derzeit 14 Dollar pro Person.                              
@@ -160,41 +159,35 @@ Beantragung unter:
 - https://esta.cbp.dhs.gov/disclaimer
 - https://viel-unterwegs.de/esta-usa/
 
-
 Deutsche Staatsbürger benötigen einen eigenen maschinenlesbaren (bordeauxfarbenen) Reisepass, der für die Dauer des Aufenthaltes gültig sein muss. Ältere, nicht maschinenlesbare Pässe sowie vorläufige Reisepässe werden zur visumfreien Einreise in die USA nicht akzeptiert.
-Reisepässe, die am oder nach dem 26.10.2006 ausgestellt wurden, müssen 'e-Reisepässe' sein, d.h. sie müssen einen integrierten
-Computerchip enthalten, der in der Lage ist, biografische Informationen der Personaldatenseite und das digitale Foto zu speichern.
+Reisepässe, die am oder nach dem 26.10.2006 ausgestellt wurden, müssen 'e-Reisepässe' sein, d.h. sie müssen einen integrierten Computerchip enthalten, der in der Lage ist, biografische Informationen der Personaldatenseite und das digitale Foto zu speichern.
 Bitte erkundigen Sie sich immer auf der Homepage vom Auswärtigem Amt über aktuelle Einreisebestimmungen: http://www.auswaertiges-amt.de
 Bürger anderer Nationen erfragen die für sie gültigen Einreisebestimmungen bei der Einreise- und Visa-Hotline der US Botschaft in Berlin: +49 30 830 50. Düsseldorf: +49 211 788 89 27. Frankfurt: +49 69 753 50.
 Außerdem werden alle Einreisenden bei der Ankunft in den USA fotografiert und sie müssen digitale Fingerabdrücke abgeben.
 https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
 
-
-Richtlinie (EU) 2015/2302 (Pauschalreiserichtlinie)
+**Richtlinie (EU) 2015/2302 (Pauschalreiserichtlinie)**
 - https://de.wikipedia.org/wiki/Richtlinie_(EU)_2015%2F2302_(Pauschalreiserichtlinie)
 Bei Pauschalreisen haftet der Reiseveranstalter gemäß Reisevertrag verschuldensunabhängig für Reisemängel (§ 651i BGB), geregelt sind die beidseitigen Kündigungs- und Rücktrittsrechte vor Reiseantritt und während der Reise, die Ansprüche des Reisenden aus Minderung des Reisepreises, Schadensersatz, Aufwendungsersatz oder Abhilfe.
 Daher können Sie alle EU-Rechte in Anspruch nehmen, die für Pauschalreisen gelten. Das Unternehmen trägt die volle Verantwortung für die ordnungsgemäße Durchführung der gesamten Pauschalreise.Zudem verfügt das Unternehmen über die gesetzlich vorgeschriebene Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung Ihrer Rückbeförderung im Fall
 seiner Insolvenz.
 - https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
 
-Lebenshaltungskosten-Vergleich New York - Wiesbaden:
+**Lebenshaltungskosten-Vergleich New York - Wiesbaden**
 - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
 
 Transfer nach New York
 - https://www.newyorkcity.de/transfer-nach-new-york/
 
-eSIM-Karten-Datentarif für New York
------------------------
+**eSIM-Karten-Datentarif für New York**
 https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
 
 
-Eric’s New York App 
-
+**Eric’s New York App** 
 Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York.
  Eric’s New York App für iOS https://apps.apple.com/de/app/erics-new-york/id1129643452 
 
-
-Kosten für Transportmittel in New York
+**Kosten für Transportmittel in New York**
 In New York gibt es diverse Möglichkeiten um von A nach B zu kommen. Ich nutze immer die Metro aber auch manchmal ein Taxi. Auch wenn ich die Innenstadt Mannhattans komplett zu Fuß durchquert habe: Manchmal nimmt man doch die Metro oder ein Taxi.
 Kosten für den Flughafentransfer JFK - Manhattan: 55 $
 → Meine Tipps, wie du bei Ankunft vom Flughafen in New York ins Zentrum kommst. 
@@ -204,23 +197,20 @@ Ein Fahrt mit dem Yellow Cab Taxi kostet eine Grundpauschale von 2.50 $, dazu ei
 Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor der Reise die UBER App aufs Handy laden und dann die Preise vergleichen.
 Kostenlos mit der Fähre fahren? Dank der Staten Island Ferry ist das möglich. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
 
-Mit der U-Bahn
-
+**Mit der U-Bahn**
 Direkt am Flughafen steigen Sie in die Air Train ( siehe Bild rechts ), mit der Sie direkt bis zur Station Jamaica fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in 
  
 Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-bahnlinie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$,
 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
  
- 
-Mit dem Zug
-
+**Mit dem Zug**
 Eine weitere Alternative ist die LIRR (Long Island Rail Road). Die Fahrt geht mit dem "Air Train" bis zur Jamaica Station, dort steigen Sie in die Long Island Rail Road. Mit dieser Bahn können direkt bis nach Manhattan zur Pennstation fahren. Die Fahrzeit von der Jamaica Station mit dem Expresszug bis zur Pennstation in Manhattan beträgt ca. 35 Minuten.
 Ticketpreis: 5 US$ Air Train + 5,75 US$ Off-Peak bzw. 7 US$ Peak für den LIRR Expresszug
 Peak= werktags von 6-10 Uhr und von 16-20 Uhr
 Off Peak= 20-6 Uhr und von 10-16 Uhr - samstags und sonntags 24 Stunden
 - http://web.mta.info/lirr/about/TicketInfo/
 
-Sonst:
+**Sonstiges**
 - https://www.taxifarefinder.com/main.php?city=NY
 - https://www.nyc.gov/site/tlc/passengers/taxi-fare.page
 - https://www.taxi-rechner.de/taxitarif-new-york-city/259
@@ -229,23 +219,17 @@ Sonst:
 - https://gettransfer.com/
 - https://viel-unterwegs.de/wie-vom-flughafen-new-york-nach-manhattan/
 
-Taxi, UBER und Lyft
+**Taxi, UBER und Lyft**
 Taxi fahren funktioniert in New York wie bei uns. Fahrer heranwinken, Adresse nennen und später bezahlen. Du kannst in Taxen auch mit Kreditkarte bezahlen. Allerdings haben wir beim letzten Besuch erneut die Erfahrung gemacht, dass Taxifahrer einfach viel zu viel verlangen.
-
 Günstiger sind Fahrten mit UBER und Lyft. Die Fahrer sind darüber hinaus freundlicher. Prüft vor jeder Fahrt mit beiden Apps, wo der Preis gerade günstiger ist. Dieser richtet sich nach Stoßzeiten und Verfügbarkeit an Autos. Vergleichen lohnt sich!
 
-Supershuttle
-
+**Supershuttle**
 Super Shuttle JFK Airport nach Manhattan - Entspannt mit einem privaten Transfer (18,50 €)
 Wenn du einen günstigeren Weg suchst, nach Manhattan zu kommen, empfehle ich dir einen privaten Transfer mit dem Sammeltaxi. Für nur 18,50 € wirst du in die Stadt direkt zu deiner Unterkunft (egal ob Hotel oder Privatunterkunft) gefahren.
-
 Dieser Transfer kann im ungünstigen Fall länger dauern, da ein Sammeltaxi immer 6-8 Personen aufnimmt und nacheinander zur Unterkunft fährt. Wenn dein Ziel das letzte der Route ist, kann das bis zu 1,5 Stunden dauern.
-
 Du kannst den Shuttle hier buchen. Den Rest übernimmt der Veranstalter für dich.
  
-Der Airport Express-Bus
+**Der Airport Express-Bus**
 fährt direkt zum Port Authority Bus Terminal ( Anbindung U-Bahn Linien 1, 2, 3, 7, 9, A, C, E, N, R und S ) oder zur Grand Central Station ( Anbindung U-Bahn Linien 4, 5, 6, 7 und S ), der Fahrpreis beträgt 16 US$.
-
- 
 Mit dem New York Airport Shuttle Service gelangen Sie für 16 USD pro Person onway nach Manhattan. Haltestellen sind unter anderem die Grand Central und die Penn Station in Manhattan. Des Weiteren werden Hotels in Midtown Manhattan angefahren die zwischen der 31th und 60th Strasse liegen.
 
