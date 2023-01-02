@@ -1,5 +1,5 @@
 **New York Reise-Tipps**
-Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Am besten also Midtown (Times Square - Herald Square).
+
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -7,10 +7,17 @@ Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise
 - https://www.google.de/flights
 - https://www.swoodoo.com
 - https://www.expedia.de/?pwaLob=wizard-flight-pwa
-- idealo flights
-
-**Flugpreise**
+- https://flug.idealo.de/ (geht auch sehr gut über die App)
 - Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
+- Direktflüge (keine Umstiege!)
+
+**Hotelsuche**
+- https://www.google.de/travel/hotels
+- https://hotel.idealo.de/
+- Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Am besten also Midtown (Times Square - Herald Square).
+
+-------------------------------------------------------------------------------------------------------------
+
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -160,7 +167,7 @@ https://www.basketball-reference.com/friv/playoff_prob.html
 - https://www.newyorkcity.de/new-york-liberty-basketball-tickets/
 Sunday, May 21, 2:00 PM ET Commissioner's cup
 Saturday, May 27, 7:00 PM ET Commissioner's cup
-Es ist möglich, dass es für die WNBA-Spiele im Mai in New York noch Tickets gibt. Um sicherzustellen, dass du ein Ticket bekommst, empfehle ich dir, die Webseite der WNBA zu besuchen und dort nach verfügbaren Tickets zu suchen: https://www.wnba.com/tickets/. Du kannst auch versuchen, Tickets über andere Ticketplattformen wie zum Beispiel StubHub (https://www.stubhub.com/) oder SeatGeek (https://www.seatgeek.com/) zu kaufen. Es lohnt sich auch, den Ticketverkauf der New York Liberty (https://www.wnba.com/liberty/) zu überprüfen, da sie möglicherweise direkt Tickets verkaufen.
+Es ist möglich, dass es für die WNBA-Spiele im Mai in New York noch Tickets gibt. Um sicherzustellen, dass du ein Ticket bekommst, empfehle ich dir, die Webseite der WNBA zu besuchen und dort nach verfügbaren Tickets zu suchen: https://www.wnba.com/tickets/. Du kannst auch versuchen, Tickets über andere Ticketplattformen wie zum Beispiel https://www.stubhub.com/secure/search?q=wnba&sellSearch=false oder https://seatgeek.com/new-york-liberty-tickets zu kaufen. Es lohnt sich auch, den Ticketverkauf der New York Liberty https://liberty.wnba.com/tickets/ zu überprüfen, da sie möglicherweise direkt Tickets verkaufen.
 
 **Übersicht Madison Square Garden**
 - https://le-cdn.website-editor.net/s/c63051bc3da44aa3a17ea224d92d15f0/dms3rep/multi/opt/MadisonSquareGarden_Basketball_2021-02-22_2021-02-22_1200_02222021_130342_SVGC_tn-1920w.png?Expires=1664818160&Signature=LrdvBs9vp9J9kkjMskiMCjp6Jm-96SsvZDr9eWRrSvU4y9JiJBxYEbUOZGIDQsiGWRnPPM-mKsxKKfToL4MJQqrosvlZqgek0NDK8~PMztx5-ojSsrgPqisa~CbmeQZuY9dFka1GsL5OKTaRCyokOhBsZMCmDnSdOT01trTS~RPJmoQcVSDGgEDty23p04Fszhl0iF2moQ8UJKcw9UO1odpjyaBoKbKBQYESxcso-nVt9LbTBm1y0ciMk4r5OOlXoTGLEnJV~jCtHVPMpGs9cfCVaUNrkiFec5IKnloAHdKLRmQle78fct9udUa1em4~bQsRShLxJmUXdTzFiZ5Z0A__&Key-Pair-Id=K2NXBXLF010TJW
