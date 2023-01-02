@@ -1,5 +1,5 @@
-**New York Reise-Tipps**
 
+**New York Reise-Tipps**
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -18,13 +18,26 @@
 
 -------------------------------------------------------------------------------------------------------------
 
+**Apps für das Iphone**
+- Für die Suche nach Restaurants schaue ich immer bei Tripadvisor oder Yelp nach. Hier findest du aktuelle Tipps und Empfehlungen für gute Restaurants in deiner Nähe.
+- Nutzt für die Suche in der Umgebung die App YELP. Diese ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants.
+- Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
+- Eric’s New York App: Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York: https://apps.apple.com/de/app/erics-new-york/id1129643452 
+- MyTransit NYC Subway, Bus, Rail: https://apps.apple.com/de/app/mytransit-nyc-subway-bus-rail/id310623986
+- Time Out New York: https://apps.apple.com/de/app/time-out-new-york/id329591770
+- WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
 
 -------------------------------------------------------------------------------------------------------------
 
-**Kostenloses Theater im Park: New York Public Theatre**
-- https://publictheater.org/productions/season/2021/sitp/merry-wives/
-- https://publictheater.org/your-2223-programming/
-- https://publictheater.org/
+**Wetter: Klima in New York**
+- https://www.newyork-reise.de/wetterin.htm
+
+-------------------------------------------------------------------------------------------------------------
+
+**New-York-Pass-Berater**
+- https://lovingnewyork.de/new-york-pass-berater/
+- https://www.newyorkcity.de/new-york-pass/
+- https://viel-unterwegs.de/new-york-pass-vergleich/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +52,6 @@
 -   AT&T: Das "AT&T Unlimited Extra"-Angebot kostet $75 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
 
 -------------------------------------------------------------------------------------------------------------
-
 
 **Geld: Bank: DKB**
 Ich steige aus dem Flieger, hole mein Gepäck, um dann direkt zum Bankautomaten zu gehen. 
@@ -60,12 +72,11 @@ Beim Wechseln vor der Reise in der Bank musst du Gebühren bezahle. Außerdem be
 -------------------------------------------------------------------------------------------------------------
 
 **Essens-Empfehlungen**
-Aber als weiteres typische Essen in New York würde ich dir empfehlen:
-
- - Shake Shack für Burger (Alternativ: Spotted Pig, Dure Smaakoder
- -    Bareburger) Ess-A-Bagel - die Institution überhaupt für einen Bagel
- -    zum Frühstück (oder ein französisches Frühstück bei Maison Kaiser -
- -    okay für dich vielleicht nicht die Offenbarung, da es das auch in Deutschland gibt) Pizza bei Roberta's Pizza, Two Boots Pizza oder 99
+Als typisches Essen in New York würde ich dir empfehlen:
+ - Shake Shack für Burger (Alternativ: Spotted Pig, Dure Smaakoder Bareburger) 
+ - Ess-A-Bagel - die Institution überhaupt für einen Bagel 
+ -  zum Frühstück (oder ein französisches Frühstück bei Maison Kaiser -
+ -  okay für dich vielleicht nicht die Offenbarung, da es das auch in Deutschland gibt) Pizza bei Roberta's Pizza, Two Boots Pizza oder 99
  -    Cent Pizza (gibt es überall, ist günsig aber keine Offenbarung) Essen
  -    an Food Trucks wie Halal Guys, Big Gay Ice Cream, Wafels&Dinges oder den typischen Hotdog Wagen. Und ein Pastrami Sandwich natürlich bei Katz's Delicatessen 
  - Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
@@ -73,44 +84,7 @@ Aber als weiteres typische Essen in New York würde ich dir empfehlen:
 
 -------------------------------------------------------------------------------------------------------------
 
-**Gute Seiten**
-- https://www.newyork-reise.de/
-- https://lovingnewyork.de
-- https://www.newyorkcity.de
-- https://www.newyorkpass.com/de/new-york-city-travel-guide/
-- https://www.timeout.com/newyork/things-to-do/new-york-city-travel-guide
-- https://www.tripadvisor.de/Tourism-g60763-New_York_City_New_York-Vacations.html
-- https://www.nycgo.com/de
-- https://www.lonelyplanet.com/usa/new-york-city
-- https://www.newyork-tipps.de/
-- https://www.visitnewyork.de/
-- https://www.newyorker.de/reise/
-- https://www.reisebine.com/reisetipps/new-york/
-- https://www.meine-reise-nach-new-york.de/
 
--------------------------------------------------------------------------------------------------------------
-
-**Apps für das Iphone**
-- Für die Suche nach Restaurants schaue ich immer bei Tripadvisor oder Yelp nach. Hier findest du aktuelle Tipps und Empfehlungen für gute Restaurants in deiner Nähe.
-- Nutzt für die Suche in der Umgebung die App YELP. Diese ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants.
-- Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
-
-**Apps: Eric’s New York App** 
-Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York.  Eric’s New York App für iOS https://apps.apple.com/de/app/erics-new-york/id1129643452 
-
--------------------------------------------------------------------------------------------------------------
-
-**Wetter: Klima in New York**
-- https://www.newyork-reise.de/wetterin.htm
-
--------------------------------------------------------------------------------------------------------------
-
-**New-York-Pass-Berater**
-- https://lovingnewyork.de/new-york-pass-berater/
-- https://www.newyorkcity.de/new-york-pass/
-- https://viel-unterwegs.de/new-york-pass-vergleich/
-
--------------------------------------------------------------------------------------------------------------
 
 **Reiseführer**
 - Marco Polo Reiseführer New York mit App: Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten, wobei die meisten heutzutage hierfür ihr Smartphone benutzen.
@@ -242,7 +216,8 @@ Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor d
 Kostenlos mit der Fähre fahren? Dank der Staten Island Ferry ist das möglich. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
 
 **Mit der U-Bahn**
-Direkt am Flughafen steigen Sie in die Air Train ( siehe Bild rechts ), mit der Sie direkt bis zur Station Jamaica fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-bahnlinie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+Direkt am Flughafen steigen Sie in die AirTrain, mit der Sie direkt bis zur Station Jamaica (Queens) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-bahnlinie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+https://www.panynj.gov/airports/jfk-airtrain.html
 
 **Transfer nach New York**
 - https://www.newyorkcity.de/transfer-nach-new-york/
@@ -268,6 +243,7 @@ Du kannst den Shuttle hier buchen. Den Rest übernimmt der Veranstalter für dic
 **Der Airport Express-Bus**
 fährt direkt zum Port Authority Bus Terminal ( Anbindung U-Bahn Linien 1, 2, 3, 7, 9, A, C, E, N, R und S ) oder zur Grand Central Station ( Anbindung U-Bahn Linien 4, 5, 6, 7 und S ), der Fahrpreis beträgt 16 US$.
 Mit dem New York Airport Shuttle Service gelangen Sie für 16 USD pro Person onway nach Manhattan. Haltestellen sind unter anderem die Grand Central und die Penn Station in Manhattan. Des Weiteren werden Hotels in Midtown Manhattan angefahren die zwischen der 31th und 60th Strasse liegen.
+https://www.nycexpressbus.com/
 
 **Metro**
 7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
@@ -289,4 +265,33 @@ https://new.mta.info/fares
 - https://viel-unterwegs.de/packliste-urlaub/
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 
+**Gute Seiten**
+- https://www.newyork-reise.de/
+- https://lovingnewyork.de
+- https://www.newyorkcity.de
+- https://www.newyorkpass.com/de/new-york-city-travel-guide/
+- https://www.timeout.com/newyork/things-to-do/new-york-city-travel-guide
+- https://www.tripadvisor.de/Tourism-g60763-New_York_City_New_York-Vacations.html
+- https://www.nycgo.com/de
+- https://www.lonelyplanet.com/usa/new-york-city
+- https://www.newyork-tipps.de/
+- https://www.visitnewyork.de/
+- https://www.newyorker.de/reise/
+- https://www.reisebine.com/reisetipps/new-york/
+- https://www.meine-reise-nach-new-york.de/
+
 -------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+
+Es gibt viele kostenlose Dinge, die man als Tourist in New York machen kann. Hier sind einige Vorschläge:
+
+-   Central Park: Dieser berühmte Park im Herzen von Manhattan bietet zahlreiche kostenlose Aktivitäten, darunter Spaziergänge, Jogging, Picknick und Vogelbeobachtung. Du kannst auch einen der vielen kostenlosen Konzertveranstaltungen besuchen, die im Park stattfinden, oder einfach nur die Aussicht genießen.
+-   High Line: Dieser ehemalige Güterzug-Wanderweg wurde in einen Park umgewandelt und bietet eine wunderschöne Aussicht auf die Stadt. Du kannst den High Line von der Gansevoort Street im Meatpacking District bis zur 34th Street entlang spazieren und dabei die Kunstinstallationen und Aussichtspunkte entlang des Weges genießen.
+-   Museen: Es gibt viele Museen in New York, die kostenlosen Eintritt oder zumindest kostenlose Tage anbieten. Zum Beispiel bietet das Metropolitan Museum of Art kostenlosen Eintritt, solange du den empfohlenen Eintrittspreis bezahlst, und das Museum of Modern Art (MoMA) hat jeden Freitagabend von 16 Uhr bis 20 Uhr kostenlosen Eintritt.
+-   Times Square: Ein Besuch von Times Square gehört zu den beliebtesten kostenlosen Aktivitäten in New York. Du kannst die leuchtenden Werbetafeln und das Treiben auf dem Platz beobachten oder einfach nur das berühmte New Yorker Flair genießen.
+
+
+**Kostenloses Theater im Park: New York Public Theatre**
+- https://publictheater.org/productions/season/2021/sitp/merry-wives/
+- https://publictheater.org/your-2223-programming/
+- https://publictheater.org/
