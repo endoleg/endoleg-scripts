@@ -12,6 +12,7 @@
 - https://flug.idealo.de/ (geht auch sehr gut über die App)
 - Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
 - Direktflüge (keine Umstiege!)
+- Sitzpläne: https://www.usa-reisetipps.net/einreise-usa/sitzplaene
 
 ## **Hotelsuche**
 - https://www.google.de/travel/hotels
@@ -69,9 +70,14 @@ Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zol
 -   T-Mobile: Das "Magenta"-Angebot von T-Mobile kostet $70 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.   
 -   AT&T: Das "AT&T Unlimited Extra"-Angebot kostet $75 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
 
+https://www.usa-reisetipps.net/leben-in-den-usa/handytarife#3
+
 -------------------------------------------------------------------------------------------------------------
 
 ## **Geld**
+Die gängigsten Dollarscheine sind 1, 5, 10, 20, 50 und 100. Es gibt auch 2-Dollarscheine, aber die haben eher Sammlerwert und sind selten zu finden.
+Im Alltag spielen eigentlich nur die Noten bis 50 Dollar eine Rolle. 100 Dollarscheine werden ungern angenommen und teilweise verweigert.
+Die meisten Münzautomaten nehmen nur 25 Cent Stücke an, daher solltest Du, wo es nur geht, die 25 Cent sammeln und nicht passend beim Bezahlen herausgeben.
 
 ### **Geld: Bank: DKB**
 Ich steige aus dem Flieger, hole mein Gepäck, um dann direkt zum Bankautomaten zu gehen. 
@@ -90,7 +96,7 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 -------------------------------------------------------------------------------------------------------------
 
 ## **Essens-Empfehlungen**
-
+https://www.usa-reisetipps.net/essen-trinken-usa
 Als typisches Essen in New York würde ich dir empfehlen:
  - Shake Shack für Burger (Alternativ: Spotted Pig, Dure Smaakoder Bareburger) 
  - Ess-A-Bagel - die Institution überhaupt für einen Bagel 
