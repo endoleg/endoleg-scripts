@@ -17,3 +17,8 @@ Remove Unwanted Object: Diese App ermöglicht es Ihnen, unerwünschte Objekte au
 Fotolr Photo Eraser: Diese App bietet eine Vielzahl von Werkzeugen zur Foto-Bearbeitung, darunter auch die Möglichkeit, unerwünschte Objekte aus Bildern zu entfernen.
 TouchErase: Mit dieser App können Sie unerwünschte Objekte aus Ihren Fotos entfernen, indem Sie sie einfach auswählen und löschen.
 Es gibt noch viele weitere kostenlose Apps im App Store, die ähnliche Funktionen bieten. Ich hoffe, dass diese Vorschläge hilfreich sind!
+
+- TouchRemove
+- Remove Object
+- Super Eraser
+
