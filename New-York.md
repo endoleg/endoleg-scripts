@@ -7,7 +7,7 @@
 ## **to do**
 - eSIM
 - Toiletten: https://new-york-geheimtipps.de/toiletten-finden-new-york/
-- WLAN
+- WLAN/Wifi: App WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
 
 -------------------------------------------------------------------------------------------------------------
 
