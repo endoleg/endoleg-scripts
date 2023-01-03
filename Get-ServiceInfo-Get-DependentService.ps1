@@ -50,6 +50,7 @@ function Get-ServiceInfo{
     Get-Service -Name $Name | Select-Object DisplayName, 
     @{Name='Account'; Expression={$wmiObject.StartName -replace '^.*\\',''}},
     @{Name='Path'; Expression={$wmiObject.PathName -replace '^"|"$',''}},
+    @{Name='ProcessId'; Expression={$wmiObject.ProcessId}},
     @{Name='Description'; Expression={$wmiObject.Description -replace '^"|"$',''}},
     @{Name='LastTimeStampsEventlog'; Expression={$lastTime}},
     @{Name='NumberOfEventlogSourceService'; Expression={($eventLogEntries | Where-Object {$_.Source -eq $Name}).count}},
