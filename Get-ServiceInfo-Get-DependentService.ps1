@@ -37,3 +37,39 @@ function Get-ServiceInfo{
 #Get-ServiceInfo -Name "netlogon"
 Get-ServiceInfo -Name "wudfsvc"
 #Get-ServiceInfo -Name "WemAgentSvc"
+
+
+#Namen, Displaynamen, den Status und den Ursprung jedes Diensts anzeigen, der von ihm abhängig ist oder von dem der Dienst abhängig ist
+function Get-DependentServices {
+    [CmdletBinding()]
+    param (
+        [parameter(Mandatory=$true)]
+        [string]$ServiceName
+    )
+
+    $services = Get-WmiObject -Class Win32_DependentService | 
+        Where-Object { $_.Antecedent -match $ServiceName -or $_.Dependent -match $ServiceName } |
+        ForEach-Object {
+            [PSCustomObject]@{
+                Name = ($_.Antecedent -split 'Name=')[1].Trim('"')
+                Source = 'Antecedent'
+            }
+            [PSCustomObject]@{
+                Name = ($_.Dependent -split 'Name=')[1].Trim('"')
+                Source = 'Dependent'
+            }
+        }
+
+    $services | 
+        Sort-Object Name | 
+        ForEach-Object {
+            $service = Get-Service -Name $_.Name 
+            [PSCustomObject]@{
+                Name = $service.Name
+                DisplayName = $service.DisplayName
+                Status = $service.Status
+                Source = $_.Source
+            }
+        }
+}
+Get-DependentServices -ServiceName "WemAgentSvc"
