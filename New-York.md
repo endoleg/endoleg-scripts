@@ -5,19 +5,10 @@
 -------------------------------------------------------------------------------------------------------------
 
 ## **to do**
-- eSIM klären
-
--------------------------------------------------------------------------------------------------------------
-
-## **öffentliche Toiletten**
-- https://new-york-geheimtipps.de/toiletten-finden-new-york/
-
--------------------------------------------------------------------------------------------------------------
-
-## **WLAN/Wifi**
-- App WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
-- https://new-york-geheimtipps.de/wlan-in-new-york-kein-problem/ 
-- https://www.newyorkcity.de/kostenloses-wlan-in-new-york/
+- eSIM klären 
+- https://www.amazon.de/beachsim-Lycamobile-SIM-Karte-Prepaid-Hawaii/dp/B08H8PRXH3
+- https://new-york-geheimtipps.de/new-york-telefonieren-kosten-sparen/
+- https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -74,6 +65,18 @@ Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zol
 - https://lovingnewyork.de/new-york-pass-berater/
 - https://www.newyorkcity.de/new-york-pass/
 - https://viel-unterwegs.de/new-york-pass-vergleich/
+
+-------------------------------------------------------------------------------------------------------------
+
+## **öffentliche Toiletten**
+- https://new-york-geheimtipps.de/toiletten-finden-new-york/
+
+-------------------------------------------------------------------------------------------------------------
+
+## **WLAN/Wifi**
+- App WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
+- https://new-york-geheimtipps.de/wlan-in-new-york-kein-problem/ 
+- https://www.newyorkcity.de/kostenloses-wlan-in-new-york/
 
 -------------------------------------------------------------------------------------------------------------
 
