@@ -42,7 +42,10 @@ function Get-ServiceInfo{
     Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\$Name"
     }
 
+    
+    write-verbose "####################################################" -Verbose
     write-verbose "Service-Details: $computername" -Verbose
+
     #Get-Service -Name $Name | Select-Object DisplayName, Status, StartType, ServiceType, CanPauseAndContinue, CanShutdown, CanStop, DependentServices, 
     Get-Service -Name $Name | Select-Object DisplayName, 
     @{Name='Account'; Expression={$wmiObject.StartName -replace '^.*\\',''}},
@@ -62,7 +65,13 @@ function Get-ServiceInfo{
 #Get-ServiceInfo -Name "WSearch" #-ComputerName svacxxd610
 
 
+
 ####################################################################################################################################################
+####################################################################################################################################################
+####################################################################################################################################################
+
+
+
 
 # Namen, Displaynamen, den Status und den Ursprung jedes Diensts anzeigen, der von ihm abhängig ist oder von dem der Dienst abhängig ist
 # 
@@ -109,6 +118,9 @@ function Get-ServiceDependencies {
                 }
             }
 
+    write-verbose "####################################################" -Verbose
+    write-verbose "ServiceDependencies: $computername" -Verbose
+
         $services | 
             Sort-Object Name | 
             ForEach-Object {
@@ -124,4 +136,4 @@ function Get-ServiceDependencies {
 }
 
 #Get-ServiceDependencies -ServiceName "WSearch" -ComputerName "svacxxd607"
-Get-ServiceDependencies -ServiceName "netlogon" #-ComputerName "svacxxd608"
+#Get-ServiceDependencies -ServiceName "netlogon" #-ComputerName "svacxxd608"
