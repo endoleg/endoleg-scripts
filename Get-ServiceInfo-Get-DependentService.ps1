@@ -17,10 +17,11 @@ function Get-ServiceInfo{
         "N/A"
     }
     } else {
-    "Eventlog has no start or stop entries for Service - Dienst laut Eventlog noch nicht ein einziges Mal erfolgreich gestartet oder gestoppt worden"
+    "Eventlog has no start or stop entries for this Service - Dienst laut Eventlog noch nicht erfolgreich gestartet oder gestoppt worden"
     }
     $serviceProperties = Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\$Name"
 
+    write-verbose "Service-Details:" -Verbose
     Get-Service -Name $Name | Select-Object DisplayName, Status, StartType, ServiceType, CanPauseAndContinue, CanShutdown, CanStop, DependentServices, 
     @{Name='Account'; Expression={$wmiObject.StartName -replace '^.*\\',''}},
     @{Name='Path'; Expression={$wmiObject.PathName -replace '^"|"$',''}},
@@ -31,13 +32,14 @@ function Get-ServiceInfo{
     if ((Get-EventLog -LogName "System" -Source $Name -Newest 1 | Where-Object {$_.Message -like "*error*"})) {(Get-EventLog -LogName "System" -Source $Name -Newest 1 | Where-Object {$_.Message -like "*error*"})} else {"N/A"}}},
     @{Name='ErrorControl'; Expression={$serviceProperties.ErrorControl}},
     @{Name='Group'; Expression={$serviceProperties.Group}},
-    @{Name='Type'; Expression={$serviceProperties.Type}}
+    @{Name='Type'; Expression={$serviceProperties.Type}} 
+
 }
 
 #Get-ServiceInfo -Name "netlogon"
-Get-ServiceInfo -Name "wudfsvc"
-#Get-ServiceInfo -Name "WemAgentSvc"
+Get-ServiceInfo -Name "WSearch"
 
+#########################################################################################################################################
 
 #Namen, Displaynamen, den Status und den Ursprung jedes Diensts anzeigen, der von ihm abhängig ist oder von dem der Dienst abhängig ist
 function Get-DependentServices {
@@ -60,6 +62,7 @@ function Get-DependentServices {
             }
         }
 
+    write-verbose "ServiceDependencies:" -Verbose
     $services | 
         Sort-Object Name | 
         ForEach-Object {
@@ -72,4 +75,6 @@ function Get-DependentServices {
             }
         }
 }
-Get-DependentServices -ServiceName "WemAgentSvc"
+Get-DependentServices -ServiceName "WSearch"
+#Get-DependentServices -ServiceName "netlogon"
+
