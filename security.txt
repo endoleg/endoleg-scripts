@@ -9,3 +9,6 @@ tracker blocker
 https://privacybadger.org/
 https://disconnect.me/disconnect
 
+https://one.one.one.one/
+OptMeowt ("Opt Me Out") is a browser extension for opting you out from web tracking. OptMeowt works by sending Do Not Sell signals to visited websites per the Global Privacy Control (GPC) spec that we are developing at the W3C and placing opt out cookies.
+https://github.com/privacy-tech-lab/gpc-optmeowt
