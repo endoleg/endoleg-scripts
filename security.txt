@@ -1,0 +1,11 @@
+Browser:
+ad blocker:
+I say this not because it makes web pages load faster (it does) but because ads have been abused too many times to install 
+malicious software or take you to scam websites. Even Chromebook users can be scammed at websites (no malware though). 
+One highly recommended ad-blocker is uBlock Origin by Raymond Hill.
+The down sides are that some sites won't display without their ads and that it prevents sites from earning needed revenue. But, the ad blocker can be disabled on sites you wish to support. No website can be trusted to only show non-malicious ads because the website itself does not choose the ads. Except Krebs on Security.
+
+tracker blocker
+https://privacybadger.org/
+https://disconnect.me/disconnect
+
