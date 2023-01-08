@@ -4,11 +4,28 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-## **to do**
-- eSIM klären 
+## ** eSIM **
 - https://www.amazon.de/beachsim-Lycamobile-SIM-Karte-Prepaid-Hawaii/dp/B08H8PRXH3
 - https://new-york-geheimtipps.de/new-york-telefonieren-kosten-sparen/
 - https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
+- https://www.info-usa.de/sim-karte-usa/
+
+Beste Seiten:
+- https://esimradar.com/de/esim-usa/
+- https://travel-dealz.de/blog/esim-usa/
+
+Holafly: 34 Euro - unbegrenzt Daten:
+- https://www.howlanders.com/blog/de/reisetipps/die-beste-esim-fuer-usa-zum-reisen/
+- https://www.howlanders.com/blog/de/reisetipps/meinungen-ueber-holafly/
+- https://esim.holafly.com/de/esim-usa/
+- https://teilzeitreisender.de/esim-erfahrungen-holafly/
+- https://de.trustpilot.com/review/holafly.com
+
+- Die wichtigsten Vorteile von Holafly im Überblick:
+24h-Kundenservice
+Hotspot/Tethering
+Unbegrenztes Datenvolumen
+eSIM sofort nutzbar, kein Versand per Post nötig
 
 -------------------------------------------------------------------------------------------------------------
 
