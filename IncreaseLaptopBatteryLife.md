@@ -1,7 +1,7 @@
 ## **Sourcen**
 - https://www.wikigain.com/10-ways-to-increase-laptop-battery-life-in-windows-10/
-- 
 - https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/
+- 
 - https://www.ctrl.blog/entry/laptop-boost-mode-battery.html
 - http://www.rawinfopages.com/tips/2017/05/dig-deep-into-windows-power-settings-to-extend-laptop-battery-life/
 - https://community.frame.work/t/power-optimizations-under-windows-lower-temps-longer-battery-life/19505
@@ -74,6 +74,28 @@ It isn't a perfect science. You'll have to experiment with the best option for y
 If you're using an Intel system, you'll find an Intel Graphics Settings option in the advanced power plan menu. This option lets you define a default level of graphics for your integrated CPU graphics settings, switching between Balanced, Maximum Battery Life, and Maximum Performance. If you're looking to extend battery life and reduce power consumption, switch to Maximum Battery Life.
 
 Another power-saving option in your custom power plan is Wireless Adapter Settings. Your wireless adapter can periodically power down to save battery life. Changing this setting adjusts the period before the Wi-Fi adapter sleeps. For maximum battery life, switch to Maximum Power Saving.
+
+
+## ** Diasable Boost Mode**
+You can safely disable processor performance boost mode on your device unless you’re a gamer or regularly execute long-lived CPU-bound workloads. (You know who you are.) In other words, disabling boost mode could be beneficial to most people who want to prolong their laptop’s battery life.
+
+Windows comes with built-in power options for disabling boost mode on both Intel and AMD processors.
+
+The boost mode options are not visible by default in Windows’ power settings dialog. I don’t know why these options are hidden by default. Microsoft and Intel probably believes it’s what’s best for most customers, but it would be nice to have the option regardless. You can easily make the boost mode power options visible again, though.
+
+Press the Windows key + X, right-click on either Command Prompt or PowerShell, and choose run as administrator.
+Type in the following command (in one line), and press Enter afterward.
+powercfg.exe -attributes sub_processor perfboostmode -attrib_hide
+After you’ve made the settings visible, you can find the new option in the Advanced Power Options dialog. Here’s how to find that dialog in the depths of Windows’ many different power setting dialogs:
+
+Press the Windows key, type “Edit power plan”, and open the app with the same name.
+Click on Change advanced power settings.
+Select Processor power management: Processor performance boost mode.
+Change the option to Disabled.
+
+![image](https://user-images.githubusercontent.com/49591978/211348689-34e7fe87-4e75-4269-b8d1-8ba76fd4ee03.png)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
