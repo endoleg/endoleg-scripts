@@ -26,23 +26,54 @@ To create a custom power plan, select Create a power plan from the Control Panel
 
 When you create a custom power plan on Windows 10, there are a few settings for you to consider.
 
-**1. Turn Off the Display and Put the Computer to Sleep**
+#**1. Turn Off the Display and Put the Computer to Sleep**
 The first two settings are the easiest to tweak. How long do you want your display to remain idle before switching off, and how long should the computer idle before switching to sleep mode?
 
 On portable devices, Windows 10 provides an option for On battery and Plugged in. You might have to play around with timings to find your sweet spot. If extending your custom power plan is all about power saving and battery life preservation, set the numbers as low as possible.
 
-Display Brightness
+**Display Brightness**
 Wondering where the display brightness toggle setting is? Microsoft removed the option to set display brightness (as well as adaptive brightness) through your power plan in Windows 10 update 1809. The move is infuriating, as the display brightness option was another handy power saving factor you could customize.
 
 You can still change how bright your display is without the toggle. Tap the Notification icon on the bottom right of your screen to open the Action Center. At the bottom of the panel is an adjustable brightness slider.
+
+![image](https://user-images.githubusercontent.com/49591978/211345346-ffeb8448-1996-4a27-bdc7-4fd41abd123e.png)
+
 ![image](https://user-images.githubusercontent.com/49591978/211343312-6dba2085-ee00-4fb6-ab65-fc6eaccc2405.png)
 
 Don't discount the power savings an even slightly dimmed monitor will deliver. Power savings vary between monitors, but according to this tip from Harvard Law School's Energy Manager, reducing your computer monitor brightness from 100-percent down to 70-percent can "save up to 20% of the energy the monitor uses." You might not notice that 30-percent brightness reduction too much, but you'll note the extra battery power!
 
-**2. Advanced Sleep Settings**
+#**2. Advanced Sleep Settings**
 The sleep timer in the basic settings isn't the only adjustable option. The Windows 10 power plan advanced settings hide a host of customizable options. Select Change advanced power settings to open the advanced menu.
 
 You'll find three additional sleep options; Sleep after, Allow hybrid sleep, and Hibernate after. Hybrid sleep attempts to combine the sleep and hibernate mode into a single mode and is intended for desktops, so ignore that for now.
+
+You can switch out the option to put the computer to sleep with hibernate using a combination of the "Sleep after" and "Hibernate after" options. If you set the sleep timers to Never, and set a time for the hibernate timers, your computer will hibernate instead of sleep after a certain period.
+
+The best option for maximum battery preservation is a combination of the two. Allow your computer to enter hibernation mode after a certain period, rather than keeping it exclusively in sleep mode (which uses more overall power).
+
+You can switch out the option to put the computer to sleep with hibernate using a combination of the "Sleep after" and "Hibernate after" options. If you set the sleep timers to Never, and set a time for the hibernate timers, your computer will hibernate instead of sleep after a certain period.
+
+**What Is Hibernate?**
+Hibernate dumps your system RAM to your hard drive and then shuts down your computer, which drastically cuts (but does not completely eliminate) power draw. Furthermore, your computer's state saves to your hard disk, so you don't run the risk of losing data when the battery gives out (a common problem with sleep).
+
+Restoring from hibernation takes longer than the effortless sleep restoration, so that's another consideration.
+
+## **3. Processor Power Management**
+Display brightness helps reduce power use and increase battery life. But it isn't the only thing affecting power consumption on your custom power plan. The amount of power your CPU uses depends on how you use it. Running a demanding program (or multiple programs) can cause your power draw to increase drastically, regardless of the power plan you use.
+
+The Processor power management option controls your CPU output, providing a percentage amount for the minimum and maximum state.
+
+If your maximum state is set to 100-percent, your CPU will use its full capacity when required. Whereas, if you set the maximum state to 50-percent, your CPU will use less capacity (though not exactly half as the percentage amount implies). That is to say, if you have a 2.0GHz processor and set the maximum processor state to 10-percent, your laptop won't use just 200MHz of its potential.
+
+The processor power management option is somewhat like an underclocking tool, allowing you to use fewer CPU resources. In turn, you'll save some power and battery life.
+
+It isn't a perfect science. You'll have to experiment with the best option for your device along with the applications you regularly run.
+
+
+## **4. Wireless Adapters and Graphics Settings**
+If you're using an Intel system, you'll find an Intel Graphics Settings option in the advanced power plan menu. This option lets you define a default level of graphics for your integrated CPU graphics settings, switching between Balanced, Maximum Battery Life, and Maximum Performance. If you're looking to extend battery life and reduce power consumption, switch to Maximum Battery Life.
+
+Another power-saving option in your custom power plan is Wireless Adapter Settings. Your wireless adapter can periodically power down to save battery life. Changing this setting adjusts the period before the Wi-Fi adapter sleeps. For maximum battery life, switch to Maximum Power Saving.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
