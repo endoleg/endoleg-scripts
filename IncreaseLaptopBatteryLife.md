@@ -1,8 +1,8 @@
 ## **Sourcen**
 - https://www.wikigain.com/10-ways-to-increase-laptop-battery-life-in-windows-10/
 - https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/
-- 
 - https://www.ctrl.blog/entry/laptop-boost-mode-battery.html
+- 
 - http://www.rawinfopages.com/tips/2017/05/dig-deep-into-windows-power-settings-to-extend-laptop-battery-life/
 - https://community.frame.work/t/power-optimizations-under-windows-lower-temps-longer-battery-life/19505
 - https://geekflare.com/windows-power-options/
@@ -66,7 +66,6 @@ The Processor power management option controls your CPU output, providing a perc
 If your maximum state is set to 100-percent, your CPU will use its full capacity when required. Whereas, if you set the maximum state to 50-percent, your CPU will use less capacity (though not exactly half as the percentage amount implies). That is to say, if you have a 2.0GHz processor and set the maximum processor state to 10-percent, your laptop won't use just 200MHz of its potential.
 
 The processor power management option is somewhat like an underclocking tool, allowing you to use fewer CPU resources. In turn, you'll save some power and battery life.
-
 It isn't a perfect science. You'll have to experiment with the best option for your device along with the applications you regularly run.
 
 
@@ -96,6 +95,8 @@ Change the option to Disabled.
 ![image](https://user-images.githubusercontent.com/49591978/211348689-34e7fe87-4e75-4269-b8d1-8ba76fd4ee03.png)
 
 
+## **multimedia sttings**
+Expand the Multimedia settings and then When playing video. On battery, set it to Optimise power settings.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
