@@ -4,53 +4,6 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-## ** eSIM **
-- https://www.amazon.de/beachsim-Lycamobile-SIM-Karte-Prepaid-Hawaii/dp/B08H8PRXH3
-- https://new-york-geheimtipps.de/new-york-telefonieren-kosten-sparen/
-- https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
-- https://www.info-usa.de/sim-karte-usa/
-
-Beste Seiten:
-- https://esimradar.com/de/esim-usa/
-- https://travel-dealz.de/blog/esim-usa/
-
-Holafly: 34 Euro - unbegrenzt Daten:
-- https://www.howlanders.com/blog/de/reisetipps/die-beste-esim-fuer-usa-zum-reisen/
-- https://www.howlanders.com/blog/de/reisetipps/meinungen-ueber-holafly/
-- https://esim.holafly.com/de/esim-usa/
-- https://teilzeitreisender.de/esim-erfahrungen-holafly/
-- https://de.trustpilot.com/review/holafly.com
-
-- Die wichtigsten Vorteile von Holafly im Überblick:
-24h-Kundenservice
-Hotspot/Tethering
-Unbegrenztes Datenvolumen
-eSIM sofort nutzbar, kein Versand per Post nötig
-Vergessen Sie nicht, den Code POCKETLINT für einen Rabatt von 5 Prozent zu verwenden.
-
-Im Folgenden finden Sie eine Übersicht über die Schritte zur Aktivierung der eSIM:
-
-Stellen Sie sicher, dass Sie mit dem WiFi verbunden sind.
-Gehen Sie zu Einstellungen > Mobile Daten > Datenplan hinzufügen.
-Scannen Sie den QR-Code mit Ihrer Kamera.
-Wählen Sie aus, ob die eSIM Ihre primäre oder sekundäre SIM-Karte ist. Wenn Sie die eSIM zu Reisezwecken verwenden, sollten Sie idealerweise "Sekundär" auswählen.
-Sie werden gefragt, welche Ihrer SIM-Karten Sie für Anrufe, mobile Daten und SMS verwenden möchten. Sie sollten Ihre primäre SIM-Karte für SMS und Anrufe wählen und die eSIM-Karte für mobile Daten verwenden. Aktivieren Sie jedoch nicht die mobile Datenübertragung, da sonst zusätzliche Gebühren anfallen können.
-Nachdem Sie die eSIM installiert haben, können Sie zu Einstellungen > Mobile Daten gehen.
-Wählen Sie Ihre neue eSIM unter Mobilitätspläne aus.
-Schalten Sie die Schaltfläche Diese Leitung einschalten ein.
-Aktivieren Sie Mobile Daten und Daten-Roaming in den Einstellungen.
-Sobald Ihre eSIM aktiviert ist, erhalten Sie möglicherweise einige Textnachrichten.
-
-Voraussetzungen für die Nutzung des iPhones mit einer eSIM:
-iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone SE 2, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone SE 3.
-iOS 12.1 oder neuer.
-Mobilfunkanbieter, die eSIM-Karten unterstützen.
-Ihr iPhone muss entsperrt sein.
-Ihr iPhone muss während des Installationsvorgangs über eine WiFi-Verbindung verfügen.
-
-
--------------------------------------------------------------------------------------------------------------
-
 ## **Flugsuche**
 
  https://www.google.de/flights
@@ -137,6 +90,54 @@ USA - AT&T Netz
 5GB Daten - 16$
 10GB Daten - 26$
 https://www.usa-reisetipps.net/leben-in-den-usa/handytarife#3
+
+
+-------------------------------------------------------------------------------------------------------------
+
+## ** eSIM **
+- https://www.amazon.de/beachsim-Lycamobile-SIM-Karte-Prepaid-Hawaii/dp/B08H8PRXH3
+- https://new-york-geheimtipps.de/new-york-telefonieren-kosten-sparen/
+- https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
+- https://www.info-usa.de/sim-karte-usa/
+
+Beste Seiten:
+- https://esimradar.com/de/esim-usa/
+- https://travel-dealz.de/blog/esim-usa/
+
+Holafly: 34 Euro - unbegrenzt Daten:
+- https://www.howlanders.com/blog/de/reisetipps/die-beste-esim-fuer-usa-zum-reisen/
+- https://www.howlanders.com/blog/de/reisetipps/meinungen-ueber-holafly/
+- https://esim.holafly.com/de/esim-usa/
+- https://teilzeitreisender.de/esim-erfahrungen-holafly/
+- https://de.trustpilot.com/review/holafly.com
+
+- Die wichtigsten Vorteile von Holafly im Überblick:
+24h-Kundenservice
+Hotspot/Tethering
+Unbegrenztes Datenvolumen
+eSIM sofort nutzbar, kein Versand per Post nötig
+Vergessen Sie nicht, den Code POCKETLINT für einen Rabatt von 5 Prozent zu verwenden.
+
+Im Folgenden finden Sie eine Übersicht über die Schritte zur Aktivierung der eSIM:
+
+Stellen Sie sicher, dass Sie mit dem WiFi verbunden sind.
+Gehen Sie zu Einstellungen > Mobile Daten > Datenplan hinzufügen.
+Scannen Sie den QR-Code mit Ihrer Kamera.
+Wählen Sie aus, ob die eSIM Ihre primäre oder sekundäre SIM-Karte ist. Wenn Sie die eSIM zu Reisezwecken verwenden, sollten Sie idealerweise "Sekundär" auswählen.
+Sie werden gefragt, welche Ihrer SIM-Karten Sie für Anrufe, mobile Daten und SMS verwenden möchten. Sie sollten Ihre primäre SIM-Karte für SMS und Anrufe wählen und die eSIM-Karte für mobile Daten verwenden. Aktivieren Sie jedoch nicht die mobile Datenübertragung, da sonst zusätzliche Gebühren anfallen können.
+Nachdem Sie die eSIM installiert haben, können Sie zu Einstellungen > Mobile Daten gehen.
+Wählen Sie Ihre neue eSIM unter Mobilitätspläne aus.
+Schalten Sie die Schaltfläche Diese Leitung einschalten ein.
+Aktivieren Sie Mobile Daten und Daten-Roaming in den Einstellungen.
+Sobald Ihre eSIM aktiviert ist, erhalten Sie möglicherweise einige Textnachrichten.
+
+Voraussetzungen für die Nutzung des iPhones mit einer eSIM:
+iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone SE 2, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone SE 3.
+iOS 12.1 oder neuer.
+Mobilfunkanbieter, die eSIM-Karten unterstützen.
+Ihr iPhone muss entsperrt sein.
+Ihr iPhone muss während des Installationsvorgangs über eine WiFi-Verbindung verfügen.
+
 
 -------------------------------------------------------------------------------------------------------------
 
