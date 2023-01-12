@@ -158,6 +158,7 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 - https://viel-unterwegs.de/kosten-new-york-reise/
 - https://www.rentcafe.com/cost-of-living-calculator/us/ny/manhattan/
 - https://www.expatistan.com/cost-of-living/
+- https://www.numbeo.com/cost-of-living/comparison.jsp
 - Lebenshaltungskosten-Vergleich New York - Wiesbaden: - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
 
 -------------------------------------------------------------------------------------------------------------
