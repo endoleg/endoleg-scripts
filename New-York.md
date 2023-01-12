@@ -63,6 +63,11 @@ Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zol
 ## **öffentliche Toiletten**
 - https://new-york-geheimtipps.de/toiletten-finden-new-york/
 
+Mappler bietet die umfangreichste Übersicht der New York Restrooms: http://m3.mappler.net/nyrestroom/
+Bei der deutschen Seite PeePlace kannst du die Ansicht sortieren, bspw. nach Behinderten-WCs: https://pee.place/de/l/USA/Freiheitsinsel/New-York-City/Manhattan
+NYC Parks listet alle Park Bathrooms auf: https://www.nycgovparks.org/facilities/bathrooms
+Selbstverständlich zeigt auch Google Maps die Public Restrooms in Manhattan an: https://www.google.de/maps/search/public+restrooms/@40.7668157,-74.0040472,12z/data=!3m1!4b1!4m8!2m7!3m6!1spublic+restrooms!2sManhattan,+New+York+City,+New+York,+USA!3s0x89c2588f046ee661:0xa0b3281fcecc08c!4m2!1d-73.9712488!2d40.7830603
+
 -------------------------------------------------------------------------------------------------------------
 
 ## **WLAN/Wifi**
