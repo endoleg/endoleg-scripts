@@ -199,6 +199,8 @@ https://www.google.com/maps/place/New+York,+NY/
 -------------------------------------------------------------------------------------------------------------
 
 ## **Dinge, die man gesehen haben muss**
+- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
+- 
 1.  Besuche das Empire State Building und genieße die atemberaubende Aussicht über die Stadt von der Aussichtsplattform.
 2.  Spaziere durch den Central Park und schaue dir einige der berühmten Landmarks an, wie die Bethesda Fontäne und die Strawberry Fields. 
 3.  Erkunde das Metropolitan Museum of Art und verbringe etwas Zeit damit, die umfangreiche Sammlung von Kunstwerken und Artefakten aus der ganzen Welt zu bewundern.    
