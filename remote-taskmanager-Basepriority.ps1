@@ -55,6 +55,10 @@ function Show-Taskmanager-Basepriority {
             }
             Set-ProcessPriority -id $($Processes.ProcessId) High
             #Set-ProcessPriority -id $($Processes.ProcessId) Normal
+            #Set-ProcessPriority -id $($Processes.ProcessId) BelowNormal
+            #Set-ProcessPriority -id $($Processes.ProcessId) AboveNormal
+            #Set-ProcessPriority -id $($Processes.ProcessId) Idle
+            #Set-ProcessPriority -id $($Processes.ProcessId) RealTime
        }
    } -ArgumentList $Processes 
 
