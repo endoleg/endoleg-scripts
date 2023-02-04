@@ -79,4 +79,7 @@ BasePriority	Priorityclass
 24	RealTime
 #>
 
-
+#https://github.com/controlup/script-library/blob/master/Adjust%20Process%20Priority%20based%20on%20Session%20State/Adjust%20Process%20Priority%20based%20on%20Session%20State.ps1
+#https://github.com/controlup/script-library/blob/master/Process%20CPU%20Usage%20Limit/Process%20CPU%20Usage%20Limit.ps1
+#https://github.com/controlup/script-library/blob/master/Set%20Processes%20Priority%20to%20BelowNormal/Set%20Processes%20Priority%20to%20BelowNormal.ps1
+#https://github.com/controlup/script-library/blob/master/Trim%20Process%20Working%20Sets/Trim%20Process%20Working%20Sets.ps1
