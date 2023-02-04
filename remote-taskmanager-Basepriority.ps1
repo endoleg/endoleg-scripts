@@ -40,16 +40,32 @@ function Show-Taskmanager-Basepriority {
         #$Processes 
 
    
-   Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.ProcessId -force  }} -ArgumentList $Processes 
+   #Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.ProcessId -force  }} -ArgumentList $Processes 
+   Invoke-Command -ComputerName  $computername -ScriptBlock {
+       param($Processes) $Processes | ForEach-Object {
+           #Stop-Process -Id $Processes.ProcessId -force  
+
+            function Set-ProcessPriority {
+              [CmdletBinding()] Param(
+                [Int32] $Id,
+                [System.Diagnostics.ProcessPriorityClass] $Priority
+              )
+              Get-Process -Id $Processes.ProcessId | %{ $_.PriorityClass = $Priority }
+              Gwmi Win32_Process -Filter "ProcessId = '$Id'" | %{ $_.SetPriority( $Priority.Value__ ) }
+            }
+            Set-ProcessPriority -id $($Processes.ProcessId) High
+
+       }
+   } -ArgumentList $Processes 
 
         #$colTasklist | Sort-Object PercentProcessorTime -Desc 
- 
         #return $colTasklist
     }
 }
 
-#Taskmanager-Basepriority -computername localhost
-Taskmanager-Basepriority -computername remotecomputer
+#Show-Taskmanager-Basepriority -computername localhost
+#Show-Taskmanager-Basepriority -computername remotecomputer
+Show-Taskmanager-Basepriority -computername svacxadmp1
 
 <# (Get-Process note*).PriorityClass
 BasePriority	Priorityclass
@@ -58,3 +74,5 @@ BasePriority	Priorityclass
 13	High
 24	RealTime
 #>
+
+
