@@ -54,7 +54,7 @@ function Show-Taskmanager-Basepriority {
               Gwmi Win32_Process -Filter "ProcessId = '$Id'" | %{ $_.SetPriority( $Priority.Value__ ) }
             }
             Set-ProcessPriority -id $($Processes.ProcessId) High
-
+            #Set-ProcessPriority -id $($Processes.ProcessId) Normal
        }
    } -ArgumentList $Processes 
 
