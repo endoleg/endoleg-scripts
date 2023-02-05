@@ -157,7 +157,7 @@ function SetProcessPriorityIFEO {
         [string]$IOpriorityValue,
         [ValidateSet("Idle", "Normal", "High", "Realtime", "BelowNormal", "AboveNormal")]
         [string]$CpuPriorityClassValue,
-        [ValidateSet("Idle", "Normal", "High", "Realtime", "BelowNormal", "AboveNormal")]
+        [ValidateSet("Idle", "VeryLow", "Low", "Background3", "Background4", "Normal")]
         [string]$PagePriorityValue
     )
     switch ($IOpriorityValue) {
