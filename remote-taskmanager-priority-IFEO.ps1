@@ -158,7 +158,8 @@ function SetProcessPriorityIFEO {
         [ValidateSet("Idle", "Normal", "High", "Realtime", "BelowNormal", "AboveNormal")]
         [string]$CpuPriorityClassValue,
         [ValidateSet("Idle", "VeryLow", "Low", "Background3", "Background4", "Normal")]
-        [string]$PagePriorityValue
+        [string]$PagePriorityValue,
+        [string]$WorkingSetLimitInKBValue
     )
     switch ($IOpriorityValue) {
         "VeryLow" {$value = 0}
@@ -197,14 +198,11 @@ function SetProcessPriorityIFEO {
             New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $value -PropertyType DWord -Force
         }
         "WorkingSetLimitInKB" {
-            New-ItemProperty -LiteralPath $registryKey -Name $name -Value $value -PropertyType DWord -Force
+            New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $WorkingSetLimitInKBValue -PropertyType DWord -Force
         }
     }
 }
 
-SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -priority "High"
-SetProcessPriorityIFEO -processName "notepad.exe" -priorityname "IOPriority" -priority "Critical" 
+#SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
+SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValue "1328"
 
-
-SetProcessPriority -processName "mrt.exe" -priorityname "CpuPriorityClass" -priority "High"
-SetProcessPriority -processName "notepad.exe" -priorityname "IOPriority" -priority "Critical" 
