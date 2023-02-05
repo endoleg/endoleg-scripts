@@ -134,6 +134,44 @@ WorkingSetLimitInKB
 ;00000003 = High
 ;00000004 = Critical (only for memory io)
 
+function SetProcessPriority {
+    param (
+        [string]$processName,
+        [ValidateSet("VeryLow", "Low", "Normal", "High", "Critical")]
+        [string]$priority,
+        [ValidateSet("CpuPriorityClass", "PagePriority", "IOPriority", "WorkingSetLimitInKB")]
+        [string]$name
+    )
+    switch ($priority) {
+        "VeryLow" {$value = 0}
+        "Low" {$value = 1}
+        "Normal" {$value = 2}
+        "High" {$value = 3}
+        "Critical" {$value = 4}
+    }
+    $registryKey = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\$processName\PerfOptions"
+    New-Item -Path $registryKey -Force | Out-Null
+    switch ($name) {
+        "CpuPriorityClass" {
+            New-ItemProperty -LiteralPath $registryKey -Name $name -Value $value -PropertyType DWord -Force
+        }
+        "PagePriority" {
+            New-ItemProperty -LiteralPath $registryKey -Name $name -Value $value -PropertyType DWord -Force
+        }
+        "IOPriority" {
+            New-ItemProperty -LiteralPath $registryKey -Name $name -Value $value -PropertyType DWord -Force
+        }
+        "WorkingSetLimitInKB" {
+            New-ItemProperty -LiteralPath $registryKey -Name $name -Value ($value * 1024) -PropertyType DWord -Force
+        }
+    }
+}
+
+SetProcessPriority -processName "mrt.exe" -priority "High" -name "CpuPriorityClass"
+#SetProcessPriority -processName "notepad.exe" -priority "Critical" -name "IOPriority"
+
+
+
 #https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-setprocessinformation
 #SetProcessInformation -IoPriorityHint IoprioLow -ProcessName notepad.exe
 
