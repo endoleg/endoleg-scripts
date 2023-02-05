@@ -150,7 +150,9 @@ WorkingSetLimitInKB
 
 function SetProcessPriorityIFEO {
     param (
+        [Parameter(Mandatory=$true)]
         [string]$processName,
+        [Parameter(Mandatory=$true)]
         [ValidateSet("CpuPriorityClass", "PagePriority", "IOPriority", "WorkingSetLimitInKB")]
         [string]$priorityname,
         [ValidateSet("VeryLow", "Low", "Normal", "High", "Critical")]
