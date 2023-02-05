@@ -159,7 +159,8 @@ function SetProcessPriorityIFEO {
         [string]$CpuPriorityClassValue,
         [ValidateSet("Idle", "VeryLow", "Low", "Background3", "Background4", "Normal")]
         [string]$PagePriorityValue,
-        [string]$WorkingSetLimitInKBValue
+        [string]$WorkingSetLimitInKBValueHEXDecimal,
+        [string]$WorkingSetLimitInKBValueDecimal
     )
     switch ($IOpriorityValue) {
         "VeryLow" {$value = 0}
@@ -198,11 +199,13 @@ function SetProcessPriorityIFEO {
             New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $value -PropertyType DWord -Force
         }
         "WorkingSetLimitInKB" {
-            New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $WorkingSetLimitInKBValue -PropertyType DWord -Force
+            #New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $WorkingSetLimitInKBValueDecimal -PropertyType DWord -Force # 42
+            New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $WorkingSetLimitInKBValueHEXDecimal -PropertyType DWord -Force # 0x2A
         }
     }
 }
 
 #SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
-SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValue "1328"
+#SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 1328
+SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueHEXDecimal 0x2A
 
