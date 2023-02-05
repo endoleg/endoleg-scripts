@@ -148,15 +148,17 @@ WorkingSetLimitInKB
 # https://github.com/guyrleech/Microsoft/blob/master/Trimmer.ps1
 
 
-function SetProcessPriority {
+function SetProcessPriorityIFEO {
     param (
         [string]$processName,
+        [ValidateSet("CpuPriorityClass", "PagePriority", "IOPriority", "WorkingSetLimitInKB")]
+        [string]$priorityname,
         [ValidateSet("VeryLow", "Low", "Normal", "High", "Critical")]
         [string]$IOpriorityValue,
         [ValidateSet("Idle", "Normal", "High", "Realtime", "BelowNormal", "AboveNormal")]
         [string]$CpuPriorityClassValue,
-        [ValidateSet("CpuPriorityClass", "PagePriority", "IOPriority", "WorkingSetLimitInKB")]
-        [string]$priorityname
+        [ValidateSet("Idle", "Normal", "High", "Realtime", "BelowNormal", "AboveNormal")]
+        [string]$PagePriorityValue
     )
     switch ($IOpriorityValue) {
         "VeryLow" {$value = 0}
@@ -173,8 +175,15 @@ function SetProcessPriority {
         "BelowNormal" {$value = 5}
         "AboveNormal" {$value = 6}
     }
-    <#
-#>
+    switch ($PagePriorityValue) {
+        "Idle" {$value = 0}
+        "VeryLow" {$value = 1}
+        "Low" {$value = 2}
+        "Background3" {$value = 3}
+        "Background4" {$value = 4}
+        "Normal" {$value = 5}
+    }
+
     $registryKey = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\$processName\PerfOptions"
     New-Item -Path $registryKey -Force | Out-Null
     switch ($priorityname) {
@@ -188,10 +197,14 @@ function SetProcessPriority {
             New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $value -PropertyType DWord -Force
         }
         "WorkingSetLimitInKB" {
-            New-ItemProperty -LiteralPath $registryKey -Name $name -Value ($value * 1024) -PropertyType DWord -Force
+            New-ItemProperty -LiteralPath $registryKey -Name $name -Value $value -PropertyType DWord -Force
         }
     }
 }
+
+SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -priority "High"
+SetProcessPriorityIFEO -processName "notepad.exe" -priorityname "IOPriority" -priority "Critical" 
+
 
 SetProcessPriority -processName "mrt.exe" -priorityname "CpuPriorityClass" -priority "High"
 SetProcessPriority -processName "notepad.exe" -priorityname "IOPriority" -priority "Critical" 
