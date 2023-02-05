@@ -94,6 +94,46 @@ Windows Registry Editor Version 5.00
 "IoPriority"=dword:00000000
 #>
 
+# page priority - process hakcer? - https://www.raymond.cc/blog/download/did/1714/
+You can set …
+CpuPriorityClass 
+IoPriority
+PagePriority
+and
+WorkingSetLimitInKB
+
+"PagePriority"=dword:00000005
+;00000000 = Idle
+;00000001 = Very Low
+;00000002 = Low
+;00000003 = Background
+;00000004 = Background
+;00000005 = Normal (default)
+
+"WorkingSetLimitInKB"=dword:00001382
+;00001382 is default
+
+"CpuPriorityClass"=dword:00000002
+;00000001 = Idle
+;00000002 = Normal (default)
+;00000003 = High
+;00000004 = RealTime or normal (n.a.)
+;00000005 = Below Normal
+;00000006 = Above Normal
+;Other values set it to normal.
+
+"IoPriority"=dword:00000002
+;00000000 = Very Low
+;00000001 = Low
+;00000002 = Normal (default)
+;00000003 = High
+;00000004 = Critical (only for memory io)
+
+#https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-setprocessinformation
+#SetProcessInformation -IoPriorityHint IoprioLow -ProcessName notepad.exe
+
+#https://answers.microsoft.com/en-us/windows/forum/all/how-to-permanently-set-priority-processes-using/df82bd40-ce52-4b84-af34-4d93da17d079
+
 # komplex:
 # https://github.com/controlup/script-library/blob/master/Trim%20Process%20Working%20Sets/Trim%20Process%20Working%20Sets.ps1
 # https://github.com/guyrleech/Microsoft/blob/master/Trimmer.ps1
