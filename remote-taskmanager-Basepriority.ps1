@@ -23,8 +23,8 @@ function Show-TaskmanagerBasepriority {
             $process | Add-Member -type NoteProperty -name "Name" -value $proc.Name       
             $process | Add-Member -type NoteProperty -name "Owner" -value $proc.Owner
             $process | Add-Member -type NoteProperty -name "SessionId" -value $proc.SessionId
-            $process | Add-Member -type NoteProperty -name "VirtualSizeMB" -value ([math]::Round(($proc.VirtualSize / 1024 /1024), 2))
             $process | Add-Member -type NoteProperty -name "PriorityBase" -value $perf.PriorityBase
+            $process | Add-Member -type NoteProperty -name "VirtualSizeMB" -value ([math]::Round(($proc.VirtualSize / 1024 /1024), 2))
             $process | Add-Member -type NoteProperty -name "PercentProcessorTime" -value $perf.PercentProcessorTime
             $process | Add-Member -type NoteProperty -name "Commandline" -value $proc.Commandline
             $process | Add-Member -type NoteProperty -name "OSName" -value $proc.OSName
