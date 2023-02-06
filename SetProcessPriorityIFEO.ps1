@@ -26,7 +26,7 @@ Special Value-Parameter used for CpuPriorityClass
 Special Value-Parameter used for PagePriority
 
 .PARAMETER WorkingSetLimitInKBValueHEXDecimal
-Special HEXDecimal-Value-Parameter used for WorkingSetLimitInKB
+Special HEXDecimal-Value-Parameter (for example 0x2A) used for WorkingSetLimitInKB
 
 .PARAMETER WorkingSetLimitInKBValueDecimal
 Special Decimal-Value-Parameter used for WorkingSetLimitInKB
