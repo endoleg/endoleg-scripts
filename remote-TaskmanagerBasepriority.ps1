@@ -29,7 +29,6 @@ function Show-TaskmanagerBasepriority {
     param (
         [parameter(Mandatory=$true,ValueFromPipeline=$false)]
         [string]$computername,
-        [Parameter(Mandatory=$true)]
         [ValidateSet("High", "Normal", "BelowNormal", "AboveNormal", "Idle", "RealTime")]
         [string]$PriorityValue = "Normal"
     )    
