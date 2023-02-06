@@ -1,8 +1,10 @@
-function Show-Taskmanager-Basepriority {
+function Show-TaskmanagerBasepriority {
     [CmdletBinding()]
     param (
         [parameter(Mandatory=$true,ValueFromPipeline=$false)]
-        [string]$computername
+        [string]$computername,
+        [ValidateSet("High", "Normal", "BelowNormal", "AboveNormal", "Idle", "RealTime")]
+        [string]$PriorityValue
     )
 
     PROCESS {
@@ -36,7 +38,7 @@ function Show-Taskmanager-Basepriority {
         }
 
         #$colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "Select processes to kill"
-        $Processes = $colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "$($perf.PSComputerName) Select processes to kill"
+        $Processes = $colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "$($perf.PSComputerName) Select processes to manipulate"
         #$Processes 
 
    
@@ -53,7 +55,8 @@ function Show-Taskmanager-Basepriority {
               Get-Process -Id $Processes.ProcessId | %{ $_.PriorityClass = $Priority }
               Gwmi Win32_Process -Filter "ProcessId = '$Id'" | %{ $_.SetPriority( $Priority.Value__ ) }
             }
-            Set-ProcessPriority -id $($Processes.ProcessId) High
+            Set-ProcessPriority -id $($Processes.ProcessId) $PriorityValue
+            #Set-ProcessPriority -id $($Processes.ProcessId) High
             #Set-ProcessPriority -id $($Processes.ProcessId) Normal
             #Set-ProcessPriority -id $($Processes.ProcessId) BelowNormal
             #Set-ProcessPriority -id $($Processes.ProcessId) AboveNormal
@@ -67,5 +70,5 @@ function Show-Taskmanager-Basepriority {
     }
 }
 
-#Show-Taskmanager-Basepriority -computername localhost
-Show-Taskmanager-Basepriority -computername remotecomputer
+#Show-TaskmanagerBasepriority -computername localhost
+Show-TaskmanagerBasepriority -computername remotecomputer
