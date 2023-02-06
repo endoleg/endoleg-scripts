@@ -1,3 +1,28 @@
+<#
+.SYNOPSIS
+Manipulate the Process BasePriority with Powershell
+.DESCRIPTION
+Manipulate the Process BasePriority with Powershell
+This is not permanent, but takes effect immediately. These settings remains not in effect if the system or process is restarted.
+
+.PARAMETER computername
+Remote-Computername to scan for processes
+
+.PARAMETER PriorityValue
+Value-Parameter used for Basepriority (default is "Normal")
+
+.EXAMPLE
+Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
+
+.NOTES
+Test, test and test before you use it in production!
+
+Thorsten Enderlein, 2023
+Twitter: @endi24
+github: https://github.com/endoleg/
+#>
+
+
 function Show-TaskmanagerBasepriority {
     [CmdletBinding()]
     param (
