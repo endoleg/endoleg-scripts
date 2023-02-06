@@ -81,6 +81,9 @@ function Show-TaskmanagerBasepriority {
               Get-Process -Id $Processes.ProcessId | %{ $_.PriorityClass = $Priority }
               Gwmi Win32_Process -Filter "ProcessId = '$Id'" | %{ $_.SetPriority( $Priority.Value__ ) }
             }
+
+            write-host "PriorityValue: $PriorityValue"
+                 
                  switch ($PriorityValue) {
                     "High" {
                         Set-ProcessPriority -id $($Processes.ProcessId) High
@@ -117,5 +120,5 @@ function Show-TaskmanagerBasepriority {
     }
 }
 
-#Show-TaskmanagerBasepriority -computername localhost
-Show-TaskmanagerBasepriority -computername remotecomputer
+#Show-TaskmanagerBasepriority -computername localhost -PriorityValue High
+Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
