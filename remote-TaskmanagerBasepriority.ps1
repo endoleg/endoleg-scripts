@@ -3,9 +3,10 @@ function Show-TaskmanagerBasepriority {
     param (
         [parameter(Mandatory=$true,ValueFromPipeline=$false)]
         [string]$computername,
+        [Parameter(Mandatory=$true)]
         [ValidateSet("High", "Normal", "BelowNormal", "AboveNormal", "Idle", "RealTime")]
-        [string]$PriorityValue
-    )
+        [string]$PriorityValue = "Normal"
+    )    
 
     PROCESS {
         $colProcs = Get-wmiobject win32_process -computername $computername  | select *,@{Name=”Owner”;Expression={($_.GetOwner()).User}}
