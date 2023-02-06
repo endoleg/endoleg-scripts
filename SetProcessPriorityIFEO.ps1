@@ -5,10 +5,10 @@
 
 <#
 .SYNOPSIS
-Manipulate the Process Priority with IFEO
+Manipulate the Process Priority with IFEO (registry)
 
 .DESCRIPTION
-Manipulate the Process Priority with IFEO
+Manipulate the Process Priority with IFEO (registry)
 
 .PARAMETER processName
 Name of process with .exe - in the following format: processname.exe
@@ -86,7 +86,11 @@ function SetProcessPriorityIFEO {
     }
 
     $registryKey = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\$processName\PerfOptions"
-    New-Item -Path $registryKey -Force | Out-Null
+    
+    if (!(Test-Path -Path $registryKey)) {
+        New-Item -Path $registryKey -Force | Out-Null
+    }
+    
     switch ($priorityname) {
             "CpuPriorityClass" {
                 New-ItemProperty -LiteralPath $registryKey -Name $priorityname -Value $value -PropertyType DWord -Force
