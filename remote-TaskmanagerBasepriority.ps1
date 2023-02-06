@@ -10,6 +10,10 @@ Remote-Computername to scan for processes
 
 .PARAMETER PriorityValue
 Value-Parameter used for Basepriority (default is "Normal")
+BasePriority	Priorityclass
+4	Idle
+8	Normal
+13	High
 
 .EXAMPLE
 Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
