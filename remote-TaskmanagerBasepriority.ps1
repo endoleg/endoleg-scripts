@@ -16,6 +16,7 @@ Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
 
 .NOTES
 Test, test and test before you use it in production!
+#Check with Get-Process <Prozessname> | Select-Object PriorityClass
 
 Thorsten Enderlein, 2023
 Twitter: @endi24
