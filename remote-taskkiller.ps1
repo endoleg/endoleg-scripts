@@ -1,3 +1,26 @@
+<#
+.SYNOPSIS
+Kill Process with Powershell remotly or on localhost
+.DESCRIPTION
+Kill Process with Powershell remotly or on localhost
+
+.PARAMETER computername
+Remote-Computername to scan for processes
+
+.EXAMPLE
+Show-Taskkiller -computername remotecomputer
+
+.EXAMPLE
+Show-Taskkiller -computername localhost
+
+.NOTES
+Test, test and test before you use it in production!
+
+Thorsten Enderlein, 2023
+Twitter: @endi24
+github: https://github.com/endoleg/
+#>
+
 function Show-Taskkiller {
     [CmdletBinding()]
     param (
@@ -35,8 +58,7 @@ function Show-Taskkiller {
             $colTasklist += $process
         }
 
-        #$colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "Select processes to kill"
-        $Processes = $colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "$($perf.PSComputerName) Select processes to kill"
+        $Processes = $colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "$($perf.PSComputerName) - Select process to kill"
         #$Processes 
 
    
@@ -49,12 +71,5 @@ function Show-Taskkiller {
 }
 
 #Show-Taskkiller -computername localhost
-Show-Taskkiller -computername remotecomputer
+#Show-Taskkiller -computername remotecomputer
 
-<# (Get-Process note*).PriorityClass
-BasePriority	Priorityclass
-4	Idle
-8	Normal
-13	High
-24	RealTime
-#>
