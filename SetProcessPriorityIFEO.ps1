@@ -16,6 +16,21 @@ Name of process with .exe - in the following format: processname.exe
 .PARAMETER priorityname
 What Priority you want to manipulate?
 
+.PARAMETER IOpriorityValue
+Special Value-Parameter used for IOpriority
+
+.PARAMETER CpuPriorityClassValue
+Special Value-Parameter used for CpuPriorityClass 
+
+.PARAMETER PagePriorityValue
+Special Value-Parameter used for PagePriority
+
+.PARAMETER WorkingSetLimitInKBValueHEXDecimal
+Special HEXDecimal-Value-Parameter used for WorkingSetLimitInKB
+
+.PARAMETER WorkingSetLimitInKBValueDecimal
+Special Decimal-Value-Parameter used for WorkingSetLimitInKB
+
 .EXAMPLE
 SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
 
