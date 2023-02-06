@@ -1,6 +1,8 @@
 <#
 .SYNOPSIS
 Manipulate the Process Priority with IFEO (registry)
+IFEO is mentioned in Windows Internals book
+#https://answers.microsoft.com/en-us/windows/forum/windows_10-performance/how-to-permanently-set-priority-processes-using/df82bd40-ce52-4b84-af34-4d93da17d079
 
 .DESCRIPTION
 Manipulate the Process Priority with IFEO (registry)
