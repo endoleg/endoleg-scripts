@@ -1,14 +1,10 @@
 <#
-    Set Process Priority with IFEO
-    Thorsten Enderlein, 2023
-#>
-
-<#
 .SYNOPSIS
 Manipulate the Process Priority with IFEO (registry)
 
 .DESCRIPTION
 Manipulate the Process Priority with IFEO (registry)
+Image File Execution Options are registry settings that are permanent and take effect immediately, as long as they are not changed or deleted manually. These settings remain in effect even if the system is restarted.
 
 .PARAMETER processName
 Name of process with .exe - in the following format: processname.exe
@@ -41,8 +37,12 @@ SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitI
 SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 41
 
 .NOTES
+Image File Execution Options are registry settings that are permanent and take effect immediately, as long as they are not changed or deleted manually. These settings remain in effect even if the system is restarted.
 Test, test and test before you use it in production!
 
+Thorsten Enderlein, 2023
+Twitter: @endi24
+github: https://github.com/endoleg/
 #>
 
 function SetProcessPriorityIFEO {
