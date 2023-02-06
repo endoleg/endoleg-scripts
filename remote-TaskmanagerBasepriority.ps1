@@ -14,6 +14,9 @@ Value-Parameter used for Basepriority (default is "Normal")
 .EXAMPLE
 Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
 
+.EXAMPLE
+Show-TaskmanagerBasepriority -computername localhost -PriorityValue BelowNormal
+
 .NOTES
 Test, test and test before you use it in production!
 #Check with Get-Process <Prozessname> | Select-Object PriorityClass
@@ -63,15 +66,11 @@ function Show-TaskmanagerBasepriority {
             $colTasklist += $process
         }
 
-        #$colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "Select processes to kill"
-        $Processes = $colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "$($perf.PSComputerName) Select processes to manipulate with Priority $PriorityValue"
-        #$Processes 
-
+        $Processes = $colTasklist | Sort-Object PercentProcessorTime -Desc | Out-GridView -PassThru  -Title "$($perf.PSComputerName) - Select process to manipulate with BasePriority: $PriorityValue"
+        
    
-   #Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.ProcessId -force  }} -ArgumentList $Processes 
    Invoke-Command -ComputerName  $computername -ScriptBlock {
        param($Processes, $PriorityValue) $Processes | ForEach-Object {
-           #Stop-Process -Id $Processes.ProcessId -force  
 
             function Set-ProcessPriority {
               [CmdletBinding()] Param(
@@ -107,10 +106,8 @@ function Show-TaskmanagerBasepriority {
        }
    } -ArgumentList $Processes, $PriorityValue
 
-        #$colTasklist | Sort-Object PercentProcessorTime -Desc 
-        #return $colTasklist
     }
 }
 
 #Show-TaskmanagerBasepriority -computername localhost -PriorityValue High
-Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
+#Show-TaskmanagerBasepriority -computername remotecomputer -PriorityValue High
