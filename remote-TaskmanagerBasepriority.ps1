@@ -82,7 +82,28 @@ function Show-TaskmanagerBasepriority {
               Get-Process -Id $Processes.ProcessId | %{ $_.PriorityClass = $Priority }
               Gwmi Win32_Process -Filter "ProcessId = '$Id'" | %{ $_.SetPriority( $Priority.Value__ ) }
             }
-            Set-ProcessPriority -id $($Processes.ProcessId) $PriorityValue
+                 switch ($PriorityValue) {
+                    "High" {
+                        Set-ProcessPriority -id $($Processes.ProcessId) High
+                    }
+                    "Normal" {
+                        Set-ProcessPriority -id $($Processes.ProcessId) Normal
+                    }
+                    "BelowNormal" {
+                        Set-ProcessPriority -id $($Processes.ProcessId) BelowNormal
+                    }
+                    "AboveNormal" {
+                        Set-ProcessPriority -id $($Processes.ProcessId) AboveNormal
+                    }    
+                    "Idle" {
+                        Set-ProcessPriority -id $($Processes.ProcessId) Idle
+                    }    
+                    "RealTime" {
+                        Set-ProcessPriority -id $($Processes.ProcessId) RealTime
+                    }    
+                }
+                    
+            #Set-ProcessPriority -id $($Processes.ProcessId) $PriorityValue
             #Set-ProcessPriority -id $($Processes.ProcessId) High
             #Set-ProcessPriority -id $($Processes.ProcessId) Normal
             #Set-ProcessPriority -id $($Processes.ProcessId) BelowNormal
@@ -90,7 +111,7 @@ function Show-TaskmanagerBasepriority {
             #Set-ProcessPriority -id $($Processes.ProcessId) Idle
             #Set-ProcessPriority -id $($Processes.ProcessId) RealTime
        }
-   } -ArgumentList $Processes 
+   } -ArgumentList $Processes, $PriorityValue
 
         #$colTasklist | Sort-Object PercentProcessorTime -Desc 
         #return $colTasklist
