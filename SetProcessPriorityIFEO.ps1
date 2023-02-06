@@ -1,3 +1,35 @@
+#
+    Set Process Priority with IFEO
+    Thorsten Enderlein, 2023
+#>
+
+<#
+.SYNOPSIS
+Manipulate the Process Priority with IFEO
+
+.DESCRIPTION
+Manipulate the Process Priority with IFEO
+
+.PARAMETER processName
+Name of process with .exe - in the following format: processname.exe
+
+.PARAMETER priorityname
+What Priority you want to manipulate?
+
+.EXAMPLE
+SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
+
+.EXAMPLE
+SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 1328
+
+.EXAMPLE
+SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 41
+
+.NOTES
+Test, test and test before you use it in production!
+
+#>
+
 function SetProcessPriorityIFEO {
     param (
         [Parameter(Mandatory=$true)]
@@ -60,6 +92,4 @@ function SetProcessPriorityIFEO {
         }
 }
 
-#SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
-#SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 1328
-SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 41
+
