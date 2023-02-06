@@ -29,13 +29,13 @@ Special HEXDecimal-Value-Parameter (for example 0x2A) used for WorkingSetLimitIn
 Special Decimal-Value-Parameter used for WorkingSetLimitInKB
 
 .EXAMPLE
-SetProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
+Set-ProcessPriorityIFEO -processName "mrt.exe" -priorityname "CpuPriorityClass" -CpuPriorityClassValue High
 
 .EXAMPLE
-SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 1328
+Set-ProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 1328
 
 .EXAMPLE
-SetProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 41
+Set-ProcessPriorityIFEO -processName "notepad.exe" -priorityname WorkingSetLimitInKB -WorkingSetLimitInKBValueDecimal 41
 
 .NOTES
 Image File Execution Options are registry settings that are permanent and take effect immediately, as long as they are not changed or deleted manually. 
@@ -48,7 +48,7 @@ Twitter: @endi24
 github: https://github.com/endoleg/
 #>
 
-function SetProcessPriorityIFEO {
+function Set-ProcessPriorityIFEO {
     param (
         [Parameter(Mandatory=$true)]
         [string]$processName,
@@ -114,4 +114,17 @@ function SetProcessPriorityIFEO {
         }
 }
 
+<# for Remote-action
+#Aufbau einer Remotesession auf einen einzugebenden Computer
+$computerName = Read-Host "Computername, auf dem SetProcessPriorityIFEO ausgeführt werden soll"
+$session = New-PSSession -ComputerName $computerName
 
+#Ausfuehren eines Sciprtblocks auf dem Computer - hier: SetProcessPriorityIFEO aus ca. Zeile 123
+Invoke-Command -Session $session -ScriptBlock { 
+    #Block
+}
+
+#Disconnect-PSSession -Session $session
+Remove-PSSession -Session $session
+
+#>
