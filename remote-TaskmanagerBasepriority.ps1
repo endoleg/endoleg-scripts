@@ -70,7 +70,7 @@ function Show-TaskmanagerBasepriority {
    
    #Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.ProcessId -force  }} -ArgumentList $Processes 
    Invoke-Command -ComputerName  $computername -ScriptBlock {
-       param($Processes) $Processes | ForEach-Object {
+       param($Processes, $PriorityValue) $Processes | ForEach-Object {
            #Stop-Process -Id $Processes.ProcessId -force  
 
             function Set-ProcessPriority {
@@ -103,15 +103,7 @@ function Show-TaskmanagerBasepriority {
                     "RealTime" {
                         Set-ProcessPriority -id $($Processes.ProcessId) RealTime
                     }    
-                }
-                    
-            #Set-ProcessPriority -id $($Processes.ProcessId) $PriorityValue
-            #Set-ProcessPriority -id $($Processes.ProcessId) High
-            #Set-ProcessPriority -id $($Processes.ProcessId) Normal
-            #Set-ProcessPriority -id $($Processes.ProcessId) BelowNormal
-            #Set-ProcessPriority -id $($Processes.ProcessId) AboveNormal
-            #Set-ProcessPriority -id $($Processes.ProcessId) Idle
-            #Set-ProcessPriority -id $($Processes.ProcessId) RealTime
+                }                   
        }
    } -ArgumentList $Processes, $PriorityValue
 
