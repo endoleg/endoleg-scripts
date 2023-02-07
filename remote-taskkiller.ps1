@@ -34,6 +34,7 @@ function Show-Taskkiller {
         $colPerfs = Get-wmiobject win32_perfformatteddata_perfproc_process -computername $computername 
         #$colPerfs
         $colTasklist = @()
+        $DateScanned = Get-Date -Format u
 
         foreach ($proc in $colProcs) {
             $process = New-Object System.Object
@@ -54,6 +55,7 @@ function Show-Taskkiller {
             $process | Add-Member -type NoteProperty -name "ThreadCount" -value $perf.ThreadCount
             $process | Add-Member -type NoteProperty -name "Handles" -value $proc.Handles
             $process | Add-Member -type NoteProperty -name "Handle" -value $proc.Handle
+            $process | Add-Member -type NoteProperty -name "DateScanned" -value $DateScanned
 
             $colTasklist += $process
         }
