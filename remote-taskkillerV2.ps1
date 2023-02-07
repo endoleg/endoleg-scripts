@@ -31,7 +31,7 @@ function Show-Taskkiller {
     begin{
 
         $DateScanned = Get-Date -Format u
-        Write-Information -InformationAction Continue -MessageData ("Started Get-Processes at {0}" -f $DateScanned)
+        Write-Information -InformationAction Continue -MessageData ("Started script at {0}" -f $DateScanned)
 
         $stopwatch = New-Object System.Diagnostics.Stopwatch
         $stopwatch.Start()
@@ -44,6 +44,8 @@ function Show-Taskkiller {
         $CIMProcesses = Get-CimInstance -class win32_Process -computername $computername  
         $CIMServices = Get-CIMinstance -class Win32_Service -computername $computername  
         $PerfProcArray = Get-CIMinstance -class Win32_PerfFormattedData_PerfProc_Process -computername $computername  
+        #$colPerfs = Get-wmiobject win32_perfformatteddata_perfproc_process -computername $computername 
+
 
         foreach ($Process in $ProcessArray){
             
@@ -54,7 +56,7 @@ function Show-Taskkiller {
             $PercentProcessorTime = $PerfProcArray | Where-Object IDProcess -eq $Process.ID | Select-Object -ExpandProperty PercentProcessorTime
             $MemoryMB = $PerfProcArray | Where-Object IDProcess -eq $Process.ID | Select-Object -ExpandProperty workingSetPrivate
             $MemoryMB = try {[Math]::Round(($MemoryMB / 1mb),2)} Catch{}
-
+         
             $Process | Add-Member -MemberType NoteProperty -Name "Host" -Value $computername
             $Process | Add-Member -MemberType NoteProperty -Name "DateScanned" -Value $DateScanned
             $Process | Add-Member -MemberType NoteProperty -Name "CommandLine" -Value $CommandLine
@@ -65,14 +67,18 @@ function Show-Taskkiller {
             $Process | Add-Member -MemberType NoteProperty -Name "ThreadCount" -Value @($Process.Threads).Count
         }
 
-           $Processes =  $ProcessArray | Select-Object Host, DateScanned, Product, Description, ProcessName, CommandLine, Services, UserName, StartTime, CPU, PercentProcessorTime, MemoryMB, BasePriority, Id, PriorityBoostEnabled, PriorityClass, PrivateMemorySize, PrivilegedProcessorTime, Responding, SessionId, TotalProcessorTime, UserProcessorTime, Company, FileVersion, Path, ProductVersion, ModuleCount, ThreadCount, MainWindowHandle, HandleCount | Out-GridView -PassThru  -Title "$($perf.PSComputerName) - Select process to kill"
-           Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.Id -force  }} -ArgumentList $Processes 
+            $elapsed = $stopwatch.Elapsed
+            Write-Verbose ("Total time elapsed: {0}" -f $elapsed) -verbose
+            Write-Verbose ("Ended at {0}" -f (Get-Date -Format u)) -verbose
+            Write-Verbose "---------------------------------------------------------------------------------------------------------------------------------------------------------" -verbose
+
+            $Processes =  $ProcessArray | Select-Object Host, DateScanned, Product, Description, ProcessName, CommandLine, Services, UserName, StartTime, CPU, PercentProcessorTime, MemoryMB, BasePriority, PriorityClass, PrivateMemorySize, PrivilegedProcessorTime, Responding, SessionId, Id, PriorityBoostEnabled, Company, Path, FileVersion, ProductVersion, TotalProcessorTime, UserProcessorTime, ModuleCount, ThreadCount, MainWindowHandle, HandleCount | Out-GridView -PassThru  -Title "$($perf.PSComputerName) - Select process to kill"
+            Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.Id -force  }} -ArgumentList $Processes 
 
     }
 
 
-    }
+}
 
 #Show-Taskkiller -computername localhost
-#Show-Taskkiller -computername remotecomputer
-Show-Taskkiller -computername svacxadmp1
+Show-Taskkiller -computername remotecomputer
