@@ -66,7 +66,7 @@ function Show-Taskkiller {
         }
 
            $Processes =  $ProcessArray | Select-Object Host, DateScanned, Product, Description, ProcessName, CommandLine, Services, UserName, StartTime, CPU, PercentProcessorTime, MemoryMB, BasePriority, Id, PriorityBoostEnabled, PriorityClass, PrivateMemorySize, PrivilegedProcessorTime, Responding, SessionId, TotalProcessorTime, UserProcessorTime, Company, FileVersion, Path, ProductVersion, ModuleCount, ThreadCount, MainWindowHandle, HandleCount | Out-GridView -PassThru  -Title "$($perf.PSComputerName) - Select process to kill"
-           Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.ProcessId -force  }} -ArgumentList $Processes 
+           Invoke-Command -ComputerName  $computername -ScriptBlock {param($Processes) $Processes | ForEach-Object {Stop-Process -Id $Processes.Id -force  }} -ArgumentList $Processes 
 
     }
 
@@ -74,4 +74,5 @@ function Show-Taskkiller {
     }
 
 #Show-Taskkiller -computername localhost
+#Show-Taskkiller -computername remotecomputer
 Show-Taskkiller -computername svacxadmp1
