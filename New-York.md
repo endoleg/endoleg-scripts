@@ -108,6 +108,8 @@ https://www.usa-reisetipps.net/leben-in-den-usa/handytarife#3
 Beste Seiten:
 - https://esimradar.com/de/esim-usa/
 - https://travel-dealz.de/blog/esim-usa/
+- https://roami.ng/de/esim/esim-usa/
+- https://www.airalo.com/de/united-states-esim
 
 Holafly: 34 Euro - unbegrenzt Daten:
 - https://www.howlanders.com/blog/de/reisetipps/die-beste-esim-fuer-usa-zum-reisen/
