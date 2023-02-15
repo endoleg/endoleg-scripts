@@ -50,6 +50,8 @@ Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 43
 - Transit Maps
 - Marco Polo Touren App
 - Zoll und Reise
+- https://meintripnachnewyork.com/blogs/gut-zu-wissen/die-besten-apps-fur-den-new-york-trip
+- https://www.usatipps.de/aktuelles/2021/die-besten-7-apps-fuer-die-usa-reise-verschiedene-apps-im-detail/
 
 -------------------------------------------------------------------------------------------------------------
 
