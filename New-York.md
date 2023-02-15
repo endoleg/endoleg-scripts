@@ -438,9 +438,12 @@ https://new.mta.info/fares
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Bootstout/Segeltrip**
+## **Bootstour / Segeltrip**
 https://www.gotui.com/de/new-york/segeltrip-zur-freiheitsstatue-auf-dem-schoner-adirondack-31783/
-
+https://www.circleline.com/?locale=en
+https://sail-nyc.com/browse-by-theme/sightseeing-cruise/
+https://www.timeout.com/newyork/travel/best-boat-tours-in-nyc
+https://capturetheatlas.com/boat-rides-in-new-york-city
 
 -------------------------------------------------------------------------------------------------------------
 
