@@ -57,6 +57,10 @@ Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 43
 
 ## **Wetter: Klima in New York**
 - https://www.newyork-reise.de/wetterin.htm
+- https://www.travelklima.de/new-york/
+- https://www.newyork.de/ueber-new-york/gut-zu-wissen/klima-und-beste-reisezeit
+- https://www.klimatabelle.info/nordamerika/usa/new-york
+- https://de.weatherspark.com/y/23912/Durchschnittswetter-in-New-York-City-New-York-Vereinigte-Staaten-das-ganze-Jahr-%C3%BCber
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -64,6 +68,9 @@ Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 43
 - https://lovingnewyork.de/new-york-pass-berater/
 - https://www.newyorkcity.de/new-york-pass/
 - https://viel-unterwegs.de/new-york-pass-vergleich/
+- https://www.22places.de/bester-new-york-pass-vergleich/
+- https://newyorkpass.com/de-us
+- https://www.waseigenes.com/2018/10/26/7-tage-new-york-sightseeing-ohne-reisefuehrer-dafuer-mit-verschiedenen-apps-und-dem-new-york-pass/
 
 -------------------------------------------------------------------------------------------------------------
 
