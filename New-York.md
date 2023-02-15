@@ -354,15 +354,6 @@ https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Richtlinie (EU) 2015/2302 (Pauschalreiserichtlinie)**
-- https://de.wikipedia.org/wiki/Richtlinie_(EU)_2015%2F2302_(Pauschalreiserichtlinie)
-Bei Pauschalreisen haftet der Reiseveranstalter gemäß Reisevertrag verschuldensunabhängig für Reisemängel (§ 651i BGB), geregelt sind die beidseitigen Kündigungs- und Rücktrittsrechte vor Reiseantritt und während der Reise, die Ansprüche des Reisenden aus Minderung des Reisepreises, Schadensersatz, Aufwendungsersatz oder Abhilfe.
-Daher können Sie alle EU-Rechte in Anspruch nehmen, die für Pauschalreisen gelten. Das Unternehmen trägt die volle Verantwortung für die ordnungsgemäße Durchführung der gesamten Pauschalreise.Zudem verfügt das Unternehmen über die gesetzlich vorgeschriebene Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung Ihrer Rückbeförderung im Fall
-seiner Insolvenz.
-- https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
-
-
--------------------------------------------------------------------------------------------------------------
 
 ## **Kosten für Transportmittel in New York**
 In New York gibt es diverse Möglichkeiten um von A nach B zu kommen. Ich nutze immer die Metro aber auch manchmal ein Taxi. Auch wenn ich die Innenstadt Mannhattans komplett zu Fuß durchquert habe: Manchmal nimmt man doch die Metro oder ein Taxi.
