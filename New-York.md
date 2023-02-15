@@ -77,6 +77,12 @@ Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 43
 ## **öffentliche Toiletten**
 - https://new-york-geheimtipps.de/toiletten-finden-new-york/
 
+There are several public restrooms in New York City that are highly rated, such as those at the Marriott Marquis Hotel in Times Square[1], Bergdorf Goodman on Fifth Avenue/Central Park[1], Bloomingdale's in SoHo[1], Bryant Park in Midtown West[2], and Rockefeller Center on the Concourse Level[3]. Additionally, the citizenM Hotel at 218 W 50th St and the Marriott Marquis at 1535 Broadway are also popular choices for public restrooms in Times Square[4][3].
+- https://www.thrillist.com/lifestyle/new-york/best-public-restrooms-nyc
+- https://www.nycgo.com/plan-your-trip/basic-information/public-restrooms
+- https://freetoursbyfoot.com/finding-a-public-restroom-in-new-york-city
+- https://nypost.com/2022/04/01/nycs-best-free-public-bathrooms-according-to-tiktok/
+
 Mappler bietet die umfangreichste Übersicht der New York Restrooms: http://m3.mappler.net/nyrestroom/
 Bei der deutschen Seite PeePlace kannst du die Ansicht sortieren, bspw. nach Behinderten-WCs: https://pee.place/de/l/USA/Freiheitsinsel/New-York-City/Manhattan
 NYC Parks listet alle Park Bathrooms auf: https://www.nycgovparks.org/facilities/bathrooms
