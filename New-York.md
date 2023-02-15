@@ -94,6 +94,10 @@ Selbstverständlich zeigt auch Google Maps die Public Restrooms in Manhattan an:
 - App WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
 - https://new-york-geheimtipps.de/wlan-in-new-york-kein-problem/ 
 - https://www.newyorkcity.de/kostenloses-wlan-in-new-york/
+- https://freetoursbyfoot.com/find-free-wifi-new-york
+- https://www.nycgo.com/articles/wifi-in-nyc/
+- https://www.nycgovparks.org/facilities/wifi
+- https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations-Map/7agf-bcsq
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -201,31 +205,56 @@ Als typisches Essen in New York würde ich dir empfehlen:
  - an Food Trucks wie Halal Guys, Big Gay Ice Cream, Wafels&Dinges oder den typischen Hotdog Wagen. Und ein Pastrami Sandwich natürlich bei Katz's Delicatessen 
  - Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
  - https://viel-unterwegs.de/new-york-essen-restaurant-tipps/
+ - https://ny.eater.com/2021/12/17/22842997/best-food-new-york-city-restaurants-city-guide
+ - https://www.girlwiththepassport.com/places-you-must-eat-in-nyc/
+ - https://sharedappetite.com/eat/top-10-foods-eat-nyc/
+ - https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants
+ - https://www.2foodtrippers.com/new-york-food-favorites
+ - https://ny.eater.com/maps/best-german-restaurants-nyc
 
 -------------------------------------------------------------------------------------------------------------
 
 ## **Welchen Reiseführer?**
-
  Marco Polo Reiseführer New York mit App: Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten: https://www.amazon.de/MARCO-POLO-Reisef%C3%BChrer-York-Insider-Tipps/dp/3829728476
 - "Entdecke New York wie ein Local" Insider-Tipps
 Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer von Loving New York. Insider Tipps für Manhattan, Brooklyn, Queens, Bronx und Staten Island findest du darin. Pro Stadtteil gibt es eine Checkliste à la Bucketlist, mit den Highlights: https://shop.lovingnewyork.de/collections/reisefuehrer/products/new-york-reisefuhrer bzw. https://www.amazon.de/dp/3000565906
 - https://viel-unterwegs.de/new-york-reisefuehrer-empfehlung-vergleich/
 - https://www.sightseeingpass.com/images/downloads/new-york/sightseeing-pass-guide-new-york.pdf
+- https://www.nycgo.com/
+- https://www.iloveny.com/travel-tools/guides/
+- https://www.authentikcanada.com/us-en/travel-guide/tourist-office-new-york
+- https://gotourismguides.com/nyc/new-york-city-visitors-guide/#:~:text=Tourist%20Information%20Services&text=They%20also%20operate%20New%20York,%2D800%2D692%2D8474.
+- https://freetoursbyfoot.com/new-york-tours/nyc-travel-guide
+- http://guides.tripomatic.com/download/tripomatic-free-city-guide-new-york-city.pdf
+- https://www.nycgo.com/maps-guides
+- https://pages.ctrip.com/tour/pdf7/31.pdf
+- https://www.authentikcanada.com/uploads/destination_sheets/CA/en_US/optimized/64.pdf
 
 -------------------------------------------------------------------------------------------------------------
 
 ## **Karten**
-https://www.nyc.gov/nyc-resources/nyc-maps.page
-https://www.google.com/maps/place/New+York,+NY/
+- https://www.nyc.gov/nyc-resources/nyc-maps.page
+- https://www.sightseeingpass.com/en/new-york/maps-guides
+- https://www.nyc.gov/assets/planning/download/pdf/data-maps/city-neighborhoods/neighbor.pdf
+- https://travel.sygic.com/lp/New-York-City-Manhattan-Printable-Tourist-Map
+- https://www.tripindicator.com/new-york-tourist-attractions-map.html
+- https://www.nycgo.com/maps-guides
+- https://www.google.com/maps/place/New+York,+NY/
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Dinge, die man gesehen haben muss**
+## **Top-Attraktionen in New York**
 - https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
-- 
+- https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
+- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
+- https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
+- https://www.introducingnewyork.com/top-10
+- https://loving-newyork.com/top-10-attractions-in-new-york/
+
+The top 10 attractions in New York City include the Empire State Building, Rockefeller Center, Brooklyn Bridge, Central Park Zoo, Belvedere Castle, Strawberry Fields, Statue of Liberty, High Line Park, 9/11 Memorial & Museum[1], and Times Square[2][3][4][5].
 1.  Besuche das Empire State Building und genieße die atemberaubende Aussicht über die Stadt von der Aussichtsplattform.
 2.  Spaziere durch den Central Park und schaue dir einige der berühmten Landmarks an, wie die Bethesda Fontäne und die Strawberry Fields. 
-3.  Erkunde das Metropolitan Museum of Art und verbringe etwas Zeit damit, die umfangreiche Sammlung von Kunstwerken und Artefakten aus der ganzen Welt zu bewundern.    
+3.  Erkunde das Metropolitan Museum of Art und verbringe etwas Zeit damit, die umfangreiche Sammlung von Kunstwerken und Artefakten aus der ganzen Welt zu bewundern.   
 4.  Mach Shopping in einigen der berühmten Kaufhäuser der Stadt, wie Macy's und Bloomingdale's.    
 5.  Besuche die Freiheitsstatue und Ellis Island, um mehr über die Geschichte der Einwanderung in die USA zu erfahren.    
 6.  Mache eine Tour zum 9/11 Memorial und Museum, um den Opfern der Terroranschläge zu gedenken.    
@@ -289,6 +318,11 @@ Es ist möglich, dass es für die WNBA-Spiele im Mai in New York noch Tickets gi
 - https://kommrum-reisen.com/new-york/
 - https://weltreisender.net/7-tage-new-york-city-eine-woche-die-es-in-sich-hatte-47678/
 - https://jointhesunnyside.de/5-tage-new-york/
+- https://jetsettingfools.com/new-york-city-one-week-itinerary/
+- https://serenaslenses.net/7-day-new-york-itinerary-how-to-spend-7-days-in-nyc/
+- https://gocity.com/new-york/en-us/blog/week-in-new-york-vacation
+- https://vagrantsoftheworld.com/a-week-in-new-york-itinerary
+- https://loving-newyork.com/7-day-new-york-itinerary/
 
 -------------------------------------------------------------------------------------------------------------
 
