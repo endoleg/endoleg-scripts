@@ -106,3 +106,10 @@ Set-SmbServerConfiguration -EnableTransparentCache $true
 
 # Aktiviere BranchCache für den Dateiserver
 Enable-BCLocal
+
+# Konfiguriere die Anzahl der SMB-Verbindungen pro Netzwerk-Interface
+New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters" -Name "ConnectionCountPerNetworkInterface" -Value "8" -PropertyType DWORD -Force
+
+# Konfiguriere die Anzahl der SMB-Verbindungen pro RSS-Netzwerk-Interface
+New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters" -Name "ConnectionCountPerRssNetworkInterface" -Value "4" -PropertyType DWORD -Force
+
