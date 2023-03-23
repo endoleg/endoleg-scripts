@@ -1,4 +1,5 @@
 <#
+Quelle: https://github.com/slpcat/NT6xTweaking/blob/2c948a911f07e6d45d70b2cf85ffd6b51fdce7c0/PowerShell/NetworkTuning.ps1
 Dieses Skript enthält verschiedene Befehle zur Konfiguration von TCP-Einstellungen in einem Windows-Betriebssystem.
 Die ersten beiden Befehle setzen die Einstellungen für "InternetCustom" und "DataCenterCustom", um die DCTCP-Kongestionskontrolle zu verwenden, Time-Stamps zu aktivieren, den Initial-RTO auf 1000 ms zu setzen, ForceWS zu aktivieren und den Memory-Pressure-Schutz zu aktivieren.
 Die nächsten vier Befehle setzen spezifische Einstellungen für "InternetCustom" und "DataCenterCustom", die auf dem Windows Server 2012 basieren. Diese Einstellungen umfassen die Größe des Initial-Congestion-Fensters, die Verzögerungszeit für Acknowledgements und die Häufigkeit von Verzögerungs-Acknowledgements.
@@ -50,4 +51,7 @@ netsh int tcp set global rsc=enabled # Die Receive Segment Coalescing (RSC) komb
 netsh int tcp set global fastopen=enabled # Hiermit wird das TCP Fast Open Protokoll aktiviert, welches die Verbindungsaufbauzeit von TCP-Verbindungen reduziert.
 netsh int tcp set global pacingprofile=always # Der Pacing-Algorithmus von TCP kann genutzt werden, um den Datenaustausch besser zu regulieren und Überlastungen des Netzwerks zu vermeiden. Mit diesem Befehl wird Pacing auf "always" gesetzt.
 netsh int tcp set heuristics wsh=enabled forcews=enabled # Der Befehl aktiviert die Windows Scaling Heuristik (WSH) und die Forced Windows Scaling (FWS) für die TCP-Verbindungen. WSH erhöht die TCP-Übertragungsgeschwindigkeit, während FWS sicherstellt, dass das Maximum Segment Size (MSS) für alle TCP-Verbindungen gleich bleibt.
-netsh int tcp set security mpp=enabled startport=1024 numberofports=64500 # Hiermit wird das Memory Pressure Protection (MPP) für TCP aktiviert, welches gegen Denial-of-Service-Angriffe schützt, die den Arbeitsspeicher des Systems überlasten. 
+netsh int tcp set security mpp=enabled startport=1024 numberofports=64500
+#Dieser Befehl setzt die Einstellungen für die TCP/IP-Sicherheit. Das Flag "mpp=enabled" aktiviert die Memory Pressure Protection (MPP), die den Schutz vor DoS-Angriffen (Denial of Service) erhöht, indem sie sicherstellt, dass der Computer ausreichend Arbeitsspeicher und Prozessorzeit für den TCP/IP-Stack bereitstellt.
+#"startport=1024" definiert den Anfangsportbereich, der für die Kommunikation verwendet wird. Ports unterhalb von 1024 sind für privilegierte Dienste reserviert, daher sollte der Startport nicht unterhalb dieses Werts liegen.
+#"numberofports=64500" legt die Anzahl der verfügbaren Ports fest, die für die TCP/IP-Kommunikation verwendet werden können. Die maximale Anzahl von Ports ist 65535, wobei einige davon für andere Protokolle reserviert sind. Mit dieser Einstellung stehen 64500 Ports zur Verfügung, was ausreichend ist, um eine hohe Anzahl von Verbindungen zu ermöglichen.
