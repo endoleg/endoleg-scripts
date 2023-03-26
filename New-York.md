@@ -252,26 +252,28 @@ Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer 
 
 https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 
-- Empire State Building (atemberaubende Aussicht über die Stadt von der Aussichtsplattform).
-- Times Square
+- Aussicht: Empire State Building
+- Aussicht: Freiheitsstatue und Ellis Island
+- Aussicht: Rockefeller Center und Top of the Rock Observation Deck
+- Aussicht: One World Observatory (Building in Financial District)
+- St. Patrick's Cathedral (gegenüber von Rockefeller Center)
+- Times Square (40 Theater!)
 - Spaziergang Central Park (Bethesda Fontäne und die Strawberry Fields, Central Park Zoo). 
-- Rockefeller Center und Top of the Rock Observation Deck
-- Brooklyn Bridge
-- Freiheitsstatue und Ellis Island
-- 9/11 Memorial und Museum    
-- Broadway and the Theater District
-- High Line Park
+- Brooklyn Bridge (inkl. Park)
+- 9/11 Memorial 
+- Museum: 9/11 Museum    
+- Broadway (Shopping) and the Theater District
+- High Line Park (Manhatten)
 - Grand Central Terminal
-- Fifth Avenue
+- Fifth Avenue (Shopping)
 -  Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck
--  One World Observatory (Building in Financial District)
 -  One Vanderbilt The Summit (Building in Midtown Manhattan)
 -  Wall Street (Financial District)
--  Bryant Park
-- St. Patrick's Cathedral
-- Bronx Zoo
+-  Bryant Park (Manhatten)
+- Flatiron Building
+- Chrysler Building
 Belvedere Castle
-Berühmte Kaufhäuser der Stadt wie Macy's und Bloomingdale's.    
+Berühmte Kaufhäuser der Stadt wie Macy's (10 Stockwerke) und Bloomingdale's.    
 
 -------------------------------------------------------------------------------------------------------------
 
