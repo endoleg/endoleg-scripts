@@ -4,6 +4,42 @@
 
 -------------------------------------------------------------------------------------------------------------
 
+## **Top-Attraktionen in New York**
+- https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
+- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
+- https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
+- https://www.introducingnewyork.com/top-10
+- https://loving-newyork.com/top-10-attractions-in-new-york/
+
+https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
+
+- Aussicht: Empire State Building
+- Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
+- Aussicht: Rockefeller Center und Top of the Rock Observation Deck
+- Aussicht: One World Observatory (Building in Financial District)
+- St. Patrick's Cathedral (gegenüber von Rockefeller Center)
+- Times Square (40 Theater!)
+- Spaziergang Central Park (Bethesda Fontäne und die Strawberry Fields, Central Park Zoo). 
+- Süden Manhatten: Brooklyn Bridge (inkl. Park)
+- Süden Manhatten: 9/11 Memorial 
+- Süden Manhatten: Museum: 9/11 Museum    
+- Broadway (Shopping) and the Theater District
+- High Line Park (Manhatten, Meatpacking District)
+- Grand Central Terminal
+- Fifth Avenue (Shopping)
+- Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck
+- One Vanderbilt The Summit (Building in Midtown Manhattan)
+- Süden Manhatten: Wall Street (Financial District)
+- Bryant Park (Manhatten)
+- Flatiron Building
+- Chrysler Building
+- Belvedere Castle
+- Berühmte Kaufhäuser der Stadt wie Macy's (10 Stockwerke) und Bloomingdale's.    
+- China Town (1-2 Stunden)
+- Lower East side; Katz
+- 
+-------------------------------------------------------------------------------------------------------------
+
 ## **Flugsuche**
 
  https://www.google.de/flights
@@ -241,41 +277,7 @@ Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer 
 - https://www.nycgo.com/maps-guides
 - https://www.google.com/maps/place/New+York,+NY/
 
--------------------------------------------------------------------------------------------------------------
 
-## **Top-Attraktionen in New York**
-- https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
-- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
-- https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
-- https://www.introducingnewyork.com/top-10
-- https://loving-newyork.com/top-10-attractions-in-new-york/
-
-https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
-
-- Aussicht: Empire State Building
-- Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
-- Aussicht: Rockefeller Center und Top of the Rock Observation Deck
-- Aussicht: One World Observatory (Building in Financial District)
-- St. Patrick's Cathedral (gegenüber von Rockefeller Center)
-- Times Square (40 Theater!)
-- Spaziergang Central Park (Bethesda Fontäne und die Strawberry Fields, Central Park Zoo). 
-- Süden Manhatten: Brooklyn Bridge (inkl. Park)
-- Süden Manhatten: 9/11 Memorial 
-- Süden Manhatten: Museum: 9/11 Museum    
-- Broadway (Shopping) and the Theater District
-- High Line Park (Manhatten)
-- Grand Central Terminal
-- Fifth Avenue (Shopping)
-- Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck
-- One Vanderbilt The Summit (Building in Midtown Manhattan)
-- Süden Manhatten: Wall Street (Financial District)
-- Bryant Park (Manhatten)
-- Flatiron Building
-- Chrysler Building
-- Belvedere Castle
-- Berühmte Kaufhäuser der Stadt wie Macy's (10 Stockwerke) und Bloomingdale's.    
-- China Town (1-2 Stunden)
-- Lower East side; Katz
 
 -------------------------------------------------------------------------------------------------------------
 
