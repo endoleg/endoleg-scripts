@@ -19,11 +19,11 @@ https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highl
 - Aussicht: One World Observatory (Building in Financial District)
 - St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
 - Times Square (Shopping und 40 Theater! (Midtown, Manhatten))
-- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) (Manhatten, Upper Eastside)
-- Süden Manhatten: Brooklyn Bridge (inkl. Park)
+- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
 - Süden Manhatten: 9/11 Memorial 
 - Süden Manhatten: Museum: 9/11 Museum    
-- Broadway (Shopping) and the Theater District
+- Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
 - High Line Park (Manhatten, Meatpacking District, Chelsea)
 - Grand Central Terminal (Midtown, Manhatten)
 - Fifth Avenue (Shopping (Midtown, Manhatten))
@@ -36,8 +36,8 @@ https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highl
 - Belvedere Castle
 - Berühmte Kaufhäuser der Stadt wie Macy's (10 Stockwerke) und Bloomingdale's.    
 - China Town (1-2 Stunden)
-- Lower East side; Katz
-- 
+- Manhatten: Lower East side; Katz
+- Barklays Center (Brooklyn, Park Slope)
 -------------------------------------------------------------------------------------------------------------
 
 ## **Flugsuche**
