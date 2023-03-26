@@ -13,25 +13,25 @@
 
 https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 
-- Aussicht: Empire State Building
+- Aussicht: Empire State Building (Midtown, Manhatten)
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
-- Aussicht: Rockefeller Center und Top of the Rock Observation Deck
+- Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
 - Aussicht: One World Observatory (Building in Financial District)
-- St. Patrick's Cathedral (gegenüber von Rockefeller Center)
-- Times Square (40 Theater!)
-- Spaziergang Central Park (Bethesda Fontäne und die Strawberry Fields, Central Park Zoo). 
+- St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
+- Times Square (Shopping und 40 Theater! (Midtown, Manhatten))
+- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) (Manhatten, Upper Eastside)
 - Süden Manhatten: Brooklyn Bridge (inkl. Park)
 - Süden Manhatten: 9/11 Memorial 
 - Süden Manhatten: Museum: 9/11 Museum    
 - Broadway (Shopping) and the Theater District
-- High Line Park (Manhatten, Meatpacking District)
-- Grand Central Terminal
-- Fifth Avenue (Shopping)
+- High Line Park (Manhatten, Meatpacking District, Chelsea)
+- Grand Central Terminal (Midtown, Manhatten)
+- Fifth Avenue (Shopping (Midtown, Manhatten))
 - Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck
 - One Vanderbilt The Summit (Building in Midtown Manhattan)
 - Süden Manhatten: Wall Street (Financial District)
-- Bryant Park (Manhatten)
-- Flatiron Building
+- Bryant Park  (Midtown, Manhatten)
+- Flatiron Building (Manhatten, Flatiron District)
 - Chrysler Building
 - Belvedere Castle
 - Berühmte Kaufhäuser der Stadt wie Macy's (10 Stockwerke) und Bloomingdale's.    
