@@ -244,24 +244,32 @@ Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer 
 -------------------------------------------------------------------------------------------------------------
 
 ## **Top-Attraktionen in New York**
-- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
 - https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
 - https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
 - https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
 - https://www.introducingnewyork.com/top-10
 - https://loving-newyork.com/top-10-attractions-in-new-york/
 
+https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
+
 - Empire State Building (atemberaubende Aussicht über die Stadt von der Aussichtsplattform).
 - Times Square
-- Top of the Rock
 - Spaziergang Central Park (Bethesda Fontäne und die Strawberry Fields, Central Park Zoo). 
-- Rockefeller Center
+- Rockefeller Center und Top of the Rock Observation Deck
 - Brooklyn Bridge
 - Freiheitsstatue und Ellis Island
 - 9/11 Memorial und Museum    
-- Broadway    
+- Broadway and the Theater District
 - High Line Park
 - Grand Central Terminal
+- Fifth Avenue
+-  Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck
+-  One World Observatory (Building in Financial District)
+-  One Vanderbilt The Summit (Building in Midtown Manhattan)
+-  Wall Street (Financial District)
+-  Bryant Park
+- St. Patrick's Cathedral
+- Bronx Zoo
 Belvedere Castle
 Berühmte Kaufhäuser der Stadt wie Macy's und Bloomingdale's.    
 
