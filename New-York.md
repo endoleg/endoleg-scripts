@@ -450,6 +450,12 @@ https://new.mta.info/fares
 
 -------------------------------------------------------------------------------------------------------------
 
+## **Reiseadapter
+https://www.usa-reisetipps.net/leben-in-den-usa/strom
+
+-------------------------------------------------------------------------------------------------------------
+
+
 ## **Bootstour / Segeltrip**
 https://www.gotui.com/de/new-york/segeltrip-zur-freiheitsstatue-auf-dem-schoner-adirondack-31783/
 https://www.circleline.com/?locale=en
