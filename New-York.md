@@ -74,7 +74,7 @@ Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 43
 
 -------------------------------------------------------------------------------------------------------------
 
-## **öffentliche Toiletten**
+## **Öffentliche Toiletten**
 - https://new-york-geheimtipps.de/toiletten-finden-new-york/
 
 There are several public restrooms in New York City that are highly rated, such as those at the Marriott Marquis Hotel in Times Square[1], Bergdorf Goodman on Fifth Avenue/Central Park[1], Bloomingdale's in SoHo[1], Bryant Park in Midtown West[2], and Rockefeller Center on the Concourse Level[3]. Additionally, the citizenM Hotel at 218 W 50th St and the Marriott Marquis at 1535 Broadway are also popular choices for public restrooms in Times Square[4][3].
@@ -251,15 +251,19 @@ Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer 
 - https://www.introducingnewyork.com/top-10
 - https://loving-newyork.com/top-10-attractions-in-new-york/
 
-The top 10 attractions in New York City include the Empire State Building, Rockefeller Center, Brooklyn Bridge, Central Park Zoo, Belvedere Castle, Strawberry Fields, Statue of Liberty, High Line Park, 9/11 Memorial & Museum[1], and Times Square[2][3][4][5].
-1.  Besuche das Empire State Building und genieße die atemberaubende Aussicht über die Stadt von der Aussichtsplattform.
-2.  Spaziere durch den Central Park und schaue dir einige der berühmten Landmarks an, wie die Bethesda Fontäne und die Strawberry Fields. 
-3.  Erkunde das Metropolitan Museum of Art und verbringe etwas Zeit damit, die umfangreiche Sammlung von Kunstwerken und Artefakten aus der ganzen Welt zu bewundern.   
-4.  Mach Shopping in einigen der berühmten Kaufhäuser der Stadt, wie Macy's und Bloomingdale's.    
-5.  Besuche die Freiheitsstatue und Ellis Island, um mehr über die Geschichte der Einwanderung in die USA zu erfahren.    
-6.  Mache eine Tour zum 9/11 Memorial und Museum, um den Opfern der Terroranschläge zu gedenken.    
-7.  Sieh dir eine Show auf Broadway an oder besuche eines der vielen Musikvenues der Stadt, um Teil der lebendigen Kunstszene zu werden.    
-8.  Genieße einige der weltberühmten Gerichte der Stadt, indem du zum Beispiel eine Pizza oder einen Bagel mit Lachs in einer Delikatessenbude probierst.
+- Empire State Building (atemberaubende Aussicht über die Stadt von der Aussichtsplattform).
+- Times Square
+- Top of the Rock
+- Spaziergang Central Park (Bethesda Fontäne und die Strawberry Fields, Central Park Zoo). 
+- Rockefeller Center
+- Brooklyn Bridge
+- Freiheitsstatue und Ellis Island
+- 9/11 Memorial und Museum    
+- Broadway    
+- High Line Park
+- Grand Central Terminal
+Belvedere Castle
+Berühmte Kaufhäuser der Stadt wie Macy's und Bloomingdale's.    
 
 -------------------------------------------------------------------------------------------------------------
 
