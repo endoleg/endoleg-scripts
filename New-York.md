@@ -37,12 +37,13 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. 
 
 **Tag2 Süden Manhatten**
-- Süden Manhatten: Wall Street (Financial District)
+- Süden Manhatten: Wall Street/New York Stock Exchange & Charging Bull (Financial District)
 - Süden Manhatten: 9/11 Memorial 
 - Süden Manhatten: Museum: 9/11 Museum    
 - Aussicht: One World Observatory (Building in Financial District)
 - One World Trade Center
-- Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. 
+- Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. (Bahnhof World Trade Center)
+- St. Pauls Chapel, Trinity Church, Battery Park
 
 **Tag3 - Downtown & Midtown Manhattan**
 - Flatiron Building (Manhatten, Flatiron District)
