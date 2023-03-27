@@ -20,12 +20,8 @@
 
 **Tag1**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
-- St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
-Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle
-Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
-- Fifth Avenue (Shopping (Nike) (Midtown, Manhatten))
-Der Central Park erstreckt sich von der 5th Avenue bis zur 8th Avenue. Wenn du also deine Radtour oder Museen-Tour beendet hast, kannst du jetzt ein wenig bummeln gehen. Das hält wach. Gehe die berühmte 5th Avenue entlang, die von schicken Kaufhäusern, Luxushotels, Designerläden, Flagship-Stores auf beiden Seiten der Straße gesäumt ist.
-Sehenswerte Orte auf der 5th Avenue in Manhattan:
+- St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten)). Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle. Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
+- Fifth Avenue (Shopping (Nike) (Midtown, Manhatten)). Der Central Park erstreckt sich von der 5th Avenue bis zur 8th Avenue. Wenn du also deine Radtour oder Museen-Tour beendet hast, kannst du jetzt ein wenig bummeln gehen. Das hält wach. Gehe die berühmte 5th Avenue entlang, die von schicken Kaufhäusern, Luxushotels, Designerläden, Flagship-Stores auf beiden Seiten der Straße gesäumt ist. Sehenswerte Orte auf der 5th Avenue in Manhattan:
 Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
 St. Patrick’s Cathedral: Die schöne und berühmte römisch-katholische Kathedrale inmitten der Luxusläden.
 Saks Fifth Avenue: Bekanntes Kaufhaus in New York.
@@ -35,7 +31,7 @@ New York Public Library: Die größte und schönste Bibliothek in New York City
 Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn.
 - Bryant Park (Midtown, Manhatten)
 - Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
-- Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. 
+- Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. Für den Besuch solltest du etwa 1-2 Stunden einplanen und dein Ticket unbedingt vorher online reservieren. Der Eintritt kostet pro Person $39,20.
 
 **Tag2 Süden Manhatten**
 - Süden Manhatten: Wall Street/New York Stock Exchange & Charging Bull (Financial District)
@@ -61,6 +57,7 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
 - Brooklyn: Coney Island (Strand, Vergüungspark)
 - Barklays Center (Brooklyn, Park Slope)
+- Viertel Dumbo
 
 **Tag6: Freiheitsstatue, Bootstour & Helikopterflug**
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
@@ -89,7 +86,9 @@ Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Fest
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
 - Kaufhäuser: Macy's (10 Stockwerke) und Bloomingdale's (Manhatten)
-- China Town (Lower Manhatten, 1-2 Stunden zeitaufwand)
+- ChinaTown (Lower Manhatten, 1-2 Stunden zeitaufwand)
+Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
+- Little Italy (Pizza)
 - Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
 
 
