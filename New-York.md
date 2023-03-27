@@ -1,4 +1,6 @@
 
+https://jointhesunnyside.de/new-york-on-a-budget-freizeit/
+https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
 # **New York Reise-Tipps**
 
@@ -37,16 +39,15 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 
 **Tag2 Süden Manhatten**
 - Süden Manhatten: Wall Street/New York Stock Exchange & Charging Bull (Financial District)
-- Süden Manhatten: 9/11 Memorial 
-- Süden Manhatten: Museum: 9/11 Museum    
-- Aussicht: One World Observatory (Building in Financial District)
+- Süden Manhatten: 9/11 Memorial und 9/11 Museum - Factor in about 2 hours for your visit.
+- Aussicht: One World Observatory (Building in Financial District) - Factor in about 1.5 hours for your visit.
 - One World Trade Center
 - Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. (Bahnhof World Trade Center)
 - St. Pauls Chapel, Trinity Church, Battery Park
 
 **Tag3 - Downtown & Midtown Manhattan**
 - Flatiron Building (Manhatten, Flatiron District)
-- Aussicht: Empire State Building (Midtown, Manhatten)
+- Aussicht: Empire State Building (Midtown, Manhatten) - The whole experience will take you around 90 minutes – that includes the line for the elevator.
 - Grand Central Terminal (Midtown, Manhatten)
 - Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
 - Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
@@ -56,10 +57,11 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
 
 **Tag5: Brooklyn und Coney Island**
-- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park) - Für den Spaziergang über die Brücke solltest du ca. 30-45 Minuten einplanen
+- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park) - Für den Spaziergang über die Brücke solltest du ca. 45 Minuten einplanen
 - Brooklyn: Coney Island (Strand, Vergüungspark)
 - Barklays Center (Brooklyn, Park Slope)
-- Viertel Dumbo
+- Viertel DUMBO (acronym for ‘Down Under the Manhattan Bridge Overpass.’)
+Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplace has 40 vendors serving some of the best NYC eats. 
 
 **Tag6: Freiheitsstatue, Bootstour & Helikopterflug**
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
@@ -67,12 +69,13 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 
 **Tag7**
 Manhatten: Museum of Modern Art (MoMA): Hier findest du bekannte Werke vieler großer Künstler der Moderne, von Picasso über Andy Warhol bis Matisse.
-Das Museum öffnet täglich um 10:30 Uhr, der Eintritt kostet $25 und ein Ticket ist vorher online buchbar. Für den Besuch solltest du mindestens zwei Stunden einplanen.
+Das Museum öffnet täglich um 10:30 Uhr (bis 17:30), der Eintritt kostet $25 und ein Ticket ist vorher online buchbar. Für den Besuch solltest du mindestens zwei Stunden einplanen.
 
 **Tag 8**
 Abreise
 
-
+Bike:
+https://www.citibikenyc.com/
 
 https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
@@ -84,12 +87,12 @@ International Food Festival takes place on 9th Avenue from 42nd to 57th street f
 https://www.ninthavenuefoodfestival.com/
 Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 
-- One Vanderbilt The Summit (Building in Midtown Manhattan)
+- One Vanderbilt "The Summit" / "SUMMIT One" (Building in Midtown Manhattan)
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
 - Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
 - Kaufhäuser: Bloomingdale's (Manhatten)
-- ChinaTown (Lower Manhatten, 1-2 Stunden zeitaufwand)
+- ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
 Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
 - Little Italy (Pizza)
 - Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
