@@ -10,28 +10,13 @@
 - https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
 - https://www.introducingnewyork.com/top-10
 - https://loving-newyork.com/top-10-attractions-in-new-york/
-
 https://viel-unterwegs.de/insider-tipps-new-york/
-
 https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
-
 https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 
-Das Ninth Avenue International Food Festival findet am 20. und 21. Mai 2023 statt
-Es ist das älteste und größte fortlaufende Food-Festival in New York City
-Das Festival bietet eine große Auswahl an internationalen Speisen und Getränken, darunter italienische, griechische, mexikanische, thailändische und viele andere Küchen
-International Food Festival takes place on 9th Avenue from 42nd to 57th street for more than 35 years! You can try all kinds of different cuisines: German, Polish, Asian, Italian, Spanish, etc. Photos from the past events, as well as a list of this year participants is available on the festival's website.
-https://www.ninthavenuefoodfestival.com/
-Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
-
-- Aussicht: Empire State Building (Midtown, Manhatten)
-- Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
-- Aussicht: One World Observatory (Building in Financial District)
-- St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
-- Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
-
-Anreisetag
+**Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+- St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
 Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle
 Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
 - Fifth Avenue (Shopping (Nike) (Midtown, Manhatten))
@@ -48,24 +33,47 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
 - Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. 
 
-
-- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
+**Tag1 Süden Manhatten**
+- Süden Manhatten: Wall Street (Financial District)
 - Süden Manhatten: 9/11 Memorial 
 - Süden Manhatten: Museum: 9/11 Museum    
-- Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
-- High Line Park (Manhatten, Meatpacking District, Chelsea)
-- Grand Central Terminal (Midtown, Manhatten)
-- Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
-- One Vanderbilt The Summit (Building in Midtown Manhattan)
-- Süden Manhatten: Wall Street (Financial District)
+- Aussicht: One World Observatory (Building in Financial District)
+- One World Trade Center
+- Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. 
+
+**Tag2 - Downtown & Midtown Manhattan**
 - Flatiron Building (Manhatten, Flatiron District)
+- Aussicht: Empire State Building (Midtown, Manhatten)
+- Grand Central Terminal (Midtown, Manhatten)
+- Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
+- Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
+
+**Tag 3: Lower Manhattan & Midtown Manhattan**
+- High Line Park (Manhatten, Meatpacking District, Chelsea)
+- Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
+
+**Tag 4: Brooklyn und Coney Island**
+- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
+- Brooklyn: Coney Island (Strand, Vergüungspark)
+
+**Tag 5: Freiheitsstatue, Bootstour & Helikopterflug**
+- Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
+- Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
+
+Das Ninth Avenue International Food Festival findet am 20. und 21. Mai 2023 statt
+Es ist das älteste und größte fortlaufende Food-Festival in New York City
+Das Festival bietet eine große Auswahl an internationalen Speisen und Getränken, darunter italienische, griechische, mexikanische, thailändische und viele andere Küchen
+International Food Festival takes place on 9th Avenue from 42nd to 57th street for more than 35 years! You can try all kinds of different cuisines: German, Polish, Asian, Italian, Spanish, etc. Photos from the past events, as well as a list of this year participants is available on the festival's website.
+https://www.ninthavenuefoodfestival.com/
+Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
+
+- One Vanderbilt The Summit (Building in Midtown Manhattan)
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
 - Kaufhäuser: Macy's (10 Stockwerke) und Bloomingdale's (Manhatten)
 - China Town (Lower Manhatten, 1-2 Stunden zeitaufwand)
 - Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
 - Barklays Center (Brooklyn, Park Slope)
-- Brooklyn: Coney Island (Strand, Vergüungspark)
 
 https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
