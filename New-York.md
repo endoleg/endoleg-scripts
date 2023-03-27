@@ -10,9 +10,10 @@
 - https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
 - https://www.introducingnewyork.com/top-10
 - https://loving-newyork.com/top-10-attractions-in-new-york/
-https://viel-unterwegs.de/insider-tipps-new-york/
-https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
-https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
+
+- https://viel-unterwegs.de/insider-tipps-new-york/
+- https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
+- https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
@@ -66,9 +67,12 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
 
 **Tag7**
+Manhatten: Museum of Modern Art (MoMA): Hier findest du bekannte Werke vieler großer Künstler der Moderne, von Picasso über Andy Warhol bis Matisse.
+Das Museum öffnet täglich um 10:30 Uhr, der Eintritt kostet $25 und ein Ticket ist vorher online buchbar. Für den Besuch solltest du mindestens zwei Stunden einplanen.
 
 **Tag 8**
 Abreise
+
 
 
 https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
