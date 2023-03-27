@@ -22,26 +22,42 @@ Es ist das älteste und größte fortlaufende Food-Festival in New York City
 Das Festival bietet eine große Auswahl an internationalen Speisen und Getränken, darunter italienische, griechische, mexikanische, thailändische und viele andere Küchen
 International Food Festival takes place on 9th Avenue from 42nd to 57th street for more than 35 years! You can try all kinds of different cuisines: German, Polish, Asian, Italian, Spanish, etc. Photos from the past events, as well as a list of this year participants is available on the festival's website.
 https://www.ninthavenuefoodfestival.com/
+Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 
-. Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 - Aussicht: Empire State Building (Midtown, Manhatten)
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
-- Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
 - Aussicht: One World Observatory (Building in Financial District)
 - St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
 - Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
+
+Anreisetag
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle
+Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
+- Fifth Avenue (Shopping (Nike) (Midtown, Manhatten))
+Der Central Park erstreckt sich von der 5th Avenue bis zur 8th Avenue. Wenn du also deine Radtour oder Museen-Tour beendet hast, kannst du jetzt ein wenig bummeln gehen. Das hält wach. Gehe die berühmte 5th Avenue entlang, die von schicken Kaufhäusern, Luxushotels, Designerläden, Flagship-Stores auf beiden Seiten der Straße gesäumt ist.
+Sehenswerte Orte auf der 5th Avenue in Manhattan:
+Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
+St. Patrick’s Cathedral: Die schöne und berühmte römisch-katholische Kathedrale inmitten der Luxusläden.
+Saks Fifth Avenue: Bekanntes Kaufhaus in New York.
+A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei Deutschen, war früher bei mir hoch im Kurs. Das Parfum liebe ich heute noch.
+Rockefeller Center: Direkt gegenüber von Saks befindet sich das berühmte Gebäude mit der bekannten Aussichtsplattform (Top of the Rock), den riesigen Weihnachtsbaum und die Eislaufbahn im Winter.
+New York Public Library: Die größte und schönste Bibliothek in New York City
+Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn.
+- Bryant Park (Midtown, Manhatten)
+- Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
+- Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. 
+
+
 - Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
 - Süden Manhatten: 9/11 Memorial 
 - Süden Manhatten: Museum: 9/11 Museum    
 - Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
 - High Line Park (Manhatten, Meatpacking District, Chelsea)
 - Grand Central Terminal (Midtown, Manhatten)
-- Fifth Avenue (Shopping (Nike) (Midtown, Manhatten))
 - Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
 - One Vanderbilt The Summit (Building in Midtown Manhattan)
 - Süden Manhatten: Wall Street (Financial District)
-- Bryant Park (Midtown, Manhatten)
 - Flatiron Building (Manhatten, Flatiron District)
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
