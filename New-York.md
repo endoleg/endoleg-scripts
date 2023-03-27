@@ -11,8 +11,19 @@
 - https://www.introducingnewyork.com/top-10
 - https://loving-newyork.com/top-10-attractions-in-new-york/
 
+https://viel-unterwegs.de/insider-tipps-new-york/
+
+https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
+
 https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 
+Das Ninth Avenue International Food Festival findet am 20. und 21. Mai 2023 statt
+Es ist das älteste und größte fortlaufende Food-Festival in New York City
+Das Festival bietet eine große Auswahl an internationalen Speisen und Getränken, darunter italienische, griechische, mexikanische, thailändische und viele andere Küchen
+International Food Festival takes place on 9th Avenue from 42nd to 57th street for more than 35 years! You can try all kinds of different cuisines: German, Polish, Asian, Italian, Spanish, etc. Photos from the past events, as well as a list of this year participants is available on the festival's website.
+https://www.ninthavenuefoodfestival.com/
+
+. Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 - Aussicht: Empire State Building (Midtown, Manhatten)
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
 - Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
@@ -41,6 +52,16 @@ https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highl
 - Brooklyn: Coney Island (Strand, Vergüungspark)
 
 https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
+-------------------------------------------------------------------------------------------------------------
+
+## **Events**
+
+https://www.nycinsiderguide.com/new-york-city-events-may
+https://loving-newyork.com/new-york-in-may/
+https://www.newyorkcity.ca/events/what-to-do-in-new-york-in-may-2023/
+https://www.newyork-online.us/en/events/may
+https://www.experism.com/new-york/may
+
 -------------------------------------------------------------------------------------------------------------
 
 ## **Flugsuche**
@@ -230,6 +251,7 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 - https://www.expatistan.com/cost-of-living/
 - https://www.numbeo.com/cost-of-living/comparison.jsp
 - Lebenshaltungskosten-Vergleich New York - Wiesbaden: - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
+- https://vickiviaja.com/de/new-york-urlaub-kosten/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -250,6 +272,7 @@ Als typisches Essen in New York würde ich dir empfehlen:
  - https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants
  - https://www.2foodtrippers.com/new-york-food-favorites
  - https://ny.eater.com/maps/best-german-restaurants-nyc
+ - https://lovingnewyork.de/essen-und-trinken/beste-restaurants-manhattan/
 
 -------------------------------------------------------------------------------------------------------------
 
