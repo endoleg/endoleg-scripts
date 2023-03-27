@@ -13,7 +13,9 @@
 
 - https://viel-unterwegs.de/insider-tipps-new-york/
 - https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
+
 - https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
+- https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
 
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
@@ -54,7 +56,7 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
 
 **Tag5: Brooklyn und Coney Island**
-- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
+- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park) - Für den Spaziergang über die Brücke solltest du ca. 30-45 Minuten einplanen
 - Brooklyn: Coney Island (Strand, Vergüungspark)
 - Barklays Center (Brooklyn, Park Slope)
 - Viertel Dumbo
@@ -85,7 +87,8 @@ Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Fest
 - One Vanderbilt The Summit (Building in Midtown Manhattan)
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
-- Kaufhäuser: Macy's (10 Stockwerke) und Bloomingdale's (Manhatten)
+- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
+- Kaufhäuser: Bloomingdale's (Manhatten)
 - ChinaTown (Lower Manhatten, 1-2 Stunden zeitaufwand)
 Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
 - Little Italy (Pizza)
