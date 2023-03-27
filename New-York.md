@@ -14,7 +14,10 @@ https://viel-unterwegs.de/insider-tipps-new-york/
 https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
 https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 
-**Anreisetag (verkürzt)**
+**Tag0 - Anreisetag (verkürzt)**
+- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+
+**Tag1**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
 - St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
 Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle
@@ -33,7 +36,7 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
 - Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. 
 
-**Tag1 Süden Manhatten**
+**Tag2 Süden Manhatten**
 - Süden Manhatten: Wall Street (Financial District)
 - Süden Manhatten: 9/11 Memorial 
 - Süden Manhatten: Museum: 9/11 Museum    
@@ -41,24 +44,34 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - One World Trade Center
 - Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. 
 
-**Tag2 - Downtown & Midtown Manhattan**
+**Tag3 - Downtown & Midtown Manhattan**
 - Flatiron Building (Manhatten, Flatiron District)
 - Aussicht: Empire State Building (Midtown, Manhatten)
 - Grand Central Terminal (Midtown, Manhatten)
 - Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
 - Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
 
-**Tag 3: Lower Manhattan & Midtown Manhattan**
+**Tag4: Lower Manhattan & Midtown Manhattan**
 - High Line Park (Manhatten, Meatpacking District, Chelsea)
 - Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
 
-**Tag 4: Brooklyn und Coney Island**
+**Tag5: Brooklyn und Coney Island**
 - Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park)
 - Brooklyn: Coney Island (Strand, Vergüungspark)
+- Barklays Center (Brooklyn, Park Slope)
 
-**Tag 5: Freiheitsstatue, Bootstour & Helikopterflug**
+**Tag6: Freiheitsstatue, Bootstour & Helikopterflug**
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
 - Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
+
+**Tag7**
+
+**Tag 8**
+Abreise
+
+
+https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
+
 
 Das Ninth Avenue International Food Festival findet am 20. und 21. Mai 2023 statt
 Es ist das älteste und größte fortlaufende Food-Festival in New York City
@@ -73,7 +86,7 @@ Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Fest
 - Kaufhäuser: Macy's (10 Stockwerke) und Bloomingdale's (Manhatten)
 - China Town (Lower Manhatten, 1-2 Stunden zeitaufwand)
 - Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
-- Barklays Center (Brooklyn, Park Slope)
+
 
 https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
