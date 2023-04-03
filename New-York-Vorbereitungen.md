@@ -1,3 +1,143 @@
+### **Organisierte NBA-Reisen**
+- https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
+- https://www.fairflight.de/reisearten/sportreisen/nba-reisen/nba-reisen-new-york-knicks
+- https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
+
+-------------------------------------------------------------------------------------------------------------
+
+## ** eSIM **
+- https://www.amazon.de/beachsim-Lycamobile-SIM-Karte-Prepaid-Hawaii/dp/B08H8PRXH3
+- https://new-york-geheimtipps.de/new-york-telefonieren-kosten-sparen/
+- https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
+- https://www.info-usa.de/sim-karte-usa/
+
+Beste Seiten:
+- https://esimradar.com/de/esim-usa/
+- https://travel-dealz.de/blog/esim-usa/
+- https://roami.ng/de/esim/esim-usa/
+- https://www.airalo.com/de/united-states-esim
+
+Holafly: 34 Euro - unbegrenzt Daten:
+- https://www.howlanders.com/blog/de/reisetipps/die-beste-esim-fuer-usa-zum-reisen/
+- https://www.howlanders.com/blog/de/reisetipps/meinungen-ueber-holafly/
+- https://esim.holafly.com/de/esim-usa/
+- https://teilzeitreisender.de/esim-erfahrungen-holafly/
+- https://de.trustpilot.com/review/holafly.com
+
+- Die wichtigsten Vorteile von Holafly im Überblick:
+24h-Kundenservice
+Hotspot/Tethering
+Unbegrenztes Datenvolumen
+eSIM sofort nutzbar, kein Versand per Post nötig
+Vergessen Sie nicht, den Code POCKETLINT für einen Rabatt von 5 Prozent zu verwenden.
+
+Im Folgenden finden Sie eine Übersicht über die Schritte zur Aktivierung der eSIM:
+
+Stellen Sie sicher, dass Sie mit dem WiFi verbunden sind.
+Gehen Sie zu Einstellungen > Mobile Daten > Datenplan hinzufügen.
+Scannen Sie den QR-Code mit Ihrer Kamera.
+Wählen Sie aus, ob die eSIM Ihre primäre oder sekundäre SIM-Karte ist. Wenn Sie die eSIM zu Reisezwecken verwenden, sollten Sie idealerweise "Sekundär" auswählen.
+Sie werden gefragt, welche Ihrer SIM-Karten Sie für Anrufe, mobile Daten und SMS verwenden möchten. Sie sollten Ihre primäre SIM-Karte für SMS und Anrufe wählen und die eSIM-Karte für mobile Daten verwenden. Aktivieren Sie jedoch nicht die mobile Datenübertragung, da sonst zusätzliche Gebühren anfallen können.
+Nachdem Sie die eSIM installiert haben, können Sie zu Einstellungen > Mobile Daten gehen.
+Wählen Sie Ihre neue eSIM unter Mobilitätspläne aus.
+Schalten Sie die Schaltfläche Diese Leitung einschalten ein.
+Aktivieren Sie Mobile Daten und Daten-Roaming in den Einstellungen.
+Sobald Ihre eSIM aktiviert ist, erhalten Sie möglicherweise einige Textnachrichten.
+
+Voraussetzungen für die Nutzung des iPhones mit einer eSIM:
+iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone SE 2, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone SE 3.
+iOS 12.1 oder neuer.
+Mobilfunkanbieter, die eSIM-Karten unterstützen.
+Ihr iPhone muss entsperrt sein.
+Ihr iPhone muss während des Installationsvorgangs über eine WiFi-Verbindung verfügen.
+
+-------------------------------------------------------------------------------------------------------------
+
+## **Flugsuche**
+
+ https://www.google.de/flights
+- https://www.swoodoo.com
+- https://www.expedia.de/?pwaLob=wizard-flight-pwa
+- https://flug.idealo.de/ (geht auch sehr gut über die App)
+- Der Flug kostet ca. 400 - 650 Euro hin- und zurück, inkl. Steuern.
+- Direktflüge (keine Umstiege!)
+- Sitzpläne: https://www.usa-reisetipps.net/einreise-usa/sitzplaene
+
+## **Hotelsuche**
+- https://www.google.de/travel/hotels
+- https://hotel.idealo.de/
+- Beim 1. Besuch in New York sollte man midtown wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Am besten also Midtown (Times Square - Herald Square).
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+## **Zollbestimmungen**
+https://www.usa-reisetipps.net/einreise-usa/zollbestimmungen-usa
+https://www.finanztip.de/einfuhrzoll/
+https://usatipps.net/rueckkehr-aus-den-usa/
+https://www.germany.info/us-de/service/zoll/957894
+https://www.zoll.de/DE/Privatpersonen/Reisen/Rueckkehr-aus-einem-Nicht-EU-Staat/rueckkehr-aus-einem-nicht-eu-staat_node.html
+Die Beweislast, dass eine Ware nicht in den USA gekauft worden ist, liegt beim Reisenden!
+Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zollbeamten bei der Einreise zu zeigen.
+
+Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 430 Euro, bis zu dem die Einfuhr zollfrei bleibt. Güter über dieser Freimenge werden bei der Einfuhr nach Deutschland versteuert. Weitere Informationen zu Zollbestimmungen und Einfuhrbestimmungen nach Deutschland finden sich auf der Webseite der deutschen Zollverwaltung
+
+-------------------------------------------------------------------------------------------------------------
+
+## **Wetter: Klima in New York**
+- https://www.newyork-reise.de/wetterin.htm
+- https://www.travelklima.de/new-york/
+- https://www.newyork.de/ueber-new-york/gut-zu-wissen/klima-und-beste-reisezeit
+- https://www.klimatabelle.info/nordamerika/usa/new-york
+- https://de.weatherspark.com/y/23912/Durchschnittswetter-in-New-York-City-New-York-Vereinigte-Staaten-das-ganze-Jahr-%C3%BCber
+
+-------------------------------------------------------------------------------------------------------------
+
+## **Handy: Internet und Telefon**
+- Für New York bietet sich an, eine lokale SIM-Karte zu kaufen. Du benötigst Datenvolumen für UBER, Lyft oder Open Table, um einen Tisch fürs Abendessen zu reservieren. Manchmal kauft man spontan Tickets vor Ort, um die Warteschlange zu umgehen. Für tägliche Verlosungen für Musical Tickets per App lohnt sich der Datenpass ebenfalls. Wir nutzen in den USA gerne die Tourisim, da wir diese vor der Reise bestellen können und viel Datenvolumen benötigen (30 GB). Reist du beruftlich und benötigst mehr Daten? Dann solltest du eine eSIM bei Telekom in den USA kaufen. Eine Anleitung findest du hier (funktioniert, haben wir getestet):
+- https://www.t-mobile.com/support/plans-features/t-mobile-esim-app
+- eSIM-Karten-Datentarif für New York: https://www.newyorkcity.de/esim-karten-datentarif-fuer-new-york/
+- Einige beliebte E-SIM-Anbieter, die in New York verfügbar sind, sind zum Beispiel Google Fi, T-Mobile und AT&T.
+- Hier sind ein paar Beispiele für Preise für E-SIM-Angebote mit 30 GB Datenvolumen in New York City:
+-   Google Fi: Der Preis für das "Flexible Plan"-Angebot von Google Fi beträgt $70 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
+-   T-Mobile: Das "Magenta"-Angebot von T-Mobile kostet $70 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.   
+-   AT&T: Das "AT&T Unlimited Extra"-Angebot kostet $75 pro Monat und bietet unbegrenzte Sprach- und SMS-Dienste sowie 30 GB Datenvolumen.  
+
+Wenn Du nur Daten brauchst, kann ich Airalo empfehlen. Da bekommst Du ne E-SIM, kannst Du auch vorher kaufen. Da gibts10 GB für 26$
+Der Service hier listet die lokalen Anbieter (je nach Land), die eine eSIM anbieten und man kann sie direkt dann auch dort kaufen:
+airalo.com/
+Mal als Preisbeispiel:
+USA - AT&T Netz
+5GB Daten - 16$
+10GB Daten - 26$
+https://www.usa-reisetipps.net/leben-in-den-usa/handytarife#3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+## **Geld**
+Die gängigsten Dollarscheine sind 1, 5, 10, 20, 50 und 100. Es gibt auch 2-Dollarscheine, aber die haben eher Sammlerwert und sind selten zu finden.
+Im Alltag spielen eigentlich nur die Noten bis 50 Dollar eine Rolle. 100 Dollarscheine werden ungern angenommen und teilweise verweigert.
+Die meisten Münzautomaten nehmen nur 25 Cent Stücke an, daher solltest Du, wo es nur geht, die 25 Cent sammeln und nicht passend beim Bezahlen herausgeben.
+
+### **Geld: Bank: DKB**
+Ich steige aus dem Flieger, hole mein Gepäck, um dann direkt zum Bankautomaten zu gehen. 
+Dank meiner Kreditkarte der DKB Bank kann ich US-Dollar abheben, ohne Gebühren bezahlen zu müssen. Nirgendwo auf der Welt. Ist das nicht toll?
+
+### **Geld: Bargeld**
+In New York gibt es viele ATM's (Bankautomaten). Ihr braucht nur sehr selten Bargeld. Bei der ersten Reise hatte ich etwa $ 150 Bargeld abgehoben. Das reichte ein paar Tage. Ihr könnt wirklich überall mit Kreditkarte bezahlen.
+Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direkt am Flughafen in New York bei Ankunft ab. Beim Wechseln vor der Reise in der Bank musst du Gebühren bezahlen. Außerdem bekommst du oft einen schlechteren Wechselkurs. Wenn du eine gute Reisekreditkarte besitzt, kannst du Geld am Automaten (ATM) abheben, ohne Gebühren bezahlen zu müssen.
+
+### **Geld: Was kostet New York?**
+- https://viel-unterwegs.de/kosten-new-york-reise/
+- https://www.rentcafe.com/cost-of-living-calculator/us/ny/manhattan/
+- https://www.expatistan.com/cost-of-living/
+- https://www.numbeo.com/cost-of-living/comparison.jsp
+- Lebenshaltungskosten-Vergleich New York - Wiesbaden: - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
+- https://vickiviaja.com/de/new-york-urlaub-kosten/
+
 
 -------------------------------------------------------------------------------------------------------------
 
