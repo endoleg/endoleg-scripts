@@ -1,9 +1,26 @@
+# **New York Reise-Tipps**
 
+-------------------------------------------------------------------------------------------------------------
 https://jointhesunnyside.de/new-york-on-a-budget-freizeit/
 
 https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
-# **New York Reise-Tipps**
+-------------------------------------------------------------------------------------------------------------
+
+## **Kixby Hotel**
+45 West 35th Street, 10001 New York City, USA
+U-Bahn-Stationen in der Nähe
+In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. - Penn Station und die 42nd St. - Bryant Park Station
+https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
+
+Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station
+Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. - Bryant Park wird von den Linien B, D, F, M und 7 bedient
+
+Die beste U-Bahn-Station, um schnell überall hin zu kommen, hängt von der genauen Lage und dem Ziel ab. Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
+
+Der JFK-Flughafen ist mit der U-Bahn-Linie E und der AirTrain JFK erreichbar.
+
+https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughafen-jfk-mit-der-subway-gelangen
 
 -------------------------------------------------------------------------------------------------------------
 
