@@ -19,6 +19,7 @@ Schritt-für-Schritt-Anleitungen zum USA Visum:
 - https://lovingnewyork.de/esta-formular-online-schritt-fuer-schritt/
 - https://www.americandream.de/esta-antrag-richtig-ausfuellen/
 - https://www.jansens-pott.de/esta-antrag/
+- https://imprintmytravel.com/esta-antrag-ausfuellen-usa-reise/
 
 Deutsche Staatsbürger benötigen einen eigenen maschinenlesbaren (bordeauxfarbenen) Reisepass, der für die Dauer des Aufenthaltes gültig sein muss. Ältere, nicht maschinenlesbare Pässe sowie vorläufige Reisepässe werden zur visumfreien Einreise in die USA nicht akzeptiert.
 Reisepässe, die am oder nach dem 26.10.2006 ausgestellt wurden, müssen 'e-Reisepässe' sein, d.h. sie müssen einen integrierten Computerchip enthalten, der in der Lage ist, biografische Informationen der Personaldatenseite und das digitale Foto zu speichern.
