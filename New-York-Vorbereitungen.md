@@ -6,22 +6,13 @@ Lesen Sie bitte sehr aufmerksam die Einreisebedingungen und Visa Waiver Vorschri
 Was ist die Nationale Identitätsnummer (National Identification Number)?
 
 Eine Information vorweg, weil wir wissen, dass viele Leser wegen dieser Frage hier auf die Seite kommen. Bei der Nationalen Identitätsnummer wird einfach UNKNOWN eingetragen. Wir haben so eine Nummer in Deutschland nicht. Hier und da liest man Tipps, man soll seine Personalausweisnummer dort eintragen oder gar die Steuernummer, sind einfach nur falsch. Solltet ihr da in einem alten Antrag etwas eingetragen haben, dann ist das aber auch kein Problem. Die Amerikaner wissen, dass wir diese ID in Deutschland nicht haben.
-https://visumantrag.de/usa/nachrichten/nationale-identitaetsnummer-esta
-https://www.visumusa.net/esta/nationale-identitaetsnummer/
-https://www.esta-online.org/nationale-identitaetsnummer/
-
--------------------------------------------------------------------------------------------------------------
 
 Ihr solltet das Antragsformular der offiziellen Website des Department of Homeland Security nutzen. Diese Seite ist seriös und mittlerweile gibt es auch eine deutsche Übersetzung für das elektronische Schriftstück:
 - https://esta.cbp.dhs.gov/esta/
 
 Schritt-für-Schritt-Anleitungen zum USA Visum: 
-- https://www.estaformular.org/esta-ausfuellhilfe
 - https://viel-unterwegs.de/esta-usa/
-- https://lovingnewyork.de/esta-formular-online-schritt-fuer-schritt/
-- https://www.americandream.de/esta-antrag-richtig-ausfuellen/
 - https://www.jansens-pott.de/esta-antrag/
-- https://imprintmytravel.com/esta-antrag-ausfuellen-usa-reise/
 
 Deutsche Staatsbürger benötigen einen eigenen maschinenlesbaren (bordeauxfarbenen) Reisepass, der für die Dauer des Aufenthaltes gültig sein muss. Ältere, nicht maschinenlesbare Pässe sowie vorläufige Reisepässe werden zur visumfreien Einreise in die USA nicht akzeptiert.
 Reisepässe, die am oder nach dem 26.10.2006 ausgestellt wurden, müssen 'e-Reisepässe' sein, d.h. sie müssen einen integrierten Computerchip enthalten, der in der Lage ist, biografische Informationen der Personaldatenseite und das digitale Foto zu speichern.
