@@ -10,7 +10,9 @@ https://visumantrag.de/usa/nachrichten/nationale-identitaetsnummer-esta
 https://www.visumusa.net/esta/nationale-identitaetsnummer/
 https://www.esta-online.org/nationale-identitaetsnummer/
 
-ihr solltet das Antragsformular der offiziellen Website des Department of Homeland Security nutzen. Diese Seite ist seriös und mittlerweile gibt es auch eine deutsche Übersetzung für das elektronische Schriftstück:
+-------------------------------------------------------------------------------------------------------------
+
+Ihr solltet das Antragsformular der offiziellen Website des Department of Homeland Security nutzen. Diese Seite ist seriös und mittlerweile gibt es auch eine deutsche Übersetzung für das elektronische Schriftstück:
 - https://esta.cbp.dhs.gov/esta/
 
 Schritt-für-Schritt-Anleitungen zum USA Visum: 
@@ -26,8 +28,6 @@ Reisepässe, die am oder nach dem 26.10.2006 ausgestellt wurden, müssen 'e-Reis
 Bitte erkundigen Sie sich immer auf der Homepage vom Auswärtigem Amt über aktuelle Einreisebestimmungen: http://www.auswaertiges-amt.de
 Bürger anderer Nationen erfragen die für sie gültigen Einreisebestimmungen bei der Einreise- und Visa-Hotline der US Botschaft in Berlin: +49 30 830 50. Düsseldorf: +49 211 788 89 27. Frankfurt: +49 69 753 50.
 Außerdem werden alle Einreisenden bei der Ankunft in den USA fotografiert und sie müssen digitale Fingerabdrücke abgeben.
-https://www.fairflight.de/aktuelle-hinweise/corona/corona-standard-formblatt
-
 
 -------------------------------------------------------------------------------------------------------------
 
