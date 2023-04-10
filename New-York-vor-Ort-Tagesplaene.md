@@ -108,3 +108,22 @@ https://www.experism.com/new-york/may
 
 
 -------------------------------------------------------------------------------------------------------------
+
+## **Reiseplanung-Tages-Plan**
+- https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
+- https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
+- https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
+- https://www.22places.de/1-woche-new-york-programm/
+- https://lovingnewyork.de/deine-new-york-reise/1-woche-new-york/
+- https://hello-hummingbird.com/2016/08/21/eine-woche-new-york/
+- https://kommrum-reisen.com/new-york/
+- https://weltreisender.net/7-tage-new-york-city-eine-woche-die-es-in-sich-hatte-47678/
+- https://jointhesunnyside.de/5-tage-new-york/
+- https://jetsettingfools.com/new-york-city-one-week-itinerary/
+- https://serenaslenses.net/7-day-new-york-itinerary-how-to-spend-7-days-in-nyc/
+- https://gocity.com/new-york/en-us/blog/week-in-new-york-vacation
+- https://vagrantsoftheworld.com/a-week-in-new-york-itinerary
+- https://loving-newyork.com/7-day-new-york-itinerary/
+
+-------------------------------------------------------------------------------------------------------------
+
