@@ -14,7 +14,7 @@
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
 
-**Tag1**
+**Tag1** - Mittwoch, 17.05.2023
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
 - St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten)). Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle. Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
 - Fifth Avenue (Shopping (Nike) (Midtown, Manhatten)). Der Central Park erstreckt sich von der 5th Avenue bis zur 8th Avenue. Wenn du also deine Radtour oder Museen-Tour beendet hast, kannst du jetzt ein wenig bummeln gehen. Das hält wach. Gehe die berühmte 5th Avenue entlang, die von schicken Kaufhäusern, Luxushotels, Designerläden, Flagship-Stores auf beiden Seiten der Straße gesäumt ist. Sehenswerte Orte auf der 5th Avenue in Manhattan:
@@ -29,7 +29,7 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Aussicht: Rockefeller Center und Top of the Rock Observation Deck (Midtown, Manhatten)
 - Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. Für den Besuch solltest du etwa 1-2 Stunden einplanen und dein Ticket unbedingt vorher online reservieren. Der Eintritt kostet pro Person $39,20.
 
-**Tag2 Süden Manhatten**
+**Tag2 Süden Manhatten** - Donnerstag, 18.05.2023
 - Süden Manhatten: Wall Street/New York Stock Exchange & Charging Bull (Financial District)
 - Süden Manhatten: 9/11 Memorial und 9/11 Museum - Factor in about 2 hours for your visit.
 - Aussicht: One World Observatory (Building in Financial District) - Factor in about 1.5 hours for your visit.
@@ -37,25 +37,28 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. (Bahnhof World Trade Center)
 - St. Pauls Chapel, Trinity Church, Battery Park
 
-**Tag3 - Downtown & Midtown Manhattan**
+**Tag3 - Downtown & Midtown Manhattan** - Freitag, 19.05.2023
 - Flatiron Building (Manhatten, Flatiron District)
 - Aussicht: Empire State Building (Midtown, Manhatten) - The whole experience will take you around 90 minutes – that includes the line for the elevator.
 - Grand Central Terminal (Midtown, Manhatten)
 - Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
 - Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
 
-**Tag4: Lower Manhattan & Midtown Manhattan**
+**Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
 - High Line Park (Manhatten, Meatpacking District, Chelsea)
 - Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
 
-**Tag5: Brooklyn und Coney Island**
-- Süden Manhatten und Brooklyn: Brooklyn Bridge (inkl. Park) - Für den Spaziergang über die Brücke solltest du ca. 45 Minuten einplanen
-- Brooklyn: Coney Island (Strand, Vergüungspark)
-- Barklays Center (Brooklyn, Park Slope)
-- Viertel DUMBO (acronym for ‘Down Under the Manhattan Bridge Overpass.’)
+**Tag5: Brooklyn und Coney Island** - Sonntag, 21.05.2023
+8:00 Uhr - Treffen in der Nähe von 45 West 35th Street, 10001 New York City, USA und Frühstück im Cafe Grumpy. Das Cafe bietet ein vielfältiges Frühstücksmenü mit vielen Optionen für jeden Geschmack.
+9:00 Uhr - Fahrt mit der U-Bahn-Linie 4 oder 5 von der Station 42nd St-Bryant Park zur Station Borough Hall in Brooklyn. Von dort aus sind es nur wenige Minuten zu Fuß zur Brooklyn Bridge und dem Brooklyn Bridge Park.
+9:30 Uhr - Ankunft an der Brooklyn Bridge und dem Brooklyn Bridge Park. Hier könnt ihr einen Spaziergang über die Brücke machen und den Ausblick auf Manhattan und Brooklyn genießen. Der Brooklyn Bridge Park ist auch ein schöner Ort, um sich zu entspannen und die Aussicht zu genießen.
+11:00 Uhr - Weiterfahrt mit der U-Bahn-Linie D, F, N oder Q von der Station High St zur Station Coney Island-Stillwell Ave. Hier könnt ihr den berühmten Vergnügungspark besuchen, am Strand spazieren gehen und das Nathan's Famous Hotdog Restaurant besuchen.
+13:30 Uhr - Fahrt mit der U-Bahn-Linie D oder N von der Station Coney Island-Stillwell Ave zur Station Atlantic Av-Barclays Ctr. Hier könnt ihr das Barclays Center besuchen, eine berühmte Sport- und Konzertarena in Brooklyn.
+17:30 Uhr - Fahrt mit der U-Bahn-Linie F von der Station Atlantic Av-Barclays Ctr zur Station York St. Hier könnt ihr das trendige und künstlerische Viertel DUMBO (Down Under the Manhattan Bridge Overpass) besuchen. Hier gibt es einige der besten Cafés, Restaurants und Geschäfte der Stadt.
+18:30 Uhr - Rückfahrt mit der U-Bahn-Linie F von der Station York St zur Station 42nd St-Bryant Park.
 Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplace has 40 vendors serving some of the best NYC eats. 
 
-**Tag6: Freiheitsstatue, Bootstour & Helikopterflug**
+**Tag6: Freiheitsstatue, Bootstour & Helikopterflug** - Montag, 22.05.2023
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
 - Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
 
