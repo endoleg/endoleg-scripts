@@ -15,6 +15,17 @@
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
 
 **Tag1** - Mittwoch, 17.05.2023
+
+- One Vanderbilt "The Summit" / "SUMMIT One" (Building in Midtown Manhattan)
+- Chrysler Building (319 Meter hoch! Midtown Manhattan)
+- Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
+- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
+- Kaufhäuser: Bloomingdale's (Manhatten)
+- ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
+Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
+- Little Italy (Pizza)
+- Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
+- 
 - St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten)). Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle. Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
 A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei Deutschen, war früher bei mir hoch im Kurs. Das Parfum liebe ich heute noch.
 - Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
@@ -122,15 +133,6 @@ International Food Festival takes place on 9th Avenue from 42nd to 57th street f
 https://www.ninthavenuefoodfestival.com/
 Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 
-- One Vanderbilt "The Summit" / "SUMMIT One" (Building in Midtown Manhattan)
-- Chrysler Building (319 Meter hoch! Midtown Manhattan)
-- Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
-- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
-- Kaufhäuser: Bloomingdale's (Manhatten)
-- ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
-Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
-- Little Italy (Pizza)
-- Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
 
 
 https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
