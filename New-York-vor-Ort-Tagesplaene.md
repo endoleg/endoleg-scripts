@@ -30,12 +30,18 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - Top of the Rock ist eine Aussichtsplattform auf dem Rockefeller Center. Für mich zählt die Aussicht zu den schönsten in Manhatten, da du von hier einen freien Blick auf das Empire State Building und Downtown Manhattan hast, und auf der anderen Seite einen Blick über den Central Park. Angesichts dessen empfehle ich immer, diese Aussichtsplattform zu besuchen. Ideal zum Sonnenuntergang. Für den Besuch solltest du etwa 1-2 Stunden einplanen und dein Ticket unbedingt vorher online reservieren. Der Eintritt kostet pro Person $39,20.
 
 **Tag2 Süden Manhatten** - Donnerstag, 18.05.2023
-- Süden Manhatten: Wall Street/New York Stock Exchange & Charging Bull (Financial District)
-- Süden Manhatten: 9/11 Memorial und 9/11 Museum - Factor in about 2 hours for your visit.
-- Aussicht: One World Observatory (Building in Financial District) - Factor in about 1.5 hours for your visit.
-- One World Trade Center
-- Oculus: Das Oculus neben dem One World Trade Center und 9/11 Memorial & Museum ist der neueste Verkehrsknotenpunkt in New York City. Außerdem ein super modernes Einkaufszentrum, das vom spanischen Designer Santiago Calatrava entworfen wurde. (Bahnhof World Trade Center)
-- St. Pauls Chapel, Trinity Church, Battery Park
+9:00 Uhr - Treffen in der Nähe von Wall Street. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Spoon Coffee oder dem Bluestone Lane Coffee, frühstücken. Wall Street ist bekannt für den New York Stock Exchange und den Charging Bull und ist das Finanzzentrum der Stadt. (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
+
+10:00 Uhr - Besichtigung der Sehenswürdigkeiten im Financial District. Hier kannst du den New York Stock Exchange und den Charging Bull sehen. Anschließend besuchst du das 9/11 Memorial und das 9/11 Museum, um an die tragischen Ereignisse vom 11. September 2001 zu erinnern. (U-Bahn: Linien E zu World Trade Center oder 4, 5 zu Fulton St)
+
+12:00 Uhr - Mittagessen im Battery Park oder im nahegelegenen Brookfield Place, wo es viele Restaurants zur Auswahl gibt. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu Rector St)
+
+13:00 Uhr - Besuch des One World Observatory im One World Trade Center. Hier hast du einen atemberaubenden Blick auf die Stadt und kannst die höchste Aussichtsplattform der westlichen Hemisphäre besuchen. (U-Bahn: Linien E zu World Trade Center)
+
+15:00 Uhr - Besuch des Oculus, eines futuristischen Einkaufs- und Verkehrsknotenpunkts, der das World Trade Center mit der Stadt verbindet. (U-Bahn: Linien E zu World Trade Center)
+
+16:00 Uhr - Besuch von St. Paul's Chapel und Trinity Church, zwei historischen Kirchen, die eine wichtige Rolle in der Geschichte der Stadt spielen. Danach kannst du einen Spaziergang durch den Battery Park machen und die Freiheitsstatue sehen. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu South Ferry)
+
 
 **Tag3 - Downtown & Midtown Manhattan** - Freitag, 19.05.2023
 9:00 Uhr - Treffen in der Nähe des Flatiron Buildings und Frühstück in einem der nahegelegenen Cafés, wie z.B. dem Birch Coffee oder dem Bluestone Lane. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 28th Street)
@@ -56,8 +62,18 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 
 
 **Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
-- High Line Park (Manhatten, Meatpacking District, Chelsea)
-- Hudson Yards observation deck called Edge is New York’s newest and highest open observation deck (West Manhatten)
+
+9:00 Uhr - Treffen in der Nähe des High Line Parks. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Bottle Coffee oder dem Santina, frühstücken. Der High Line Park ist ein einzigartiger öffentlicher Park auf einer ehemaligen Hochbahntrasse und bietet einen atemberaubenden Blick auf die Stadt. (U-Bahn: Linien A, C, E, L zu 14th Street / 8th Avenue)
+
+10:00 Uhr - Besichtigung des High Line Parks. Der Park erstreckt sich über 2,33 km und bietet Kunstausstellungen, einheimische Pflanzen und einzigartige Aussichten auf die Stadt. Du kannst auf dem Weg durch den Meatpacking District und Chelsea auch einige der besten Restaurants und Geschäfte der Stadt entdecken.
+
+12:00 Uhr - Mittagessen im Hudson Yards. Hier gibt es viele Restaurants zur Auswahl, wie z.B. Mercado Little Spain oder Queensyard. Das Hudson Yards ist ein neues Stadtviertel in West Manhattan und beherbergt den Edge Observation Deck, der höchste offene Aussichtspunkt der Stadt ist. (U-Bahn: Linien 7 zu Hudson Yards)
+
+13:00 Uhr - Besuch des Edge Observation Decks im Hudson Yards. Hier hast du einen unglaublichen Blick auf die Stadt und kannst sogar auf einem Glasboden spazieren gehen! Bitte beachte, dass der Eintritt mindestens 1 Stunde dauern kann. (U-Bahn: Linien 7 zu Hudson Yards)
+
+15:00 Uhr - Rückfahrt zu deinem Ausgangspunkt. Du kannst entweder die U-Bahn (Linien A, C, E, L zu 34th Street / Penn Station) oder ein Taxi nehmen.
+
+
 
 **Tag5: Brooklyn und Coney Island** - Sonntag, 21.05.2023
 
