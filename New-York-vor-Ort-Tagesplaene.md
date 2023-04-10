@@ -13,6 +13,11 @@
 
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+- Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt. Sie können entlang der Straße bummeln und die zahlreichen Geschäfte, Restaurants und Sehenswürdigkeiten erkunden. Beginnen Sie an der Kreuzung Fifth Avenue und 50th Street und gehen Sie nördlich. Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
+- Essen bei Saks Fifth Avenue
+Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
+
+
 
 **Tag1** - Mittwoch, 17.05.2023
 
@@ -24,8 +29,7 @@
 - ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
 Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
 - Little Italy (Pizza)
-- Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
-- 
+ 
 - St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten)). Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle. Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
 A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei Deutschen, war früher bei mir hoch im Kurs. Das Parfum liebe ich heute noch.
 - Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
@@ -104,18 +108,9 @@ Das MoMA ist eines der bekanntesten Kunstmuseen der Welt und bietet eine beeindr
 11:00 Uhr - Aussicht: Rockefeller Center Top of the Rock
 Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine spektakuläre Aussicht auf die Skyline von New York City. Sie sollten Ihr Ticket im Voraus online buchen, um Wartezeiten zu vermeiden. Die Adresse des Rockefeller Center ist 45 Rockefeller Plaza, New York, NY 10111. Sie können mit der U-Bahnlinie B, D, F oder M zur Station 47-50 Sts/Rockefeller Ctr fahren oder mit der Linie E oder M zur Station 5 Ave/53 St.
 
-13:00 Uhr - Fifth Avenue
-Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt. Sie können entlang der Straße bummeln und die zahlreichen Geschäfte, Restaurants und Sehenswürdigkeiten erkunden. Beginnen Sie an der Kreuzung Fifth Avenue und 50th Street und gehen Sie nördlich.
-Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
+- Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
 
-14:00 Uhr - Mittagspause bei Saks Fifth Avenue
-Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
-
-15:00 Uhr - Fortsetzung der Erkundung der Fifth Avenue
-Nach der Mittagspause können Sie Ihre Erkundung der Fifth Avenue fortsetzen und weitere Geschäfte, Sehenswürdigkeiten und Gebäude besichtigen.
-
-17:00 Uhr - Ende der Tour
-Ihre Tour endet hier, aber wenn Sie noch Zeit und Energie haben, gibt es in der Nähe des Rockefeller Centers viele weitere Sehenswürdigkeiten zu entdecken, wie das St. Patrick's Cathedral 
+- St. Patrick's Cathedral ?
 
 **Tag 8**
 Abreise
