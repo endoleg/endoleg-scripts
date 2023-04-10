@@ -38,11 +38,22 @@ Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenl
 - St. Pauls Chapel, Trinity Church, Battery Park
 
 **Tag3 - Downtown & Midtown Manhattan** - Freitag, 19.05.2023
-- Flatiron Building (Manhatten, Flatiron District)
-- Aussicht: Empire State Building (Midtown, Manhatten) - The whole experience will take you around 90 minutes – that includes the line for the elevator.
-- Grand Central Terminal (Midtown, Manhatten)
-- Times Square (Shopping (M+Ms) und 40 Theater! (Midtown, Manhatten))
-- Broadway (Shopping) and the Theater District (Manhatten, Upper West Side)
+9:00 Uhr - Treffen in der Nähe des Flatiron Buildings und Frühstück in einem der nahegelegenen Cafés, wie z.B. dem Birch Coffee oder dem Bluestone Lane. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 28th Street)
+
+10:00 Uhr - Besichtigung des Flatiron Buildings, einem der bekanntesten Gebäude in New York City und eines der ersten Wolkenkratzer der Welt. Es ist ein beeindruckendes Beispiel für die Architektur des 20. Jahrhunderts. (U-Bahn: Linien 4, 6, N, Q, R, W zu 23rd Street)
+
+11:00 Uhr - Besuch des Empire State Buildings. Es ist eines der bekanntesten Wahrzeichen von New York City und bietet eine unglaubliche Aussicht auf die Stadt. Bitte beachte, dass der Eintritt mindestens 100 Minuten dauern kann, aber es lohnt sich! (U-Bahn: Linien B, D, F, M, N, Q, R, W zu 34th Street Herald Square)
+
+13:00 Uhr - Mittagessen in der Nähe des Grand Central Terminals, wie z.B. im Pershing Square Cafe oder im Oyster Bar & Restaurant. Der Grand Central Terminal ist eines der berühmtesten Bahnhofsgebäude der Welt und beherbergt auch viele Geschäfte und Restaurants. (U-Bahn: Linien 4, 5, 6, 7, S zu Grand Central - 42nd Street)
+
+14:00 Uhr - Besichtigung des Grand Central Terminals. Hier kannst du die wunderschöne Architektur des Gebäudes bewundern, in den Geschäften und Restaurants stöbern und vielleicht sogar den berühmten Whispering Gallery besuchen. (U-Bahn: Linien 4, 5, 6, 7, S zu Grand Central - 42nd Street)
+
+15:00 Uhr - Besuch des Times Square, einem der bekanntesten Orte in New York City und ein Muss für jeden Besucher. Hier kannst du die hellen Lichter und die geschäftige Atmosphäre genießen und einige der besten Einkaufsmöglichkeiten der Stadt erkunden. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
+
+16:00 Uhr - Spaziergang durch das Broadway und das Theater District, wo einige der bekanntesten Shows der Welt stattfinden. Hier gibt es viele berühmte Theater wie das Majestic Theatre, das Gershwin Theatre und das Richard Rodgers Theatre. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
+
+17:00 Uhr - Ende des Tages und Rückfahrt zu deinem Ausgangspunkt. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 34th Street Herald Square oder 42nd Street - Bryant Park)
+
 
 **Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
 - High Line Park (Manhatten, Meatpacking District, Chelsea)
