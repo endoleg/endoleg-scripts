@@ -104,11 +104,15 @@ Ihr iPhone muss während des Installationsvorgangs über eine WiFi-Verbindung ve
 - https://usatipps.net/rueckkehr-aus-den-usa/
 - https://www.germany.info/us-de/service/zoll/957894
 - https://www.zoll.de/DE/Privatpersonen/Reisen/Rueckkehr-aus-einem-Nicht-EU-Staat/rueckkehr-aus-einem-nicht-eu-staat_node.html
--
+
 Die Beweislast, dass eine Ware nicht in den USA gekauft worden ist, liegt beim Reisenden!
 Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zollbeamten bei der Einreise zu zeigen.
 
 Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 430 Euro, bis zu dem die Einfuhr zollfrei bleibt. Güter über dieser Freimenge werden bei der Einfuhr nach Deutschland versteuert. Weitere Informationen zu Zollbestimmungen und Einfuhrbestimmungen nach Deutschland finden sich auf der Webseite der deutschen Zollverwaltung
+
+- Zigaretten und Alkohol sind Sonderwaren.
+- Waren bis zu einem Wert von 430,00 € können Sie als Reisefreimenge abgabefrei einführen.
+- Kaufbelege aufheben!
 
 -------------------------------------------------------------------------------------------------------------
 
