@@ -44,6 +44,8 @@ https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughaf
 - https://meintripnachnewyork.com/blogs/gut-zu-wissen/die-besten-apps-fur-den-new-york-trip
 - https://www.usatipps.de/aktuelles/2021/die-besten-7-apps-fuer-die-usa-reise-verschiedene-apps-im-detail/
 
+Lade Dir vor Deiner Reise in ein Drittland die kostenlose App „Zoll und Reise“ des Bundesministeriums für Finanzen auf Dein Smartphone. Die App hilft Dir, schnell herauszufinden, welche Waren bei der Einreise erlaubt sind und was Du ohne zusätzliche Kosten nach Deutschland mitbringen darfst. Die App kannst Du kostenlos in den App-Stores von Apple und Google (Play Store) herunterladen.
+
 
 -------------------------------------------------------------------------------------------------------------
 
