@@ -99,11 +99,12 @@ Ihr iPhone muss während des Installationsvorgangs über eine WiFi-Verbindung ve
 -------------------------------------------------------------------------------------------------------------
 
 ## **Zollbestimmungen**
-https://www.usa-reisetipps.net/einreise-usa/zollbestimmungen-usa
-https://www.finanztip.de/einfuhrzoll/
-https://usatipps.net/rueckkehr-aus-den-usa/
-https://www.germany.info/us-de/service/zoll/957894
-https://www.zoll.de/DE/Privatpersonen/Reisen/Rueckkehr-aus-einem-Nicht-EU-Staat/rueckkehr-aus-einem-nicht-eu-staat_node.html
+- https://www.usa-reisetipps.net/einreise-usa/zollbestimmungen-usa
+- https://www.finanztip.de/einfuhrzoll/
+- https://usatipps.net/rueckkehr-aus-den-usa/
+- https://www.germany.info/us-de/service/zoll/957894
+- https://www.zoll.de/DE/Privatpersonen/Reisen/Rueckkehr-aus-einem-Nicht-EU-Staat/rueckkehr-aus-einem-nicht-eu-staat_node.html
+-
 Die Beweislast, dass eine Ware nicht in den USA gekauft worden ist, liegt beim Reisenden!
 Es wird empfohlen, eine Liste aller eingeführten Waren mitzuführen, um den Zollbeamten bei der Einreise zu zeigen.
 
