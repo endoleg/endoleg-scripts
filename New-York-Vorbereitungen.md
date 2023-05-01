@@ -187,7 +187,8 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 
 ## **Reiseadapter
 https://www.usa-reisetipps.net/leben-in-den-usa/strom
-
+https://www.amazon.de/dp/B0BF8TR6Z1
+https://www.amazon.de/dp/B09MW53KKT?th=1
 
 -------------------------------------------------------------------------------------------------------------
 
