@@ -24,13 +24,6 @@ Außerdem werden alle Einreisenden bei der Ankunft in den USA fotografiert und s
 
 
 
-### **Organisierte NBA-Reisen**
-- https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
-- https://www.fairflight.de/reisearten/sportreisen/nba-reisen/nba-reisen-new-york-knicks
-- https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
-
--------------------------------------------------------------------------------------------------------------
-
 ## ** eSIM **
 - https://www.amazon.de/beachsim-Lycamobile-SIM-Karte-Prepaid-Hawaii/dp/B08H8PRXH3
 - https://new-york-geheimtipps.de/new-york-telefonieren-kosten-sparen/
@@ -236,5 +229,13 @@ Es ist möglich, dass es für die WNBA-Spiele im Mai in New York noch Tickets gi
 - Es ist auch möglich mehrere Tickets, z.B. von Mitreisenden, auf einem Mobiltelefon mitzuführen. Tickets können dann auch offline (ohne Internetzugang in Kanada/USA) in die Apple Wallet (bei iphone) oder in Google pay (bei Android) geladen werden. 
 - In den USA haben aber auch alle Arenen einen kostenfreien Zugang zum WLAN.
 
+
+-------------------------------------------------------------------------------------------------------------
+
+
+### **Organisierte NBA-Reisen**
+- https://tr-germany.com/shop/got-nexxt-and-tr-germany-nba-trip-new-york/
+- https://www.fairflight.de/reisearten/sportreisen/nba-reisen/nba-reisen-new-york-knicks
+- https://www.tmc-reisen.de/usa/sportreisen-usa/nba-reisen.html
 
 -------------------------------------------------------------------------------------------------------------
