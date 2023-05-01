@@ -108,23 +108,7 @@ Als typisches Essen in New York würde ich dir empfehlen:
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Welchen Reiseführer?**
- Marco Polo Reiseführer New York mit App: Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten: https://www.amazon.de/MARCO-POLO-Reisef%C3%BChrer-York-Insider-Tipps/dp/3829728476
-- "Entdecke New York wie ein Local" Insider-Tipps
-Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer von Loving New York. Insider Tipps für Manhattan, Brooklyn, Queens, Bronx und Staten Island findest du darin. Pro Stadtteil gibt es eine Checkliste à la Bucketlist, mit den Highlights: https://shop.lovingnewyork.de/collections/reisefuehrer/products/new-york-reisefuhrer bzw. https://www.amazon.de/dp/3000565906
-- https://viel-unterwegs.de/new-york-reisefuehrer-empfehlung-vergleich/
-- https://www.sightseeingpass.com/images/downloads/new-york/sightseeing-pass-guide-new-york.pdf
-- https://www.nycgo.com/
-- https://www.iloveny.com/travel-tools/guides/
-- https://www.authentikcanada.com/us-en/travel-guide/tourist-office-new-york
-- https://gotourismguides.com/nyc/new-york-city-visitors-guide/#:~:text=Tourist%20Information%20Services&text=They%20also%20operate%20New%20York,%2D800%2D692%2D8474.
-- https://freetoursbyfoot.com/new-york-tours/nyc-travel-guide
-- http://guides.tripomatic.com/download/tripomatic-free-city-guide-new-york-city.pdf
-- https://www.nycgo.com/maps-guides
-- https://pages.ctrip.com/tour/pdf7/31.pdf
-- https://www.authentikcanada.com/uploads/destination_sheets/CA/en_US/optimized/64.pdf
 
--------------------------------------------------------------------------------------------------------------
 
 ## **Karten**
 - https://www.nyc.gov/nyc-resources/nyc-maps.page
