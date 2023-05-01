@@ -190,4 +190,46 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 ## **Reiseadapter
 https://www.usa-reisetipps.net/leben-in-den-usa/strom
 
+
+-------------------------------------------------------------------------------------------------------------
+
+## **NBA-Karten**
+
+ https://www.newyorkcity.de/brooklyn-nets-tickets/
+- https://www.newyorkcity.de/new-york-knicks-tickets/
+- http://ticketmaster.com/
+- https://www.hellotickets.de/vereinigte-staaten/new-york/nba-tickets-new-york/sc-1-1580
+- Wer die Tickets bereits hier von zuhause aus in Deutschland kaufen möchte, der kann auf Hellotickets.de sein Glück versuchen. Hier finden sich oft günstige Preise, und die Kaufabwicklung ist sicher und komfortabel. Auf dieser Website siehst du alle Bereiche der Arena und die genaue Ansicht aller verfügbaren Sitzplätze. Die Tickets kommen in digitaler Form bei dir an, sodass du dir keine Sorgen machen musst, wenn du keine Adresse in den USA angeben kannst, um die Papiertickets dorthin zu erhalten. Bei Fragen hilft der Support in europäischer bzw. in deutscher Zeit. Das hat den Vorteil, dass Hilfe verfügbar ist, wenn sie hierzulande benötigt wird und nicht Tage vergehen durch Kommunikation über unterschiedliche Zeitzonen hinweg.
+- Die Plätze mit dem besten Preis Leistungsverhältnis befinden sich in den 200 Blöcken. Hier empfehle ich euch aber an der Längsseite des Spielfeldes zu sitzen und nicht hinter den Körben. Die Blöcke 209, 210, 211, 212, 213, 221, 222, 223, 224, 225 und 226 sind die richtige Wahl für einen Besuch.
+
+### **NBA-Spielplan**
+- https://www.sport1.de/daten/us-sport/nba/spielplan
+- Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
+
+### **Brooklyn Nets**
+https://www.newyorkcity.de/brooklyn-nets-tickets/
+https://www.newyorkcity.de/new-york-knicks-tickets/
+Letzter Spieltag: Sonntag, 09.04.2023, Danach Playoffs
+
+### **New York Knicks** 
+https://www.basketball-reference.com/friv/playoff_prob.html
+
+### **WNBA-Spiel**
+- https://liberty.wnba.com/schedule/#?season=2023&seasontype=02
+- https://www.newyorkcity.de/new-york-liberty-basketball-tickets/
+Sunday, May 21, 2:00 PM ET Commissioner's cup
+Saturday, May 27, 7:00 PM ET Commissioner's cup
+Es ist möglich, dass es für die WNBA-Spiele im Mai in New York noch Tickets gibt. Um sicherzustellen, dass du ein Ticket bekommst, empfehle ich dir, die Webseite der WNBA zu besuchen und dort nach verfügbaren Tickets zu suchen: https://www.wnba.com/tickets/. Du kannst auch versuchen, Tickets über andere Ticketplattformen wie zum Beispiel https://www.stubhub.com/secure/search?q=wnba&sellSearch=false oder https://seatgeek.com/new-york-liberty-tickets zu kaufen. Es lohnt sich auch, den Ticketverkauf der New York Liberty https://liberty.wnba.com/tickets/ zu überprüfen, da sie möglicherweise direkt Tickets verkaufen.
+
+### **Übersicht Madison Square Garden**
+- https://le-cdn.website-editor.net/s/c63051bc3da44aa3a17ea224d92d15f0/dms3rep/multi/opt/MadisonSquareGarden_Basketball_2021-02-22_2021-02-22_1200_02222021_130342_SVGC_tn-1920w.png?Expires=1664818160&Signature=LrdvBs9vp9J9kkjMskiMCjp6Jm-96SsvZDr9eWRrSvU4y9JiJBxYEbUOZGIDQsiGWRnPPM-mKsxKKfToL4MJQqrosvlZqgek0NDK8~PMztx5-ojSsrgPqisa~CbmeQZuY9dFka1GsL5OKTaRCyokOhBsZMCmDnSdOT01trTS~RPJmoQcVSDGgEDty23p04Fszhl0iF2moQ8UJKcw9UO1odpjyaBoKbKBQYESxcso-nVt9LbTBm1y0ciMk4r5OOlXoTGLEnJV~jCtHVPMpGs9cfCVaUNrkiFec5IKnloAHdKLRmQle78fct9udUa1em4~bQsRShLxJmUXdTzFiZ5Z0A__&Key-Pair-Id=K2NXBXLF010TJW
+- https://www.fairflight.de/images/reisearten/sportreisen/nba-new-york-knicks/madison-square-garden_620x.webp
+
+### **Hinweis zu den Basketball-Eintrittskarten**
+- In allen Arenen gibt es mittlerweile nur noch elekronische Tickets. Papiertickets (Versand oder Ausdruck zu Hause) gibt es nicht mehr. Die Eintrittskarten zu den Spielen erhält man als E-Ticket zum Download auf sein Mobiltelefon. 
+- Wir möchten schon jetzt darauf hinweisen, dass für den Besuch der Spiele ein Smartphone (iphone oder Android) zur Verfügung stehen muss. Darauf müssen dann die jeweiligen Apps der Clubs geladen werden, in diesen sind dann die Tickets sichtbar. 
+- Es ist auch möglich mehrere Tickets, z.B. von Mitreisenden, auf einem Mobiltelefon mitzuführen. Tickets können dann auch offline (ohne Internetzugang in Kanada/USA) in die Apple Wallet (bei iphone) oder in Google pay (bei Android) geladen werden. 
+- In den USA haben aber auch alle Arenen einen kostenfreien Zugang zum WLAN.
+
+
 -------------------------------------------------------------------------------------------------------------
