@@ -120,6 +120,25 @@ Bei der Einreise nach Deutschland aus den USA gibt es einen Freigrenzwert von 43
 
 -------------------------------------------------------------------------------------------------------------
 
+## **Welchen Reiseführer?**
+ Marco Polo Reiseführer New York mit App: Der Reiseführer von Marco Polo ist klein und sehr kompakt. Er enthält das Wichtigste, was du vor einer New York Reise wissen musst. Praktisch ist die App, die du vor Ort nutzen kannst. Ein Faltplan der Stadt ist ebenfalls enthalten: https://www.amazon.de/MARCO-POLO-Reisef%C3%BChrer-York-Insider-Tipps/dp/3829728476
+- "Entdecke New York wie ein Local" Insider-Tipps
+Ein sehr ausführlicher Reiseführer von New York ist der New York Reiseführer von Loving New York. Insider Tipps für Manhattan, Brooklyn, Queens, Bronx und Staten Island findest du darin. Pro Stadtteil gibt es eine Checkliste à la Bucketlist, mit den Highlights: https://shop.lovingnewyork.de/collections/reisefuehrer/products/new-york-reisefuhrer bzw. https://www.amazon.de/dp/3000565906
+- https://viel-unterwegs.de/new-york-reisefuehrer-empfehlung-vergleich/
+- https://www.sightseeingpass.com/images/downloads/new-york/sightseeing-pass-guide-new-york.pdf
+- https://www.nycgo.com/
+- https://www.iloveny.com/travel-tools/guides/
+- https://www.authentikcanada.com/us-en/travel-guide/tourist-office-new-york
+- https://gotourismguides.com/nyc/new-york-city-visitors-guide/#:~:text=Tourist%20Information%20Services&text=They%20also%20operate%20New%20York,%2D800%2D692%2D8474.
+- https://freetoursbyfoot.com/new-york-tours/nyc-travel-guide
+- http://guides.tripomatic.com/download/tripomatic-free-city-guide-new-york-city.pdf
+- https://www.nycgo.com/maps-guides
+- https://pages.ctrip.com/tour/pdf7/31.pdf
+- https://www.authentikcanada.com/uploads/destination_sheets/CA/en_US/optimized/64.pdf
+
+
+-------------------------------------------------------------------------------------------------------------
+
 ## **Handy: Internet und Telefon**
 - Für New York bietet sich an, eine lokale SIM-Karte zu kaufen. Du benötigst Datenvolumen für UBER, Lyft oder Open Table, um einen Tisch fürs Abendessen zu reservieren. Manchmal kauft man spontan Tickets vor Ort, um die Warteschlange zu umgehen. Für tägliche Verlosungen für Musical Tickets per App lohnt sich der Datenpass ebenfalls. Wir nutzen in den USA gerne die Tourisim, da wir diese vor der Reise bestellen können und viel Datenvolumen benötigen (30 GB). Reist du beruftlich und benötigst mehr Daten? Dann solltest du eine eSIM bei Telekom in den USA kaufen. Eine Anleitung findest du hier (funktioniert, haben wir getestet):
 - https://www.t-mobile.com/support/plans-features/t-mobile-esim-app
