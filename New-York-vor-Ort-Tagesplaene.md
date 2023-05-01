@@ -1,3 +1,9 @@
+## **Direktlinks zu Attraktionen**
+
+https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
+
+-------------------------------------------------------------------------------------------------------------
+
 ## **Top-Attraktionen in New York**
 - https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
 - https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
@@ -10,6 +16,9 @@
 
 - https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 - https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
+
+-------------------------------------------------------------------------------------------------------------
+
 
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
