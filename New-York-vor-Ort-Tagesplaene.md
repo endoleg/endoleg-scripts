@@ -78,6 +78,11 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 
 **Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
 
+NIKE FLAGSHIP SOHO, NEW YORK
+529 Broadway, New York, NY 10012, USA
+Lower Manhatten
+https://echochamber.com/article/nike-soho-new-york/
+
 9:00 Uhr - Treffen in der Nähe des High Line Parks. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Bottle Coffee oder dem Santina, frühstücken. Der High Line Park ist ein einzigartiger öffentlicher Park auf einer ehemaligen Hochbahntrasse und bietet einen atemberaubenden Blick auf die Stadt. (U-Bahn: Linien A, C, E, L zu 14th Street / 8th Avenue)
 
 10:00 Uhr - Besichtigung des High Line Parks. Der Park erstreckt sich über 2,33 km und bietet Kunstausstellungen, einheimische Pflanzen und einzigartige Aussichten auf die Stadt. Du kannst auf dem Weg durch den Meatpacking District und Chelsea auch einige der besten Restaurants und Geschäfte der Stadt entdecken.
