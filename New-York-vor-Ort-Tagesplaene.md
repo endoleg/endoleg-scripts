@@ -158,18 +158,11 @@ https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
 
 ## **Events im Mai**
-
-https://www.nycinsiderguide.com/new-york-city-events-may
-
-https://loving-newyork.com/new-york-in-may/
-
-https://www.newyorkcity.ca/events/what-to-do-in-new-york-in-may-2023/
-
-https://www.newyork-online.us/en/events/may
-
-https://www.experism.com/new-york/may
-
-
+- https://www.nycinsiderguide.com/new-york-city-events-may
+- https://loving-newyork.com/new-york-in-may/
+- https://www.newyorkcity.ca/events/what-to-do-in-new-york-in-may-2023/
+- https://www.newyork-online.us/en/events/may
+- https://www.experism.com/new-york/may
 
 -------------------------------------------------------------------------------------------------------------
 
