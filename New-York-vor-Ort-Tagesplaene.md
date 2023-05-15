@@ -69,6 +69,7 @@ A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei D
 14:00 Uhr - Besichtigung des Grand Central Terminals. Hier kannst du die wunderschöne Architektur des Gebäudes bewundern, in den Geschäften und Restaurants stöbern und vielleicht sogar den berühmten Whispering Gallery besuchen. (U-Bahn: Linien 4, 5, 6, 7, S zu Grand Central - 42nd Street)
 
 15:00 Uhr - Besuch des Times Square, einem der bekanntesten Orte in New York City und ein Muss für jeden Besucher. Hier kannst du die hellen Lichter und die geschäftige Atmosphäre genießen und einige der besten Einkaufsmöglichkeiten der Stadt erkunden. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
+Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, New York City, NY 10019
 
 16:00 Uhr - Spaziergang durch das Broadway und das Theater District, wo einige der bekanntesten Shows der Welt stattfinden. Hier gibt es viele berühmte Theater wie das Majestic Theatre, das Gershwin Theatre und das Richard Rodgers Theatre. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
 
