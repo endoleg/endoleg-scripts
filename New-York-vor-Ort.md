@@ -7,6 +7,21 @@ https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
 -------------------------------------------------------------------------------------------------------------
 
+Wie U-Bahn-Wochenkarte kaufen?
+https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
+
+Am Automaten, Wochen- oder Monatskarte erwerben:
+- Start drücken ->
+- English ->
+- Metro Card ->
+- Get new card ->
+- Unlimited ride -> 7 Day (7 Tage Pass) oder 30 Day (30 Tage Pass) ->
+- Cash oder Credit Card auswählen und zahlen.
+- (Wenn ihr mit der Kreditkarte zahlt werdet ihr nach dem ZIP Code - Postleitzahl gefragt, einfach 5 mal Null eingeben)
+
+
+-------------------------------------------------------------------------------------------------------------
+
 ## **Kixby Hotel**
 45 West 35th Street, 10001 New York City, USA
 In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. Penn Station und die 42nd St. Bryant Park Station
@@ -60,6 +75,7 @@ für die Suche nach Restaurants in deiner Nähe.
 - Yelp 
 für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants. Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
 - Transit Maps
+- NYC Subway
 - Nahverkehr NYC: MTA https://apps.apple.com/us/app/nyc-transit-mta-subway-bus/id1146998152
 - Time Out New York: https://apps.apple.com/de/app/time-out-new-york/id329591770
 - WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
@@ -68,10 +84,9 @@ für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel a
 - I love NY
 - Lyft
 - Marco Polo Touren App
-- https://meintripnachnewyork.com/blogs/gut-zu-wissen/die-besten-apps-fur-den-new-york-trip
-- https://www.usatipps.de/aktuelles/2021/die-besten-7-apps-fuer-die-usa-reise-verschiedene-apps-im-detail/
+- Deepl
+- SimpleTipCalculator
 - Zoll und Reise
-Die App hilft Dir, schnell herauszufinden, welche Waren bei der Einreise erlaubt sind und was Du ohne zusätzliche Kosten nach Deutschland mitbringen darfst. 
 
 
 -------------------------------------------------------------------------------------------------------------
