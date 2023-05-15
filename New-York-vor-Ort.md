@@ -13,6 +13,7 @@ In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen.
 - U-Bahn-Station 34th St. - Herald Square – 3 Min. zu Fuß
 - U-Bahn-Station 34th St. - Penn Station (Fashion Av.) – 6 Min. zu Fuß
 - U-Bahn-Station 42nd St. - Bryant Pk. – 7 Min. zu Fuß
+- 
 https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
 
 Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station. Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. Bryant Park wird von den Linien B, D, F, M und 7 bedient. Die U-Bahn-Station 34th St. Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
@@ -25,8 +26,8 @@ Neu: Metro Card als App dank OMNY
 Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
 https://new.mta.info/fares
 
-### **Mit der U-Bahn**
-Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt bis zur Jamaica Station (dann Richtung Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+### **Mit der U-Bahn nach Manhatten**
+Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt per ROTER LINIE bis zur Jamaica Station (dann Richtung Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
 
 ### Airtrain
 
@@ -38,7 +39,7 @@ https://www.panynj.gov/airports/jfk-airtrain.html
 
 ![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/0819813f-7dfd-4290-beb4-cb5637eacbff)
 
-Jamaica train (rote Linie)
+Jamaica train (rote Linie):
 ![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/c55b31d5-43dd-4b1d-bb54-0e274b3d1ee4)
 
 Die Wochenkarte für die Metro in New York City gilt nicht für den AirTrain am JFK-Flughafen. Für den AirTrain benötigt man eine separate MetroCard, die an den Endhaltestellen gekauft werden kann. Eine einzelne AirTrain-Fahrkarte kostet 8,25 US-Dollar plus 1 US-Dollar für die Karte selbst
