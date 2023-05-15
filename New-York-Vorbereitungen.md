@@ -185,7 +185,7 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 -------------------------------------------------------------------------------------------------------------
 
 
-## **Reiseadapter
+## **Reiseadapter Strom
 - https://www.usa-reisetipps.net/leben-in-den-usa/strom
 - https://www.amazon.de/dp/B0BF8TR6Z1
 - https://www.amazon.de/dp/B09MW53KKT?th=1
@@ -194,7 +194,7 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 
 ## **NBA-Karten**
 
- https://www.newyorkcity.de/brooklyn-nets-tickets/
+- https://www.newyorkcity.de/brooklyn-nets-tickets/
 - https://www.newyorkcity.de/new-york-knicks-tickets/
 - http://ticketmaster.com/
 - https://www.hellotickets.de/vereinigte-staaten/new-york/nba-tickets-new-york/sc-1-1580
@@ -207,8 +207,16 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 
 ### **Brooklyn Nets**
 - https://www.newyorkcity.de/brooklyn-nets-tickets/
-- https://www.newyorkcity.de/new-york-knicks-tickets/
-Letzter Spieltag: Sonntag, 09.04.2023, Danach Playoffs
+Praktische Informationen
+
+Wie komme ich zum Barclays Center?
+Das Barclays Center ist sehr einfach zu erreichen. Lassen Sie sich nicht davon abschrecken, dass es sich in Brooklyn befindet. Mit der U-Bahn ist es am bequemsten, zum Barclays Center zu gelangen. Sie können die U-Bahnlinien 2, 3, 4, 5, B, D, N, Q und R bis Atlantic Avenue – Barclays Center nehmen. Der U-Bahnhof befindet sich direkt beim Stadion. Von Grand Central Station aus dauert die Fahrt etwa 22 Minuten.
+
+Wann sollte ich im Stadion sein?
+Ich empfehle Ihnen 30 bis 60 Minuten vor Spielbeginn im Stadion zu sein.
+
+Wie komme ich zurück nach Manhattan?
+Nehmen Sie wieder die U-Bahn, um nach dem Spiel nach Manhattan zurückzukommen. Das ist der einfachste und schnellste Weg. Da mit Ihnen noch viele andere Nets Fans nach Manhattan zurückfahren werden, brauchen Sie sich über Ihre Sicherheit keine Gedanken zu machen.
 
 ### **New York Knicks** 
 - https://www.basketball-reference.com/friv/playoff_prob.html
