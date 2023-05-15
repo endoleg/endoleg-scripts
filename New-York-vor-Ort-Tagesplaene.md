@@ -157,7 +157,7 @@ Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Fest
 https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
 
-## **Events**
+## **Events im Mai**
 
 https://www.nycinsiderguide.com/new-york-city-events-may
 
@@ -173,7 +173,7 @@ https://www.experism.com/new-york/may
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Reiseplanung-Tages-Plan**
+## **Reiseplanung-Tages-Pläne**
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 - https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
