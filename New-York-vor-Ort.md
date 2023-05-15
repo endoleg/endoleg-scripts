@@ -1,8 +1,5 @@
-# **New York Reise-Tipps**
+# **New York Reise-Tipps vor Ort**
 
--------------------------------------------------------------------------------------------------------------
-https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
--------------------------------------------------------------------------------------------------------------
 
 Wie U-Bahn-Wochenkarte kaufen?
 https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
@@ -265,6 +262,11 @@ Lust auf einen außergewöhnlichen Spaziergang? Die auf einer ehemaligen Hochbah
 - https://publictheater.org/productions/season/2021/sitp/merry-wives/
 - https://publictheater.org/your-2223-programming/
 - https://publictheater.org/
+
+
+----------------------------------------------------------------------
+
+https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
 
 Diese Seite wurde erstellt mit https://stackedit.io/
