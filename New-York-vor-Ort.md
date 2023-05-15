@@ -1,4 +1,4 @@
-# **New York Reise-Tipps vor Ort**
+# **New York: Reise-Tipps vor Ort**
 
 
 ##  ** Wie U-Bahn-Wochenkarte kaufen?**
