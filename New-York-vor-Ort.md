@@ -177,7 +177,9 @@ Metro Card New York: 5,50 $ einfache Fahrt | 7-Tage unlimited Pass: 32 $
 (dazu kommt ein Pfand von 1 $ für eine MetroCard)
 Ein Fahrt mit dem Yellow Cab Taxi kostet eine Grundpauschale von 2.50 $, dazu eine Steuer von 0,50 $. Je Meile kommen Kosten von 1 $ dazu.
 Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor der Reise die UBER App aufs Handy laden und dann die Preise vergleichen.
-Kostenlos mit der Fähre fahren? Dank der Staten Island Ferry ist das möglich. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
+
+Staten Island Ferry
+Um die Freiheitsstatue zu sehen, musst du  nicht unbedingt eine teure Touri-Bootstour buchen, sondern kannst auch einfach kostenlos mit der Staten Island Ferry bis nach Staten Island übersetzen. Die Fähre schippert nämlich ebenfalls an der Statute of Liberty vorbei. Auf der Insel angekommen, kannst du dann entweder aussteigen und dich ein bisschen umsehen oder einfach wieder kostenlos zurückfahren. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
 
 ### **Transfer nach New York**
 - https://www.newyorkcity.de/transfer-nach-new-york/
