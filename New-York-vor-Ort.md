@@ -1,6 +1,5 @@
 # **New York: Reise-Tipps vor Ort**
 
-
 ##  ** Wie U-Bahn-Wochenkarte kaufen?**
 
 https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
@@ -85,6 +84,24 @@ für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel a
 
 
 -------------------------------------------------------------------------------------------------------------
+
+
+### **Barclays Center**
+- https://www.newyorkcity.de/brooklyn-nets-tickets/
+
+Praktische Informationen
+
+Wie komme ich zum Barclays Center?
+Das Barclays Center ist sehr einfach zu erreichen. Lassen Sie sich nicht davon abschrecken, dass es sich in Brooklyn befindet. Mit der U-Bahn ist es am bequemsten, zum Barclays Center zu gelangen. Sie können die U-Bahnlinien 2, 3, 4, 5, B, D, N, Q und R bis Atlantic Avenue – Barclays Center nehmen. Der U-Bahnhof befindet sich direkt beim Stadion. Von Grand Central Station aus dauert die Fahrt etwa 22 Minuten.
+
+Wann sollte ich im Stadion sein?
+Ich empfehle Ihnen 30 bis 60 Minuten vor Spielbeginn im Stadion zu sein.
+
+Wie komme ich zurück nach Manhattan?
+Nehmen Sie wieder die U-Bahn, um nach dem Spiel nach Manhattan zurückzukommen. Das ist der einfachste und schnellste Weg. Da mit Ihnen noch viele andere Nets Fans nach Manhattan zurückfahren werden, brauchen Sie sich über Ihre Sicherheit keine Gedanken zu machen.
+
+-------------------------------------------------------------------------------------------------------------
+
 
 ## **New-York-Pass-Berater - welchen nehme ich?**
 - https://lovingnewyork.de/new-york-pass-berater/
