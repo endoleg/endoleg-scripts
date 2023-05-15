@@ -53,24 +53,25 @@ https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughaf
 
 ## **Apps für das Iphone**
 
- Eric’s New York App: Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York: https://apps.apple.com/de/app/erics-new-york/id1129643452 
-- Tipadvisor für die Suche nach Restaurants in deiner Nähe.
-- Yelp für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants. Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
-- MyTransit NYC Subway, Bus, Rail: https://apps.apple.com/de/app/mytransit-nyc-subway-bus-rail/id310623986
+- Eric’s New York App: 
+Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York: https://apps.apple.com/de/app/erics-new-york/id1129643452 
+- Tripadvisor 
+für die Suche nach Restaurants in deiner Nähe.
+- Yelp 
+für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants. Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
+- Transit Maps
+- Nahverkehr NYC: MTA https://apps.apple.com/us/app/nyc-transit-mta-subway-bus/id1146998152
 - Time Out New York: https://apps.apple.com/de/app/time-out-new-york/id329591770
 - WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
-- Tripadvisor
 - Uber
 - Sightseeing
 - I love NY
 - Lyft
-- Transit Maps
 - Marco Polo Touren App
-- Zoll und Reise
 - https://meintripnachnewyork.com/blogs/gut-zu-wissen/die-besten-apps-fur-den-new-york-trip
 - https://www.usatipps.de/aktuelles/2021/die-besten-7-apps-fuer-die-usa-reise-verschiedene-apps-im-detail/
-
-Lade Dir vor Deiner Reise in ein Drittland die kostenlose App „Zoll und Reise“ des Bundesministeriums für Finanzen auf Dein Smartphone. Die App hilft Dir, schnell herauszufinden, welche Waren bei der Einreise erlaubt sind und was Du ohne zusätzliche Kosten nach Deutschland mitbringen darfst. Die App kannst Du kostenlos in den App-Stores von Apple und Google (Play Store) herunterladen.
+- Zoll und Reise
+Die App hilft Dir, schnell herauszufinden, welche Waren bei der Einreise erlaubt sind und was Du ohne zusätzliche Kosten nach Deutschland mitbringen darfst. 
 
 
 -------------------------------------------------------------------------------------------------------------
