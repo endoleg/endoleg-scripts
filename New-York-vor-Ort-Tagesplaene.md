@@ -19,7 +19,7 @@ https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeit
 - Essen bei Saks Fifth Avenue
 Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
 
-
+-------------------------------------------------------------------------------------------------------------
 
 **Tag1** - Mittwoch, 17.05.2023
 
@@ -36,6 +36,8 @@ Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hote
 A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei Deutschen, war früher bei mir hoch im Kurs. Das Parfum liebe ich heute noch.
 - Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
 
+-------------------------------------------------------------------------------------------------------------
+
 **Tag2 Süden Manhatten** - Donnerstag, 18.05.2023
 9:00 Uhr - Treffen in der Nähe von Wall Street. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Spoon Coffee oder dem Bluestone Lane Coffee, frühstücken. Wall Street ist bekannt für den New York Stock Exchange und den Charging Bull und ist das Finanzzentrum der Stadt. (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
 
@@ -49,6 +51,8 @@ A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei D
 
 16:00 Uhr - Besuch von St. Paul's Chapel und Trinity Church, zwei historischen Kirchen, die eine wichtige Rolle in der Geschichte der Stadt spielen. Danach kannst du einen Spaziergang durch den Battery Park machen und die Freiheitsstatue sehen. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu South Ferry)
 
+
+-------------------------------------------------------------------------------------------------------------
 
 **Tag3 - Downtown & Midtown Manhattan** - Freitag, 19.05.2023
 9:00 Uhr - Treffen in der Nähe des Flatiron Buildings und Frühstück in einem der nahegelegenen Cafés, wie z.B. dem Birch Coffee oder dem Bluestone Lane. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 28th Street)
@@ -68,6 +72,7 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 
 17:00 Uhr - Ende des Tages und Rückfahrt zu deinem Ausgangspunkt. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 34th Street Herald Square oder 42nd Street - Bryant Park)
 
+-------------------------------------------------------------------------------------------------------------
 
 **Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
 
@@ -86,7 +91,7 @@ https://echochamber.com/article/nike-soho-new-york/
 
 15:00 Uhr - Rückfahrt zu deinem Ausgangspunkt. Du kannst entweder die U-Bahn (Linien A, C, E, L zu 34th Street / Penn Station) oder ein Taxi nehmen.
 
-
+-------------------------------------------------------------------------------------------------------------
 
 **Tag5: Brooklyn und Coney Island** - Sonntag, 21.05.2023
 
@@ -105,9 +110,14 @@ https://echochamber.com/article/nike-soho-new-york/
 18:30 Uhr - Rückfahrt mit der U-Bahn-Linie F von der Station York St zur Station 42nd St-Bryant Park.
 Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplace has 40 vendors serving some of the best NYC eats. 
 
+-------------------------------------------------------------------------------------------------------------
+
 **Tag6: Freiheitsstatue, Bootstour & Helikopterflug** - Montag, 22.05.2023
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
 - Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
+
+-------------------------------------------------------------------------------------------------------------
+
 
 **Tag7**
 9:00 Uhr - Museum of Modern Art (MoMA) - Für den Besuch solltest du mindestens zwei Stunden einplanen.
@@ -120,8 +130,12 @@ Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine 
 
 - St. Patrick's Cathedral ?
 
+-------------------------------------------------------------------------------------------------------------
+
 **Tag 8**
 Abreise
+
+-------------------------------------------------------------------------------------------------------------
 
 Bike:
 https://www.citibikenyc.com/
