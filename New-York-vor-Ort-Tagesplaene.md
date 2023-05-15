@@ -39,6 +39,7 @@ A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei D
 -------------------------------------------------------------------------------------------------------------
 
 **Tag2 Süden Manhatten** - Donnerstag, 18.05.2023
+
 9:00 Uhr - Treffen in der Nähe von Wall Street. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Spoon Coffee oder dem Bluestone Lane Coffee, frühstücken. Wall Street ist bekannt für den New York Stock Exchange und den Charging Bull und ist das Finanzzentrum der Stadt. (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
 
 10:00 Uhr - Besichtigung der Sehenswürdigkeiten im Financial District. Hier kannst du den New York Stock Exchange und den Charging Bull sehen. Anschließend besuchst du das 9/11 Memorial und das 9/11 Museum, um an die tragischen Ereignisse vom 11. September 2001 zu erinnern. (U-Bahn: Linien E zu World Trade Center oder 4, 5 zu Fulton St)
@@ -55,6 +56,7 @@ A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei D
 -------------------------------------------------------------------------------------------------------------
 
 **Tag3 - Downtown & Midtown Manhattan** - Freitag, 19.05.2023
+
 9:00 Uhr - Treffen in der Nähe des Flatiron Buildings und Frühstück in einem der nahegelegenen Cafés, wie z.B. dem Birch Coffee oder dem Bluestone Lane. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 28th Street)
 
 10:00 Uhr - Besichtigung des Flatiron Buildings, einem der bekanntesten Gebäude in New York City und eines der ersten Wolkenkratzer der Welt. Es ist ein beeindruckendes Beispiel für die Architektur des 20. Jahrhunderts. (U-Bahn: Linien 4, 6, N, Q, R, W zu 23rd Street)
@@ -113,6 +115,7 @@ Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplac
 -------------------------------------------------------------------------------------------------------------
 
 **Tag6: Freiheitsstatue, Bootstour & Helikopterflug** - Montag, 22.05.2023
+
 - Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
 - Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
 
@@ -120,6 +123,7 @@ Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplac
 
 
 **Tag7**
+
 9:00 Uhr - Museum of Modern Art (MoMA) - Für den Besuch solltest du mindestens zwei Stunden einplanen.
 Das MoMA ist eines der bekanntesten Kunstmuseen der Welt und bietet eine beeindruckende Sammlung moderner und zeitgenössischer Kunst. Es öffnet um 10 Uhr morgens, also sollten Sie sich Zeit nehmen, um anzukommen und sich auf Ihren Besuch vorzubereiten. Die Adresse des MoMA ist 11 West 53rd Street, New York, NY 10019. Sie können mit der U-Bahnlinie B, D, F oder M zur Station 47-50 Sts/Rockefeller Ctr fahren oder mit der Linie E oder M zur Station 5 Ave/53 St.
 
@@ -133,6 +137,7 @@ Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag 8**
+
 Abreise
 
 -------------------------------------------------------------------------------------------------------------
@@ -150,9 +155,7 @@ International Food Festival takes place on 9th Avenue from 42nd to 57th street f
 https://www.ninthavenuefoodfestival.com/
 Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 
-
-
-https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
+Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
 
 ## **Events im Mai**
