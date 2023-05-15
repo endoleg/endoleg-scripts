@@ -4,22 +4,6 @@ https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeit
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Top-Attraktionen in New York**
-- https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
-- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
-- https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
-- https://www.introducingnewyork.com/top-10
-- https://loving-newyork.com/top-10-attractions-in-new-york/
-
-- https://viel-unterwegs.de/insider-tipps-new-york/
-- https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
-
-- https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
-- https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
-
--------------------------------------------------------------------------------------------------------------
-
-
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
 - Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
@@ -184,3 +168,18 @@ https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 
 -------------------------------------------------------------------------------------------------------------
 
+
+## **Top-Attraktionen in New York**
+- https://www.attractionsofamerica.com/attractions/new-york-city-top-10-attractions.php
+- https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
+- https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
+- https://www.introducingnewyork.com/top-10
+- https://loving-newyork.com/top-10-attractions-in-new-york/
+
+- https://viel-unterwegs.de/insider-tipps-new-york/
+- https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
+
+- https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
+- https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
+
+-------------------------------------------------------------------------------------------------------------
