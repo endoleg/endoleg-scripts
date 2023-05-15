@@ -206,12 +206,12 @@ Lediglich für Trinkgelder hebe ich einen geringen Betrag von ca. $ 50-100 direk
 - Letzter NBA-Spieltag: Sonntag, 09.04.2023, danach Playoffs, Spiele bei New York Knicks oder Brooklyn Nets möglich.
 
 ### **Brooklyn Nets**
-https://www.newyorkcity.de/brooklyn-nets-tickets/
-https://www.newyorkcity.de/new-york-knicks-tickets/
+- https://www.newyorkcity.de/brooklyn-nets-tickets/
+- https://www.newyorkcity.de/new-york-knicks-tickets/
 Letzter Spieltag: Sonntag, 09.04.2023, Danach Playoffs
 
 ### **New York Knicks** 
-https://www.basketball-reference.com/friv/playoff_prob.html
+- https://www.basketball-reference.com/friv/playoff_prob.html
 
 ### **WNBA-Spiel**
 - https://liberty.wnba.com/schedule/#?season=2023&seasontype=02
