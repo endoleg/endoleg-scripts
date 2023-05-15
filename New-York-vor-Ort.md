@@ -13,12 +13,21 @@ U-Bahn-Stationen in der Nähe
 In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. - Penn Station und die 42nd St. - Bryant Park Station
 https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
 
-Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station
-Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. - Bryant Park wird von den Linien B, D, F, M und 7 bedient
+Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station. Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. - Bryant Park wird von den Linien B, D, F, M und 7 bedient
 
 Die beste U-Bahn-Station, um schnell überall hin zu kommen, hängt von der genauen Lage und dem Ziel ab. Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
 
 Der JFK-Flughafen ist mit der U-Bahn-Linie E und der AirTrain JFK erreichbar.
+
+### **Metro**
+7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
+Neu: Metro Card als App dank OMNY
+Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
+https://new.mta.info/fares
+
+### **Mit der U-Bahn**
+Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt bis zur Jamaica Station (Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+https://www.panynj.gov/airports/jfk-airtrain.html
 
 https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughafen-jfk-mit-der-subway-gelangen
 
@@ -137,10 +146,6 @@ Ein Fahrt mit dem Yellow Cab Taxi kostet eine Grundpauschale von 2.50 $, dazu ei
 Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor der Reise die UBER App aufs Handy laden und dann die Preise vergleichen.
 Kostenlos mit der Fähre fahren? Dank der Staten Island Ferry ist das möglich. Die Fahrt dauert ca. 25 Minuten ab Battery Park (Südspitze von Manhattan) nach Staten Island. Dabei hast du einen tollen Blick auf die Skyline von Manhattan, die Brooklyn Bridge und Brooklyn wie auch die Freiheitsstatue und Ellis Island.
 
-### **Mit der U-Bahn**
-Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt bis zur Jamaica Station (Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
-https://www.panynj.gov/airports/jfk-airtrain.html
-
 ### **Transfer nach New York**
 - https://www.newyorkcity.de/transfer-nach-new-york/
 - Die Kosten für eine Taxifahrt vom JFK Flughafen nach Manhattan hängen von verschiedenen Faktoren ab, wie der Tageszeit, dem Verkehrsaufkommen und dem genauen Fahrtziel in Manhattan. Laut dem New York City Taxi and Limousine Commission betragen die Grundgebühren für Taxifahrten vom JFK Flughafen nach Manhattan derzeit $52, plus eine Pauschalgebühr von $0,50 für jede 1/5 Meile oder jede Minute, die der Fahrt dauert. Es gibt auch eine Zuschlag von $17,50 für Fahrten zum JFK Flughafen, die zu den normalen Gebühren hinzugerechnet werden. Beachte, dass diese Gebühren sich ändern können und dass es möglicherweise zusätzliche Gebühren für Gepäck oder andere Dienstleistungen gibt. Es ist immer ratsam, den Fahrer vor der Fahrt über die genauen Kosten zu informieren und sicherzustellen, dass du einen fairen Preis bezahlst
@@ -167,11 +172,7 @@ fährt direkt zum Port Authority Bus Terminal ( Anbindung U-Bahn Linien 1, 2, 3,
 Mit dem New York Airport Shuttle Service gelangen Sie für 16 USD pro Person onway nach Manhattan. Haltestellen sind unter anderem die Grand Central und die Penn Station in Manhattan. Des Weiteren werden Hotels in Midtown Manhattan angefahren die zwischen der 31th und 60th Strasse liegen.
 https://www.nycexpressbus.com/
 
-### **Metro**
-7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
-Neu: Metro Card als App dank OMNY
-Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
-https://new.mta.info/fares
+
 
 -------------------------------------------------------------------------------------------------------------
 
