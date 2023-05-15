@@ -26,8 +26,16 @@ Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für
 https://new.mta.info/fares
 
 ### **Mit der U-Bahn**
-Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt bis zur Jamaica Station (Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt bis zur Jamaica Station (dann Richtung Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
 https://www.panynj.gov/airports/jfk-airtrain.html
+
+### Airtrain
+![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/0819813f-7dfd-4290-beb4-cb5637eacbff)
+
+Jamaica train (rote Linie)
+![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/c55b31d5-43dd-4b1d-bb54-0e274b3d1ee4)
+
+Subway Zeichen folgen und Subway nach Manhatten folgen
 
 https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughafen-jfk-mit-der-subway-gelangen
 
