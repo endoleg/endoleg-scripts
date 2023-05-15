@@ -22,6 +22,7 @@ https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeit
 
 **Tag0 - Anreisetag (verkürzt)**
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+- Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
 - Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt. Sie können entlang der Straße bummeln und die zahlreichen Geschäfte, Restaurants und Sehenswürdigkeiten erkunden. Beginnen Sie an der Kreuzung Fifth Avenue und 50th Street und gehen Sie nördlich. Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
 - Essen bei Saks Fifth Avenue
 Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
