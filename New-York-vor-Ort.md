@@ -1,7 +1,8 @@
 # **New York Reise-Tipps vor Ort**
 
 
-** Wie U-Bahn-Wochenkarte kaufen?**
+##  ** Wie U-Bahn-Wochenkarte kaufen?**
+
 https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
 
 Am Automaten, Wochen- oder Monatskarte erwerben:
