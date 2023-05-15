@@ -78,6 +78,14 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 
 **Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
 
+Das Ninth Avenue International Food Festival findet am 20. und 21. Mai 2023 statt
+Es ist das älteste und größte fortlaufende Food-Festival in New York City
+Das Festival bietet eine große Auswahl an internationalen Speisen und Getränken, darunter italienische, griechische, mexikanische, thailändische und viele andere Küchen
+International Food Festival takes place on 9th Avenue from 42nd to 57th street for more than 35 years! You can try all kinds of different cuisines: German, Polish, Asian, Italian, Spanish, etc. Photos from the past events, as well as a list of this year participants is available on the festival's website.
+https://www.ninthavenuefoodfestival.com/
+Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
+
+
 NIKE FLAGSHIP SOHO, NEW YORK
 529 Broadway, New York, NY 10012, USA
 Lower Manhatten
@@ -146,14 +154,6 @@ Bike:
 https://www.citibikenyc.com/
 
 https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
-
-
-Das Ninth Avenue International Food Festival findet am 20. und 21. Mai 2023 statt
-Es ist das älteste und größte fortlaufende Food-Festival in New York City
-Das Festival bietet eine große Auswahl an internationalen Speisen und Getränken, darunter italienische, griechische, mexikanische, thailändische und viele andere Küchen
-International Food Festival takes place on 9th Avenue from 42nd to 57th street for more than 35 years! You can try all kinds of different cuisines: German, Polish, Asian, Italian, Spanish, etc. Photos from the past events, as well as a list of this year participants is available on the festival's website.
-https://www.ninthavenuefoodfestival.com/
-Es gibt auch Live-Musik, Kunsthandwerk und andere Aktivitäten während des Festivals.
 
 Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
