@@ -14,10 +14,8 @@ https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeit
 - The Donut Pub: 203 W 14th St, New York, NY 10011
 - Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
 - The address of the M&M's store in New York City is 1600 Broadway, New York, NY 10019
-- The store is located in the heart of Times Square and offers a wide variety of M&M's products and merchandise. 
 - Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt. Sie können entlang der Straße bummeln und die zahlreichen Geschäfte, Restaurants und Sehenswürdigkeiten erkunden. Beginnen Sie an der Kreuzung Fifth Avenue und 50th Street und gehen Sie nördlich. Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
-- Essen bei Saks Fifth Avenue
-Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
+- Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
 
 -------------------------------------------------------------------------------------------------------------
 
