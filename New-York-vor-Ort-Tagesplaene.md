@@ -2,18 +2,40 @@
 
 https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
 
+grünen Schildern Airtrain folgen
+jamaica Route bis zur Jamaica Station
+am Flughafen direkt Bankautomat 
+bezahlung des Airtrains an der Jamaica 
+Station als Airbus Exit am Automaten
+Linie E Richtung Penn Station
+im Zug sind oben an der Decke nächste Stationen aufgelistet
+
+
 -------------------------------------------------------------------------------------------------------------
 
 **Tag0 - Anreisetag (verkürzt)**
+
+Besuch Times Square
+- Rote Treppe
+- m+m
+- Reeses Store
+- Disney Store
+- Taco Bell
+- Spiderman etc 
+- Bryant Park
+
+
 - Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
 - Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
 - NBA Store: 545 Fifth Ave, Manhattan, NY 10017
 - Puma Store: 609 5th Ave, New York, NY 10017
 - Nike Store: There are several Nike stores in New York City, but the closest one to Times Square is located at 20 E 60th St, New York, NY 10022
+
 - Five Guys: 253 W 42nd St, New York, NY 10036 (Times Square location)
 - The Donut Pub: 203 W 14th St, New York, NY 10011
+
 - Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
-- The address of the M&M's store in New York City is 1600 Broadway, New York, NY 10019
+- M&M's store in New York City is 1600 Broadway, New York, NY 10019
 - Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt. Sie können entlang der Straße bummeln und die zahlreichen Geschäfte, Restaurants und Sehenswürdigkeiten erkunden. Beginnen Sie an der Kreuzung Fifth Avenue und 50th Street und gehen Sie nördlich. Apple Store: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
 - Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
 
