@@ -32,6 +32,7 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 - Essen bei Taco Bell (etwas unsauber)
 - Leute in Kostümen (Spiderman etc.) wollen Fotos machen (sicher nicht kostenlos)
 - Bryant Park
+- Auch möglich: Spaziergang durch das Broadway und das Theater District, wo einige der bekanntesten Shows der Welt stattfinden. Hier gibt es viele berühmte Theater wie das Majestic Theatre, das Gershwin Theatre und das Richard Rodgers Theatre. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -42,6 +43,7 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Essen bei Chick-Fill-A (sehr lecker)
 - Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt.
+- Apple Store 5th Avenue (nicht von innen gesehen): Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
 - NBA Store: 545 Fifth Ave, Manhattan, NY 10017
 - vorbei gelaufen an St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
 - Lego Store, 5th Avenue
@@ -75,93 +77,64 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 -------------------------------------------------------------------------------------------------------------
 
 **Tag4:  - Samstag, 20.05.2023**
-- 
-
-
--------------------------------------------------------------------------------------------------------------
-
-- Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
-- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
- 
-- Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle. Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
-A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei Deutschen, war früher bei mir hoch im Kurs. Das Parfum liebe ich heute noch.
-- Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
-
-- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
-- Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
-- Puma Store: 609 5th Ave, New York, NY 10017
-- Nike Store: There are several Nike stores in New York City, but the closest one to Times Square is located at 20 E 60th St, New York, NY 10022
-- Five Guys: 253 W 42nd St, New York, NY 10036 (Times Square location)
-- The Donut Pub: 203 W 14th St, New York, NY 10011
-- Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
-- Apple Store 5th Avenue: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
-- Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
-
-
-9:00 Uhr - Treffen in der Nähe des Flatiron Buildings und Frühstück in einem der nahegelegenen Cafés, wie z.B. dem Birch Coffee oder dem Bluestone Lane. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 28th Street)
-
-10:00 Uhr - Besichtigung des Flatiron Buildings, einem der bekanntesten Gebäude in New York City und eines der ersten Wolkenkratzer der Welt. Es ist ein beeindruckendes Beispiel für die Architektur des 20. Jahrhunderts. (U-Bahn: Linien 4, 6, N, Q, R, W zu 23rd Street)
-
-11:00 Uhr - Besuch des Empire State Buildings. Es ist eines der bekanntesten Wahrzeichen von New York City und bietet eine unglaubliche Aussicht auf die Stadt. Bitte beachte, dass der Eintritt mindestens 100 Minuten dauern kann, aber es lohnt sich! (U-Bahn: Linien B, D, F, M, N, Q, R, W zu 34th Street Herald Square)
-
-16:00 Uhr - Spaziergang durch das Broadway und das Theater District, wo einige der bekanntesten Shows der Welt stattfinden. Hier gibt es viele berühmte Theater wie das Majestic Theatre, das Gershwin Theatre und das Richard Rodgers Theatre. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
-
-
+- Liberty Bagels (besucht)
+- MSG von außen gesehen
+- Madame Tussauds
+- Aladdin Musical
+- Shopping am Times Square
 
 -------------------------------------------------------------------------------------------------------------
 
-**Tag5: Brooklyn und Coney Island** - Sonntag, 21.05.2023
+**Tag5: Brooklyn  - Sonntag, 21.05.2023**
 
-9:00 Uhr - Fahrt mit der U-Bahn-Linie 4 oder 5 von der Station 42nd St-Bryant Park zur Station Borough Hall in Brooklyn. Von dort aus sind es nur wenige Minuten zu Fuß zur Brooklyn Bridge und dem Brooklyn Bridge Park.
+- Fahrt mit der U-Bahn nach Brooklyn (Bezirk DUMBO). Von dort aus sind es nur wenige Minuten zu Fuß zur Brooklyn Bridge und dem Brooklyn Bridge Park. Trendiges und künstlerisches Viertel DUMBO (Down Under the Manhattan Bridge Overpass)! Hier gibt es einige der besten Cafés, Restaurants und Geschäfte der Stadt.
+- Foto Manhatten Bridge
+- Fotos Brooklyn Bridge Park (Brücke/Manhatten)
+- Kurzbesuch Brooklyn Bridge Park
+- Juliana's Pizza
+- Barclays Center, Sport- und Konzertarena, Station Atlantic Av-Barclays Ctr.
+Spiel der New York Liberty gegen Indiana
+- Brooklyn Ice cream factory (overrated)
+- Spaziergang Brooklyn Bridge von Brooklyn nach Manhatten
+- Besuch des Empire State Buildings (nach Sonnenuntergang). Es ist eines der bekanntesten Wahrzeichen von New York City und bietet eine unglaubliche Aussicht auf die Stadt. Bitte beachte, dass der Eintritt mindestens 100 Minuten dauern kann, aber es lohnt sich! (U-Bahn: Linien B, D, F, M, N, Q, R, W zu 34th Street Herald Square)
 
-9:30 Uhr - Ankunft an der Brooklyn Bridge und dem Brooklyn Bridge Park. Hier könnt ihr einen Spaziergang über die Brücke machen und den Ausblick auf Manhattan und Brooklyn genießen. Der Brooklyn Bridge Park ist auch ein schöner Ort, um sich zu entspannen und die Aussicht zu genießen.
-
-11:00 Uhr - Weiterfahrt mit der U-Bahn-Linie D, F, N oder Q von der Station High St zur Station Coney Island-Stillwell Ave. Hier könnt ihr den berühmten Vergnügungspark besuchen, am Strand spazieren gehen und das Nathan's Famous Hotdog Restaurant besuchen.
-
-13:30 Uhr - Fahrt mit der U-Bahn-Linie D oder N von der Station Coney Island-Stillwell Ave zur Station Atlantic Av-Barclays Ctr. Hier könnt ihr das Barclays Center besuchen, eine berühmte Sport- und Konzertarena in Brooklyn.
-
-17:30 Uhr - Fahrt mit der U-Bahn-Linie F von der Station Atlantic Av-Barclays Ctr zur Station York St. Hier könnt ihr das trendige und künstlerische Viertel DUMBO (Down Under the Manhattan Bridge Overpass) besuchen. Hier gibt es einige der besten Cafés, Restaurants und Geschäfte der Stadt.
-
-18:30 Uhr - Rückfahrt mit der U-Bahn-Linie F von der Station York St zur Station 42nd St-Bryant Park.
-Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplace has 40 vendors serving some of the best NYC eats. 
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag6:  - Montag, 22.05.2023 **
+- Madison Square garden Tour
+- Besichtigung des Flatiron Buildings, einem der bekanntesten Gebäude in New York City und eines der ersten Wolkenkratzer der Welt. Es ist ein beeindruckendes Beispiel für die Architektur des 20. Jahrhunderts. (U-Bahn: Linien 4, 6, N, Q, R, W zu 23rd Street)
+- Harry Potter Laden
+- Lego Store (nicht besucht)
+- Essen bei Popeyes (ok)
+- Madison Square Park (hier gibt es auch einen Shake Shack)
+- Rockefeller Center Top of the Rock: Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine spektakuläre Aussicht auf die Skyline von New York City. Sie sollten Ihr Ticket im Voraus online buchen, um Wartezeiten zu vermeiden. Die Adresse des Rockefeller Center ist 45 Rockefeller Plaza, New York, NY 10111. Sie können mit der U-Bahnlinie B, D, F oder M zur Station 47-50 Sts/Rockefeller Ctr fahren oder mit der Linie E oder M zur Station 5 Ave/53 St.
+- Black Tap: Crazy Milkshake
+- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
+
+-------------------------------------------------------------------------------------------------------------
+
+**Tag7:  - Dienstag, 23.05.2023 **
+- NYC Movie + TV Tour inkl. Washingston Square Park, Friedns-Haus und Ghostbusters Hauptquartier – Hook & Ladder Company
+Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, ist wahrscheinlich das berühmteste Feuerwehrhaus der Welt. Bekannt wurde es durch den Kinofilm "Ghostbusters", der 1984 veröffentlicht wurde. In dem Hollywood-Film fungierte die Feuerwache in New York als Einsatzzentrale der Geisterjäger-Truppe, bestehend aus Dr. Peter Venkman (gespielt von Bill Murray), Dr. Raymond Stantz (Dan Akroyd) und Dr. Egon Spengler (Harold Ramis). Während die Außenaufnahmen für "Ghostbusters" tatsächlich am Hook & Ladder Company No. 8 Firehouse in New York gedreht wurden, wurden die Innenaufnahmen in einem Feuerwehrhaus in Los Angeles sowie in den Columbia Pictures Studios (ebenfalls in L.A.) aufgenommen. Du findest das Hook & Ladder Company No. 8 Firehouse (FDNY Ladder 8) Gebäude in Tribeca, Ecke North Moore Street und Varick Street. Mach dir darauf gefasst, dass du hier nicht alleine bist.
+- Ellens Stardust mit Broadway-Sängern für Musical Fans
+- Central Park: Bethesda Fontäne, The Mall, Loab Boatshouse, Eichhörnchen, Belvedere Castle (Schloss mit Aussichtsplattform,, Jaqueline Kennedy Anassis Reservoir (See)
+- Nicht gesehen im Central Park: Die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+- Pizza Slices Abendessen ;-)
 
 
 -------------------------------------------------------------------------------------------------------------
 
-
-**Tag7**
-
-11:00 Uhr - Aussicht: Rockefeller Center Top of the Rock
-Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine spektakuläre Aussicht auf die Skyline von New York City. Sie sollten Ihr Ticket im Voraus online buchen, um Wartezeiten zu vermeiden. Die Adresse des Rockefeller Center ist 45 Rockefeller Plaza, New York, NY 10111. Sie können mit der U-Bahnlinie B, D, F oder M zur Station 47-50 Sts/Rockefeller Ctr fahren oder mit der Linie E oder M zur Station 5 Ave/53 St.
-
-- Manhatten: Lower East side; Katz Delicatessen https://katzsdelicatessen.com/address
-
-Ghostbusters Hauptquartier – Hook & Ladder Company
-Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, ist wahrscheinlich das berühmteste Feuerwehrhaus der Welt. Bekannt wurde es durch den Kinofilm "Ghostbusters", der 1984 veröffentlicht wurde.
-In dem Hollywood-Film fungierte die Feuerwache in New York als Einsatzzentrale der Geisterjäger-Truppe, bestehend aus Dr. Peter Venkman (gespielt von Bill Murray), Dr. Raymond Stantz (Dan Akroyd) und Dr. Egon Spengler (Harold Ramis).
-Während die Außenaufnahmen für "Ghostbusters" tatsächlich am Hook & Ladder Company No. 8 Firehouse in New York gedreht wurden, wurden die Innenaufnahmen in einem Feuerwehrhaus in Los Angeles sowie in den Columbia Pictures Studios (ebenfalls in L.A.) aufgenommen.
-Du findest das Hook & Ladder Company No. 8 Firehouse (FDNY Ladder 8) Gebäude in Tribeca, Ecke North Moore Street und Varick Street. Mach dir darauf gefasst, dass du hier nicht alleine bist.
+- Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
 
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag 8**
-
-Abreise
+- Abreise, Flughafen
 
 -------------------------------------------------------------------------------------------------------------
 
-Bike:
-https://www.citibikenyc.com/
-
-https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
-
-Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
--------------------------------------------------------------------------------------------------------------
 
 ## **Events im Mai**
 - https://www.nycinsiderguide.com/new-york-city-events-may
@@ -216,3 +189,18 @@ Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hote
 - Besichtigung des High Line Parks. Der Park erstreckt sich über 2,33 km und bietet Kunstausstellungen, einheimische Pflanzen und einzigartige Aussichten auf die Stadt. Du kannst auf dem Weg durch den Meatpacking District und Chelsea auch einige der besten Restaurants und Geschäfte der Stadt entdecken.
 - Besuch des Edge Observation Decks im Hudson Yards. Hier hast du einen unglaublichen Blick auf die Stadt und kannst sogar auf einem Glasboden spazieren gehen! Bitte beachte, dass der Eintritt mindestens 1 Stunde dauern kann. (U-Bahn: Linien 7 zu Hudson Yards)
 Besuch von St. Paul's Chapel und Trinity Church, zwei historischen Kirchen, die eine wichtige Rolle in der Geschichte der Stadt spielen. Danach kannst du einen Spaziergang durch den Battery Park machen und die Freiheitsstatue sehen. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu South Ferry)
+- Weiterfahrt mit der U-Bahn-Linie D, F, N oder Q von der Station High St zur Station Coney Island-Stillwell Ave. Hier könnt ihr den berühmten Vergnügungspark besuchen, am Strand spazieren gehen und das Nathan's Famous Hotdog Restaurant besuchen.
+- Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
+- Puma Store: 609 5th Ave, New York, NY 10017
+- Nike Store: There are several Nike stores in New York City, but the closest one to Times Square is located at 20 E 60th St, New York, NY 10022
+- The Donut Pub: 203 W 14th St, New York, NY 10011
+- Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
+- Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
+
+Bike:
+https://www.citibikenyc.com/
+
+https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
+
+Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
+-------------------------------------------------------------------------------------------------------------
