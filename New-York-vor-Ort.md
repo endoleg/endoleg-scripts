@@ -4,13 +4,8 @@
 
 https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
 
-Am Automaten, Wochen- oder Monatskarte erwerben:
-- Start drücken ->
-- English ->
-- Metro Card ->
-- Get new card ->
-- Unlimited ride -> 7 Day (7 Tage Pass) oder 30 Day (30 Tage Pass) ->
-- Cash oder Credit Card auswählen und zahlen.
+Am Automaten, Wochenkarte erwerben:
+- Start drücken -> English -> Metro Card -> Get new card -> Unlimited ride -> 7 Day (7 Tage Pass) -> Cash oder Credit Card auswählen und zahlen.
 - (Wenn ihr mit der Kreditkarte zahlt werdet ihr nach dem ZIP Code - Postleitzahl gefragt, einfach 5 mal Null eingeben)
 
 
@@ -21,9 +16,7 @@ Am Automaten, Wochen- oder Monatskarte erwerben:
 In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. Penn Station und die 42nd St. Bryant Park Station
 - U-Bahn-Station 34th St. - Herald Square – 3 Min. zu Fuß
 - U-Bahn-Station 34th St. - Penn Station (Fashion Av.) – 6 Min. zu Fuß
-- U-Bahn-Station 42nd St. - Bryant Pk. – 7 Min. zu Fuß
-- 
-https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
+- https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
 
 Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station. Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. Bryant Park wird von den Linien B, D, F, M und 7 bedient. Die U-Bahn-Station 34th St. Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
 
@@ -31,15 +24,13 @@ Der JFK-Flughafen ist mit der U-Bahn-Linie E und der AirTrain JFK erreichbar.
 
 ### **Metro**
 7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
-Neu: Metro Card als App dank OMNY
-Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
+Neu, aber ungetestet: Metro Card als App dank OMNY! Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
 https://new.mta.info/fares
 
 ### **Mit der U-Bahn nach Manhatten**
-Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der Sie direkt per ROTER LINIE bis zur Jamaica Station (dann Richtung Queens, (Subway Linie E)) fahren. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
+Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der man direkt per ROTER LINIE bis zur Jamaica Station (dann Richtung Queens, (Subway Linie E)) fahren kann. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
 
 ### Airtrain
-
 Mit dem AirTrain können Sie u.a. vom JFK nach Manhattan reisen. Folgen Sie in dem Terminal, in dem Sie ankommen, den grünen Schildern mit der Aufschrift „AirTrain“. Sie kommen dann am Einstiegspunkt des AirTrain im Terminal an. Hier fahren die drei verschiedenen AirTrain-Linien ab und kommen nacheinander an. Auf der digitalen Tafel können Sie sehen, wie lange es bis zur Ankunft des nächsten Zuges dauert. Sehen Sie nach, ob Sie die Jamaica-, Howard Beach- oder All-Terminal-Linie benötigen (mehr über diese Strecken erfahren Sie weiter unten) und steigen Sie ein.
 Sie benötigen noch keine Fahrkarte zum Einsteigen, da die Benutzung des AirTrain innerhalb des Flughafens selbst kostenlos ist. Wenn Sie den Jamaika- oder Howard Beach-Zug gewählt haben, verlässt der Zug den Flughafen, nachdem er an den anderen Terminals angehalten hat. Da die Fahrt mit dem AirTrain zu diesen U-Bahn-Stationen kostenpflichtig ist, benötigen Sie beim Aussteigen an der Endstation eine Fahrkarte. Sie müssen sie hier durchziehen, um den AirTrain-Abschnitt des Bahnhofs zu verlassen und in die U-Bahn umsteigen zu können.
 
@@ -62,48 +53,24 @@ https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughaf
 
 ## **Apps für das Iphone**
 
-- Eric’s New York App: 
-Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York: https://apps.apple.com/de/app/erics-new-york/id1129643452 
-- Tripadvisor 
-für die Suche nach Restaurants in deiner Nähe.
-- Yelp 
-für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants. Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
-- Transit Maps
-- NYC Subway
-- Nahverkehr NYC: MTA https://apps.apple.com/us/app/nyc-transit-mta-subway-bus/id1146998152
+- Eric’s New York App: Eric’s New York App ist DIE App für New York. In der App finden Sie Karten, Informationen zu den Attraktionen, Spazierrouten durch unterschiedliche Viertel, persönliche Tipps und und Tickets für jegliche Aktivitäten rund um New York: https://apps.apple.com/de/app/erics-new-york/id1129643452 
+- Tripadvisor für die Suche nach Restaurants in deiner Nähe.
+- Yelp für die Suche nach Restaurants in deiner Nähe. Diese App ist in den USA viel angesehener und enthält qualitativ genauere Bewertungen für Restaurants. Bei Yelp findest du Tipps, die garantiert nicht im Reiseführer stehen.
+- "Nahverkehr NYC" bzw. "NYC Transit": MTA https://apps.apple.com/us/app/nyc-transit-mta-subway-bus/id1146998152
 - Time Out New York: https://apps.apple.com/de/app/time-out-new-york/id329591770
 - WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
-- Uber
 - Sightseeing
 - I love NY
 - Lyft
-- Marco Polo Touren App
 - Deepl
 - SimpleTipCalculator
-- Zoll und Reise
 
-
--------------------------------------------------------------------------------------------------------------
-
-
-### **Barclays Center**
-- https://www.newyorkcity.de/brooklyn-nets-tickets/
-
-Praktische Informationen
-
-Wie komme ich zum Barclays Center?
-Das Barclays Center ist sehr einfach zu erreichen. Lassen Sie sich nicht davon abschrecken, dass es sich in Brooklyn befindet. Mit der U-Bahn ist es am bequemsten, zum Barclays Center zu gelangen. Sie können die U-Bahnlinien 2, 3, 4, 5, B, D, N, Q und R bis Atlantic Avenue – Barclays Center nehmen. Der U-Bahnhof befindet sich direkt beim Stadion. Von Grand Central Station aus dauert die Fahrt etwa 22 Minuten.
-
-Wann sollte ich im Stadion sein?
-Ich empfehle Ihnen 30 bis 60 Minuten vor Spielbeginn im Stadion zu sein.
-
-Wie komme ich zurück nach Manhattan?
-Nehmen Sie wieder die U-Bahn, um nach dem Spiel nach Manhattan zurückzukommen. Das ist der einfachste und schnellste Weg. Da mit Ihnen noch viele andere Nets Fans nach Manhattan zurückfahren werden, brauchen Sie sich über Ihre Sicherheit keine Gedanken zu machen.
 
 -------------------------------------------------------------------------------------------------------------
 
 
 ## **New-York-Pass-Berater - welchen nehme ich?**
+- Die meisten Pässe lohnen sich, wenn man sehr viele Sehenswürdigkeiten besucht
 - https://lovingnewyork.de/new-york-pass-berater/
 - https://www.newyorkcity.de/new-york-pass/
 - https://viel-unterwegs.de/new-york-pass-vergleich/
@@ -113,10 +80,10 @@ Nehmen Sie wieder die U-Bahn, um nach dem Spiel nach Manhattan zurückzukommen. 
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Öffentliche Toiletten**
+## ** Toiletten/Restrooms - Kein Problem!**
+- In so gut wie allen Restaurants gibt es Toiletten (mit Code, den man auf der Quittung sieht)
+- In Shops und Kaufhäusern wie Nike, Puma ibt es oft kostenlose Toiletten
 - https://new-york-geheimtipps.de/toiletten-finden-new-york/
-
-There are several public restrooms in New York City that are highly rated, such as those at the Marriott Marquis Hotel in Times Square[1], Bergdorf Goodman on Fifth Avenue/Central Park[1], Bloomingdale's in SoHo[1], Bryant Park in Midtown West[2], and Rockefeller Center on the Concourse Level[3]. Additionally, the citizenM Hotel at 218 W 50th St and the Marriott Marquis at 1535 Broadway are also popular choices for public restrooms in Times Square[4][3].
 - https://www.thrillist.com/lifestyle/new-york/best-public-restrooms-nyc
 - https://www.nycgo.com/plan-your-trip/basic-information/public-restrooms
 - https://freetoursbyfoot.com/finding-a-public-restroom-in-new-york-city
@@ -130,6 +97,7 @@ Selbstverständlich zeigt auch Google Maps die Public Restrooms in Manhattan an:
 -------------------------------------------------------------------------------------------------------------
 
 ## **WLAN/Wifi**
+- Fast überall gibt es kostenloses Wifi
 - App WiFi Map: https://apps.apple.com/de/app/wifi-map-passwords/id444829197
 - https://new-york-geheimtipps.de/wlan-in-new-york-kein-problem/ 
 - https://www.newyorkcity.de/kostenloses-wlan-in-new-york/
@@ -139,19 +107,20 @@ Selbstverständlich zeigt auch Google Maps die Public Restrooms in Manhattan an:
 - https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations-Map/7agf-bcsq
 
 
-
-
 -------------------------------------------------------------------------------------------------------------
 
 ## **Essens-Empfehlungen**
 https://www.usa-reisetipps.net/essen-trinken-usa
-Als typisches Essen in New York würde ich dir empfehlen:
- - Shake Shack für Burger (Alternativ: Spotted Pig, Dure Smaakoder Bareburger) 
+
+Empfehlungen Essen in New York:
+ - Shake Shack für Burger (lecker!)
+ - 99-Cent Pizza (gibt es überall, ist günsig aber keine Offenbarung) Essen
+ - Pastrami Sandwich bei Katz's Delicatessen 
+ 
+ Ansonsten:
  - Ess-A-Bagel - die Institution überhaupt für einen Bagel 
  - zum Frühstück (oder ein französisches Frühstück bei Maison Kaiser -
- - Pizza bei Roberta's Pizza, Two Boots Pizza oder 99
- - Cent Pizza (gibt es überall, ist günsig aber keine Offenbarung) Essen
- - an Food Trucks wie Halal Guys, Big Gay Ice Cream, Wafels&Dinges oder den typischen Hotdog Wagen. Und ein Pastrami Sandwich natürlich bei Katz's Delicatessen 
+ - an Food Trucks wie Halal Guys, Big Gay Ice Cream, Wafels&Dinges oder den typischen Hotdog Wagen. 
  - Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
  - https://viel-unterwegs.de/new-york-essen-restaurant-tipps/
  - https://ny.eater.com/2021/12/17/22842997/best-food-new-york-city-restaurants-city-guide
@@ -162,11 +131,12 @@ Als typisches Essen in New York würde ich dir empfehlen:
  - https://ny.eater.com/maps/best-german-restaurants-nyc
  - https://lovingnewyork.de/essen-und-trinken/beste-restaurants-manhattan/
 
+
 -------------------------------------------------------------------------------------------------------------
 
 
-
 ## **Karten**
+- Google maps ist unschlagbar!
 - https://www.nyc.gov/nyc-resources/nyc-maps.page
 - https://www.sightseeingpass.com/en/new-york/maps-guides
 - https://www.nyc.gov/assets/planning/download/pdf/data-maps/city-neighborhoods/neighbor.pdf
@@ -182,11 +152,9 @@ Als typisches Essen in New York würde ich dir empfehlen:
 
 
 ## **Kosten für Transportmittel in New York**
-In New York gibt es diverse Möglichkeiten um von A nach B zu kommen. Ich nutze immer die Metro aber auch manchmal ein Taxi. Auch wenn ich die Innenstadt Mannhattans komplett zu Fuß durchquert habe: Manchmal nimmt man doch die Metro oder ein Taxi.
-Kosten für den Flughafentransfer JFK - Manhattan: 55 $
-→ Meine Tipps, wie du bei Ankunft vom Flughafen in New York ins Zentrum kommst. 
-Metro Card New York: 5,50 $ einfache Fahrt | 7-Tage unlimited Pass: 32 $
-(dazu kommt ein Pfand von 1 $ für eine MetroCard)
+In New York gibt es diverse Möglichkeiten um von A nach B zu kommen: Metro, Taxi. zu Fuß
+Kosten für den Taxi-Flughafentransfer JFK - Manhattan: 55-100 $ Fahrt lieber mit der Bahn!
+Metro Card New York: Ca. 3$ einfache Fahrt | 7-Tage unlimited Pass: 33 $ (dazu kommt ein Pfand von 1 $ für eine MetroCard)
 Ein Fahrt mit dem Yellow Cab Taxi kostet eine Grundpauschale von 2.50 $, dazu eine Steuer von 0,50 $. Je Meile kommen Kosten von 1 $ dazu.
 Mein Tipp: Mit dem New York City Taxi Fare Finder Preis ausrechnen lassen, vor der Reise die UBER App aufs Handy laden und dann die Preise vergleichen.
 
@@ -199,9 +167,7 @@ Um die Freiheitsstatue zu sehen, musst du  nicht unbedingt eine teure Touri-Boot
  
 ### **Mit dem Zug**
 Eine weitere Alternative ist die LIRR (Long Island Rail Road). Die Fahrt geht mit dem "Air Train" bis zur Jamaica Station, dort steigen Sie in die Long Island Rail Road. Mit dieser Bahn können direkt bis nach Manhattan zur Pennstation fahren. Die Fahrzeit von der Jamaica Station mit dem Expresszug bis zur Pennstation in Manhattan beträgt ca. 35 Minuten.
-Ticketpreis: 5 US$ Air Train + 5,75 US$ Off-Peak bzw. 7 US$ Peak für den LIRR Expresszug
-Peak= werktags von 6-10 Uhr und von 16-20 Uhr
-Off Peak= 20-6 Uhr und von 10-16 Uhr - samstags und sonntags 24 Stunden
+Ticketpreis: 8 US$ Air Train + 5,75 US$ Off-Peak bzw. 7 US$ Peak für den LIRR Expresszug
 - http://web.mta.info/lirr/about/TicketInfo/
 
 ### **Taxi, UBER und Lyft**
@@ -276,7 +242,7 @@ Lust auf einen außergewöhnlichen Spaziergang? Die auf einer ehemaligen Hochbah
 - https://freetoursbyfoot.com/free-things-to-do-nyc
 
 
-### **Kostenloses Theater im Park: New York Public Theatre**
+### **Kostenloses Theater im Park (ungetestet): New York Public Theatre**
 - https://publictheater.org/productions/season/2021/sitp/merry-wives/
 - https://publictheater.org/your-2223-programming/
 - https://publictheater.org/
