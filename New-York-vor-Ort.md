@@ -11,7 +11,7 @@ Am Automaten, Wochenkarte erwerben:
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Kixby Hotel**
+## **Unsere Hotel-Wahl: Kixby Hotel**
 45 West 35th Street, 10001 New York City, USA
 In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. Penn Station und die 42nd St. Bryant Park Station
 - U-Bahn-Station 34th St. - Herald Square – 3 Min. zu Fuß
@@ -20,7 +20,7 @@ In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen.
 
 Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station. Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. Bryant Park wird von den Linien B, D, F, M und 7 bedient. Die U-Bahn-Station 34th St. Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
 
-Der JFK-Flughafen ist mit der U-Bahn-Linie E und der AirTrain JFK erreichbar.
+-------------------------------------------------------------------------------------------------------------
 
 ### **Metro**
 7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
@@ -30,8 +30,10 @@ https://new.mta.info/fares
 ### **Mit der U-Bahn nach Manhatten**
 Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu nächst zum AirTrain, mit der man direkt per ROTER LINIE bis zur Jamaica Station (dann Richtung Queens, (Subway Linie E)) fahren kann. Dort nehmen Sie die blaue Linie E, die braune Linie J oder die Z. Die U-Bahn bringt Sie ohne umsteigen bis nach Manhattan, wobei die braune Linie nur den südlichen Teil Manhattans anfährt. Die blaue Linie fährt bis zur World Trade Center Station, unterwegs können Sie an der Pennstation, einem zentralen Drehkreuz in Manhattan umsteigen. An der Pennstation angekommen, steigen Sie in die jeweilige U-Bahn-Linie um, die Sie zu ihrer Unterkunft führt. Die Fahrt bis nach Manhattan dauert ca. 1 Stunde. Der Gesamtfahrpreis beträgt ca. 8 US$, 2,75 US$ für U-Bahn + 5 US$ für das Air Train Ticket.
 
+-------------------------------------------------------------------------------------------------------------
+
 ### Airtrain
-Mit dem AirTrain können Sie u.a. vom JFK nach Manhattan reisen. Folgen Sie in dem Terminal, in dem Sie ankommen, den grünen Schildern mit der Aufschrift „AirTrain“. Sie kommen dann am Einstiegspunkt des AirTrain im Terminal an. Hier fahren die drei verschiedenen AirTrain-Linien ab und kommen nacheinander an. Auf der digitalen Tafel können Sie sehen, wie lange es bis zur Ankunft des nächsten Zuges dauert. Sehen Sie nach, ob Sie die Jamaica-, Howard Beach- oder All-Terminal-Linie benötigen (mehr über diese Strecken erfahren Sie weiter unten) und steigen Sie ein.
+Mit dem AirTrain können Sie u.a. vom Flughafen JFK nach Manhattan reisen. Folgen Sie in dem Terminal, in dem Sie ankommen, den grünen Schildern mit der Aufschrift „AirTrain“. Sie kommen dann am Einstiegspunkt des AirTrain im Terminal an. Hier fahren die verschiedenen AirTrain-Linien ab und kommen nacheinander an. Auf der digitalen Tafel können Sie sehen, wie lange es bis zur Ankunft des nächsten Zuges dauert. Sehen Sie nach, ob Sie die Jamaica- oder Howard Beach-Linie benötigen und steigen Sie ein.
 Sie benötigen noch keine Fahrkarte zum Einsteigen, da die Benutzung des AirTrain innerhalb des Flughafens selbst kostenlos ist. Wenn Sie den Jamaika- oder Howard Beach-Zug gewählt haben, verlässt der Zug den Flughafen, nachdem er an den anderen Terminals angehalten hat. Da die Fahrt mit dem AirTrain zu diesen U-Bahn-Stationen kostenpflichtig ist, benötigen Sie beim Aussteigen an der Endstation eine Fahrkarte. Sie müssen sie hier durchziehen, um den AirTrain-Abschnitt des Bahnhofs zu verlassen und in die U-Bahn umsteigen zu können.
 
 https://www.newyorkcity.de/jfk-airtrain-in-new-york/
