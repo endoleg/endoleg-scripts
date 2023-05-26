@@ -1,8 +1,5 @@
 ## **Direktlinks zu Attraktionen**
-
-https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
-
-
+- https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -36,67 +33,70 @@ Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, N
 - Leute in Kostümen (Spiderman etc.) wollen Fotos machen (sicher nicht kostenlos)
 - Bryant Park
 
-**Tag1 - 17.05.2023**
+-------------------------------------------------------------------------------------------------------------
+
+**Tag1 - Mittwoch, 17.05.2023 **
 - Spazierunggang an New York public libary vorbei
 - Grand Central Terminal (eines der berühmtesten Bahnhofsgebäude der Welt mit vielen Geschäfte und Restaurants) - U-Bahn: Linien 4, 5, 6, 7, S zu Grand Central - 42nd Street
 - One Vanderbilt "The Summit" / "SUMMIT One" (Building in Midtown Manhattan)
 - Chrysler Building (319 Meter hoch! Midtown Manhattan)
 - Essen bei Chick-Fill-A (sehr lecker)
+- Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt.
 - NBA Store: 545 Fifth Ave, Manhattan, NY 10017
 - vorbei gelaufen an St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
 - Lego Store, 5th Avenue
-
-
--------------------------------------------------------------------------------------------------------------
-
-- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
-- Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
-- Puma Store: 609 5th Ave, New York, NY 10017
-- Nike Store: There are several Nike stores in New York City, but the closest one to Times Square is located at 20 E 60th St, New York, NY 10022
-
-- Five Guys: 253 W 42nd St, New York, NY 10036 (Times Square location)
-- The Donut Pub: 203 W 14th St, New York, NY 10011
-
-- Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
-- Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt.
-- Apple Store 5th Avenue: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
-- Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
+- Trump Tower
+- Plaza Hotel
+- Black Tap (Burger)
 
 -------------------------------------------------------------------------------------------------------------
 
-**Tag1** - Mittwoch, 17.05.2023
+**Tag2 - Donnerstag, 18.05.2023 **
+- One World Oculus, eines futuristischen Einkaufs- und Verkehrsknotenpunkts, der das World Trade Center mit der Stadt verbindet. (U-Bahn: Linien E zu World Trade Center oder Cortlandt Str)
+- 9/11 Memorial Museum 
+- 9/11 Memorial 
+- Battery Park Süden Manhatten: Aussicht auf Freiheitsstatue und Ellis Island
+- Bootstour zur Freiheitsstatue (hin und zurück 4 Stunden inkl. Aufenthalt)
+- Pastrami Sandwich bei Katz's Delicatessen: https://katzsdelicatessen.com/ - Zum Mittagessen wird es schiwierg, einen Platz zu ergattern. Katz’s Deli platzt dann wirklich aus allen Nähten. Die Schlangen vor dem Laden sind lang. Geht zu einer untypischen Uhrzeit vorbei. Zum Beispiel zum Frühstück oder am frühen Nachmittag. Adresse: Lower East Side Manhattan: 205 E Houston Street, New York Öffnungszeiten: Montag bis Mittwoch von 8:00 bis 22:45 Uhr, Donnerstag von 8:00 - 2:45 Uhr, Freitag von 8:00 - 24:00 Uhr. Samstags: 24 h geöffnet. Sonntag von 00:00 bis 22:45 Uhr. Preise: Katz's Deli ist teuer. Ein Sandwich kostet ca. 25 $. Bei uns war um 16:45 Uhr nur eine kurze Schlange.
+- Schuhladen (Sneaker) am Empire State Building: Ein paar Schuhe für 400 Dollar? Zu viel!
+
+-------------------------------------------------------------------------------------------------------------
+
+**Tag3 -  - Freitag, 19.05.2023 **
+- One World Trade Center Observatory im One World Trade Center. Hier hast du einen atemberaubenden Blick auf die Stadt und kannst die höchste Aussichtsplattform der westlichen Hemisphäre besuchen. (U-Bahn: Linien E zu World Trade Center)
+- Wall Street/Financial District: New York Stock Exchange (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
+- Wall Street/Financial District: Charging Bull (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
+- Liberty Bagels (nicht besucht, aber ne gute Möglichkeit)
+- Nike Soho Broadway (mit eigenem Basketballcourt, wo man ca. 15 Min. werfen kann), 529 Broadway, New York, NY 10012, USA, https://echochamber.com/article/nike-soho-new-york/
+- Times Square - Rote Treppe (Wartezeit ca. 1 Stunde), Rabatt von ca. 40%
+- Shake Shack
+- Harry Potter Theater
+
+-------------------------------------------------------------------------------------------------------------
+
+**Tag4:  - Samstag, 20.05.2023**
+- 
+
+
+-------------------------------------------------------------------------------------------------------------
 
 - Belvedere Castle (Schloss mit Aussichtsplattform, im Central Park)
 - Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
-- Kaufhäuser: Bloomingdale's (Manhatten)
-- ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
-Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
-- Little Italy (Pizza)
  
 - Die schönsten Orte im Central Park sind The Mall, Bethesda Terrace, Strawberry Fields und das John Lennon Memorial, Boat House, Belvedere Castle. Tipp: Bist du im Besitz eines New York Pass (Vergleich ansehen), kannst du bei Central Park Bike Tours für 3 h Fahrräder ausleihen (oder eine 2-h Tour machen), um den Central Park bis zum oberen Ende in Harlem zu erkunden.
 A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei Deutschen, war früher bei mir hoch im Kurs. Das Parfum liebe ich heute noch.
 - Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
 
--------------------------------------------------------------------------------------------------------------
+- Central Park: Bethesda Fontäne und die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
+- Nike NYC - House of Innovation 000, 650 5th Ave. New York, NY, 10019, US, https://www.nike.com/retail/s/nike-nyc-house-of-innovation-000
+- Puma Store: 609 5th Ave, New York, NY 10017
+- Nike Store: There are several Nike stores in New York City, but the closest one to Times Square is located at 20 E 60th St, New York, NY 10022
+- Five Guys: 253 W 42nd St, New York, NY 10036 (Times Square location)
+- The Donut Pub: 203 W 14th St, New York, NY 10011
+- Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
+- Apple Store 5th Avenue: Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
+- Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
 
-**Tag2 Süden Manhatten** - Donnerstag, 18.05.2023
-
-9:00 Uhr - Treffen in der Nähe von Wall Street. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Spoon Coffee oder dem Bluestone Lane Coffee, frühstücken. Wall Street ist bekannt für den New York Stock Exchange und den Charging Bull und ist das Finanzzentrum der Stadt. (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
-
-10:00 Uhr - Besichtigung der Sehenswürdigkeiten im Financial District. Hier kannst du den New York Stock Exchange und den Charging Bull sehen. Anschließend besuchst du das 9/11 Memorial und das 9/11 Museum, um an die tragischen Ereignisse vom 11. September 2001 zu erinnern. (U-Bahn: Linien E zu World Trade Center oder 4, 5 zu Fulton St)
-
-12:00 Uhr - Mittagessen im Battery Park oder im nahegelegenen Brookfield Place, wo es viele Restaurants zur Auswahl gibt. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu Rector St)
-
-13:00 Uhr - Besuch des One World Observatory im One World Trade Center. Hier hast du einen atemberaubenden Blick auf die Stadt und kannst die höchste Aussichtsplattform der westlichen Hemisphäre besuchen. (U-Bahn: Linien E zu World Trade Center)
-
-15:00 Uhr - Besuch des Oculus, eines futuristischen Einkaufs- und Verkehrsknotenpunkts, der das World Trade Center mit der Stadt verbindet. (U-Bahn: Linien E zu World Trade Center)
-
-16:00 Uhr - Besuch von St. Paul's Chapel und Trinity Church, zwei historischen Kirchen, die eine wichtige Rolle in der Geschichte der Stadt spielen. Danach kannst du einen Spaziergang durch den Battery Park machen und die Freiheitsstatue sehen. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu South Ferry)
-
-
--------------------------------------------------------------------------------------------------------------
-
-**Tag3 - Downtown & Midtown Manhattan** - Freitag, 19.05.2023
 
 9:00 Uhr - Treffen in der Nähe des Flatiron Buildings und Frühstück in einem der nahegelegenen Cafés, wie z.B. dem Birch Coffee oder dem Bluestone Lane. (U-Bahn: Linien 4, 5, 6, N, Q, R, W zu 28th Street)
 
@@ -106,26 +106,11 @@ A & F Abercrombie and Fitch: Die aktuell nicht mehr ganz so beliebte Marke bei D
 
 16:00 Uhr - Spaziergang durch das Broadway und das Theater District, wo einige der bekanntesten Shows der Welt stattfinden. Hier gibt es viele berühmte Theater wie das Majestic Theatre, das Gershwin Theatre und das Richard Rodgers Theatre. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
 
--------------------------------------------------------------------------------------------------------------
 
-**Tag4: Lower Manhattan & Midtown Manhattan** - Samstag, 20.05.2023
-
-NIKE FLAGSHIP SOHO, NEW YORK
-529 Broadway, New York, NY 10012, USA
-Lower Manhatten
-https://echochamber.com/article/nike-soho-new-york/
-
-9:00 Uhr - Treffen in der Nähe des High Line Parks. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Bottle Coffee oder dem Santina, frühstücken. Der High Line Park ist ein einzigartiger öffentlicher Park auf einer ehemaligen Hochbahntrasse und bietet einen atemberaubenden Blick auf die Stadt. (U-Bahn: Linien A, C, E, L zu 14th Street / 8th Avenue)
-
-10:00 Uhr - Besichtigung des High Line Parks. Der Park erstreckt sich über 2,33 km und bietet Kunstausstellungen, einheimische Pflanzen und einzigartige Aussichten auf die Stadt. Du kannst auf dem Weg durch den Meatpacking District und Chelsea auch einige der besten Restaurants und Geschäfte der Stadt entdecken.
-
-13:00 Uhr - Besuch des Edge Observation Decks im Hudson Yards. Hier hast du einen unglaublichen Blick auf die Stadt und kannst sogar auf einem Glasboden spazieren gehen! Bitte beachte, dass der Eintritt mindestens 1 Stunde dauern kann. (U-Bahn: Linien 7 zu Hudson Yards)
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag5: Brooklyn und Coney Island** - Sonntag, 21.05.2023
-
-8:00 Uhr - Treffen in der Nähe von 45 West 35th Street, 10001 New York City, USA und Frühstück im Cafe Grumpy. Das Cafe bietet ein vielfältiges Frühstücksmenü mit vielen Optionen für jeden Geschmack.
 
 9:00 Uhr - Fahrt mit der U-Bahn-Linie 4 oder 5 von der Station 42nd St-Bryant Park zur Station Borough Hall in Brooklyn. Von dort aus sind es nur wenige Minuten zu Fuß zur Brooklyn Bridge und dem Brooklyn Bridge Park.
 
@@ -142,10 +127,8 @@ Pro Tip: The nearby Dekalb Market Hall is a good place for lunch. The marketplac
 
 -------------------------------------------------------------------------------------------------------------
 
-**Tag6: Freiheitsstatue, Bootstour & Helikopterflug** - Montag, 22.05.2023
+**Tag6:  - Montag, 22.05.2023 **
 
-- Aussicht Süden Manhatten: Freiheitsstatue und Ellis Island
-- Bootstour zu den wichtigsten Orten mit Freiheitsstatue oder Circle Line Cruise
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -222,3 +205,14 @@ Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B
 - https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
 - https://www.planetware.com/i/map/US/new-york-city-map.jpg
 -------------------------------------------------------------------------------------------------------------
+
+
+Nicht gesehen:
+- Kaufhäuser: Bloomingdale's (Manhatten)
+- ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
+Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
+- Little Italy (Pizza)
+- Treffen in der Nähe des High Line Parks. Hier kannst du in einem der nahegelegenen Cafés, wie z.B. dem Blue Bottle Coffee oder dem Santina, frühstücken. Der High Line Park ist ein einzigartiger öffentlicher Park auf einer ehemaligen Hochbahntrasse und bietet einen atemberaubenden Blick auf die Stadt. (U-Bahn: Linien A, C, E, L zu 14th Street / 8th Avenue)
+- Besichtigung des High Line Parks. Der Park erstreckt sich über 2,33 km und bietet Kunstausstellungen, einheimische Pflanzen und einzigartige Aussichten auf die Stadt. Du kannst auf dem Weg durch den Meatpacking District und Chelsea auch einige der besten Restaurants und Geschäfte der Stadt entdecken.
+- Besuch des Edge Observation Decks im Hudson Yards. Hier hast du einen unglaublichen Blick auf die Stadt und kannst sogar auf einem Glasboden spazieren gehen! Bitte beachte, dass der Eintritt mindestens 1 Stunde dauern kann. (U-Bahn: Linien 7 zu Hudson Yards)
+Besuch von St. Paul's Chapel und Trinity Church, zwei historischen Kirchen, die eine wichtige Rolle in der Geschichte der Stadt spielen. Danach kannst du einen Spaziergang durch den Battery Park machen und die Freiheitsstatue sehen. (U-Bahn: Linien 4, 5 zu Bowling Green oder 1 zu South Ferry)
