@@ -81,10 +81,12 @@ Voraussetzungen für die Nutzung des iPhones mit einer eSIM:
 - Direktflüge bevorzugen (keine Umstiege!)
 - Sitzpläne: https://www.usa-reisetipps.net/einreise-usa/sitzplaene
 
+-------------------------------------------------------------------------------------------------------------
+
 ## **Hotelsuche**
 - https://www.google.de/travel/hotels
 - https://hotel.idealo.de/
-- Beim 1. Besuch in New York sollte man Manhatten (midtown?) wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Am besten also Midtown (Times Square - Herald Square). Jede Übernachtung im Doppelzimmer kann locker mal 320 Euro kosten. 80% der tollen Sehenswürdigkeiten sind in Manhatten.
+- Beim 1. Besuch in New York sollte man Manhatten (midtown?) wählen, auch wenn die Hotelpreise viel höher sind, als in anderen Stadtteilen. Am besten also Midtown (Times Square - Herald Square). Jede Übernachtung im Doppelzimmer kann 100 bis 320 Euro kosten. 80% der tollen Sehenswürdigkeiten sind in Manhatten. Man ist oft nur zum schlafen auf dem Zimmer, deshalb sollte das Bett wenigstens groß genug sein.
 
 -------------------------------------------------------------------------------------------------------------
 
