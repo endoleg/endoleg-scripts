@@ -115,17 +115,25 @@ Selbstverständlich zeigt auch Google Maps die Public Restrooms in Manhattan an:
 https://www.usa-reisetipps.net/essen-trinken-usa
 
 Empfehlungen Essen in New York:
- - Shake Shack für Burger (lecker!)
+ - Shake Shack für Burger (lecker! - Locations bei Google Maps ansehen (es gibt sehr viele Filialen in Manhattan, Brooklyn und Queens))
  - 99-Cent Pizza (gibt es überall, ist günsig aber keine Offenbarung) Essen
- - Pastrami Sandwich bei Katz's Delicatessen 
+ - Pastrami Sandwich bei Katz's Delicatessen: 
+https://katzsdelicatessen.com/ - Zum Mittagessen wird es schiwierg, einen Platz zu ergattern. Katz’s Deli platzt dann wirklich aus allen Nähten. Die Schlangen vor dem Laden sind lang. Geht zu einer untypischen Uhrzeit vorbei. Zum Beispiel zum Frühstück oder am frühen Nachmittag.
+Adresse: Lower East Side Manhattan: 205 E Houston Street, New York
+Öffnungszeiten: Montag bis Mittwoch von 8:00 bis 22:45 Uhr, Donnerstag von 8:00 - 2:45 Uhr, Freitag von 8:00 - 24:00 Uhr. Samstags: 24 h geöffnet. Sonntag von 00:00 bis 22:45 Uhr.
+Preise: Katz's Deli ist teuer. Ein Sandwich kostet ca. 25 $. 
  
  Ansonsten:
  - Ess-A-Bagel - die Institution überhaupt für einen Bagel 
  - zum Frühstück (oder ein französisches Frühstück bei Maison Kaiser -
- - an Food Trucks wie Halal Guys, Big Gay Ice Cream, Wafels&Dinges oder den typischen Hotdog Wagen. 
+ - Big Gay Ice Cream – think Mr. Softee gone rogue.  That’s this place (multiple locations).  Try the Salty Pimp (vanilla cone with dulce de leche, sea salt, and chocolate dip) or the Bea Arthur (vanilla cone, dulce de leche, and nilla wafers).  And remember to get your cone lined with either biscoff (recommended), pb, or nutella. https://sharedappetite.com/eat/big-gay-ice-cream/
+ - FoodTrucks Kimchi Taco – quite possibly my favorite savory food truck, Kimchi Taco blends Korean and Mexican flavors.  I’m a huge fan of the Kimchi Nachos.  Just go for it.  It’s the best $4 you’ve ever spent. https://sharedappetite.com/eat/our-top-secret-eating-adventure/
+ - FoodTrucks Coolhaus – custom ice cream sandwiches made to order.  The end.  I’m a sucker for their potato chip cookies stuffed with brown butter candied bacon ice cream. http://www.eatcoolhaus.com/
+ - FoodTrucks Wafels&Dinges: looking for the real deal Belgian waffles?  Not the garbage that we’ve come to think is real deal.  Like, legit chewy, sugary Belgian liege wafels… these are it.  And make sure you get yours topped with speculoos.  It’s amaze-balls. https://sharedappetite.com/eat/first-look-wafels-dinges-now-open-in-east-village/
+ - FoodTrucks Halal Guys: The original carts in Midtown have been around for over 30 years!  It’s cheap, VERY GOOD eats.  The halal chicken and lamb over rice platters with LOTS of white sauce are legendary!  Warning… the hot sauce is HOTTTTTTT. https://thehalalguys.com/locations/west-53rd-street-new-york/
  - Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
+ - Update: Mile End Deli, which locations in Midtown and Brooklyn, also serve up some great sandwich options, like Corned Beef and Smoked Meat.  They also have Poutine!
  - https://viel-unterwegs.de/new-york-essen-restaurant-tipps/
- - https://ny.eater.com/2021/12/17/22842997/best-food-new-york-city-restaurants-city-guide
  - https://www.girlwiththepassport.com/places-you-must-eat-in-nyc/
  - https://sharedappetite.com/eat/top-10-foods-eat-nyc/
  - https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants
