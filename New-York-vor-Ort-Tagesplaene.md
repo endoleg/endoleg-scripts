@@ -162,6 +162,13 @@ Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine 
 
 - St. Patrick's Cathedral ?
 
+Ghostbusters Hauptquartier – Hook & Ladder Company
+Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, ist wahrscheinlich das berühmteste Feuerwehrhaus der Welt. Bekannt wurde es durch den Kinofilm "Ghostbusters", der 1984 veröffentlicht wurde.
+In dem Hollywood-Film fungierte die Feuerwache in New York als Einsatzzentrale der Geisterjäger-Truppe, bestehend aus Dr. Peter Venkman (gespielt von Bill Murray), Dr. Raymond Stantz (Dan Akroyd) und Dr. Egon Spengler (Harold Ramis).
+Während die Außenaufnahmen für "Ghostbusters" tatsächlich am Hook & Ladder Company No. 8 Firehouse in New York gedreht wurden, wurden die Innenaufnahmen in einem Feuerwehrhaus in Los Angeles sowie in den Columbia Pictures Studios (ebenfalls in L.A.) aufgenommen.
+Du findest das Hook & Ladder Company No. 8 Firehouse (FDNY Ladder 8) Gebäude in Tribeca, Ecke North Moore Street und Varick Street. Mach dir darauf gefasst, dass du hier nicht alleine bist.
+
+
 -------------------------------------------------------------------------------------------------------------
 
 **Tag 8**
@@ -218,5 +225,5 @@ Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B
 
 - https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 - https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
-
+- https://www.planetware.com/i/map/US/new-york-city-map.jpg
 -------------------------------------------------------------------------------------------------------------
