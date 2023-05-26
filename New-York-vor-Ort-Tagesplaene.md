@@ -2,13 +2,13 @@
 
 https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
 
-grünen Schildern Airtrain folgen
-jamaica Route bis zur Jamaica Station
-am Flughafen direkt Bankautomat 
-bezahlung des Airtrains an der Jamaica 
-Station als Airbus Exit am Automaten
-Linie E Richtung Penn Station
-im Zug sind oben an der Decke nächste Stationen aufgelistet
+- grünen Schildern Airtrain folgen
+- jamaica Route bis zur Jamaica Station
+- am Flughafen direkt Bankautomat 
+- bezahlung des Airtrains an der Jamaica 
+- Station als Airbus Exit am Automaten
+- Linie E Richtung Penn Station
+- im Zug sind oben an der Decke nächste Stationen aufgelistet
 
 
 -------------------------------------------------------------------------------------------------------------
