@@ -76,7 +76,8 @@ Voraussetzungen für die Nutzung des iPhones mit einer eSIM:
 - https://www.swoodoo.com
 - https://www.expedia.de/?pwaLob=wizard-flight-pwa
 - https://flug.idealo.de/ (geht auch sehr gut über die App)
-- Der Flug kostet ca. 400 - 700 Euro hin- und zurück, inkl. Steuern. Wir sind mit Delta Airlines geflogen und waren sehr zufrieden.
+- https://www.skyscanner.de/
+- Der Flug kostet ca. 500 - 700 Euro hin- und zurück zusammen, inkl. Steuern. Wir sind mit Delta Airlines geflogen und waren sehr zufrieden.
 - Direktflüge bevorzugen (keine Umstiege!)
 - Sitzpläne: https://www.usa-reisetipps.net/einreise-usa/sitzplaene
 
@@ -135,6 +136,9 @@ Die Beweislast, dass eine Ware nicht in den USA gekauft worden ist, liegt beim R
 Die gängigsten Dollarscheine sind 1, 5, 10, 20, 50 und 100. Es gibt auch 2-Dollarscheine, aber die haben eher Sammlerwert und sind selten zu finden.
 Im Alltag spielen eigentlich nur die Noten bis 50 Dollar eine Rolle. 100 Dollarscheine werden ungern angenommen und teilweise verweigert.
 Die meisten Münzautomaten nehmen nur 25 Cent Stücke an, daher solltest Du, wo es nur geht, die 25 Cent sammeln und nicht passend beim Bezahlen herausgeben.
+
+## **Kreditkarte un Apple-pay**
+- Apple-Pay hat fast überall funktioniert
 
 ### **Geld: Bank: DKB**
 Du kannst aus dem Flieger steigen, dein Gepäck holen, um dann direkt zum Bankautomaten (ATM) zu gehen. 
