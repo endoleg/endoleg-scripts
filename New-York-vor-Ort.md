@@ -133,14 +133,14 @@ Preise: Katz's Deli ist teuer. Ein Sandwich kostet ca. 25 $.
  - FoodTrucks Halal Guys: The original carts in Midtown have been around for over 30 years!  It’s cheap, VERY GOOD eats.  The halal chicken and lamb over rice platters with LOTS of white sauce are legendary!  Warning… the hot sauce is HOTTTTTTT. https://thehalalguys.com/locations/west-53rd-street-new-york/
  - Frühstück / Brunch: Dominique Ansel's Bakery, Balthazar oder Shuka
  - Update: Mile End Deli, which locations in Midtown and Brooklyn, also serve up some great sandwich options, like Corned Beef and Smoked Meat.  They also have Poutine!
+ - Where to Eat Pastrami Sandwiches in New York City: 2nd Avenue Deli, Ben’s Kosher Delicatessen (38th Street - https://www.bensdeli.net ), Katz’s Delicatessen and S&P Lunch https://www.sandwich.place/
  - https://viel-unterwegs.de/new-york-essen-restaurant-tipps/
  - https://www.girlwiththepassport.com/places-you-must-eat-in-nyc/
  - https://sharedappetite.com/eat/top-10-foods-eat-nyc/
- - https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants
  - https://www.2foodtrippers.com/new-york-food-favorites
  - https://ny.eater.com/maps/best-german-restaurants-nyc
- - https://lovingnewyork.de/essen-und-trinken/beste-restaurants-manhattan/
-
+ 
+ 
 
 -------------------------------------------------------------------------------------------------------------
 
