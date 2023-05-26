@@ -1,7 +1,7 @@
 ## **Einreise**
 
 ### **Einreisebestimmung für die USA**
-Informationen dazu finden Sie auf der Website von ESTA. Sie sind verpflichtet, mindestens 72 Stunden vor Ihrer Abreise einen so genannten „Visa waiver“ auszufüllen. Falls Sie das nicht tun, wird Ihnen die Einreise in die USA verweigert. Zwingend erforderlich für die Einreise ist die ESTA Registrierung. Diese muss spätestens bis 72 Stunden vor Abflug Online getätigt werden. Die Kosten hierfür liegen bei ca. 14-16 Dollar pro Person.                              
+Informationen dazu finden Sie auf der Website von ESTA. Sie sind verpflichtet, mindestens 72 Stunden vor Ihrer Abreise einen so genannten „Visa waiver“ auszufüllen. Falls Sie das nicht tun, wird Ihnen die Einreise in die USA verweigert. Zwingend erforderlich für die Einreise ist die ESTA Registrierung. Diese muss spätestens bis 72 Stunden vor Abflug Online getätigt werden. Die Kosten hierfür liegen bei ca. 21 Dollar pro Person.     
 
 Was ist die Nationale Identitätsnummer (National Identification Number)?
 - Bei der Nationalen Identitätsnummer wird einfach UNKNOWN eingetragen. Wir haben so eine Nummer in Deutschland nicht. Hier und da liest man Tipps, man soll seine Personalausweisnummer dort eintragen oder gar die Steuernummer, sind einfach nur falsch. Solltet ihr da in einem alten Antrag etwas eingetragen haben, dann ist das aber auch kein Problem. Die Amerikaner wissen, dass wir diese ID in Deutschland nicht haben.
