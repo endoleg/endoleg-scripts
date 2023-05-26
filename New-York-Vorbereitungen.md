@@ -150,12 +150,54 @@ Dank meiner Kreditkarte der DKB Bank kann ich US-Dollar abheben, ohne Gebühren 
 In New York gibt es viele ATMs (Bankautomaten). Ihr braucht nur sehr selten Bargeld. $ 50 Bargeld reicht sichelrich ne Woche. Ihr könnt wirklich überall mit Kreditkarte bezahlen. Bargeld braucht man mal für nen schnelles Essen an einem Snack-Wagen, der an jeder Ecke steht oder für nen 99-Cent-Pizza-Stück. Beim Wechseln vor der Reise in der Bank musst du Gebühren bezahlen. Außerdem bekommst du oft einen schlechteren Wechselkurs. 
 
 ### **Geld: Was kostet New York?**
+- Essen kostet ca. 40-50% mehr als in Deutschland!
+- Der durchschnittliche Reisende gibt in New York etwa 200 € pro Tag aus. Wer mit einem kleineren Budget unterwegs ist, kommt durchschnittlich etwa auf 130 € am Tag.
 - https://viel-unterwegs.de/kosten-new-york-reise/
 - https://www.rentcafe.com/cost-of-living-calculator/us/ny/manhattan/
 - https://www.expatistan.com/cost-of-living/
 - https://www.numbeo.com/cost-of-living/comparison.jsp
 - Lebenshaltungskosten-Vergleich New York - Wiesbaden: - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=New+York,+NY&country2=Germany&city2=Wiesbaden&displayCurrency=EUR
 - https://vickiviaja.com/de/new-york-urlaub-kosten/
+
+Aktuelle Eintrittspreise für die Top-Sehenswürdigkeiten:
+- SUMMIT One Vanderbuilt: 42 $ (normaler Zutritt)
+- The Edge: 40 $ (normaler Zutritt, zum Sonnenuntergang +10 $), City Climb mit Zutritt zur Plattform: 185 $)
+- Top of the Rock Aussichtsplattform auf dem Rockefeller Center: 40 $, ohne Warteschlange: 85 $ (Upgrade zum Sonnenuntergang 24h: 10 $)
+- Empire State Building mit Aussichtsplattform: 79 $ für beide Decks (Sonnenuntergang: 92 $)
+- One World Observatory: All-inclusive Ticket 59 $ (es gibt diverse Möglichkeiten)
+- MoMA Museum of Modern Art: 25 $
+- Guggenheim Museum: 25 $
+- Tagesticket Big Bus Hop-on Hop-off: 72 $ (für alle Routen)
+- Freiheitsstatue und Ellis Island: 31,50 $
+- Bootstour um Manhattan: 41 $
+- 9/11 Memorial & Museum: ab 17 $ (je Uhrzeit)
+- Graffiti & Street Art Walking Tour: 32 $
+
+Flasche auffüllen
+- In der ganzen Stadt gibt es Wasserfontänen, an denen du deine Trinkflasche kostenlos auffüllen kannst.  Mit dieser Methode sparst du nicht nur Geld, sondern hilfst auch noch der Umwelt, indem du Plastikmüll vermeidest.
+
+Kostenfreien Sehenswürdigkeiten
+- Nicht jede Sehenswürdigkeiten in der Stadt muss viel kosten. Es gibt sogar einige Attraktionen in der NYC, die du ganz kostenfrei besuchen kannst. Im Folgenden findest du ein paar Highlights in New York, die dich keinen Cent kosten.
+- Central Park
+- Governor’s Island
+- The High Line
+- Brooklyn Bridge
+- Times Square
+- 9/11 Memorial
+- Chelsea Market
+- The Vessel (Du brauchst dennoch ein Ticket)
+- Staten Island Ferry
+- African Burial Ground
+- City Hall
+- Flatiron Building
+- Federall Hall
+- Charging Bull (Wall Street)
+- Bushwick Collective
+- Greenwood-Cemetery
+- National Museum of American Indian
+- New York Public Library
+- Rockefeller Center Public Art
+- Grand Central Station
 
 
 -------------------------------------------------------------------------------------------------------------
