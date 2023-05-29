@@ -123,6 +123,7 @@ Wir haben nur den Anfang des Parks gesehen, dort ist die Abfahrt der Tour
 - Kurzbesuch Brooklyn Bridge Park, Brooklyn Bridge Park
 - Pizza bei Juliana's Pizza, https://julianaspizza.com/
 - Spiel der New York Liberty gegen Indiana, Barclays Center, Sport- und Konzertarena, Station Atlantic Av-Barclays Ctr., https://www.barclayscenter.com/
+- Indiana Fever vs. New York Liberty | FULL GAME HIGHLIGHTS | May 21, 2023: https://www.youtube.com/watch?v=OWg9gGq2giA
 - Eis essen im Brooklyn Ice cream factory (overrated), https://www.brooklynicecreamfactory.com/
 - Spaziergang Brooklyn Bridge von Brooklyn nach Manhatten (empfohlene Richtung, damit man die Skyline sehen kann)
 - Besuch des Empire State Buildings (nach Sonnenuntergang). Es ist eines der bekanntesten Wahrzeichen von New York City und bietet eine unglaubliche Aussicht auf die Stadt. Bitte beachte, dass der Eintritt auch mal 100 Minuten dauern kann, aber es lohnt sich! (U-Bahn: Linien B, D, F, M, N, Q, R, W zu 34th Street Herald Square), https://de.wikipedia.org/wiki/Empire_State_Building
