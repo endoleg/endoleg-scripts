@@ -8,7 +8,7 @@ Flug mit Delta Airlines (Direktflug):
 - Unterhaltung war gut, USB-Anschluss zum laden, USA-Steckdose verfügbar, Essen war ok, Schlafmaske und Ohrhörer wurden zur Verfügung gestellt, viele Toiletten verfügbar, 2er-Sitze am Rand empfehlenswert, "normales Ticket" (normale Klasse), Ohrstöpsel oder on-ear-Kopfhörer mit noise-canceling ist empfehlenswert
 
 Einreise:
-- STAD muss nicht aufgedruckt sein
+- ESTA muss nicht aufgedruckt sein
 - Nach dem Ausstieg: Warte-Schlange bei der Passkontrolle (Fotos, Reisegrund und Adresse werden erfragt) --> ca. 30 Minuten
 - Koffer waren extrem schnell verfügbar
 
@@ -33,6 +33,14 @@ Weg nach Manhatten also:
 - Bezahlung des "Airtrains" erfolgt nach dem Ausstieg an der Jamaica-Station an einem Automaten
 - Eine einzelne AirTrain-Fahrkarte kostet 8,25 US-Dollar plus 1 US-Dollar für die Karte selbst
 
+##  ** Wie U-Bahn-Wochenkarte kaufen?**
+
+https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
+
+Am Automaten, Wochenkarte erwerben:
+- Start drücken -> English -> Metro Card -> Get new card -> Unlimited ride -> 7 Day (7 Tage Pass) -> Cash oder Credit Card auswählen und zahlen.
+- (Wenn ihr mit der Kreditkarte zahlt werdet ihr nach dem ZIP Code - Postleitzahl gefragt, einfach 5 mal Null eingeben)
+
 Die Wochenkarte für die Metro in New York City gilt nicht für den AirTrain am JFK-Flughafen. 
 Für den AirTrain benötigt man eine separate MetroCard, die an den Endhaltestellen gekauft werden kann. 
 Dann den Subway Zeichen folgen und Subway nach Manhatten folgen
@@ -41,6 +49,18 @@ Dann den Subway Zeichen folgen und Subway nach Manhatten folgen
 - im Zug sind oben an der Decke die nächsten Stationen aufgelistet
 
 https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughafen-jfk-mit-der-subway-gelangen
+
+-------------------------------------------------------------------------------------------------------------
+
+## **Unsere Hotel-Wahl: Kixby Hotel**
+
+45 West 35th Street, 10001 New York City, USA
+In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. Penn Station und die 42nd St. Bryant Park Station
+- U-Bahn-Station 34th St. - Herald Square – 3 Min. zu Fuß
+- U-Bahn-Station 34th St. - Penn Station (Fashion Av.) – 6 Min. zu Fuß
+- https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
+
+Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station. Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. Bryant Park wird von den Linien B, D, F, M und 7 bedient. Die U-Bahn-Station 34th St. Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
 
 
 -------------------------------------------------------------------------------------------------------------
