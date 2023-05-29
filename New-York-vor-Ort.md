@@ -32,26 +32,6 @@ Nach der Landung, der Grenzkontrolle und der Abholung euer Koffer gehts zu näch
 
 -------------------------------------------------------------------------------------------------------------
 
-### Airtrain
-Mit dem AirTrain können Sie u.a. vom Flughafen JFK nach Manhattan reisen. Folgen Sie in dem Terminal, in dem Sie ankommen, den grünen Schildern mit der Aufschrift „AirTrain“. Sie kommen dann am Einstiegspunkt des AirTrain im Terminal an. Hier fahren die verschiedenen AirTrain-Linien ab und kommen nacheinander an. Auf der digitalen Tafel können Sie sehen, wie lange es bis zur Ankunft des nächsten Zuges dauert. Sehen Sie nach, ob Sie die Jamaica- oder Howard Beach-Linie benötigen und steigen Sie ein.
-Sie benötigen noch keine Fahrkarte zum Einsteigen, da die Benutzung des AirTrain innerhalb des Flughafens selbst kostenlos ist. Wenn Sie den Jamaika- oder Howard Beach-Zug gewählt haben, verlässt der Zug den Flughafen, nachdem er an den anderen Terminals angehalten hat. Da die Fahrt mit dem AirTrain zu diesen U-Bahn-Stationen kostenpflichtig ist, benötigen Sie beim Aussteigen an der Endstation eine Fahrkarte. Sie müssen sie hier durchziehen, um den AirTrain-Abschnitt des Bahnhofs zu verlassen und in die U-Bahn umsteigen zu können.
-
-https://www.newyorkcity.de/jfk-airtrain-in-new-york/
-https://www.panynj.gov/airports/jfk-airtrain.html
-
-![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/0819813f-7dfd-4290-beb4-cb5637eacbff)
-
-Jamaica train (rote Linie):
-![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/c55b31d5-43dd-4b1d-bb54-0e274b3d1ee4)
-
-Die Wochenkarte für die Metro in New York City gilt nicht für den AirTrain am JFK-Flughafen. Für den AirTrain benötigt man eine separate MetroCard, die an den Endhaltestellen gekauft werden kann. Eine einzelne AirTrain-Fahrkarte kostet 8,25 US-Dollar plus 1 US-Dollar für die Karte selbst
-
-Dann den Subway Zeichen folgen und Subway nach Manhatten folgen
-
-https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughafen-jfk-mit-der-subway-gelangen
-
--------------------------------------------------------------------------------------------------------------
-
 
 ## **Apps für das Iphone**
 
