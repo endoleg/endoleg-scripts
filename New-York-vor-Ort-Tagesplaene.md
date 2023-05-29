@@ -1,5 +1,7 @@
 New-York-Reise 16.05. - 24.05.2023 
 
+-----------------------------------
+
 **Tag0 - Anreisetag Dienstag 16.05.2023 **
 
 Flug mit Delta Airlines (Direktflug):
@@ -49,7 +51,7 @@ Erster Ausstieg aus der U-Bahn in Manhatten:
 Ablauf des weiteren Tages nach dem Checkin:
 Besuch Times Square (Ende der 7th Street/Broadway - (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
 - Ziel: Die "rote Treppe"
-- Vorbei kommt man auf dem Weg am Bryant Park: https://de.wikipedia.org/wiki/Bryant_Park
+- Vorbei kommt man auf dem Weg am Bryant Park. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn: https://de.wikipedia.org/wiki/Bryant_Park
 - M&M's store: 1600 Broadway, New York, NY 10019
 - Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, New York City, NY 10019 (Schokolade)
 - Disney Store
@@ -60,104 +62,114 @@ Besuch Times Square (Ende der 7th Street/Broadway - (U-Bahn: Linien 1, 2, 3, 7, 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag1 - Mittwoch, 17.05.2023 **
+
+- Frühstück im Hotel
 - Spazierunggang an New York public libary vorbei
-- Grand Central Terminal (eines der berühmtesten Bahnhofsgebäude der Welt mit vielen Geschäfte und Restaurants) - U-Bahn: Linien 4, 5, 6, 7, S zu Grand Central - 42nd Street
-- One Vanderbilt "The Summit" / "SUMMIT One" (Building in Midtown Manhattan)
-- Chrysler Building (319 Meter hoch! Midtown Manhattan)
-- Essen bei Chick-Fill-A (sehr lecker)
-- Fifth Avenue: Die Fifth Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt.
+- Besichtigung Grand Central Terminal (eines der berühmtesten Bahnhofsgebäude der Welt mit vielen Geschäfte und Restaurants) - U-Bahn: Linien 4, 5, 6, 7, S zu Grand Central - 42nd Street
+- Besuch One Vanderbilt "The Summit" / "SUMMIT One": https://www.newyorkcity.de/one-vanderbilt-the-summit-tickets/
+- Am Chrysler Building (319 Meter hoch! Midtown Manhattan) vorbeigelaufen
+- Essen bei Chick-Fill-A (sehr lecker): https://www.chick-fil-a.com/locations/browse/ny
+- 5th Avenue: Die 5th Avenue ist eine der bekanntesten Straßen in New York City und bietet einige der besten Einkaufsmöglichkeiten der Stadt: https://www.newyorkcity.de/shoppen-in-der-fifth-avenue/
 - Apple Store 5th Avenue (nicht von innen gesehen): Der Flagship-Store von Apple in Manhattan ist bekannt durch den ikonischen Glaswürfel. Der gesamte Laden ist unterirdisch. Der Shop ist 24 Stunden geöffnet. Ideal, um den Jetlag zu bekämpfen.
 - NBA Store: 545 Fifth Ave, Manhattan, NY 10017
-- vorbei gelaufen an St. Patrick's Cathedral (gegenüber von Rockefeller Center,  (Midtown, Manhatten))
+- vorbei gelaufen an St. Patrick's Cathedral (gegenüber von Rockefeller Center)
 - Lego Store, 5th Avenue
-- Trump Tower
-- Plaza Hotel
-- Black Tap (Burger)
+- vorbeigelaufen an Trump Tower, 721 Fifth Avenue, https://de.wikipedia.org/wiki/Trump_Tower
+- vorbeigelaufen an Plaza Hotel, bekannt aus "Kevin allein in New York"
+- Burger gegessen in Black Tap, 35TH STREET, auch bekannt für die crazy Milkshakes, https://blacktap.com/
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag2 - Donnerstag, 18.05.2023 **
-- One World Oculus, eines futuristischen Einkaufs- und Verkehrsknotenpunkts, der das World Trade Center mit der Stadt verbindet. (U-Bahn: Linien E zu World Trade Center oder Cortlandt Str)
-- 9/11 Memorial Museum 
-- 9/11 Memorial 
-- Battery Park Süden Manhatten: Aussicht auf Freiheitsstatue und Ellis Island
-- Bootstour zur Freiheitsstatue (hin und zurück 4 Stunden inkl. Aufenthalt)
+
+- Besichtigung One World Oculus, eines futuristischen Einkaufs- und Verkehrsknotenpunkts, der das World Trade Center mit der Stadt verbindet. (U-Bahn: Linien E zu World Trade Center oder Cortlandt Str): https://www.deutschlandfunkkultur.de/oculus-in-new-york-eine-weisse-bahnhofskathedrale-unter-dem-100.html
+- Besuch 9/11 Memorial Museum, 9/11 Memorial: https://de.wikipedia.org/wiki/National_September_11_Memorial_and_Museum
+- Battery Park Süden Manhatten: Aussicht auf Freiheitsstatue und Ellis Island: https://de.wikipedia.org/wiki/The_Battery
+Wir haben nur den Anfang des Parks gesehen, dort ist die Abfahrt der Tour
+- Bootstour zur Freiheitsstatue (hin und zurück 4 Stunden inkl. Aufenthalt): https://newyorkpass.com/de-us/attractions/liberty-cruise-circle-line
 - Pastrami Sandwich bei Katz's Delicatessen: https://katzsdelicatessen.com/ - Zum Mittagessen wird es schiwierg, einen Platz zu ergattern. Katz’s Deli platzt dann wirklich aus allen Nähten. Die Schlangen vor dem Laden sind lang. Geht zu einer untypischen Uhrzeit vorbei. Zum Beispiel zum Frühstück oder am frühen Nachmittag. Adresse: Lower East Side Manhattan: 205 E Houston Street, New York Öffnungszeiten: Montag bis Mittwoch von 8:00 bis 22:45 Uhr, Donnerstag von 8:00 - 2:45 Uhr, Freitag von 8:00 - 24:00 Uhr. Samstags: 24 h geöffnet. Sonntag von 00:00 bis 22:45 Uhr. Preise: Katz's Deli ist teuer. Ein Sandwich kostet ca. 25 $. Bei uns war um 16:45 Uhr nur eine kurze Schlange.
-- Schuhladen (Sneaker) am Empire State Building: Ein paar Schuhe für 400 Dollar? Zu viel!
+- Zum Ende des Tages sind wir in einen Sneaker-Store in der Straße des Empire State Buildings rein: Preise der Schuhe musste man jeweils erfragen: Ein paar Schuhe für 400 Dollar? Zu viel!
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag3 -  - Freitag, 19.05.2023 **
-- One World Trade Center Observatory im One World Trade Center. Hier hast du einen atemberaubenden Blick auf die Stadt und kannst die höchste Aussichtsplattform der westlichen Hemisphäre besuchen. (U-Bahn: Linien E zu World Trade Center)
-- Wall Street/Financial District: New York Stock Exchange (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
-- Wall Street/Financial District: Charging Bull (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
-- Liberty Bagels (nicht besucht, aber ne gute Möglichkeit)
-- Nike Soho Broadway (mit eigenem Basketballcourt, wo man ca. 15 Min. werfen kann), 529 Broadway, New York, NY 10012, USA, https://echochamber.com/article/nike-soho-new-york/
-- Times Square - Rote Treppe (Wartezeit ca. 1 Stunde), Rabatt von ca. 40%
-- Shake Shack
-- Harry Potter Theater
+
+- One World Trade Center Observatory im One World Trade Center. Hier hat man einen atemberaubenden Blick auf die Stadt. (U-Bahn: Linien E zu World Trade Center), https://www.oneworldobservatory.com/
+- Besichtigung Wall Street/Financial District: New York Stock Exchange (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
+- Besichtigung Wall Street/Financial District: Charging Bull (U-Bahn: Linien 2, 3, 4, 5, J, Z zu Wall St)
+- Am Charging Bull ist auch ein Liberty Bagels (nicht besucht, aber ne gute Möglichkeit die bagels mal zu testen)
+- Fahrt zum Nike Soho Broadway (mit eigenem Basketballcourt, wo man ca. 15 Min. werfen kann), 529 Broadway, New York, NY 10012, USA, https://echochamber.com/article/nike-soho-new-york/
+- Fahrt zumTimes Square - angestellt neben der roten Treppe (Wartezeit ca. 1 Stunde), Rabatt von ca. 40% auf Theater/Musical-Karten
+- Essen bei Shake Shack (war sehr gut), https://shakeshack.com/
+- Harry Potter Theater, https://broadway.harrypottertheplay.com/
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag4:  - Samstag, 20.05.2023**
-- Liberty Bagels (besucht)
-- MSG von außen gesehen
-- Madame Tussauds
-- Aladdin Musical
-- Shopping am Times Square
+- Regentag!
+- Liberty Bagels (besucht), https://libertybagels.com/midtown-manhattan-260-west-35th-st-new-york-ny-10001/
+- Madison Square Garden von außen gesehen, https://www.msg.com/madison-square-garden
+- Besuch von Madame Tussauds, https://www.madametussauds.com/new-york/
+- Aladdin Musical, https://aladdinthemusical.com/
+- Shopping am Times Square, https://www.timessquarenyc.org/
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag5: Brooklyn  - Sonntag, 21.05.2023**
 
-- Fahrt mit der U-Bahn nach Brooklyn (Bezirk DUMBO). Von dort aus sind es nur wenige Minuten zu Fuß zur Brooklyn Bridge und dem Brooklyn Bridge Park. Trendiges und künstlerisches Viertel DUMBO (Down Under the Manhattan Bridge Overpass)! Hier gibt es einige der besten Cafés, Restaurants und Geschäfte der Stadt.
-- Foto Manhatten Bridge
-- Fotos Brooklyn Bridge Park (Brücke/Manhatten)
-- Kurzbesuch Brooklyn Bridge Park
-- Juliana's Pizza
-- Barclays Center, Sport- und Konzertarena, Station Atlantic Av-Barclays Ctr.
-Spiel der New York Liberty gegen Indiana
-- Brooklyn Ice cream factory (overrated)
-- Spaziergang Brooklyn Bridge von Brooklyn nach Manhatten
-- Besuch des Empire State Buildings (nach Sonnenuntergang). Es ist eines der bekanntesten Wahrzeichen von New York City und bietet eine unglaubliche Aussicht auf die Stadt. Bitte beachte, dass der Eintritt mindestens 100 Minuten dauern kann, aber es lohnt sich! (U-Bahn: Linien B, D, F, M, N, Q, R, W zu 34th Street Herald Square)
-
+- Fahrt mit der U-Bahn nach Brooklyn (Bezirk DUMBO). Von dort aus sind es nur wenige Minuten zu Fuß zur Brooklyn Bridge und dem Brooklyn Bridge Park. Trendiges und künstlerisches Viertel DUMBO (Down Under the Manhattan Bridge Overpass)! Hier gibt es einige Cafés, Restaurants und Geschäfte.
+- Foto Manhatten Bridge, https://de.nycgo.com/photo-galleries/instagrammable-nyc#slide-18
+- Fotos Brooklyn Bridge Park (Brücke und Manhatten)
+- Kurzbesuch Brooklyn Bridge Park, Brooklyn Bridge Park
+- Pizza bei Juliana's Pizza, https://julianaspizza.com/
+- Spiel der New York Liberty gegen Indiana, Barclays Center, Sport- und Konzertarena, Station Atlantic Av-Barclays Ctr., https://www.barclayscenter.com/
+- Eis essen im Brooklyn Ice cream factory (overrated), https://www.brooklynicecreamfactory.com/
+- Spaziergang Brooklyn Bridge von Brooklyn nach Manhatten (empfohlene Richtung, damit man die Skyline sehen kann)
+- Besuch des Empire State Buildings (nach Sonnenuntergang). Es ist eines der bekanntesten Wahrzeichen von New York City und bietet eine unglaubliche Aussicht auf die Stadt. Bitte beachte, dass der Eintritt auch mal 100 Minuten dauern kann, aber es lohnt sich! (U-Bahn: Linien B, D, F, M, N, Q, R, W zu 34th Street Herald Square), https://de.wikipedia.org/wiki/Empire_State_Building
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag6:  - Montag, 22.05.2023 **
-- Madison Square garden Tour
-- Besichtigung des Flatiron Buildings, einem der bekanntesten Gebäude in New York City und eines der ersten Wolkenkratzer der Welt. Es ist ein beeindruckendes Beispiel für die Architektur des 20. Jahrhunderts. (U-Bahn: Linien 4, 6, N, Q, R, W zu 23rd Street)
-- Harry Potter Laden
+
+- Madison Square Garden Tour, https://www.msg.com/madison-square-garden
+- Besichtigung des Flatiron Buildings, einem der bekanntesten Gebäude in New York City und eines der ersten Wolkenkratzer der Welt.  (U-Bahn: Linien 4, 6, N, Q, R, W zu 23rd Street), https://de.wikipedia.org/wiki/Flatiron_Building
+- Besuch Harry Potter Laden
 - Lego Store (nicht besucht)
-- Essen bei Popeyes (ok)
-- Madison Square Park (hier gibt es auch einen Shake Shack)
-- Rockefeller Center Top of the Rock: Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine spektakuläre Aussicht auf die Skyline von New York City. Sie sollten Ihr Ticket im Voraus online buchen, um Wartezeiten zu vermeiden. Die Adresse des Rockefeller Center ist 45 Rockefeller Plaza, New York, NY 10111. Sie können mit der U-Bahnlinie B, D, F oder M zur Station 47-50 Sts/Rockefeller Ctr fahren oder mit der Linie E oder M zur Station 5 Ave/53 St.
-- Black Tap: Crazy Milkshake
-- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building)
+- Essen bei Popeyes (war ok, nix besonderes): https://www.popeyes.com/
+- Madison Square Park (kleiner Park, hier gibt es auch einen Shake Shack)
+- Rockefeller Center Top of the Rock: Von der Aussichtsplattform Top of the Rock im Rockefeller Center haben Sie eine spektakuläre Aussicht auf die Skyline von New York City. Die Adresse des Rockefeller Center ist 45 Rockefeller Plaza, New York, NY 10111. Sie können mit der U-Bahnlinie B, D, F oder M zur Station 47-50 Sts/Rockefeller Ctr fahren oder mit der Linie E oder M zur Station 5 Ave/53 St., https://lovingnewyork.de/sehenswuerdigkeiten/aussichtsplattform-top-of-the-rock/
+- Black Tap: Crazy Milkshake (ein Erlebnis) https://blacktap.com/
+- Kaufhäuser: Macy's (10 Stockwerke) am Herold Square (am Empire State Building) - nix besonderes, aber bekannt!
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag7:  - Dienstag, 23.05.2023 **
-- NYC Movie + TV Tour inkl. Washingston Square Park, Friedns-Haus und Ghostbusters Hauptquartier – Hook & Ladder Company
-Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, ist wahrscheinlich das berühmteste Feuerwehrhaus der Welt. Bekannt wurde es durch den Kinofilm "Ghostbusters", der 1984 veröffentlicht wurde. In dem Hollywood-Film fungierte die Feuerwache in New York als Einsatzzentrale der Geisterjäger-Truppe, bestehend aus Dr. Peter Venkman (gespielt von Bill Murray), Dr. Raymond Stantz (Dan Akroyd) und Dr. Egon Spengler (Harold Ramis). Während die Außenaufnahmen für "Ghostbusters" tatsächlich am Hook & Ladder Company No. 8 Firehouse in New York gedreht wurden, wurden die Innenaufnahmen in einem Feuerwehrhaus in Los Angeles sowie in den Columbia Pictures Studios (ebenfalls in L.A.) aufgenommen. Du findest das Hook & Ladder Company No. 8 Firehouse (FDNY Ladder 8) Gebäude in Tribeca, Ecke North Moore Street und Varick Street. Mach dir darauf gefasst, dass du hier nicht alleine bist.
-- Ellens Stardust mit Broadway-Sängern für Musical Fans
-- Central Park: Bethesda Fontäne, The Mall, Loab Boatshouse, Eichhörnchen, Belvedere Castle (Schloss mit Aussichtsplattform,, Jaqueline Kennedy Anassis Reservoir (See)
+
+- NYC Movie + TV Tour, https://onlocationtours.com/new-york-tv-and-movie-tours/new-york-tv-movie/
+- NYC Movie + TV Tour: Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, ist wahrscheinlich das berühmteste Feuerwehrhaus der Welt. Bekannt wurde es durch den Kinofilm "Ghostbusters", der 1984 veröffentlicht wurde. In dem Hollywood-Film fungierte die Feuerwache in New York als Einsatzzentrale der Geisterjäger-Truppe, bestehend aus Dr. Peter Venkman (gespielt von Bill Murray), Dr. Raymond Stantz (Dan Akroyd) und Dr. Egon Spengler (Harold Ramis). Während die Außenaufnahmen für "Ghostbusters" tatsächlich am Hook & Ladder Company No. 8 Firehouse in New York gedreht wurden, wurden die Innenaufnahmen in einem Feuerwehrhaus in Los Angeles sowie in den Columbia Pictures Studios (ebenfalls in L.A.) aufgenommen. Du findest das Hook & Ladder Company No. 8 Firehouse (FDNY Ladder 8) Gebäude in Tribeca, Ecke North Moore Street und Varick Street. Mach dich darauf gefasst, dass du hier nicht alleine bist.
+- NYC Movie + TV Tour: Washingston Square Park, https://de.wikipedia.org/wiki/Washington_Square_Park
+- NYC Movie + TV Tour: Friedns-Haus, https://meintripnachnewyork.com/blogs/news/wo-befindet-sich-das-haus-aus-friends
+- Essen im Ellens Stardust mit Broadway-Sängern für Musical Fans, https://www.ellensstardustdiner.com/
+- Central Park: Bethesda Fontäne, The Mall, Loab Boatshouse, Eichhörnchen, Belvedere Castle (Schloss mit Aussichtsplattform,, Jaqueline Kennedy Anassis Reservoir (See), https://de.wikipedia.org/wiki/Central_Park
 - Nicht gesehen im Central Park: Die Strawberry Fields, Central Park Zoo, Bootsfahrt (Loab Boatshouse) 
-- Pizza Slices Abendessen ;-)
-
-
--------------------------------------------------------------------------------------------------------------
-
-- Bryant Park: Einer meiner Lieblingsparks in Manhattan. Im Sommer gibt es kostenlose Konzerte und im Winter eine kostenlose Eislaufbahn (Midtown, Manhatten)
+- Pizza Slices als Abendessen (uns hat es geschmeckt), https://www.99centsfreshpizzanyc.com/
 
 
 -------------------------------------------------------------------------------------------------------------
 
 **Tag 8 - Mittwoch, 24.05.2023 **
-- Abreise, Flughafen
+
+- Abreise zum Flughafen
+- U-Bahn bis zur Jamaica Station, von dort Airtrain zum Terminal (Bezahlung bevor man Airtrain betritt)
+- 
 
 -------------------------------------------------------------------------------------------------------------
 
+## **Direktlinks zu Attraktionen**
+- https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
+
+
+-------------------------------------------------------------------------------------------------------------
 
 ## **Events im Mai**
 - https://www.nycinsiderguide.com/new-york-city-events-may
@@ -168,7 +180,7 @@ Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, is
 
 -------------------------------------------------------------------------------------------------------------
 
-## **Reiseplanung-Tages-Pläne**
+## **Beispiele Reiseplanung-Tages-Pläne**
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
 - https://www.newyorkcity.de/6-tage-new-york-tagesplanung/
 - https://viel-unterwegs.de/new-york-reise-woche-reisebericht/
@@ -183,6 +195,7 @@ Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, is
 - https://gocity.com/new-york/en-us/blog/week-in-new-york-vacation
 - https://vagrantsoftheworld.com/a-week-in-new-york-itinerary
 - https://loving-newyork.com/7-day-new-york-itinerary/
+- https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -193,17 +206,16 @@ Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, is
 - https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm
 - https://www.introducingnewyork.com/top-10
 - https://loving-newyork.com/top-10-attractions-in-new-york/
-
 - https://viel-unterwegs.de/insider-tipps-new-york/
 - https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/international/new-york-sehenswuerdigkeiten/
-
 - https://loving-newyork.com/wp-content/uploads/2021/06/New-York-Attractions-Highlights-2021-2022.jpg
 - https://lovingnewyork.de/wp-content/uploads/2019/08/1-Woche-New-York-Reiseplan-mit-Karte.jpg
 - https://www.planetware.com/i/map/US/new-york-city-map.jpg
+
 -------------------------------------------------------------------------------------------------------------
 
 
-Nicht gesehen:
+Nicht gesehen, aber evtl. noch empfehlenswert:
 - Kaufhäuser: Bloomingdale's (Manhatten)
 - ChinaTown (Lower Manhatten, 2 Stunden Zeitaufwand)
 Unser Aussichtstipp für Chinatown: Direkt ums Eck findest du das 50 Bowery Hotel inklusive Rooftopbar. Das Hotel liegt zwar schon im Viertel Bowery, bietet dir aber eine tolle Aussicht auf Chinatown und den Rest Manhattans.
@@ -219,14 +231,7 @@ Besuch von St. Paul's Chapel und Trinity Church, zwei historischen Kirchen, die 
 - The Donut Pub: 203 W 14th St, New York, NY 10011
 - Tompkins Square Bagels: 165 Avenue A, New York, NY 10009
 - Essen bei Saks Fifth Avenue. Saks Fifth Avenue ist eines der bekanntesten Kaufhäuser in New York City und bietet eine Vielzahl von Restaurants und Cafés. Hier können Sie eine Pause einlegen und etwas essen. Die Adresse von Saks Fifth Avenue ist 611 Fifth Avenue, New York, NY 10022.
-
-Bike:
-https://www.citibikenyc.com/
-
-https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
-
-Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
+- Bikeausflug: https://www.citibikenyc.com/
+- Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
 
-## **Direktlinks zu Attraktionen**
-- https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
