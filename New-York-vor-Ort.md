@@ -1,27 +1,5 @@
 # **New York: Reise-Tipps vor Ort**
 
-##  ** Wie U-Bahn-Wochenkarte kaufen?**
-
-https://meintripnachnewyork.com/blogs/transfer/subway-fahren-einfach-gemacht
-
-Am Automaten, Wochenkarte erwerben:
-- Start drücken -> English -> Metro Card -> Get new card -> Unlimited ride -> 7 Day (7 Tage Pass) -> Cash oder Credit Card auswählen und zahlen.
-- (Wenn ihr mit der Kreditkarte zahlt werdet ihr nach dem ZIP Code - Postleitzahl gefragt, einfach 5 mal Null eingeben)
-
-
--------------------------------------------------------------------------------------------------------------
-
-## **Unsere Hotel-Wahl: Kixby Hotel**
-45 West 35th Street, 10001 New York City, USA
-In der Nähe des Kixby Hotels in New York City gibt es mehrere U-Bahn-Stationen. Die nächstgelegene ist die U-Bahn-Station 34th St. - Herald Square, die nur 3 Gehminuten entfernt ist. Weitere U-Bahn-Stationen in der Nähe sind die 34th St. Penn Station und die 42nd St. Bryant Park Station
-- U-Bahn-Station 34th St. - Herald Square – 3 Min. zu Fuß
-- U-Bahn-Station 34th St. - Penn Station (Fashion Av.) – 6 Min. zu Fuß
-- https://ch.hotels.com/ho206674/kixby-new-york-usa/?pwaDialog=summary-map-property-summary-1
-
-Die U-Bahn-Station 34th St. - Herald Square, die sich in der Nähe des Kixby Hotels in New York City befindet, wird von mehreren U-Bahn-Linien bedient. Die Linien B, D, F, M, N, Q und R halten an dieser Station. Die U-Bahn-Station 34th St. - Penn Station wird von den Linien A, C, E, 1, 2 und 3 bedient. Die U-Bahn-Station 42nd St. Bryant Park wird von den Linien B, D, F, M und 7 bedient. Die U-Bahn-Station 34th St. Herald Square, die sich in der Nähe des Kixby Hotels befindet, ist jedoch eine zentrale Station, die von mehreren U-Bahn-Linien bedient wird und somit eine gute Ausgangsbasis für Erkundungen in New York City bietet.
-
--------------------------------------------------------------------------------------------------------------
-
 ### **Metro**
 7-Day Unlimited-Ride Karte für dich. Der Pass gilt ab der ersten Verwendung bis zum 7. Tag, um 0 Uhr. Die MetroCard kostet $ 32.
 Neu, aber ungetestet: Metro Card als App dank OMNY! Das Beste ist, dass es mit OMNY (One Metro New York) ein neues Bezahlsystem für die Metro und Busse gibt. Alles funktioniert per App! Lade dir die MTA-App aufs Handy und lege dir vor der Reise bereits einen Account an. So unkompliziert konnte man noch nie Metro und Bus fahren!
@@ -237,10 +215,6 @@ Lust auf einen außergewöhnlichen Spaziergang? Die auf einer ehemaligen Hochbah
 - https://publictheater.org/your-2223-programming/
 - https://publictheater.org/
 
-
-----------------------------------------------------------------------
-
-https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
 
 Diese Seite wurde erstellt mit https://stackedit.io/
