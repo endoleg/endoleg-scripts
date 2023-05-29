@@ -1,4 +1,5 @@
-New York Reise
+New York City - Reise
+---------------------
 
 Vorbereitungen:
 https://github.com/endoleg/endoleg-scripts/blob/master/New-York-Vorbereitungen.md
@@ -6,5 +7,5 @@ https://github.com/endoleg/endoleg-scripts/blob/master/New-York-Vorbereitungen.m
 Tagespläne:
 https://github.com/endoleg/endoleg-scripts/blob/master/New-York-vor-Ort-Tagesplaene.md
 
-vor Ort:
+Vor-Ort-Tipps:
 https://github.com/endoleg/endoleg-scripts/blob/master/New-York-vor-Ort.md
