@@ -1,38 +1,61 @@
-## **Direktlinks zu Attraktionen**
-- https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
-
--------------------------------------------------------------------------------------------------------------
+New-York-Reise 16.05. - 24.05.2023 
 
 **Tag0 - Anreisetag Dienstag 16.05.2023 **
 
-Flug Delta Airlines:
-- Unterhaltung gut, USB-Strom, gutes Essen, Schlafmaske, viele Toiletten, 2er-Sitze am Rand, normales Ticket
+Flug mit Delta Airlines (Direktflug):
+- Unterhaltung war gut, USB-Anschluss zum laden, USA-Steckdose verfügbar, Essen war ok, Schlafmaske und Ohrhörer wurden zur Verfügung gestellt, viele Toiletten verfügbar, 2er-Sitze am Rand empfehlenswert, "normales Ticket" (normale Klasse), Ohrstöpsel oder on-ear-Kopfhörer mit noise-canceling ist empfehlenswert
 
 Einreise:
-- Warte-Schlange bei Einreise (Passkontrolle und Fotos, etc.) ca. 30 Minuten
-- Koffer extrem schnell verfügbar
+- STAD muss nicht aufgedruckt sein
+- Nach dem Ausstieg: Warte-Schlange bei der Passkontrolle (Fotos, Reisegrund und Adresse werden erfragt) --> ca. 30 Minuten
+- Koffer waren extrem schnell verfügbar
 
-Weg zum Hotel:
-- grünen Schildern Airtrain folgen
-- Jamaica Route bis zur Jamaica Station
-- am Flughafen direkt Bankautomat (ATM) verfügbar
-- Bezahlung des Airtrains an der Jamaica Station am Automaten
-- Station als Airbus Exit am Automaten
-- Linie E Richtung Penn Station
-- im Zug sind oben an der Decke nächste Stationen aufgelistet
+Weg vom JFK zum Stadtteil Manhatten:
 
-1. Ausstieg aus der U-Bahn: 
+### Airtrain - was ist das?
+Eine einzelne AirTrain-Fahrkarte kostet 8,25 US-Dollar plus 1 US-Dollar für die Karte selbst!
+Mit dem AirTrain können Sie u.a. vom Flughafen JFK nach Manhattan reisen. Folgen Sie in dem Terminal, in dem Sie ankommen, den grünen Schildern mit der Aufschrift „AirTrain“. Sie kommen dann am Einstiegspunkt des AirTrain im Terminal an. Hier fahren die verschiedenen AirTrain-Linien ab und kommen nacheinander an. Auf der digitalen Tafel können Sie sehen, wie lange es bis zur Ankunft des nächsten Zuges dauert. Sehen Sie nach, ob Sie die Jamaica- oder Howard Beach-Linie benötigen und steigen Sie ein. Sie benötigen noch keine Fahrkarte zum Einsteigen, da die Benutzung des AirTrain innerhalb des Flughafens selbst kostenlos ist. Wenn Sie den Jamaika- oder Howard Beach-Zug gewählt haben, verlässt der Zug den Flughafen, nachdem er an den anderen Terminals angehalten hat. Da die Fahrt mit dem AirTrain zu diesen U-Bahn-Stationen kostenpflichtig ist, benötigen Sie beim Aussteigen an der Endstation eine Fahrkarte. Sie müssen sie hier durchziehen, um den AirTrain-Abschnitt des Bahnhofs zu verlassen und in die U-Bahn umsteigen zu können.
+
+https://www.newyorkcity.de/jfk-airtrain-in-new-york/
+https://www.panynj.gov/airports/jfk-airtrain.html
+
+![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/0819813f-7dfd-4290-beb4-cb5637eacbff)
+
+Jamaica train (rote Linie):
+![image](https://github.com/endoleg/endoleg-scripts/assets/49591978/c55b31d5-43dd-4b1d-bb54-0e274b3d1ee4)
+
+Weg nach Manhatten also:
+- grünen Schildern "Airtrain" folgen
+- Jamaica Route bis zur Jamaica-Station nehmen
+- am Flughafen ist direkt ein Bankautomat (ATM) verfügbar
+- Bezahlung des "Airtrains" erfolgt nach dem Ausstieg an der Jamaica-Station an einem Automaten
+- Eine einzelne AirTrain-Fahrkarte kostet 8,25 US-Dollar plus 1 US-Dollar für die Karte selbst
+
+Die Wochenkarte für die Metro in New York City gilt nicht für den AirTrain am JFK-Flughafen. 
+Für den AirTrain benötigt man eine separate MetroCard, die an den Endhaltestellen gekauft werden kann. 
+Dann den Subway Zeichen folgen und Subway nach Manhatten folgen
+
+- Wir haben nach dem Airtrain-Ausstieg die U-Bahn Linie E Richtung Penn-Station genommen
+- im Zug sind oben an der Decke die nächsten Stationen aufgelistet
+
+https://meintripnachnewyork.com/blogs/transfer/wie-am-besten-vom-und-zum-flughafen-jfk-mit-der-subway-gelangen
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Erster Ausstieg aus der U-Bahn in Manhatten: 
 - Alles sehr laut und überwätigend, Wolkenkratzer ohne Ende, Bildschirme ohne Ende
 
+Ablauf des weiteren Tages nach dem Checkin:
 Besuch Times Square (Ende der 7th Street/Broadway - (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
-- Rote Treppe
+- Ziel: Die "rote Treppe"
+- Vorbei kommt man auf dem Weg am Bryant Park: https://de.wikipedia.org/wiki/Bryant_Park
 - M&M's store: 1600 Broadway, New York, NY 10019
-Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, New York City, NY 10019 (Schokolade)
+- Hershey's Chocolate World Times Square, 701 7th Ave, 20 Times Square Building, New York City, NY 10019 (Schokolade)
 - Disney Store
-- Essen bei Taco Bell (etwas unsauber)
-- Leute in Kostümen (Spiderman etc.) wollen Fotos machen (sicher nicht kostenlos)
-- Bryant Park
-- Auch möglich: Spaziergang durch das Broadway und das Theater District, wo einige der bekanntesten Shows der Welt stattfinden. Hier gibt es viele berühmte Theater wie das Majestic Theatre, das Gershwin Theatre und das Richard Rodgers Theatre. (U-Bahn: Linien 1, 2, 3, 7, N, Q, R, W, S zu Times Square - 42nd Street)
+- Essen bei Taco Bell (etwas unsauber, war ok, aber keine große Weiterempfehlung)
+- Am Timesquare sind viele Leute in Kostümen (Spiderman etc.), wollen Fotos machen (sicher nicht kostenlos)
+- Auch möglich: Spaziergang durch das Broadway- und das Theater-District, wo einige der bekanntesten Shows der Welt stattfinden. Es gibt derzeit 41 aktive Broadway-Theater in New York City laut der offiziellen Seite www.Broadway.org
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -130,7 +153,7 @@ Das Hook & Ladder Company No. 8 Firehouse, ein rot-weißes Backsteingebäude, is
 
 -------------------------------------------------------------------------------------------------------------
 
-**Tag 8**
+**Tag 8 - Mittwoch, 24.05.2023 **
 - Abreise, Flughafen
 
 -------------------------------------------------------------------------------------------------------------
@@ -204,3 +227,6 @@ https://www.newyorkcity.de/7-tage-new-york-tagesplanung/
 
 Die höchsten Gebäude in New York: https://www.wikiwand.com/de/Liste_der_h%C3%B6chsten_Geb%C3%A4ude_in_New_York
 -------------------------------------------------------------------------------------------------------------
+
+## **Direktlinks zu Attraktionen**
+- https://lovingnewyork.de/sehenswuerdigkeiten/unsere-top-10-der-sehenswuerdigkeiten-in-new-york/
