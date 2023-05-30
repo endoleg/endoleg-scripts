@@ -70,6 +70,12 @@ Voraussetzungen für die Nutzung des iPhones mit einer eSIM:
 
 -------------------------------------------------------------------------------------------------------------
 
+## **Ein Kollege hat folgendes gemacht:**
+
+Ich habe mir bei dem deutschen Unternehmen SIMly (https://www.simlystore.com) eine USA-Prepaid-SIM mit 12 GB Volumen bestellt. Dazu sind Anrufe nach Deutschland kostenlos. Die sind bekannt und werden oft empfohlen, dazu noch deutscher Support. Das klingt alles ziemlich gut. So kann man sein Handy einfach normal weiterverwenden mit Signal, Whatsapp und dem anderen Zeug. Die bieten natürlich auch eSIMs an, ist dann ja noch einfacher.
+
+-------------------------------------------------------------------------------------------------------------
+
 ## **Flugsuche**
 
 - https://www.google.de/flights
