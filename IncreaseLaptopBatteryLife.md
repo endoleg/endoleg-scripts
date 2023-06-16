@@ -14,8 +14,11 @@
 ## **Power Plans**
 
 Windows 10 includes three default power plan options:
+
 Balanced: Windows 10 balances your system performance with energy consumption in relation to your system hardware. This means your CPU speed will increase as required and reduce when not.
+
 Power Saver: Windows 10 reduces your system performance to save battery power. Your CPU will run at lower speeds as much as possible, while other power savings come from reduced brightness, switching the screen off quicker, switching your hard drive or Wi-Fi adapter into power saving mode, and so on.
+
 High Performance: Windows 10 cranks the performance dial up but increases power consumption. Your CPU will run at faster speeds most of the time, your screen brightness will increase, and other hardware components will not enter power-saving mode during periods of inactivity.
 
 You can right-click the battery icon and select Power Options to open the power plan Control Panel Power Options or use the shortcuts in the previous section.
