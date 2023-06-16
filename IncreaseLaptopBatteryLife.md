@@ -95,7 +95,7 @@ Change the option to Disabled.
 ![image](https://user-images.githubusercontent.com/49591978/211348689-34e7fe87-4e75-4269-b8d1-8ba76fd4ee03.png)
 
 
-## **multimedia sttings**
+## **multimedia settings**
 Expand the Multimedia settings and then When playing video. On battery, set it to Optimise power settings.
 
 ---------------------------------------------------------------------------------------------------------------------------
