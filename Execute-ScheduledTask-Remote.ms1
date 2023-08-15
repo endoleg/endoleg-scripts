@@ -30,21 +30,42 @@ function Execute-ScheduledTask-Remote {
         [string]$TaskName,
         [string]$ExecutablePath,
         [string]$Arguments,
-        [string]$UserName
+        [string]$UserName = "SYSTEM"
     )
 
-    $taskAction = New-ScheduledTaskAction -Execute $ExecutablePath -Argument $Arguments
+    $logPath = "C:\Windows\Temp\TaskExecutionLog.txt"  # Passe den Pfad nach Bedarf an
+
+    # Parameter Validierung
+    if (-not (Test-Path -PathType Leaf $ExecutablePath)) {
+        Write-Host "ExecutablePath '$ExecutablePath' does not exist."
+        Add-Content -Path $logPath -Value "$(Get-Date) - ExecutablePath '$ExecutablePath' does not exist."
+        return
+    }
+
+    $taskAction = New-ScheduledTaskAction -Execute $using:ExecutablePath -Argument $Arguments
     $taskTrigger = New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(1)
     $taskSettings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable -RunOnlyIfNetworkAvailable
 
-    Register-ScheduledTask -TaskName $TaskName -Action $taskAction -Trigger $taskTrigger -Settings $taskSettings -User $UserName -CimSession $RemoteComputerName -Force
+    try {
+        Register-ScheduledTask -TaskName $TaskName -Action $taskAction -Trigger $taskTrigger -Settings $taskSettings -User $UserName -CimSession $RemoteComputerName -Force
+        Write-Host "Scheduled task '$TaskName' registered on $RemoteComputerName."
+        Add-Content -Path $logPath -Value "$(Get-Date) - Scheduled task '$TaskName' registered on $RemoteComputerName."
+    } catch {
+        Write-Host "Error registering scheduled task: $_"
+        Add-Content -Path $logPath -Value "$(Get-Date) - Error registering scheduled task: $_"
+    }
 }
 
 $remoteComputerName = "RemoteComputerName"
 $taskName = "Updates-NEW"
-$executablePath = '"c:\Windows\temp\PSADT_MSUpdates\Deploy-Application.exe"'
+$executablePath = 'c:\Windows\temp\PSADT_MSUpdates\Deploy-Application.exe'
 $arguments = '-DeployMode "Silent"'
-$userName = "SYSTEM"
-# $userName = "DOMAIN\User"
 
-Execute-ScheduledTask-Remote -RemoteComputerName $remoteComputerName -TaskName $taskName -ExecutablePath $executablePath -Arguments $arguments -UserName $userName
+$params = @{
+    RemoteComputerName = $remoteComputerName
+    TaskName = $taskName
+    ExecutablePath = $executablePath
+    Arguments = $arguments
+}
+
+Execute-ScheduledTask-Remote @params
