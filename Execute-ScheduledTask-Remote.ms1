@@ -1,0 +1,50 @@
+<#
+.SYNOPSIS
+    Registers and executes (after 1
+minute) a scheduled task on a remote computer.
+
+.PARAMETER RemoteComputerName
+    The name of the remote computer.
+
+.PARAMETER TaskName
+    The name of the scheduled task.
+
+.PARAMETER ExecutablePath
+    The path to the executable file.
+
+.PARAMETER Arguments
+    The arguments to pass to the executable file.
+
+.PARAMETER UserName
+    The user name under which to run the task.
+
+.EXAMPLE
+    Execute-ScheduledTask-Remote -RemoteComputerName "RemoteComputerName" -TaskName "Updates-NEW" -ExecutablePath '"c:\Windows\temp\PSADT_MSUpdates\Deploy-Application.exe"' -Arguments '-DeployMode "Silent"' -UserName "SYSTEM"
+
+.NOTES
+    Author: Thorsten E.
+#>
+function Execute-ScheduledTask-Remote {
+    param (
+        [string]$RemoteComputerName,
+        [string]$TaskName,
+        [string]$ExecutablePath,
+        [string]$Arguments,
+        [string]$UserName
+    )
+
+    $taskAction = New-ScheduledTaskAction -Execute $ExecutablePath -Argument $Arguments
+    $taskTrigger = New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(1)
+    $taskSettings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable -RunOnlyIfNetworkAvailable
+
+    Register-ScheduledTask -TaskName $TaskName -Action $taskAction -Trigger $taskTrigger -Settings $taskSettings -User $UserName -CimSession $RemoteComputerName -Force
+}
+
+$remoteComputerName = "RemoteComputerName"
+$taskName = "Updates-NEW"
+$executablePath = '"c:\Windows\temp\PSADT_MSUpdates\Deploy-Application.exe"'
+$arguments = '-DeployMode "Silent"'
+$userName = "SYSTEM"
+# $userName = "DOMAIN\User"
+
+Execute-ScheduledTask-Remote -RemoteComputerName $remoteComputerName -TaskName $taskName -ExecutablePath $executablePath -Arguments $arguments -UserName $userName
