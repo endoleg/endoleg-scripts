@@ -52,3 +52,31 @@ IF(!(Test-Path $registryPath))
 New-Item -Path $registryPath -Force | Out-Null
 }
 New-ItemProperty -Path $registryPath -Name $name -Value $value -PropertyType String -Force | Out-Null
+
+<#
+#Here is a version that adds “Open Powershell” with a submenu of “Open Powershell here” and “Open Powershell here Admin”
+
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\shell\01MenuPowerShell") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\shell\01MenuPowerShell" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\background\shell\01MenuPowerShell") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\background\shell\01MenuPowerShell" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open\command") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open\command" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas\command") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas\command" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\shell\Powershell") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\shell\Powershell" -force -ea SilentlyContinue };
+if((Test-Path "HKLM:\SOFTWARE\Classes\Directory\background\shell\Powershell") -ne $true) {  New-Item "HKLM:\SOFTWARE\Classes\Directory\background\shell\Powershell" -force -ea SilentlyContinue };
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\shell\01MenuPowerShell' -Name 'MUIVerb' -Value "Open PowerShell" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\shell\01MenuPowerShell' -Name 'Icon' -Value "powershell.exe" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\shell\01MenuPowerShell' -Name 'ExtendedSubCommandsKey' -Value "Directory\\ContextMenus\\MenuPowerShell" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\background\shell\01MenuPowerShell' -Name 'MUIVerb' -Value "Open PowerShell" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\background\shell\01MenuPowerShell' -Name 'Icon' -Value "powershell.exe" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\background\shell\01MenuPowerShell' -Name 'ExtendedSubCommandsKey' -Value "Directory\\ContextMenus\\MenuPowerShell" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open' -Name 'MUIVerb' -Value "PowerShell here" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open' -Name 'Icon' -Value "powershell.exe" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\open\command' -Name '(default)' -Value "powershell.exe -noexit -command Set-Location '%V'" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas' -Name 'MUIVerb' -Value "PowerShell here (Admin)" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas' -Name 'Icon' -Value "powershell.exe" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas' -Name 'HasLUAShield' -Value "" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\ContextMenus\MenuPowerShell\shell\runas\command' -Name '(default)' -Value "powershell.exe -noexit -command Set-Location '%V'" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\shell\Powershell' -Name 'Extended' -Value "" -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -Path 'HKLM:\SOFTWARE\Classes\Directory\background\shell\Powershell' -Name 'Extended' -Value "" -PropertyType String -Force -ea SilentlyContinue;
+#>
