@@ -44,6 +44,8 @@ https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A
 Timeline - filter:follows -filter:replies min_faves:10 include:nativeretweets
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A10%20include%3Anativeretweets&src=typed_query&f=live
 
+--------------------------------------------------------------------------------------------------------------------
+
 Listensuche Elite min_retweets:10
 https://mobile.twitter.com/search?q=list%3Aendi24%2FElite%20min_retweets%3A10
 
