@@ -113,9 +113,6 @@ https://www.reddit.com/r/SCCM/search/?q=Powershell+&sort=top&t=month
 
 --------------------------------------------------------------------------------------------------------------------
 
-Trending GitHub Powershell developers this week:
-https://github.com/trending/developers/powershell?since=weekly
-
 Trending GitHub repositories today:
 https://github.com/trending/powershell?since=daily
 
