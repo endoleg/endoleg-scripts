@@ -90,8 +90,7 @@ filter:nativeretweets shows retweets from users who have hit the retweet button.
 
 --------------------------------------------------------------------------------------------------------------------
 
-Reddit Powershell top posts today:
-https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=day
+Reddit Powershell posts
 
 Reddit Powershell top posts week:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=week
