@@ -12,12 +12,6 @@ https://www.youtube.com/results?search_query=Powershell&sp=CAISCAgDEAEYAlgD
 
 --------------------------------------------------------------------------------------------------------------------
 
-Tweets with word archive.vn and minimum 10 faves (archive.vn min_faves:10)
-
-https://twitter.com/search?q=archive.vn%20min_faves%3A10&src=typed_query&f=top
-
---------------------------------------------------------------------------------------------------------------------
-
 Tweets with word Powershell minimum 10 retweets (Powershell min_retweets:10)
 https://twitter.com/search?q=Powershell%20min_retweets%3A10&src=typed_query&f=top
 
@@ -29,6 +23,11 @@ https://twitter.com/search?q=github.com%20script%20min_faves%3A10&src=typed_quer
 
 PSADT mit faves:
 https://mobile.twitter.com/search?q=PSADT%20min_faves%3A2&src=typed_query&f=live
+
+Tweets with word archive.vn and minimum 10 faves (archive.vn min_faves:10)
+https://twitter.com/search?q=archive.vn%20min_faves%3A10&src=typed_query&f=top
+
+--------------------------------------------------------------------------------------------------------------------
 
 Timeline1 - filter:follows filter:nativeretweets powershell
 https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powershell&src=typed_query&f=live
