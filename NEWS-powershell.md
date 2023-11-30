@@ -82,6 +82,13 @@ https://mobile.twitter.com/search?q=list%3Aalexandair%2FPowerShellMVP%20min_retw
 
 --------------------------------------------------------------------------------------------------------------------
 
+Twitter Advanced search:
+https://mobile.twitter.com/search-advanced
+https://www.labnol.org/internet/twitter-search-tricks/13693/
+
+filter:nativeretweets shows retweets from users who have hit the retweet button. filter:retweets shows old style retweets ("RT") + quoted tweets.
+
+--------------------------------------------------------------------------------------------------------------------
 
 Reddit Powershell top posts today:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=day
@@ -98,6 +105,8 @@ https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=year
 Reddit SCCM top posts week:
 https://www.reddit.com/r/SCCM/search?q=Powershell%20&sort=top&t=week
 
+--------------------------------------------------------------------------------------------------------------------
+
 Trending GitHub Powershell developers this week:
 https://github.com/trending/developers/powershell?since=weekly
 
@@ -107,11 +116,7 @@ https://github.com/trending/powershell?since=daily
 Trending GitHub repositories this week:
 https://github.com/trending/powershell?since=weekly
 
-Advanced search:
-https://mobile.twitter.com/search-advanced
-https://www.labnol.org/internet/twitter-search-tricks/13693/
-
-filter:nativeretweets shows retweets from users who have hit the retweet button. filter:retweets shows old style retweets ("RT") + quoted tweets.
+--------------------------------------------------------------------------------------------------------------------
 
 cert-bund.de Kurinformationen
 https://wid.cert-bund.de/portal/wid/kurzinformationen
