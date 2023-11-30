@@ -121,7 +121,7 @@ https://github.com/trending/powershell?since=weekly
 
 --------------------------------------------------------------------------------------------------------------------
 
-cert-bund.de Kurinformationen
+cert-bund.de Kurzinformationen
 https://wid.cert-bund.de/portal/wid/kurzinformationen
 
 Cisco Security Advanced Search for Webex Teams
