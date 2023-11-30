@@ -30,22 +30,40 @@ https://twitter.com/search?q=archive.vn%20min_faves%3A10&src=typed_query&f=top
 --------------------------------------------------------------------------------------------------------------------
 
 Timeline1 - filter:follows filter:nativeretweets powershell
+
 "filter:follows" allows you to search for tweets from specific accounts that you follow
 "filter:nativeretweets" filters for original tweets and excludes retweets
 The difference between "filter:retweet" and "filter:nativeretweets" is that "filter:retweet" includes both old style retweets and quoted tweets, 
 while "filter:nativeretweets" only shows retweets from users who have hit the retweet button
 https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powershell&src=typed_query&f=live
 
-Timeline2 - filter:follows -filter:replies --> nur replies von Followern
+--------------------------------------------------------------------------------------------------------------------
+
+Timeline2 - filter:follows -filter:replies --> Followern-Tweets, aber keine replies
+
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 
-Timeline - filter:follows -filter:replies min_retweets:10 ---> nur replies von Followern mit retweets
+--------------------------------------------------------------------------------------------------------------------
+
+Timeline3 - filter:follows filter:replies --> Followern-Tweets, nur replies
+
+https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
+
+--------------------------------------------------------------------------------------------------------------------
+
+Timeline - filter:follows -filter:replies min_retweets:10 ---> nur Follower mindestens 10 retweets, ohne retwees
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_retweets%3A10&src=typed_query&f=live
 
-Timeline - filter:follows -filter:replies min_faves:10 ---> nur replies von Followern mit Favs
+--------------------------------------------------------------------------------------------------------------------
+
+Timeline - filter:follows -filter:replies min_faves:10 ---> nur Follower mindestens 10 Likes, ohne retwees
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A10&src=typed_query&f=live
 
-Timeline - filter:follows -filter:replies min_faves:10 include:nativeretweets
+--------------------------------------------------------------------------------------------------------------------
+
+Timeline - filter:follows -filter:replies min_faves:10 include:nativeretweets ---> nur Follower mindestens 10 Likes, ohne retwees, nur eigene Originaltweets
+
+"filter:nativeretweets" filters for original tweets and excludes retweets
 https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies%20min_faves%3A10%20include%3Anativeretweets&src=typed_query&f=live
 
 --------------------------------------------------------------------------------------------------------------------
