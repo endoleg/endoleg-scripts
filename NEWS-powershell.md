@@ -30,6 +30,10 @@ https://twitter.com/search?q=archive.vn%20min_faves%3A10&src=typed_query&f=top
 --------------------------------------------------------------------------------------------------------------------
 
 Timeline1 - filter:follows filter:nativeretweets powershell
+"filter:follows" allows you to search for tweets from specific accounts that you follow
+"filter:nativeretweets" filters for original tweets and excludes retweets
+The difference between "filter:retweet" and "filter:nativeretweets" is that "filter:retweet" includes both old style retweets and quoted tweets, 
+while "filter:nativeretweets" only shows retweets from users who have hit the retweet button
 https://twitter.com/search?q=filter%3Afollows%20filter%3Anativeretweets%20powershell&src=typed_query&f=live
 
 Timeline2 - filter:follows -filter:replies --> nur replies von Followern
