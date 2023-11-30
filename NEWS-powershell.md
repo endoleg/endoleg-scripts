@@ -7,11 +7,13 @@ https://pastebin.com/archive/powershell
 Youtube:
 
 #Powershell Youtube videos - longer than 20 Min. - this week - sort by date
+
 https://www.youtube.com/results?search_query=Powershell&sp=CAISCAgDEAEYAlgD
 
 --------------------------------------------------------------------------------------------------------------------
 
 Tweets with word archive.vn and minimum 10 faves (archive.vn min_faves:10)
+
 https://twitter.com/search?q=archive.vn%20min_faves%3A10&src=typed_query&f=top
 
 --------------------------------------------------------------------------------------------------------------------
