@@ -1,8 +1,6 @@
-Idera Powertips:
+pastebin Powershell:
 
-https://blog.idera.com/database-tools/powershell/powertips/
-
-https://blog.idera.com/database-tools/powershell/
+https://pastebin.com/archive/powershell
 
 
 Youtube:
