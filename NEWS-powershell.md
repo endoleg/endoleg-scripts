@@ -4,6 +4,13 @@ https://pastebin.com/archive/powershell
 
 --------------------------------------------------------------------------------------------------------------------
 
+Reddit script sharing
+
+https://www.reddit.com/r/PowerShell/?f=flair_name%3A%22Script%20Sharing%22
+
+--------------------------------------------------------------------------------------------------------------------
+
+
 Youtube:
 
 #Powershell Youtube videos - longer than 20 Min. - this week - sort by date
