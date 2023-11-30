@@ -85,16 +85,14 @@ https://www.labnol.org/internet/twitter-search-tricks/13693/
 
 filter:nativeretweets shows retweets from users who have hit the retweet button. filter:retweets shows old style retweets ("RT") + quoted tweets.
 
-Advisory 
-https://www.cert-bund.de/overview/AdvisoryShort
-
-https://cert.at/de/meldungen/tagesberichte/
+cert-bund.de Kurinformationen
+https://wid.cert-bund.de/portal/wid/kurzinformationen
 
 Cisco Security Advanced Search for Webex Teams
 https://tools.cisco.com/security/center/Search.x?publicationTypeIDs=1&resourceIDs=210403&prodType=Cisco&prodRID=210403
 
-CERT-EU
-https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
+CERT-EU-Tagesberichte
+https://cert.at/de/meldungen/tagesberichte/
 
 --------------------------------------------------------------------------------------------------------------------
 
