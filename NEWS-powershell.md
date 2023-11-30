@@ -90,7 +90,7 @@ filter:nativeretweets shows retweets from users who have hit the retweet button.
 
 --------------------------------------------------------------------------------------------------------------------
 
-Reddit Powershell posts
+Reddit posts...
 
 Reddit Powershell top posts week:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=week
@@ -101,8 +101,8 @@ https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=month
 Reddit Powershell top posts year:
 https://www.reddit.com/r/powershell/search?q=Powershell%20&sort=top&t=year
 
-Reddit SCCM top posts week:
-https://www.reddit.com/r/SCCM/search?q=Powershell%20&sort=top&t=week
+Reddit SCCM top posts Month:
+https://www.reddit.com/r/SCCM/search/?q=Powershell+&sort=top&t=month
 
 --------------------------------------------------------------------------------------------------------------------
 
