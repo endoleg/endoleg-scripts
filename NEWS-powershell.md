@@ -121,7 +121,7 @@ https://github.com/trending/powershell?since=weekly
 
 --------------------------------------------------------------------------------------------------------------------
 
-Github Powerhsell Suche
+Github Powershell Suche
 
 https://github.com/search?q=language%3APowerShell+get-process+&type=code
 
