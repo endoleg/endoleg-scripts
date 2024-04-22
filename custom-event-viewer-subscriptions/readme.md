@@ -44,3 +44,15 @@ Simply create a desktop shortcut with the following command-line.
 The command-line would open the Event Viewer and jump to the mentioned log or channel directly.
 
 mmc.exe eventvwr.msc /c:"Microsoft-Windows-FileHistory-Engine/BackupLog"
+
+
+--------------------------------------------------
+
+
+https://thedavecarroll.com/powershell/windows-event-logs-eventdata/
+
+https://evotec.pl/powershell-everything-you-wanted-to-know-about-event-logs/
+
+https://raw.githubusercontent.com/EvotecIT/PSEventViewer/master/Public/Get-EventsFilter.ps1
+
+
