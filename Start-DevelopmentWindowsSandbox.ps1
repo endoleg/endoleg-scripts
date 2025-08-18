@@ -3,6 +3,8 @@ param(
     [parameter(Mandatory = $false)][string]$LogonCommand = 'Install_WinGet_and_Software.ps1'
 )
 
+#https://powershellisfun.com/2024/08/02/creating-a-development-windows-sandbox-using-powershell-and-winget/
+
 #Check if Windows Sandbox is already running. Exit if yes
 if (Get-Process -Name 'WindowsSandbox' -ErrorAction SilentlyContinue) {
     Write-Warning ("Windows Sandbox is already running, exiting...")
