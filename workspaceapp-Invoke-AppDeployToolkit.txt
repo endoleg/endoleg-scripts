@@ -1,0 +1,819 @@
+﻿<#
+
+.SYNOPSIS
+PSAppDeployToolkit - This script performs the installation or uninstallation of an application(s).
+
+.DESCRIPTION
+- The script is provided as a template to perform an install, uninstall, or repair of an application(s).
+- The script either performs an "Install", "Uninstall", or "Repair" deployment type.
+- The install deployment type is broken down into 3 main sections/phases: Pre-Install, Install, and Post-Install.
+
+The script imports the PSAppDeployToolkit module which contains the logic and functions required to install or uninstall an application.
+
+.PARAMETER DeploymentType
+The type of deployment to perform.
+
+.PARAMETER DeployMode
+Specifies whether the installation should be run in Interactive (shows dialogs), Silent (no dialogs), NonInteractive (dialogs without prompts) mode, or Auto (shows dialogs if a user is logged on, device is not in the OOBE, and there's no running apps to close).
+
+Silent mode is automatically set if it is detected that the process is not user interactive, no users are logged on, the device is in Autopilot mode, or there's specified processes to close that are currently running.
+
+.PARAMETER SuppressRebootPassThru
+Suppresses the 3010 return code (requires restart) from being passed back to the parent process (e.g. SCCM) if detected from an installation. If 3010 is passed back to SCCM, a reboot prompt will be triggered.
+
+.PARAMETER TerminalServerMode
+Changes to "user install mode" and back to "user execute mode" for installing/uninstalling applications for Remote Desktop Session Hosts/Citrix servers.
+
+.PARAMETER DisableLogging
+Disables logging to file for the script.
+
+.EXAMPLE
+powershell.exe -File Invoke-AppDeployToolkit.ps1
+
+.EXAMPLE
+powershell.exe -File Invoke-AppDeployToolkit.ps1 -DeployMode Silent
+
+.EXAMPLE
+powershell.exe -File Invoke-AppDeployToolkit.ps1 -DeploymentType Uninstall
+
+.EXAMPLE
+Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+
+.INPUTS
+None. You cannot pipe objects to this script.
+
+.OUTPUTS
+None. This script does not generate any output.
+
+.NOTES
+Toolkit Exit Code Ranges:
+- 60000 - 68999: Reserved for built-in exit codes in Invoke-AppDeployToolkit.ps1, and Invoke-AppDeployToolkit.exe
+- 69000 - 69999: Recommended for user customized exit codes in Invoke-AppDeployToolkit.ps1
+- 70000 - 79999: Recommended for user customized exit codes in PSAppDeployToolkit.Extensions module.
+
+.LINK
+https://psappdeploytoolkit.com
+
+#>
+
+[CmdletBinding()]
+param
+(
+    # Default is 'Install'.
+    [Parameter(Mandatory = $false)]
+    [ValidateSet('Install', 'Uninstall', 'Repair')]
+    [System.String]$DeploymentType,
+
+    # Default is 'Auto'. Don't hard-code this unless required.
+    [Parameter(Mandatory = $false)]
+    [ValidateSet('Auto', 'Interactive', 'NonInteractive', 'Silent')]
+    [System.String]$DeployMode,
+
+    [Parameter(Mandatory = $false)]
+    [System.Management.Automation.SwitchParameter]$SuppressRebootPassThru,
+
+    [Parameter(Mandatory = $false)]
+    [System.Management.Automation.SwitchParameter]$TerminalServerMode,
+
+    [Parameter(Mandatory = $false)]
+    [System.Management.Automation.SwitchParameter]$DisableLogging
+)
+
+
+##================================================
+## MARK: Variables
+##================================================
+
+# Zero-Config MSI support is provided when "AppName" is null or empty.
+# By setting the "AppName" property, Zero-Config MSI will be disabled.
+$adtSession = @{
+    # App variables.
+    AppVendor = 'Citrix'
+    AppName = 'Workspace App Kombipaket Webex-VDI bundled'
+    AppVersion = '24.2'
+    AppArch = ''
+    AppLang = 'EN'
+    AppRevision = '01'
+    AppSuccessExitCodes = @(0)
+    AppRebootExitCodes = @(1641, 3010)
+    AppProcessesToClose = @()  # Example: @('excel', @{ Name = 'winword'; Description = 'Microsoft Word' })
+    AppScriptVersion = '1.0.0'
+    AppScriptDate = ''
+    AppScriptAuthor = 'me'
+    RequireAdmin = $false
+
+    # Install Titles (Only set here to override defaults set by the toolkit).
+    InstallName = ''
+    InstallTitle = ''
+
+    # Script variables.
+    DeployAppScriptFriendlyName = $MyInvocation.MyCommand.Name
+    DeployAppScriptParameters = $PSBoundParameters
+    DeployAppScriptVersion = '4.1.3'
+}
+
+function Install-ADTDeployment
+{
+    [CmdletBinding()]
+    param
+    (
+    )
+
+    ##================================================
+    ## MARK: Pre-Install
+    ##================================================
+    $adtSession.InstallPhase = "Pre-$($adtSession.DeploymentType)"
+
+    ## Show Welcome Message, close processes if specified, allow up to 3 deferrals, verify there is enough disk space to complete the install, and persist the prompt.
+    $saiwParams = @{
+        AllowDefer = $false
+        DeferTimes = 3
+        CheckDiskSpace = $true
+        PersistPrompt = $true
+    }
+    
+    if ($adtSession.AppProcessesToClose.Count -gt 0)
+    {
+        $saiwParams.Add('CloseProcesses', $adtSession.AppProcessesToClose)
+    }
+    
+    #Check User is Admin
+    $currentPrincipal = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
+    $isAdministrator = $currentPrincipal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+    if(-not $isAdministrator){
+      Show-ADTInstallationPrompt -Title "Fehlende Rechte" -Subtitle "$($adtSession.AppName)" -Message "Bitte die Installation als Administrator starten" -ButtonRightText "OK"  -NoExitOnTimeout -Timeout 20 -Icon Exclamation
+      Write-ADTLogEntry  -Message "-------------- Installation abgebrochen, da der Benutzer kein Admin ist" -Severity 2 -Source 'Workspace App Checks'
+      Close-ADTSession -ExitCode 60001
+    }
+
+		if ((get-process "ProvisionGUI" -ea SilentlyContinue) -eq $Null) {
+	        Write-ADTLogEntry  -Message "-------------- Not in Provisioning Close Apps Coutdown ----------------      "
+            #Show-InstallationWelcome -CloseApps 'wfica32=Citrix Workspace App' -BlockExecution -CheckDiskSpace -PersistPrompt -MinimizeWindows $false
+            Show-ADTInstallationWelcome @saiwParams -CloseProcesses 'wfica32=Citrix Workspace App' -ForceCountdown 10 #-silent
+            #Errorcode 60012 = defered!
+		} else {
+    		Write-ADTLogEntry -Message "-------------- In Provisioning Close Apps Silent ----------------      "
+	    	#Show-InstallationWelcome -CloseApps 'wfica32,concentr' -Silent
+            Show-ADTInstallationWelcome @saiwParams -CloseProcesses wfica32,concentr -ForceCountdown 5 -silent
+		}
+
+
+    <# Show-ADTInstallationWelcome -CloseProcesses wfica32 #@saiwParams #>  
+
+    # Prüfen der requirement hier definiert https://docs.citrix.com/de-de/citrix-workspace-app-for-windows/2402-ltsr/system-requirements
+    # VCRuntime (Minumale Version für CU3 ist 14.42.34433.0)
+   
+    $VCRuntimeMinVersion = [version]"14.42.34433.00" #Direkt aus Update 4 Installation
+    $MinDotNetFxRelease  = [uint64] 528040           # .NET Framework 4.8 (Release DWORD)
+    $MinWebView2         = [version]'131.0.0.0'      # Edge WebView2 minimal version
+    $MinDotnetDesktopX86 = [version]'8.0.11'           # Installiert mit WorkspaceApp 2403 U4
+
+    $OKMark   = "[{0}]" -f ([char]0x2714)             # [✔]
+    $FailMark = "[X]"
+
+
+#    Show-ADTInstallationProgress 
+
+    #
+    # Prüfen auf Visual C++ (wird automatisch installiert)
+    #
+
+    Show-ADTInstallationProgress "Versions-Prüfung  Citrix Workspace App (VORHER). Einen Moment Geduld, bitte"
+		$appInstalled = Get-ADTApplication -Name 'Citrix Workspace Inside'
+		#$appInstalled = Get-ADTApplication -Name 'Citrix Workspace 2'
+        $appInstalledCount = $(($appInstalled | Measure-Object).Count)
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- Detected $appInstalledCount instances of Citrix Workspace ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- UninstallString $($appInstalled.UninstallString) ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- DisplayVersion $($appInstalled.DisplayVersion) ---------------------------     " -Severity 1
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+
+    Show-ADTInstallationProgress "Versions-Prüfung  Webex VDI plug-in. Einen Moment Geduld, bitte"
+		$appInstalled = Get-ADTApplication -Name 'Webex VDI plug-in'
+        $appInstalledCount = $(($appInstalled | Measure-Object).Count)
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- Detected $appInstalledCount instances of Webex VDI plug-in ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- UninstallString $($appInstalled.UninstallString) ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- DisplayVersion $($appInstalled.DisplayVersion) ---------------------------     " -Severity 1
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+
+
+        #region pendingreboot
+    
+    Show-ADTInstallationProgress -StatusMessage "Pending reboot prüfen" -StatusMessageDetail "Prüfung der Voraussetzungen"
+    # Check Reboot Pending
+    <#
+        IsSystemRebootPending        : False
+        IsCBServicingRebootPending   : False
+        IsWindowsUpdateRebootPending : False
+        IsSCCMClientRebootPending    : 
+        IsIntuneClientRebootPending  : False
+        IsAppVRebootPending          : False
+        IsFileRenameRebootPending    : False
+        PendingFileRenameOperations  : {}
+        ErrorMsg                     : {}
+    #>
+
+<#
+        if (Get-Process -Name "ldprovision" -ErrorAction SilentlyContinue) {
+    		Write-ADTLogEntry  -Message "-------------- ldprovision ist da - kein check von pending reboot"
+            write-verbose "ldprovision ist da - kein check von pending reboot" -verbose
+        }else{
+    		Write-ADTLogEntry -Message "-------------- ldprovision ist NICHT da - normale Installation - checke pending reboot"
+            write-verbose "ldprovision ist NICHT da - normale Installation - checke pending reboot" -verbose
+                    ## Check For Pending Reboot
+                        $Reboot = Get-PendingReboot
+                        if($Reboot.IsSystemRebootPending -eq $True -or $Reboot.IsCBServicingRebootPending -eq $True -or $Reboot.IsWindowsUpdateRebootPending -eq $True -or $Reboot.IsSCCMClientRebootPending -eq $True -or $Reboot.IsFileRenameRebootPending -eq $True){
+                            Write-ADTLogEntry -Message "--------- System Neustart notwendig bevor es weiter geht ... - zeige Meldung und dann timeout 30 Sekunden ------------------------     "	
+                            Show-InstallationProgress "Ihr Computer meldet, dass ein Neustart ZWINGEND erforderlich ist, bevor die $installTitle Installation fortgesetzt werden kann. Bitte starten sie Ihr System JETZT neu, bzw. schalten Sie den Rechner einmal aus und wieder an und starten Sie die Installation erneut!"
+                            Show-InstallationPrompt -Message "Ihr Computer meldet, dass ein Neustart ZWINGEND erforderlich ist, bevor die $installTitle Installation fortgesetzt werden kann. Bitte starten sie Ihr System JETZT neu, bzw. schalten Sie den Rechner einmal aus und wieder an und starten Sie die Installation erneut!" -ButtonRightText 'OK'
+                            start-sleep 15
+                            Show-InstallationProgress "Ihr Computer meldet, dass ein Neustart ZWINGEND erforderlich ist, bevor die $installTitle Installation fortgesetzt werden kann. Bitte starten sie Ihr System JETZT neu, bzw. schalten Sie den Rechner einmal aus und wieder an und starten Sie die Installation erneut!"
+                            start-sleep 15
+                            Write-ADTLogEntry -Message "--------- Exit-Script ... 69004"
+		                    Exit-Script -ExitCode 69004 #This code is to indicate a reboot is pending on this machine, and the installation cannot proceed.
+                       }else{
+                            Write-ADTLogEntry -Message "--------- KEIN System Neustart notwendig - weiter geht es..."
+                       }
+        }
+#>
+
+    
+
+    # Erweiterung für Penbding Reboot in einem Key bei uns
+    $pendingOperations = Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager" -Name PendingFileRenameOperations -ErrorAction SilentlyContinue
+    if (($null -ne $pendingOperations) -and ($pendingOperations.PendingFileRenameOperations -match "LvfInstallService")) {
+        # Rauslöschen
+        Remove-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager" -Name "PendingFileRenameOperations"
+        Write-ADTLogEntry -Message ("-------------- LvfInstallService Value gefunden. Pending Reboot key wird gelösct. Kein Reboot dafür" ) -Severity 1 -Source 'Worspace App Checks'
+        #$NeedBGEReboot = $true
+    } 
+
+    if( (Get-ADTPendingReboot).IsSystemRebootPending -or (Get-ADTPendingReboot).IsWindowsUpdateRebootPending -or (Get-ADTPendingReboot).IsAppVRebootPending) {
+         Write-ADTLogEntry -Message ("-------------- System Reboot ist Pending" + (Get-ADTPendingReboot | Out-String) ) -Severity 1 -Source 'Worspace App Checks'
+         $GlobalOutputString += "$FailMark Reboot Pending" + "`n`r"
+         $HasErrors = $true
+         $PendingReboot = $true
+    } else {
+        $GlobalOutputString += "$OKMark kein ausstehender Reboot" + "`n`r"
+    }
+
+    Start-Sleep -Seconds 2
+
+    #endregion pendingreboot
+
+
+     Show-ADTInstallationProgress  (".VC Runtime x86/x64 prüfen (≥ {0})" -f $VCRuntimeMinVersion) -StatusMessageDetail "Prüfung der Voraussetzungen"
+    $VCx64Version = $null
+    $VCx86Version = $null
+    $HasErrors = $false
+    $PendingReboot = $false
+    #$GlobalOutputString = ""
+    $GlobalOutputString = "" + "`r`n"   
+
+    try{
+        $VCx64Version = [version]((Get-ItemProperty  -Path 'HKLM:\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64' -Name 'Version' -ErrorAction Ignore).Version -replace 'v','') 
+        $VCx86Version = [version]((Get-ItemProperty  -Path 'HKLM:\SOFTWARE\WOW6432Node\Microsoft\VisualStudio\14.0\VC\Runtimes\X86' -Name 'Version' -ErrorAction Ignore).Version -replace 'v','') 
+    } catch {}
+
+    if(($null -eq $VCx64Version) -or ($VCx64Version -lt $VCRuntimeMinVersion)){
+        Write-ADTLogEntry -Message ("-------------- Erkenne keine oder zu kleine VC++ x64 Version: $VCx64Version -------------- ") -Severity 3 -Source 'Workspace App Checks'
+        $GlobalOutputString += "$FailMark VC++ x64 nicht installiert oder zu klein (benötigt: $VCRuntimeMinVersion)`r`n"
+        $HasErrors = $true
+    } else {
+        Write-ADTLogEntry -Message ("-------------- Die VC++ x64 Version {0} ist OK -------------- " -f $VCx64Version) -Severity 1 -Source 'Workspace App Checks'
+        $GlobalOutputString += "$OKMark VC++ x64 ist OK (Version: $VCx64Version)" + "`r`n"    
+    }
+
+    if(($null -eq $VCx64Version ) -or ($VCx86Version -lt $VCRuntimeMinVersion)){
+        Write-ADTLogEntry -Message ("-------------- Erkenne keine oder zu kleine VC++ x86 Version: $VCx86Version -------------- ") -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$FailMark VC++ x86 nicht installiert oder zu klein (benötigt: $VCRuntimeMinVersion)" + "`n`r"
+         $HasErrors = $true
+    } else {
+        Write-ADTLogEntry -Message ("-------------- Die VC++ x86 Version: $ $VCx86Version ist ok -------------- ") -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$OKMark VC++ x86 ist OK (Version: $VCx86Version)" + "`n`r"
+    }
+    
+    Start-Sleep -Seconds 2
+
+    #
+    # Prüfen auf dotnet 4.8
+    #
+
+    Show-ADTInstallationProgress -StatusMessage '.NET Framework prüfen (≥ 4.8)' -StatusMessageDetail "Prüfung der Voraussetzungen"
+
+        $DotNetRelease = $null
+    try{
+        $DotNetRelease = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full' -Name Release -ErrorAction Stop).Release 
+    } catch {}
+
+    if(($DotNetRelease -eq $null) -or ($DotNetRelease  -lt $MinDotNetFxRelease)){
+        Write-ADTLogEntry -Message ("-------------- dotnet Framework 4.8 nicht erkannt oder zu kleine Version (DWORD Version) $MinDotNetFxRelease -------------- ") -Severity 1 -Source 'Worspace App Checks'
+        ##Write-Verbose -Message ("Erkenne dotnet Framework 4.8 erkannt oder zu kleine Version (DWORD Version) $DotNetRelease ") -Verbose
+        $GlobalOutputString += "$FailMark .NET Framework 4.8 ist nicht installiert oder Version ist zu klein" + "`n`r"
+         $HasErrors = $true
+    } else {
+        Write-ADTLogEntry -Message ("-------------- Erkenne dotnet Framework 4.8 : $MinDotNetFxRelease die Version ist ok -------------- " ) -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$OKMark .NET Framework ist mindestens auf 4.8" + "`n`r"
+    }
+
+    Start-Sleep -Seconds 2
+
+    #
+    # Prüfen auf .NET Desktop Runtime x86 (bis 8.x) – Mindestversion
+    #
+    Show-ADTInstallationProgress -StatusMessage (".NET Desktop Runtime x86 prüfen (≥ {0})" -f $MinDotNetDesktopX86) -StatusMessageDetail "Prüfung der Voraussetzungen"
+
+     $LatestNetCoreX86  = $null
+    try{
+        #Finde dte größte installierte Version von Dot Net RT
+        $LatestNetCoreX86 = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\WOW6432Node\dotnet\Setup\InstalledVersions\x86\sharedfx\Microsoft.NETCore.App').PSObject.Properties |
+            Where-Object { $_.MemberType -eq 'NoteProperty' -and $_.Value -eq 1 } |
+            Select-Object -ExpandProperty Name |
+            ForEach-Object { [version]$_ } |
+            Sort-Object -Descending |
+            Select-Object -First 1
+    } catch {}
+
+    if(($null -eq $LatestNetCoreX86) -or ($LatestNetCoreX86 -lt $MinDotnetDesktopX86)){
+        Write-ADTLogEntry -Message ("-------------- .NET Desktop Runtime x86 nicht installiert oder zu kleine Version: $LatestNetCoreX86 -------------- ") -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$FailMark .NET Desktop Runtime x86 ist nicht installiert oder Version ist zu klein" + "`n`r"
+        $HasErrors = $true
+    } else {
+        Write-ADTLogEntry -Message ("-------------- Erkanntes dotnet Core Desktop Framework ist ok: $LatestNetCoreX86 -------------- ") -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$OKMark .NET Desktop Runtime x86 (Version: $LatestNetCoreX86)   " + "`n`r"
+    }
+
+    Start-Sleep -Seconds 2
+
+    #
+    # Prüfen auf Microsoft Edge WebView2
+    #
+    Show-ADTInstallationProgress -StatusMessage 'Microsoft Edge WebView2 prüfen (≥ 131)'  -StatusMessageDetail "Prüfung der Voraussetzungen"
+
+    $WV2 = $null
+    try{
+        $root = Join-Path ${env:ProgramFiles(x86)} 'Microsoft\EdgeWebView\Application'
+        if (Test-Path $root) {
+            $dirs = Get-ChildItem -Path $root -Directory -ErrorAction SilentlyContinue | Where-Object { $_.Name -match '^\d+\.\d+\.\d+\.\d+$' } | Select-Object -ExpandProperty Name
+            if ($dirs) {
+                $WV2 = ($dirs | ForEach-Object {[version]$_} | Sort-Object -Descending)[0]
+            }
+        }
+    } catch {}  
+    
+    if( ($null -eq $WV2) -or ($WV2 -lt $MinWebView2 )) {
+         Write-ADTLogEntry -Message ("-------------- Die MS Edge WebView2 Version ist $WV2 und kleiner als die Min Version $MinWebView2  -------------- ") -Severity 1 -Source 'Worspace App Checks'
+         $GlobalOutputString += "$FailMark MS Edge WebView2 ist nicht installiert oder die Version ist veraltet" + "`n`r"
+    } else {
+         Write-ADTLogEntry -Message ("-------------- Die MS Edge WebView2 Version ist $WV2 - also ok -------------- ") -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$OKMark Microsoft Edge WebView2 ist ok" + "`n`r"
+    }
+
+    Start-Sleep -Seconds 2
+
+    #
+    # Internet Konnektivität prüfen
+    #
+
+    Show-ADTInstallationProgress 'Internet-Zugang prüfen' -StatusMessageDetail "Prüfung der Voraussetzungen"
+    
+    if ((Test-NetConnection dl.delivery.mp.microsoft.com -Port 443).TcpTestSucceeded -ne $true) {
+        Write-ADTLogEntry -Message  '-------------- dl.delivery.mp.microsoft.com ist auf port 443 nicht erreichbar -------------- ' -Severity 1 -Source 'Worspace App Checks'
+        $HasErrors = $true
+        $GlobalOutputString += "$FailMark dl.delivery.mp.microsoft.com ist auf port 443 nicht erreichbar"  + "`n`r"
+    } else {
+        Write-ADTLogEntry -Message  '-------------- dl.delivery.mp.microsoft.com ist auf port 443  erreichbar -------------- ' -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$OKMark dl.delivery.mp.microsoft.com ist auf port 443 erreichbar"   + "`n`r"
+    }
+
+    if ((Test-NetConnection msedge.api.cdp.microsoft.com -Port 443).TcpTestSucceeded -ne $true) {
+        Write-ADTLogEntry -Message  '-------------- msedge.api.cdp.microsoft.com ist auf port 443 nicht erreichbar -------------- ' -Severity 1 -Source 'Worspace App Checks'
+        $HasErrors = $true
+        $GlobalOutputString += "$FailMark msedge.api.cdp.microsoft.com ist auf port 443 nicht erreichbar"  + "`n`r"
+    } else {
+        Write-ADTLogEntry -Message  '-------------- msedge.api.cdp.microsoft.com ist auf port 443  erreichbar -------------- ' -Severity 1 -Source 'Worspace App Checks'
+        $GlobalOutputString += "$OKMark msedge.api.cdp.microsoft.com ist auf port 443 erreichbar"   + "`n`r"
+    }
+     
+    #Start-Sleep -Seconds 1
+    
+    #$choice = Show-ADTInstallationPrompt -Title "Ergebnis Prüfung der Voraussetzungen" -Subtitle "Versionen" -Message $GlobalOutputString -ButtonRightText "Weiter" -ButtonLeftText "Abbrechen" -Icon Information
+    <#
+    if ($choice -eq "Abbrechen") {
+        Write-ADTLogEntry -Message "Installation vom Benutzer abgebrochen." -Severity 2 -Source 'Workspace App Checks'
+        Exit-Script -ExitCode 1602   # 1602 = Abgebrochen
+    }
+    #>
+
+        Write-ADTLogEntry -Message "------------------------------------------------------------------------------    " -Severity 2 -Source 'Workspace App Checks'
+
+    $icon = "Information"
+    if( $PendingReboot) {
+
+        #$GlobalOutputString += "Ein ausstehender Neustart wurde erkannt. Die Installation wird in 30 Sekunden abgebrochen!`r`n"
+        $GlobalOutputString += "Ein ausstehender Neustart wurde erkannt. Die Installation wird in 30 Sekunden abgebrochen! Bitte starten Sie Ihren Rechner selbstständig neu und führen Sie die Installation erneut aus! Die Installations-Dateien sind bereits herunter geladen. Die Installation beginnt also schneller!"
+        $icon = "Exclamation"
+    }
+        Write-ADTLogEntry -Message "------------------------------------------------------------------------------    " -Severity 2 -Source 'Workspace App Checks'
+    
+    Close-ADTInstallationProgress
+
+        Write-ADTLogEntry -Message "------------------------------------------------------------------------------    " -Severity 2 -Source 'Workspace App Checks'
+
+    Show-ADTInstallationPrompt -Title "Ergebnis Prüfung der Voraussetzungen" -Subtitle "Versionen" -Message $GlobalOutputString -ButtonRightText "OK"  -NoExitOnTimeout -Timeout 30 -Icon $icon 
+    if ($PendingReboot) {
+        Write-ADTLogEntry -Message "------------------------------------------------------------------------------    " -Severity 2 -Source 'Workspace App Checks'
+        Write-ADTLogEntry -Message "-------------- Installation wegen Pending Reboot abgebrochen -------------------- " -Severity 2 -Source 'Workspace App Checks'
+        Write-ADTLogEntry -Message "------------------------------------------------------------------------------    " -Severity 2 -Source 'Workspace App Checks'
+        Close-ADTSession -ExitCode 60001
+    }
+
+    # Hier noch manuelle Abfrage des Anwenders. Ggf. löschen
+
+
+    Show-ADTInstallationProgress
+
+    ## <Perform Pre-Installation tasks here>
+    ##================================================
+    ## MARK: Install
+    ##================================================
+    $adtSession.InstallPhase = $adtSession.DeploymentType
+
+    ## Handle Zero-Config MSI installations.
+    if ($adtSession.UseDefaultMsi)
+    {
+        $ExecuteDefaultMSISplat = @{ Action = $adtSession.DeploymentType; FilePath = $adtSession.DefaultMsiFile }
+        if ($adtSession.DefaultMstFile)
+        {
+            $ExecuteDefaultMSISplat.Add('Transforms', $adtSession.DefaultMstFile)
+        }
+        Start-ADTMsiProcess @ExecuteDefaultMSISplat
+        if ($adtSession.DefaultMspFiles)
+        {
+            $adtSession.DefaultMspFiles | Start-ADTMsiProcess -Action Patch
+        }
+    }
+
+    Show-ADTInstallationProgress 'Beende Citrix Workspace App- und Browser-Prozesse. Bitte haben sie einen Moment Geduld…' -StatusMessageDetail "Vorbereitungen Prozesse"
+	#Show-InstallationProgress "Beende Citrix Prozesse. Bitte haben sie einen Moment Geduld…"	
+        Function Stop-CitrixProcesses {
+            [CmdletBinding()]
+            Param ()
+            $processes = @('wfica32', 'AuthManSvr', 'concentr', 'wfcrun32', 'mtn5250', 'redirector', 'ssonsvr', 'SelfServicePlugin', 'CtxWebBrowser', 'Receiver', 'SelfService', 'iexplore', 'firefox.exe', 'chrome.exe', 'opera.exe', 'msedge.exe', 'ciscojabber.exe')
+            #$processes = @('wfica32', 'AuthManSvr', 'concentr', 'wfcrun32', 'mtn5250', 'redirector', 'ssonsvr', 'SelfServicePlugin', 'CtxWebBrowser', 'Receiver', 'SelfService')
+            foreach ($process in $processes) {
+                Get-Process -Name $process -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
+                Write-ADTLogEntry -Message "-------------- Versuch, Prozess zu beenden: $process ---------------- " -Severity 1 -Verbose
+            }
+        }
+		write-verbose -message "Beende Citrix Workspace App- und Browser-Prozesse" -Verbose
+        Stop-CitrixProcesses
+
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+    	Show-ADTInstallationProgress "Citrix Deinstallation Workspace App - Bitte haben sie einen Moment Geduld…"
+        Write-ADTLogEntry -Message "----------- CitrixWorkspaceFullInstaller.exe /uninstall /Silent     ---------------- " -Severity 1 
+            Start-ADTProcess -FilePath 'CitrixWorkspaceFullInstaller.exe' -ArgumentList '/uninstall /Silent'
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+  
+  
+    ## <Perform Installation tasks here>
+
+    Show-ADTInstallationProgress  "Installiere Citrix Workspace App. Bitte haben sie einen Moment Geduld…"	
+
+    $CitrixWorkspaceAppParameter = "/noreboot /AutoUpdateCheck=disabled /EnableCEIP=False /includeSSON /Silent"
+    Start-ADTProcess -FilePath 'CitrixWorkspaceFullInstaller.exe' -ArgumentList $CitrixWorkspaceAppParameter
+
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "-------------- CitrixWorkspaceFullInstaller.exe /noreboot /AutoUpdateCheck=disabled /EnableCEIP=False /includeSSON /Silent  ----------------  " -Severity 1 
+   		Write-ADTLogEntry -message "------------------------------" -Severity 1 -Verbose  
+		Write-ADTLogEntry -message "-------------- Logs unter C:\Program Files (x86)\Citrix\Logs --------------------    "
+   		Write-ADTLogEntry -message "------------------------------" -Severity 1 -Verbose  
+   		Write-ADTLogEntry -message "-------------- Versuche CitrixWorkspaceApp Installation ----------------         " -Severity 1 -Verbose  
+		Write-ADTLogEntry -message "-------------- https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/system-requirements.html ----------------          " -Severity 1 -Verbose  
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+		Write-ADTLogEntry -message "-------------- Error Code 68196 oder 1073807364 bedeutet wohl, dass .net 4.8 nicht installiert werden kann----------------" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- Mehr Exit codes" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 0 bedeutet: Citrix Workspace app was installed successfully (exit code: 0)" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 3 bedeutet: Citrix Workspace app was installed successfully (exit code: 3) - Some Citrix products exit with 3 instead of 0" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 1603 bedeutet: A fatal error occurred (exit code: 1603). Some applications throw this error when the software is already (correctly) installed! Please check the log files!" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 1605 bedeutet: Citrix Workspace app is not currently installed on this machine (exit code: 1605)" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 1619 bedeutet: The installation files cannot be found. The PS1 script should be in the root directory and all source files in the subdirectory 'Files' (exit code: 1619)" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 3010 bedeutet: A reboot is required (exit code: 3010)!" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 40008 bedeutet: This version of Citrix Workspace app has already been installed. Nothing to do!" -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 40017 - Installation canceled -------------- " -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- 40034 - Installation error: A Microsoft Installer installation failed. Try again, and if the issue persists, contact your system administrator."  -Severity 1 -Verbose  
+        Write-ADTLogEntry -message "-------------- https://support.citrix.com/external/article/695019/citrix-workspace-app-installer-uninstal.html" -Severity 1 -Verbose  
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+    
+    Start-Sleep 5
+
+    Show-ADTInstallationProgress  "Beende Citrix und Browser-Prozesse. Bitte haben sie einen Moment Geduld…"	
+		write-verbose -message "Beende Citrix Workspace App Prozesse" -Verbose
+        #function wird weiter oben definiert
+        Stop-CitrixProcesses
+
+
+    Show-ADTInstallationProgress "Installiere Cisco Webex Teams Bundled VDI Plugin WebexBundle.msi. Bitte haben sie einen Moment Geduld…"	
+		write-verbose -message "Installiere Cisco Webex Teams Bundled VDI Plugin (WebexBundle.msi)" -Verbose
+        # Quelle der WebexBundle.msi 64-bit-Version : https://help.webex.com/en-us/article/ntp1us7/Webex-App-%7C-VDI-release-notes#_ff8dd002-55da-4c64-a481-32a465c09fc1
+
+		Try { 
+            Start-ADTMsiProcess -Action Install -FilePath "$($adtSession.DirSupportFiles)\WebexVDIPlugin.msi" -ArgumentList 'ALLUSERS=TRUE REBOOT=ReallySuppress /QB!'
+            #Execute-MSI -Action 'Install' -Path "$dirSupportFiles\WebexVDIPlugin.msi" -Parameters 'ALLUSERS=TRUE REBOOT=ReallySuppress /QB!' -ContinueOnError $false 
+        } Catch { 
+            $mainExitCode = $mainExitCode + 1 } 
+
+        Start-Sleep 5
+		
+        write-verbose -message "------ AutoUpgradeVDIPluginEnabled = 1 = Automatische Upgrades des VDI Plugins in Registry aktivieren" -Verbose
+            Start-Sleep 5
+            if((Test-Path -LiteralPath "HKLM:\SOFTWARE\Cisco Spark Native") -ne $true) { New-Item "HKLM:\SOFTWARE\Cisco Spark Native" -force -ea SilentlyContinue };
+            New-ItemProperty -LiteralPath 'HKLM:\SOFTWARE\Cisco Spark Native' -Name 'AutoUpgradeVDIPluginEnabled' -Value 1 -PropertyType DWord -Force -ea SilentlyContinue;
+		    Write-ADTLogEntry -message "-------------- AutoUpgradeVDIPluginEnabled = 1 = Automatische Upgrades des VDI Plugins in Registry aktivieren - done----------------" -Severity 1 -Verbose  
+
+        $Path= test-path "HKLM:\SOFTWARE\WOW6432Node\Citrix\ICA Client\Engine\Configuration\Advanced\Modules\VDCSCOTM"
+        if(!$Path){
+            write-verbose -message "--------------  VDCSCOTM müsste evtl. in die Registry eingetragen werden (da nicht vorhanden) " -Verbose
+            write-verbose -message "--------------  https://www.peppercrew.nl/2019/06/you-might-be-having-an-issue-with-a-citrix-virtual-driver/" -Verbose
+                # New-Item "HKLM:\SOFTWARE\WOW6432Node\Citrix\ICA Client\Engine\Configuration\Advanced\Modules\VDCSCOTM" -force -ea SilentlyContinue
+                # New-ItemProperty -LiteralPath 'HKLM:\SOFTWARE\WOW6432Node\Citrix\ICA Client\Engine\Configuration\Advanced\Modules\VDCSCOTM' -Name 'DriverName' -Value 'CiscoTeamsCitrixPlugin.dll' -PropertyType String -Force -ea SilentlyContinue;
+                # New-ItemProperty -LiteralPath 'HKLM:\SOFTWARE\WOW6432Node\Citrix\ICA Client\Engine\Configuration\Advanced\Modules\VDCSCOTM' -Name 'DriverNameWin16' -Value 'CiscoTeamsCitrixPlugin.dll' -PropertyType String -Force -ea SilentlyContinue;
+                # New-ItemProperty -LiteralPath 'HKLM:\SOFTWARE\WOW6432Node\Citrix\ICA Client\Engine\Configuration\Advanced\Modules\VDCSCOTM' -Name 'DriverNameWin32' -Value 'CiscoTeamsCitrixPlugin.dll' -PropertyType String -Force -ea SilentlyContinue;
+            Write-ADTLogEntry  -message "-------------- VDCSCOTM müsste evtl. in die Registry eingetragen werden (da nicht vorhanden) - https://www.peppercrew.nl/2019/06/you-might-be-having-an-issue-with-a-citrix-virtual-driver/ - done ----------------" -Severity 1 -Verbose
+            #Write-ADTLogEntry  -message "-------------- VDCSCOTM in Registry eingetragen (da nicht vorhanden) - https://www.peppercrew.nl/2019/06/you-might-be-having-an-issue-with-a-citrix-virtual-driver/ - done ----------------" -Severity 1 -Verbose
+        }else
+        {
+            write-verbose -message "--------------  VDCSCOTM ist schon in Registry drin - nichts zu tun" -Verbose
+            Write-ADTLogEntry  -message "--------------  VDCSCOTM ist schon in Registry drin - nichts zu tun" -Severity 1 -Verbose
+        }   
+
+
+    Show-ADTInstallationProgress  "Beende Citrix und Browser-Prozesse. Bitte haben sie einen Moment Geduld…"	
+		write-verbose -message "Beende Citrix Workspace App Prozesse" -Verbose
+        #function wird weiter oben definiert
+        Stop-CitrixProcesses
+
+
+    Show-ADTInstallationProgress "Versions-Prüfung  Citrix Workspace App. Einen Moment Geduld, bitte"
+		$appInstalled = Get-ADTApplication -Name 'Citrix Workspace Inside'
+		#$appInstalled = Get-ADTApplication -Name 'Citrix Workspace 2'
+        $appInstalledCount = $(($appInstalled | Measure-Object).Count)
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- Detected $appInstalledCount instances of Citrix Workspace ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- UninstallString $($appInstalled.UninstallString) ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- DisplayVersion $($appInstalled.DisplayVersion) ---------------------------     " -Severity 1
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+
+<#
+    Show-ADTInstallationProgress "Versions-Prüfung  Webex VDI Client. Einen Moment Geduld, bitte"
+		$appInstalled = Get-ADTApplication -Name 'Webex VDI Client'
+        $appInstalledCount = $(($appInstalled | Measure-Object).Count)
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- Detected $appInstalledCount instances of Webex VDI Client ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- UninstallString $($appInstalled.UninstallString) ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- DisplayVersion $($appInstalled.DisplayVersion) ---------------------------     " -Severity 1
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+#>
+
+    Show-ADTInstallationProgress "Versions-Prüfung  Webex VDI plug-in. Einen Moment Geduld, bitte"
+		$appInstalled = Get-ADTApplication -Name 'Webex VDI plug-in'
+        $appInstalledCount = $(($appInstalled | Measure-Object).Count)
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- Detected $appInstalledCount instances of Webex VDI plug-in ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- UninstallString $($appInstalled.UninstallString) ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- DisplayVersion $($appInstalled.DisplayVersion) ---------------------------     " -Severity 1
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+
+    Show-ADTInstallationProgress "Versions-Prüfung Microsoft Edge Web. Einen Moment Geduld, bitte"
+		$appInstalled = Get-ADTApplication -Name 'Microsoft Edge Web'
+        $appInstalledCount = $(($appInstalled | Measure-Object).Count)
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- Detected $appInstalledCount instances of Microsoft Edge Web ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- UninstallString $($appInstalled.UninstallString) ---------------------------     " -Severity 1 
+        Write-ADTLogEntry -Message "----------- DisplayVersion $($appInstalled.DisplayVersion) ---------------------------     " -Severity 1
+        Write-ADTLogEntry -Message "--------------------------------------------------------------------------------------------------     " -Severity 1 
+
+<#
+eigene
+$exitCodes = @{
+    69004 = "Neustart erforderlich, Installation kann nicht fortgesetzt werden"
+    69005 = ".NET Framework 4.8 nicht installiert"
+    69006 = "Fehler beim Löschen von PendingFileRenameOperations"
+    69007 = "Installationsdatei nicht gefunden"
+}
+#>
+
+
+
+    ##================================================
+    ## MARK: Post-Install
+    ##================================================
+    $adtSession.InstallPhase = "Post-$($adtSession.DeploymentType)"
+
+    ## <Perform Post-Installation tasks here>
+
+    $DisplayVersion = Get-ADTApplication -Name 'Citrix Workspace (USB)'
+    $DisplayString =  "              `n`r" 
+    $DisplayString +=  "Die Installation ist abgeschlossen: $($DisplayVersion.DisplayName)`n`r" 
+    $DisplayString += "Es folgt ein Neustart`n`r" 
+    $DisplayString += "Version: $($DisplayVersion.DisplayVersion)`n`r" 
+    #$DisplayString += "UninstallString: $($DisplayVersion.UninstallString)`n`r" 
+    #$DisplayString += "Install Location: $($DisplayVersion.InstallLocation)`n`r" 
+    $DisplayString += "InstallDate: $($DisplayVersion.InstallDate)`n`r" 
+    ## Display a message at the end of the install.
+    if (!$adtSession.UseDefaultMsi)
+    {
+        #Show-ADTInstallationPrompt -Message $DisplayString -ButtonRightText 'OK' -Icon Information -NoWait
+        Show-ADTInstallationPrompt -Message $DisplayString -ButtonRightText 'OK' -Icon Information -NoExitOnTimeout -Timeout 10 
+    }
+
+    $rebootTimeout = 300  # Konfigurierbarer Timeout in Sekunden
+    if (-not (Get-Process "ProvisionGUI" -ErrorAction SilentlyContinue)) {
+        Write-ADTLogEntry -Message "-------------- Kein Provisioning erkannt, zeige Neustart-Aufforderung -------------- "
+        Show-ADTInstallationRestartPrompt -CountdownSeconds $rebootTimeout -CountdownNoHideSeconds $rebootTimeout
+    } else {
+        Write-ADTLogEntry -Message "-------------- Provisioning erkannt, kein Neustart erforderlich"
+    }
+
+}
+
+function Uninstall-ADTDeployment
+{
+    [CmdletBinding()]
+    param
+    (
+    )
+
+    ##================================================
+    ## MARK: Pre-Uninstall
+    ##================================================
+    $adtSession.InstallPhase = "Pre-$($adtSession.DeploymentType)"
+
+    ## If there are processes to close, show Welcome Message with a 60 second countdown before automatically closing.
+    if ($adtSession.AppProcessesToClose.Count -gt 0)
+    {
+        Show-ADTInstallationWelcome -CloseProcesses $adtSession.AppProcessesToClose -CloseProcessesCountdown 60
+    }
+
+    ## Show Progress Message (with the default message).
+    Show-ADTInstallationProgress
+
+    ## <Perform Pre-Uninstallation tasks here>
+    Start-ADTProcess -FilePath 'CitrixWorkspaceFullInstaller.exe' -ArgumentList '/uninstall /Silent'
+
+    ##================================================
+    ## MARK: Uninstall
+    ##================================================
+    $adtSession.InstallPhase = $adtSession.DeploymentType
+
+    ## Handle Zero-Config MSI uninstallations.
+    if ($adtSession.UseDefaultMsi)
+    {
+        $ExecuteDefaultMSISplat = @{ Action = $adtSession.DeploymentType; FilePath = $adtSession.DefaultMsiFile }
+        if ($adtSession.DefaultMstFile)
+        {
+            $ExecuteDefaultMSISplat.Add('Transforms', $adtSession.DefaultMstFile)
+        }
+        Start-ADTMsiProcess @ExecuteDefaultMSISplat
+    }
+
+    ## <Perform Uninstallation tasks here>
+
+
+    ##================================================
+    ## MARK: Post-Uninstallation
+    ##================================================
+    $adtSession.InstallPhase = "Post-$($adtSession.DeploymentType)"
+
+    ## <Perform Post-Uninstallation tasks here>
+}
+
+function Repair-ADTDeployment
+{
+    [CmdletBinding()]
+    param
+    (
+    )
+
+    ##================================================
+    ## MARK: Pre-Repair
+    ##================================================
+    $adtSession.InstallPhase = "Pre-$($adtSession.DeploymentType)"
+
+    ## If there are processes to close, show Welcome Message with a 60 second countdown before automatically closing.
+    #if ($adtSession.AppProcessesToClose.Count -gt 0)
+    #{
+    #    Show-ADTInstallationWelcome -CloseProcesses $adtSession.AppProcessesToClose -CloseProcessesCountdown 60
+    #}
+
+    #Show-ADTInstallationRestartPrompt -CountdownSeconds 120 -CountdownNoHideSeconds 120
+
+    ## Show Progress Message (with the default message).
+    Show-ADTInstallationProgress
+
+    ## <Perform Pre-Repair tasks here>
+
+
+    ##================================================
+    ## MARK: Repair
+    ##================================================
+    $adtSession.InstallPhase = $adtSession.DeploymentType
+
+    ## Handle Zero-Config MSI repairs.
+    if ($adtSession.UseDefaultMsi)
+    {
+        $ExecuteDefaultMSISplat = @{ Action = $adtSession.DeploymentType; FilePath = $adtSession.DefaultMsiFile }
+        if ($adtSession.DefaultMstFile)
+        {
+            $ExecuteDefaultMSISplat.Add('Transforms', $adtSession.DefaultMstFile)
+        }
+        Start-ADTMsiProcess @ExecuteDefaultMSISplat
+    }
+
+    ## <Perform Repair tasks here>
+
+
+    ##================================================
+    ## MARK: Post-Repair
+    ##================================================
+    $adtSession.InstallPhase = "Post-$($adtSession.DeploymentType)"
+
+    ## <Perform Post-Repair tasks here>
+}
+
+
+##================================================
+## MARK: Initialization
+##================================================
+
+# Set strict error handling across entire operation.
+$ErrorActionPreference = [System.Management.Automation.ActionPreference]::Stop
+$ProgressPreference = [System.Management.Automation.ActionPreference]::SilentlyContinue
+Set-StrictMode -Version 1
+
+# Import the module and instantiate a new session.
+try
+{
+    # Import the module locally if available, otherwise try to find it from PSModulePath.
+    if (Test-Path -LiteralPath "$PSScriptRoot\PSAppDeployToolkit\PSAppDeployToolkit.psd1" -PathType Leaf)
+    {
+        Get-ChildItem -LiteralPath "$PSScriptRoot\PSAppDeployToolkit" -Recurse -File | Unblock-File -ErrorAction Ignore
+        Import-Module -FullyQualifiedName @{ ModuleName = "$PSScriptRoot\PSAppDeployToolkit\PSAppDeployToolkit.psd1"; Guid = '8c3c366b-8606-4576-9f2d-4051144f7ca2'; ModuleVersion = '4.1.2' } -Force
+    }
+    else
+    {
+        Import-Module -FullyQualifiedName @{ ModuleName = 'PSAppDeployToolkit'; Guid = '8c3c366b-8606-4576-9f2d-4051144f7ca2'; ModuleVersion = '4.1.2' } -Force
+    }
+
+    # Open a new deployment session, replacing $adtSession with a DeploymentSession.
+    $iadtParams = Get-ADTBoundParametersAndDefaultValues -Invocation $MyInvocation
+    $adtSession = Remove-ADTHashtableNullOrEmptyValues -Hashtable $adtSession
+    $adtSession = Open-ADTSession @adtSession @iadtParams -PassThru
+}
+catch
+{
+    $Host.UI.WriteErrorLine((Out-String -InputObject $_ -Width ([System.Int32]::MaxValue)))
+    exit 60008
+}
+
+
+##================================================
+## MARK: Invocation
+##================================================
+
+# Commence the actual deployment operation.
+try
+{
+
+    # Import any found extensions before proceeding with the deployment.
+    Get-ChildItem -LiteralPath $PSScriptRoot -Directory | & {
+        process
+        {
+            if ($_.Name -match 'PSAppDeployToolkit\..+$')
+            {
+                Get-ChildItem -LiteralPath $_.FullName -Recurse -File | Unblock-File -ErrorAction Ignore
+                Import-Module -Name $_.FullName -Force
+            }
+        }
+    }
+
+    # Invoke the deployment and close out the session.
+    & "$($adtSession.DeploymentType)-ADTDeployment"
+    Close-ADTSession
+}
+catch
+{
+    # An unhandled error has been caught.
+    $mainErrorMessage = "An unhandled error within [$($MyInvocation.MyCommand.Name)] has occurred.`n$(Resolve-ADTErrorRecord -ErrorRecord $_)"
+    Write-ADTLogEntry -Message $mainErrorMessage -Severity 3
+
+    ## Error details hidden from the user by default. Show a simple dialog with full stack trace:
+    # Show-ADTDialogBox -Text $mainErrorMessage -Icon Stop -NoWait
+
+    ## Or, a themed dialog with basic error message:
+    # Show-ADTInstallationPrompt -Message "$($adtSession.DeploymentType) failed at line $($_.InvocationInfo.ScriptLineNumber), char $($_.InvocationInfo.OffsetInLine):`n$($_.InvocationInfo.Line.Trim())`n`nMessage:`n$($_.Exception.Message)" -MessageAlignment Left -ButtonRightText OK -Icon Error -NoWait
+
+    Close-ADTSession -ExitCode 60001
+}
+
